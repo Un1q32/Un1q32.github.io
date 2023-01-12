@@ -1,0 +1,8 @@
+Origin: NewOldiPhone 64-bit
+Label: NewOldiPhone 64-bit
+Suite: stable
+Version: 1.0
+Codename: newoldiphone64
+Architectures: iphoneos-arm
+Components: main
+Description: Newer packages for old idevices (64-bit)

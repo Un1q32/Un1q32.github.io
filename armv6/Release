@@ -1,8 +1,0 @@
-Origin: NewOldiPhone
-Label: NewOldiPhone
-Suite: stable
-Version: 1.0
-Codename: newoldiphone
-Architectures: iphoneos-arm
-Components: main
-Description: Newer packages for old idevices
