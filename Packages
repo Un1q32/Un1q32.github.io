@@ -548,10 +548,10 @@ Version: 8.2.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/readline-8.2.1.deb
-Size: 660398
-MD5sum: 661a38b299abba7aa961054cbde19a2d
-SHA1: 6f7b0e7cb2b97b5f6ec412c60b1666c160719233
-SHA256: 4c0d87a28cc85515f03622a5d1842f517346963eac7621d57e9e5245b5e04a16
+Size: 667178
+MD5sum: 6fe3e630b05e96d5090941a134f9ed60
+SHA1: 73abc49233c89898a459aed30ed9522553026181
+SHA256: a13eb2b9244cf7688e31fbba8a947c72d50daec7382924ffa8e625dd2523bbd3
 Section: Development
 Priority: required
 Description: command-line history management
