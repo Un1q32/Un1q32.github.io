@@ -705,15 +705,15 @@ Priority: important
 Description: Network utility to retrieve files from the Web
 
 Package: xz-utils
-Version: 5.4.0
+Version: 5.4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz-5.4.1.deb
-Size: 592090
-MD5sum: 8a9bb69647aca0453947d537a9d35085
-SHA1: e8e9cd2aa91898d8060f8f643d8e5ea5b450681d
-SHA256: aa83a3c3a3f65746056329698e489485797b9e3763292b1ce1c230a7a5bfd51d
+Size: 592088
+MD5sum: 788fe198b6ed26a59ac214c91e37a623
+SHA1: cdadae6b09541c09be4d29771391bc8631527733
+SHA256: b03da78c4f98ebeebe9cca2a57c9256d94efe35285a747548b1bca6825453466
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
