@@ -103,9 +103,9 @@ Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
 Filename: ./debs/coreutils-9.1.deb
 Size: 743360
-MD5sum: 19b5f516bb0ccb27ba585a803e436221
-SHA1: c4edc5bab5b95d7ed5fb25393b060f8ea247b9bf
-SHA256: 718ea699c8715fbe3c91e449bce7ef879b68ae4ebc3ed311287ff9738564536e
+MD5sum: 0d7a2f2bd5b552b0bb3254c1eb5b42b7
+SHA1: 62f76ff94d204c099e627b2c7da3dbc2ab5f7fd2
+SHA256: e59a3521b99bdaeb9e098887ffa77963a444f65d800ddf8c08522a0bf28d03b5
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
