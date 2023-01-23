@@ -369,10 +369,10 @@ Version: 1.9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
-Size: 217108
-MD5sum: d1912b2c50df7ffe78d1a5f0b97880bd
-SHA1: 12de844b1693a84be94f9060c3012c1decc7e01b
-SHA256: b6d65b83101e750659544f2b6242e19b05b8dcbe0bad3681e817157089d6aa4d
+Size: 294704
+MD5sum: b863d5d2237b28badd6a4f6ef68dd1c6
+SHA1: 7abd289096a2ecc53b9e155a105d3f84b110ce06
+SHA256: 7452a7679f55ec3988a9a99f4d10e96f8943ec3fc10c9f796a09d912e23e069e
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
