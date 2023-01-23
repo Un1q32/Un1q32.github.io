@@ -78,6 +78,20 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 Tag: purpose::console
 
+Package: ca-certificates
+Version: 20221209-0219
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: openssl
+Filename: ./debs/ca-certificates-20221209-0219.deb
+Size: 2173082
+MD5sum: 4dc71c4e28597f8560bca42907e4c21d
+SHA1: 5c4d581a2ae696fc61c2c3bb13d54e450e7f2deb
+SHA256: e7f82890aea17a22cc46e443dbeda58d3b8f7ef553f06b0f937a49e187776a81
+Section: Networking
+Priority: standard
+Description: Certificates used for SSL operations
+
 Package: cmatrix
 Version: 2.0
 Architecture: iphoneos-arm
@@ -134,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl
 Filename: ./debs/curl-7.87.0.deb
-Size: 782718
-MD5sum: b5772b9e47e2f4f753ed3f852be539da
-SHA1: aac61628142a8aaeee1a6f3d7567de128e6197f2
-SHA256: 70ed288e948a7b5afe322551f190133c8f08f515a568ffdc6333cff1afbf2bf7
+Size: 782856
+MD5sum: 12d2e9c353dc55860a8661e06847543a
+SHA1: 7e0e5348df113a2f855bb45db31ea20574f8cc31
+SHA256: e0ea2b75438aae2229f893b95e11d0c617c05c1651e7680795bd4b3657306cc4
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -474,11 +488,12 @@ Package: openssl
 Version: 1.1.1s
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ca-certificates
 Filename: ./debs/openssl-1.1.1s.deb
-Size: 3504456
-MD5sum: 1655556f2040df8545b1fddc0b2870ef
-SHA1: 4c003b17c5622b1105907d56ab5d994bb646d95b
-SHA256: 9c64293f7b94f42df4090cfb5a3d7ce5e6250d557326368236e91aea1259993f
+Size: 3504460
+MD5sum: 01b0890f846a4f83005bd49abf49d19b
+SHA1: e03026f76fc313641b36fa58bbe14e5275f91fa9
+SHA256: bfdf02f1c7dc76036e4491df929ba06011a1847e8efb8828fc2de3abba01866a
 Section: Security
 Priority: standard
 Description: SSL library and cryptographic tools
