@@ -369,10 +369,10 @@ Version: 1.9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
-Size: 294704
-MD5sum: b863d5d2237b28badd6a4f6ef68dd1c6
-SHA1: 7abd289096a2ecc53b9e155a105d3f84b110ce06
-SHA256: 7452a7679f55ec3988a9a99f4d10e96f8943ec3fc10c9f796a09d912e23e069e
+Size: 293444
+MD5sum: 9b9ada5e19f0ee1f4d40683c92cbe092
+SHA1: 5ac1965212b14f5d4b2dbe641a4bc4d667abcda4
+SHA256: d82ed2d180f010bc9a1aab0f1e947a49dc82b38b7778d20413a889270df2fd8b
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -727,10 +727,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.2.deb
-Size: 1320264
-MD5sum: f0a9af933105121265182c3c212ac106
-SHA1: c8e2de41261328dabec08c009a4fbef79ae8f690
-SHA256: 55981bc9a0c9c0a62241585af747eb1df8d137c0d88ab251535eb5cb91746bc3
+Size: 1240044
+MD5sum: 25f481cc87363c8c91fe937aa2aa5faa
+SHA1: 6d8e769ac8c2bb04b6f2151b36b45f3ea23e1a7e
+SHA256: d4bbe95095c021bf0a2f3a728c4a5b1c2e07f1bf63500ca35b7b6f619ebc4241
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
