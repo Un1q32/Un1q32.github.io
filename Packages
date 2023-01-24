@@ -85,10 +85,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl
 Filename: ./debs/ca-certificates-20221209-0219.deb
 Size: 2173082
-MD5sum: 4dc71c4e28597f8560bca42907e4c21d
-SHA1: 5c4d581a2ae696fc61c2c3bb13d54e450e7f2deb
-SHA256: e7f82890aea17a22cc46e443dbeda58d3b8f7ef553f06b0f937a49e187776a81
-Section: Networking
+MD5sum: aa77b2afb9d70acd270c339bc16eba9c
+SHA1: bac3306f99e44999dd1fc3732d9c8c58b7789aee
+SHA256: 4348a1e9453df61a4317ea7895f0d59d977eefa4eff5eb180257bf1ba97683cd
+Section: Security
 Priority: standard
 Description: Certificates used for SSL operations
 
