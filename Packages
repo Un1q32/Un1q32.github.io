@@ -736,6 +736,22 @@ Description: XZ-format compression utilities
 Tag: purpose::console, role::hacker
 Name: XZ Utils
 
+Package: zsh
+Version: 5.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
+Filename: ./debs/zsh-5.9.deb
+Size: 2051102
+MD5sum: a336fd294392dbd97ff5876c3bd1deea
+SHA1: e55e1155403cb3b2584b78f22de066ce67d0a463
+SHA256: 6b478a7901a6db3a514569f5a2a1ae6687990111a39066acfd5e6fc426f9997d
+Section: Terminal_Support
+Priority: optional
+Description: A very advanced and programmable command interpreter (shell) for UNIX
+Tag: purpose::console
+Name: Z Shell
+
 Package: zstd
 Version: 1.5.2
 Architecture: iphoneos-arm
