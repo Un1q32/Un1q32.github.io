@@ -285,12 +285,12 @@ Package: git
 Version: 2.39.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: curl, openssl
+Depends: curl, openssl, perl, grep
 Filename: ./debs/git-2.39.1.deb
-Size: 12878764
-MD5sum: 4e160b201664d64757e61136f1050b1a
-SHA1: f5a2736a60550e0fbce5199cfad6b2edcaf088e4
-SHA256: 8455e61d9cb63631e52a2206e56720c4cfda5b94d2bcdd773e14b39189ac10a1
+Size: 10243944
+MD5sum: e211f8e2232ef25c0a4bd49f6ef119fe
+SHA1: 9e4c7881128cd1174210100cde368fb267082cac
+SHA256: 07e68b3ea71ba23e0aacf0be16e842c669c99b1a844a10cd373e0f8a37df2ce7
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
