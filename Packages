@@ -287,10 +287,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, openssl
 Filename: ./debs/git-2.39.1.deb
-Size: 11260898
-MD5sum: b41c1e8b45e343f6bd345d14324b1c3b
-SHA1: c7c87b97ca68f8dd7b9e4fdcc035671aabf85835
-SHA256: a4810c172550c7bfe9616e33ce53f141cbe1ccd3283aabdaf8973af0b1fad2dd
+Size: 12878764
+MD5sum: 4e160b201664d64757e61136f1050b1a
+SHA1: f5a2736a60550e0fbce5199cfad6b2edcaf088e4
+SHA256: 8455e61d9cb63631e52a2206e56720c4cfda5b94d2bcdd773e14b39189ac10a1
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
