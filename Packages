@@ -711,10 +711,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 377514
-MD5sum: ab778c5fa01756b2bcc83023cc0ec27b
-SHA1: c03cc10fc910e6d0da9da3585dee3bf8db239a44
-SHA256: 2779d1f8f4c4ad19f3c32ad360f4293e54f772a3e55ddebc2c52c99516ea2b81
+Size: 267850
+MD5sum: df3e4b8f162b0a819a8958f6bdc70e0a
+SHA1: 0134c0967cae0d8895fb34b1b922c6c47272e1af
+SHA256: 9f9060417e90dbf6c8486d7d51e6be01eabe39eac921ab03157dff7a1e8d2f68
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
