@@ -550,10 +550,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: adv-cmds
 Filename: ./debs/pstree-2.40.deb
-Size: 6568
-MD5sum: c01369178dc4cfa6e386adecc2cea40e
-SHA1: ee876891851a4d627908862096b9699d1435fcac
-SHA256: ba2a3b3ee9dfb4a9344fed8cc675dee6f88fe3506deee888670bb20141001cdd
+Size: 6578
+MD5sum: 41eb56a0d61b5afc2e3b4488b1f23b08
+SHA1: b4fd6818d31315bfef5f633f2c340732b43f3741
+SHA256: ad5f9e5fff360dde66787789f6366a24212f4a1acfe7613f8cfd20e3045c9cb2
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
