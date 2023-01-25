@@ -677,14 +677,14 @@ Description: A colorized, indented directory listing tool
 Tag: purpose::console
 
 Package: unrar
-Version: 6.20
+Version: 6.2.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/unrar-6.20.deb
-Size: 177850
-MD5sum: a17ab255a1c8cde342a29364de10ab8b
-SHA1: a2bfaf0c0408ed0d2cb103359c6cb3fa0686c66a
-SHA256: f849dafb14ca1e0b3c54df63ea12d42fcdf46a20ed60995749d4e2eea1d894f8
+Filename: ./debs/unrar-6.2.5.deb
+Size: 177902
+MD5sum: 56b83e1e643f61beb064a37fa2c69a1e
+SHA1: 0d954e87e722c0bec150bd111cd689f64f4a27cb
+SHA256: a8ef27f3638ddf9372b79ae0db08970d236750be00d12c8ee3a0bf39353b43d3
 Section: Archiving
 Priority: optional
 Description: de-compresses files in rar format
