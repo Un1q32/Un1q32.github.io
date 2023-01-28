@@ -78,20 +78,6 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 Tag: purpose::console
 
-Package: ca-certificates
-Version: 20221209-0219
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: openssl
-Filename: ./debs/ca-certificates-20221209-0219.deb
-Size: 2173082
-MD5sum: aa77b2afb9d70acd270c339bc16eba9c
-SHA1: bac3306f99e44999dd1fc3732d9c8c58b7789aee
-SHA256: 4348a1e9453df61a4317ea7895f0d59d977eefa4eff5eb180257bf1ba97683cd
-Section: Security
-Priority: standard
-Description: Certificates used for SSL operations
-
 Package: cmatrix
 Version: 2.0
 Architecture: iphoneos-arm
