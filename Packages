@@ -146,12 +146,12 @@ Package: curl
 Version: 7.87.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: openssl
+Depends: libressl
 Filename: ./debs/curl-7.87.0.deb
-Size: 782856
-MD5sum: 12d2e9c353dc55860a8661e06847543a
-SHA1: 7e0e5348df113a2f855bb45db31ea20574f8cc31
-SHA256: e0ea2b75438aae2229f893b95e11d0c617c05c1651e7680795bd4b3657306cc4
+Size: 785034
+MD5sum: 8074638c0471ea7da01d30bc008ef469
+SHA1: 7a8e41969ac5024efce26e2dcb1338aa896bc257
+SHA256: aebcbf036d07edd3f25bcc6d1ecb3d0c35649db080a1e93a3ebf7ea4a6b099f3
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -285,12 +285,12 @@ Package: git
 Version: 2.39.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: curl, openssl, perl, grep
+Depends: curl, libressl, perl, grep
 Filename: ./debs/git-2.39.1.deb
-Size: 10243944
-MD5sum: e211f8e2232ef25c0a4bd49f6ef119fe
-SHA1: 9e4c7881128cd1174210100cde368fb267082cac
-SHA256: 07e68b3ea71ba23e0aacf0be16e842c669c99b1a844a10cd373e0f8a37df2ce7
+Size: 10243982
+MD5sum: a92b2444118f66d391a664b5eee0117a
+SHA1: 5044e7b320f7067c671141078a468efa5be7385e
+SHA256: 248ad648e0ccb599db59733c85145196fa9644aaa33a6509553d1ae4e4b29cb0
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -359,6 +359,23 @@ Section: Utilities
 Priority: important
 Description: provides less information than more does
 Tag: purpose::console
+
+Package: libressl
+Version: 3.7.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Conflicts: openssl
+Replaces: openssl
+Provides: openssl
+Filename: ./debs/libressl-3.7.0.deb
+Size: 11302358
+MD5sum: fb08326c47cd6861a6d94c4a19c04e15
+SHA1: 6e25957f2848778cfa6a2d91c1c1401bd3fdd399
+SHA256: 153a09e22964722d090e9d646cdbe0ccfde82f617b7cfeae9f0767185f1ad0e3
+Section: Security
+Priority: standard
+Description: Free version of the TLS/crypto stack forked from OpenSSL
+Name: LibreSSL
 
 Package: lua
 Version: 5.4.4
@@ -484,21 +501,6 @@ Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
 Name: OpenSSH
 
-Package: openssl
-Version: 1.1.1s
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: ca-certificates
-Filename: ./debs/openssl-1.1.1s.deb
-Size: 3504460
-MD5sum: 01b0890f846a4f83005bd49abf49d19b
-SHA1: e03026f76fc313641b36fa58bbe14e5275f91fa9
-SHA256: bfdf02f1c7dc76036e4491df929ba06011a1847e8efb8828fc2de3abba01866a
-Section: Security
-Priority: standard
-Description: SSL library and cryptographic tools
-Name: OpenSSL
-
 Package: patch
 Version: 2.7.6
 Architecture: iphoneos-arm
@@ -585,6 +587,21 @@ Priority: important
 Description: The original dungeon crawl game.
 Tag: purpose::console
 Name: Rogue
+
+Package: rsync
+Version: 3.2.7
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: libressl, lz4, zstd
+Filename: ./debs/rsync-3.2.7.deb
+Size: 295624
+MD5sum: 1a2957900dfe1756838d427d5c920d47
+SHA1: 7e506feaaeb8006e107dae835bd540d220b95760
+SHA256: e64f18c9667f16f3b1b94b2290434fe29dd81060ca59d168494ceb505d269895
+Section: Networking
+Priority: important
+Homepage: http://www.samba.org/rsync/
+Description: A fast and versatile file copying tool for remote and local files
 
 Package: screen
 Version: 4.9.0
@@ -709,12 +726,12 @@ Package: wget
 Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: openssl, pcre
+Depends: libressl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 267850
-MD5sum: df3e4b8f162b0a819a8958f6bdc70e0a
-SHA1: 0134c0967cae0d8895fb34b1b922c6c47272e1af
-SHA256: 9f9060417e90dbf6c8486d7d51e6be01eabe39eac921ab03157dff7a1e8d2f68
+Size: 267816
+MD5sum: 513ed00800a0522148c455a26f5bf756
+SHA1: 95184040f899d0dda2e0f57549032f27c8424ace
+SHA256: 0967ff0418ca84de1cfa23dbc0e1a92c00fac0c71006c98c5c0d5f17001923f9
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
