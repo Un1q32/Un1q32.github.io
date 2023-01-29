@@ -633,6 +633,20 @@ Priority: standard
 Description: temporarily assume root priviledges
 Tag: purpose::console
 
+Package: sudo
+Version: 1.9.12p2
+Architecture: iphoneos-arm64
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/sudo-1.9.12p2-arm64.deb
+Size: 856360
+MD5sum: 221082662152b331a3f572fb38369a44
+SHA1: a031b2b7d097d0226c6629b47429f126061d390c
+SHA256: dc6d237a750dab1fe8652ffaa6b326b15a11af469f550e9a07cce8bedd73aa4c
+Section: Administration
+Priority: standard
+Description: temporarily assume root priviledges
+Tag: purpose::console
+
 Package: tar
 Version: 1.34
 Architecture: iphoneos-arm
