@@ -780,10 +780,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.2.deb
-Size: 1240044
-MD5sum: 25f481cc87363c8c91fe937aa2aa5faa
-SHA1: 6d8e769ac8c2bb04b6f2151b36b45f3ea23e1a7e
-SHA256: d4bbe95095c021bf0a2f3a728c4a5b1c2e07f1bf63500ca35b7b6f619ebc4241
+Size: 1243358
+MD5sum: 900334a4460bf5bc47af84d443fcd30b
+SHA1: 68e0b916fe6ce5a0e537f3834d1c3e3701ff2f36
+SHA256: ddd963a41b7602a7c3ae1243a23d875235cd8210cb1a9d1c72a93e646a621998
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
