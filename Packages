@@ -624,28 +624,33 @@ Version: 1.9.12p2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/sudo-1.9.12p2.deb
-Size: 902964
-MD5sum: 91e2ea694f4f8ab6f54ba5d8c9f39cee
-SHA1: ba83e3f1aefd6111915e5caf2bcb4405b8533b49
-SHA256: 9b9cca0c5f765f1ecce3480bbe515a4361aaed13970f1b27f20a192f6c026b0f
+Size: 902984
+MD5sum: d6d4da2bdff06b553410c2277c37b34f
+SHA1: 957cf129702b5f640770b15aab878644903a9fae
+SHA256: c0453696f7a59ea5a9fabe703bdfc890fb210f554c6fbbd1ec30f2ce5832f4c8
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
 Tag: purpose::console
+Name: Sudo
 
-Package: sudo
+Package: sudo-arm64
 Version: 1.9.12p2
 Architecture: iphoneos-arm64
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Conflicts: sudo
+Replaces: sudo
+Provides: sudo
 Filename: ./debs/sudo-1.9.12p2-arm64.deb
-Size: 856360
-MD5sum: 221082662152b331a3f572fb38369a44
-SHA1: a031b2b7d097d0226c6629b47429f126061d390c
-SHA256: dc6d237a750dab1fe8652ffaa6b326b15a11af469f550e9a07cce8bedd73aa4c
+Size: 856424
+MD5sum: d8ee451f393f7593469df722ad66c771
+SHA1: be9049fd86e6ba846372c56780f08ebe67cbb382
+SHA256: 73b15cfbdef95e7cf566eb4407d8a55e69a6e39ff020532f8f50f54d501d0824
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
 Tag: purpose::console
+Name: Sudo (64-bit)
 
 Package: tar
 Version: 1.34
