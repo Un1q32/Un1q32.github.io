@@ -442,14 +442,14 @@ Tag: purpose::console
 Name: NCurses Disk Usage
 
 Package: ncurses
-Version: 5.9-3
+Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses-5.9.deb
-Size: 912828
-MD5sum: b5a15d4adeaa51fde645d5056fa76948
-SHA1: ddde60678f70651ef80f081538aeef52adafb07a
-SHA256: 522b036cadcc9bbd28fc96287a508a008725cc2198ebd2c53780ca792966c73d
+Size: 912824
+MD5sum: c791bb6a5945f134c1234e2583c0de05
+SHA1: 7bd2c63b37312a22d2ea7adcc71f4ab2050e09cf
+SHA256: 091e3684aaa13dd20f95e45ca34aa8d4dde635fcf736c496dfdb90b8114bc66e
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
