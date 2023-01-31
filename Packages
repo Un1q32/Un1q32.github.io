@@ -84,10 +84,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/cmatrix-2.0.deb
-Size: 7890
-MD5sum: 3713207bd409e7f5090b8eba2028af67
-SHA1: bd7688e4292bbf0f4b9ecd1f7635efbbe71dd2b5
-SHA256: e9fdf08b44d417f87edc9c46234f9e94092ac760b72640c005c50ce3b0793a32
+Size: 7898
+MD5sum: 746c9c8618d93db1f430031802e1a21b
+SHA1: 485bf4a660056f15ee0015e87ef97f53d3c2194a
+SHA256: f771c1f369991048c5034ec95534ebb6708a73a4792432a1f016b83a6367debe
 Section: Utilities
 Priority: optional
 Description: Terminal screen saver based on the movie "The Matrix".
@@ -432,9 +432,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/ncdu-1.18.deb
 Size: 39870
-MD5sum: c9dc50298399516392627c4d8e61c1ee
-SHA1: 19a67493d4b36c97d7119b11535c6823002d77f3
-SHA256: e22c2c5351bf0a481a0df0fed72aeb204b0f553572a574ba48174d509df75dc7
+MD5sum: f6d5147e3d31c7f45afdd5657db215ca
+SHA1: ff1b3fda401b6b08c16de677ca49bac20ac53205
+SHA256: fb082cdf1a8d81ecdaf76d9a83d3850c766485ccf7321b471f0f4ea349dfe6ab
 Section: Utilities
 Priority: optional
 Description: Disk usage analyzer with an ncurses interface
@@ -446,10 +446,10 @@ Version: 5.9-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses-5.9.deb
-Size: 912306
-MD5sum: 9822dce214d4ff41fa589e22738045d0
-SHA1: 4bf79f18859e4e7331f30cb997a8296a33643b5a
-SHA256: 2ba45b81a57e305f031a4e8088bbddba0d47ae5a7d553fc39a59a138c95495c4
+Size: 912828
+MD5sum: b5a15d4adeaa51fde645d5056fa76948
+SHA1: ddde60678f70651ef80f081538aeef52adafb07a
+SHA256: 522b036cadcc9bbd28fc96287a508a008725cc2198ebd2c53780ca792966c73d
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
@@ -564,10 +564,10 @@ Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/rogue-5.4.4.deb
-Size: 97428
-MD5sum: cbad422d08001c0486f96b90979e30f8
-SHA1: 8fb355477b6049da866a38166a8cb9907838e443
-SHA256: a1b5ed47960abbb3fad05c3ddeed390fd4a9e1cf00235888172954b220a0aff1
+Size: 97430
+MD5sum: fd533af04a28bdc8ec64e1126e7e9be8
+SHA1: f26653ebd96e073e1a36da21703bfd451b6bf805
+SHA256: 75eef74218658c865796bb1427ef038161da1a054b3c1223225a8dff84e3453a
 Section: Games
 Priority: important
 Description: The original dungeon crawl game.
@@ -595,10 +595,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/screen-4.9.0.deb
-Size: 476252
-MD5sum: d2953f9557c89c8ec5c9c144efff257c
-SHA1: 154a1b452a4795ddfee004dbf67168ae56fb32a4
-SHA256: 193bf67112165555caefb21e3a918e4f518eac5a73655e94359c67cfa936a602
+Size: 476268
+MD5sum: c70b8b8b165b7e4ec9dfe4a7b2b78dd1
+SHA1: 68197e3ca4606b0ce806799f608c9d34a843819d
+SHA256: a544735d8daf25a6bff4db40eefda9050e5359de59602f4ad5df88bd800fe578
 Section: Terminal_Support
 Priority: important
 Homepage: http://www.gnu.org/software/screen/
@@ -677,9 +677,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/tcsh-6.24.07.deb
 Size: 211432
-MD5sum: 24056342ca2bd7862da0f8afd6362b21
-SHA1: 5f1a8e769685c09de21be2a9969358eb4890ebea
-SHA256: ccab88e310ac0a285249a4255f9958ebec3240550788693a8bc76eff08c0fc08
+MD5sum: df181329a484bc93e6c8775881b9b123
+SHA1: 454aa668a64897a0feed67f478f7a1f955024af4
+SHA256: 4e00276d70bb543a7733fd24fd85f0e987c40527ef47e17b804d00be952ba9e6
 Section: Terminal_Support
 Priority: optional
 Description: enhanced version of the BSD C Shell
@@ -765,10 +765,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/zsh-5.9.deb
-Size: 2051102
-MD5sum: a336fd294392dbd97ff5876c3bd1deea
-SHA1: e55e1155403cb3b2584b78f22de066ce67d0a463
-SHA256: 6b478a7901a6db3a514569f5a2a1ae6687990111a39066acfd5e6fc426f9997d
+Size: 2051160
+MD5sum: f5fafab83c0b8db26c2811c9d96ed6b2
+SHA1: 589f64ae60606c567654a44d3a37738ff940809f
+SHA256: c79c0abd2da85051b90d7f16eb945cca142df2b4e2f7f0b94de424661d821224
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
