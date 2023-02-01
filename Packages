@@ -728,6 +728,22 @@ Description: A highly configurable, improved version of the vi text editor
 Tag: purpose::console
 Name: Vi IMproved
 
+Package: vim
+Version: 9.0.1270
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
+Filename: ./debs/vim-9.0.1270.deb
+Size: 10062894
+MD5sum: 64255428e9a5eab303e16f5c63f906eb
+SHA1: 0833ee60d390b16bd40133f4c992ac8d5b5ed20a
+SHA256: 17adb9cb8694a5aef5f9c3bf77a436456bc965793aed57894ace6bff78b7bcb1
+Section: Text_Editors
+Priority: standard
+Description: A highly configurable, improved version of the vi text editor
+Tag: purpose::console
+Name: Vi IMproved
+
 Package: wget
 Version: 1.21.3
 Architecture: iphoneos-arm
