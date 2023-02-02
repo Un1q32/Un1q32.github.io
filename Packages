@@ -502,15 +502,15 @@ Tag: purpose::console
 Name: NextVI
 
 Package: openssh
-Version: 9.1p1
+Version: 9.2p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
-Filename: ./debs/openssh-9.1p1.deb
-Size: 2299424
-MD5sum: 879872474ba7cfe6f32b2e3ca4f7affe
-SHA1: ec7043a62ae470ce2051d1e04e22f068a95da37c
-SHA256: 70d926f68e1e860ea3575d3b3dd7bc028b147d5c21e2d4d0d373e038ca70be6d
+Filename: ./debs/openssh-9.2p1.deb
+Size: 2311168
+MD5sum: 2c57ed63189a4bde7a59cc7e5dea86b5
+SHA1: 0b2b16a477e9fc89e76ca4a6704b3f008f572224
+SHA256: 9f4465b8c0626609ff69135460cf76211b7c300977c10c7a74aff3571f29f031
 Section: Networking
 Priority: important
 Description: secure remote access between machines
