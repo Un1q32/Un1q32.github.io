@@ -328,6 +328,22 @@ Priority: optional
 Description: View and edit files in hexadecimal or in ASCII
 Tag: purpose::console
 
+Package: htop
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
+Filename: ./debs/htop-3.0.2.deb
+Size: 59100
+MD5sum: 465b3c95188758ffda339a19ef990185
+SHA1: 57df26c24e25d67879aac960a9e3d992e0c218c5
+SHA256: fc7bdb19d42ade3fc35065ffe7a43bca889b20673b4127db1fa365965f2882d3
+Section: Utilities
+Priority: optional
+Homepage: http://htop.dev
+Description: interactive processes viewer
+Tag: purpose::console
+
 Package: io.github.oldworldordr.iconfix
 Version: 5.1
 Architecture: iphoneos-arm
