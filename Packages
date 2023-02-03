@@ -446,10 +446,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/nano-7.2.deb
-Size: 388704
-MD5sum: 3ae93bf9edb5fd5a6eebf7427e28da92
-SHA1: 260e67715abdb02db00261d7678657388c301ea9
-SHA256: 004b960939149261ad79a7d602869b325d3f9960fdf0b4da67b3b7acaad7eda7
+Size: 296050
+MD5sum: 5658834135521e9985c1fb4d4bade200
+SHA1: 43e8d397d35a3626ead4011bc8376dbf451b6389
+SHA256: 4f65ad467e2857269faf5a2937c7b409be7082ee6a265146c16ce53779313a86
 Section: Text_Editors
 Priority: standard
 Description: completely free, modern clone of Pico
