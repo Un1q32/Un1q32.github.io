@@ -190,14 +190,14 @@ Description: A POSIX-compliant line-oriented text editor
 Tag: purpose::console
 
 Package: ed
-Version: 1.18
+Version: 1.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ed-1.19.deb
-Size: 25472
-MD5sum: 3740458f9832543f42ebcfef27763235
-SHA1: b8b0350cb20d84cdc5c1b6266687bae7b8c44b92
-SHA256: 5694760d7fb59f989371c7f041bafa9a86e6106a02406698cf88d5723ca43312
+Size: 25480
+MD5sum: 493382c44013a9766bbebcace29f1b1c
+SHA1: 6084ac04bd612ee57894026dde8467b169700e07
+SHA256: 3d4789b5cede3538d58df766a85e7ed7013455d746c7f6ccdc236d863185bc8c
 Section: Text_Editors
 Priority: important
 Description: A POSIX-compliant line-oriented text editor
