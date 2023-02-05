@@ -501,15 +501,15 @@ Tag: purpose::console
 Name: NextVI
 
 Package: nextvi
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
 Filename: ./debs/nextvi-1.1.deb
-Size: 171504
-MD5sum: aea21d0884a1752e86224b8179d77158
-SHA1: a1cf8b3836a7418ef3dfcbd1a636e3dcb1e6f074
-SHA256: 3340d10774bbd4dad51aa3c40576a8e27a524c63639631538bd1c26374483ec6
+Size: 80678
+MD5sum: 5ac5a5a13fc85df57054cd4c050cbd3f
+SHA1: 7ba41145aaf9e08eae726b2727b828c524d310f6
+SHA256: 14500feb3c6d4cd09d19ed5e0f326f4ce521e32fefadc629140104f53333047e
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
