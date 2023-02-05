@@ -506,10 +506,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
 Filename: ./debs/nextvi-1.1.deb
-Size: 171496
-MD5sum: aa21409cc174db07d7c73820c4a860e4
-SHA1: 518fd6c5498199c76245f10ffa034bfb76af76c3
-SHA256: 58f7da2e0dad74f847079ec69c5acc584f4c4d25c4cd9e9586995693c50f43de
+Size: 171504
+MD5sum: aea21d0884a1752e86224b8179d77158
+SHA1: a1cf8b3836a7418ef3dfcbd1a636e3dcb1e6f074
+SHA256: 3340d10774bbd4dad51aa3c40576a8e27a524c63639631538bd1c26374483ec6
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
