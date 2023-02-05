@@ -485,31 +485,15 @@ Description: System V Release 4.0 curses emulation library
 Name: New Curses
 
 Package: nextvi
-Version: 1.0-1
+Version: 2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
-Filename: ./debs/nextvi-1.0.deb
-Size: 94962
-MD5sum: b499a31a0c49e9fb8c3ea2f7f6a800a0
-SHA1: ce1ff41b7e6cfbd6dcec884b99c36d16b64eb59c
-SHA256: e3ff214d831f29021ffd806a643e708f0e8958c85e1369f29449090354f7de5a
-Section: Text_Editors
-Priority: standard
-Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
-Tag: purpose::console
-Name: NextVI
-
-Package: nextvi
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Conflicts: nvi
-Filename: ./debs/nextvi-1.1.deb
+Filename: ./debs/nextvi.deb
 Size: 80678
-MD5sum: 5ac5a5a13fc85df57054cd4c050cbd3f
-SHA1: 7ba41145aaf9e08eae726b2727b828c524d310f6
-SHA256: 14500feb3c6d4cd09d19ed5e0f326f4ce521e32fefadc629140104f53333047e
+MD5sum: d9bb85b4ad7ab85f5da87cc4a4c2828a
+SHA1: 169eab5d6eee03cab6d89e556cbc76a0b784c4f2
+SHA256: 6ffced96fac9f1a1666c8ef6e1bf830e32e21915887b092706049314a6cdbabe
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
