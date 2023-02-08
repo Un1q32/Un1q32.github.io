@@ -485,15 +485,16 @@ Description: System V Release 4.0 curses emulation library
 Name: New Curses
 
 Package: nextvi
-Version: 2
+Version: 3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
+Replaces: vim
 Filename: ./debs/nextvi.deb
-Size: 80678
-MD5sum: d9bb85b4ad7ab85f5da87cc4a4c2828a
-SHA1: 169eab5d6eee03cab6d89e556cbc76a0b784c4f2
-SHA256: 6ffced96fac9f1a1666c8ef6e1bf830e32e21915887b092706049314a6cdbabe
+Size: 78734
+MD5sum: 75d18e47b322efb277ea0a337126a035
+SHA1: 7386200e68dbb1aeb774ef75a898b151d315f13e
+SHA256: 1ac69c0c2889a0068bf7f577dd9775d3f9f2b346a0e15682d246e16c9915eb08
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
@@ -742,31 +743,16 @@ Priority: optional
 Description: de-compresses files in rar format
 
 Package: vim
-Version: 9.0.1227
+Version: 9.0.1291
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/vim-9.0.1227.deb
-Size: 10059522
-MD5sum: bca565c31acb861800e859478119dd11
-SHA1: e21b51976f673ccffcc86b64676bd2f640b47ed9
-SHA256: 06f6cf08218cae1e8136e58e9079f47e27dfbb3049e93fcfe1ed080f36fcecd2
-Section: Text_Editors
-Priority: standard
-Description: A highly configurable, improved version of the vi text editor
-Tag: purpose::console
-Name: Vi IMproved
-
-Package: vim
-Version: 9.0.1270
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: ncurses
-Filename: ./debs/vim-9.0.1270.deb
-Size: 10062894
-MD5sum: 64255428e9a5eab303e16f5c63f906eb
-SHA1: 0833ee60d390b16bd40133f4c992ac8d5b5ed20a
-SHA256: 17adb9cb8694a5aef5f9c3bf77a436456bc965793aed57894ace6bff78b7bcb1
+Replaces: nextvi
+Filename: ./debs/vim-9.0.1291.deb
+Size: 10068288
+MD5sum: 6b95c086215926faff53fe4d97a851b5
+SHA1: 0823310ef2229dfab86539aec63fb1b52836a06b
+SHA256: 6021ea9b93702ffc915595e16bd0eda13ba658f9b27a05ea31ebb6bfaca3c0cb
 Section: Text_Editors
 Priority: standard
 Description: A highly configurable, improved version of the vi text editor
