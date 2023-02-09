@@ -668,15 +668,15 @@ Package: sudo-arm64
 Version: 1.9.12p2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: cy+cpu.arm64
+Depends: firmware (>= 7.0)
 Conflicts: sudo
 Replaces: sudo
 Provides: sudo
 Filename: ./debs/sudo-1.9.12p2-arm64.deb
-Size: 840816
-MD5sum: 813de2488ba4971b6da277f5067077a7
-SHA1: 13785d6b09607f7716e7935a61ad0b5d12c403b4
-SHA256: 859fce7fe6f282f1b9995a31d77714d68d6d9031b5e21378efecc1a84cbef375
+Size: 840850
+MD5sum: 11650c7e60ab2e0b1bfae33e94ca9ed8
+SHA1: aad0e8df1a3ab3b254d12e4c0e0ab13b799fbe59
+SHA256: 670f8de88c746a8c9ff82e2c2536cf72a793b0a1d510fb1c5ac8e25cf6c69fb3
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
