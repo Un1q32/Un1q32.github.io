@@ -176,20 +176,6 @@ Tag: purpose::console
 Name: Diff Utilities
 
 Package: ed
-Version: 1.18
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/ed-1.18.deb
-Size: 25476
-MD5sum: 032a2511dab09ff56dc7e75aca69669e
-SHA1: 375f7f07bc418f8c2ae12f72129cc8c180e98da6
-SHA256: befe1c51eba4498b834625d3b9204c2400c4e9ea4885f673cf29b50e576c2885
-Section: Text_Editors
-Priority: important
-Description: A POSIX-compliant line-oriented text editor
-Tag: purpose::console
-
-Package: ed
 Version: 1.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
@@ -805,15 +791,15 @@ Tag: purpose::console
 Name: Z Shell
 
 Package: zstd
-Version: 1.5.2
+Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
-Filename: ./debs/zstd-1.5.2.deb
-Size: 1243358
-MD5sum: 900334a4460bf5bc47af84d443fcd30b
-SHA1: 68e0b916fe6ce5a0e537f3834d1c3e3701ff2f36
-SHA256: ddd963a41b7602a7c3ae1243a23d875235cd8210cb1a9d1c72a93e646a621998
+Filename: ./debs/zstd-1.5.4.deb
+Size: 1261338
+MD5sum: 86641af0d043b428b8998d4f47ad7801
+SHA1: 7f9daeb7fe01c11d12c0425fe9ba96bcdcb5031a
+SHA256: 61f9b75ad435524bb04141ef5e6e33d1f6761e92d1d23bf41cae74528dec5b83
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
