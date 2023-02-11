@@ -428,11 +428,12 @@ Package: lzop
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: lzo
 Filename: ./debs/lzop-1.0.4.deb
-Size: 35728
-MD5sum: 623a9e6bf03d394b74f18eed9cef77cd
-SHA1: 5d0d96859f368293bfc83f40102e754123cc0800
-SHA256: f7c9c03e577be624f75a6fe338ed88e8e0edbe0b45428a501c4f8946b6d8081b
+Size: 35738
+MD5sum: 469c23b8b39e6918e86fc7967424e9d0
+SHA1: a8a582824cca456b4e029bdbc860b70256b9f6ef
+SHA256: 6dde652ad6504c895717558b0e1e82ac48960149eb7fa78bc3ce5ac2524fff52
 Section: Archiving
 Priority: optional
 Description: File compressor using lzo lib
