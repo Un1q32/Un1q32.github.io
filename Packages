@@ -549,12 +549,11 @@ Package: pcre
 Version: 8.45
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/pcre-8.45.deb
-Size: 380862
-MD5sum: 109bed218c754e2a8826060c1d71372e
-SHA1: 6b390fa6d5ca0129b8adf60471399c7c135f156f
-SHA256: 788d9f8b26a3766a50b50f3c405c5360b2bb2bf3e6db2471db0dcab57499b4ab
+Size: 380852
+MD5sum: d367f57e4a76071adad5d1fb350b1890
+SHA1: 779d41eac5152acd37c4c7a85f22411a4b0329de
+SHA256: 449a6d03b1f9a7f16ddcbdea6151d5a683dd92b07beb9e1e95f1c25393582001
 Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
@@ -807,12 +806,12 @@ Package: zsh
 Version: 5.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: ncurses
+Depends: ncurses, pcre
 Filename: ./debs/zsh-5.9.deb
-Size: 2051160
-MD5sum: f5fafab83c0b8db26c2811c9d96ed6b2
-SHA1: 589f64ae60606c567654a44d3a37738ff940809f
-SHA256: c79c0abd2da85051b90d7f16eb945cca142df2b4e2f7f0b94de424661d821224
+Size: 2051298
+MD5sum: 69f70ceef6d37a8be1abf450f63b572f
+SHA1: f0a4c610c32f8777b22046d780b95ae7b7e143c0
+SHA256: cb4d74af8dfb071b24d664e0fc18201d3a965949e3ac771d1716f404bea9972a
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
