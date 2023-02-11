@@ -330,6 +330,20 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 Tag: purpose::console
 
+Package: inetutils
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses, readline
+Filename: ./debs/inetutils-2.4.deb
+Size: 815972
+MD5sum: 62ab8f9dcd99e0e9dc4dc66b4634ec16
+SHA1: cf5379c0faee59d989abb15191187ad55294a000
+SHA256: 57ae9c902b2fb07ff061e60a3b91ced1db0c50252ae811712be1b3cc344346a6
+Section: Networking
+Priority: standard
+Description: A collection of common network programs
+
 Package: io.github.oldworldordr.iconfix
 Version: 5.1
 Architecture: iphoneos-arm
