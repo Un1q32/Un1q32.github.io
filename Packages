@@ -410,6 +410,34 @@ Priority: optional
 Description: Extremely fast compression algorithm
 Tag: purpose::console
 
+Package: lzo
+Version: 2.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/lzo-2.10.deb
+Size: 280602
+MD5sum: c1dfce75effafb8524bbb09ad2627e61
+SHA1: 66eb87762fb6129e8effb7d399e8ffb553e5f526
+SHA256: 52a0dad1f00cdc689bb5785670e323306021aca3ca90c8dbaaf4c40560e8ac91
+Section: Archiving
+Priority: optional
+Description: Portable lossless data compression library
+Tag: purpose::console
+
+Package: lzop
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/lzop-1.0.4.deb
+Size: 35728
+MD5sum: 623a9e6bf03d394b74f18eed9cef77cd
+SHA1: 5d0d96859f368293bfc83f40102e754123cc0800
+SHA256: f7c9c03e577be624f75a6fe338ed88e8e0edbe0b45428a501c4f8946b6d8081b
+Section: Archiving
+Priority: optional
+Description: File compressor using lzo lib
+Tag: purpose::console
+
 Package: m4
 Version: 1.4.19
 Architecture: iphoneos-arm
