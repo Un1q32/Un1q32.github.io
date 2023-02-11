@@ -1,3 +1,3 @@
-https://oldworldordr.github.io
+https://oldworldorder.gay/cydia
 
 To request a package, make a github issue.
