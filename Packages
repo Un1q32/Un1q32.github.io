@@ -415,11 +415,11 @@ Version: 2.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lzo-2.10.deb
-Size: 280602
-MD5sum: c1dfce75effafb8524bbb09ad2627e61
-SHA1: 66eb87762fb6129e8effb7d399e8ffb553e5f526
-SHA256: 52a0dad1f00cdc689bb5785670e323306021aca3ca90c8dbaaf4c40560e8ac91
-Section: Archiving
+Size: 280618
+MD5sum: 8f619f0278c70f23ebde856101d5bff2
+SHA1: e510173f5924ad74320ea87b6e16a5fc42be34ab
+SHA256: 350aac215eee4f717adf20fd7580d3ed3e22605759550092e13c8bf4c9229e59
+Section: Development
 Priority: optional
 Description: Portable lossless data compression library
 Tag: purpose::console
