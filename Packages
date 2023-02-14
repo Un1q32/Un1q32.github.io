@@ -175,6 +175,20 @@ Description: compare two files for differences
 Tag: purpose::console
 Name: Diff Utilities
 
+Package: dos2unix
+Version: 7.4.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/dos2unix-7.4.4.deb
+Size: 37334
+MD5sum: e30dea5209345832c3e8e5c8efec97cd
+SHA1: 82ed1ce9bc8bf157083000e2498d1b288fb15a31
+SHA256: 2040c7d8bd8579f0275db1d87fc0390bde72e081f5bcceafdeab3e3701605807
+Section: Utilities
+Priority: standard
+Description: DOS/Mac to Unix and vice versa text file format converter.
+Tag: purpose::console
+
 Package: ed
 Version: 1.19
 Architecture: iphoneos-arm
