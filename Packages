@@ -129,19 +129,19 @@ Description: Configurable talking cow
 Tag: purpose::console
 
 Package: curl
-Version: 7.87.0
+Version: 7.88.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
-Filename: ./debs/curl-7.87.0.deb
-Size: 785034
-MD5sum: 8074638c0471ea7da01d30bc008ef469
-SHA1: 7a8e41969ac5024efce26e2dcb1338aa896bc257
-SHA256: aebcbf036d07edd3f25bcc6d1ecb3d0c35649db080a1e93a3ebf7ea4a6b099f3
+Filename: ./debs/curl-7.88.0.deb
+Size: 805564
+MD5sum: 091284b2d12891a2e62f6d3e158218b6
+SHA1: 145c466672bd1848ce20b17ed3330f327780f3a5
+SHA256: 42537c6a8088304d35ac1d5ae6f6eb9ee0db91620005abd1a5ed26e333cf49b4
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
-Description: flexible multi-protocol file transfers
+Description: An URL retrieval utility and library
 Name: cURL
 
 Package: dash
@@ -268,15 +268,15 @@ Tag: purpose::console
 Name: Gcal
 
 Package: git
-Version: 2.39.1
+Version: 2.39.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, libressl, perl, grep
-Filename: ./debs/git-2.39.1.deb
-Size: 10243982
-MD5sum: a92b2444118f66d391a664b5eee0117a
-SHA1: 5044e7b320f7067c671141078a468efa5be7385e
-SHA256: 248ad648e0ccb599db59733c85145196fa9644aaa33a6509553d1ae4e4b29cb0
+Filename: ./debs/git-2.39.2.deb
+Size: 10244216
+MD5sum: 6cdf48128dffafacaefb289e9ed453ed
+SHA1: 372e0375c31284ca9b0b054143a8f93d86e7ba59
+SHA256: 36b616fae47a3f04d719211a53b9f12efaee3871c7647fadfe975f371b095306
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -390,17 +390,17 @@ Description: provides less information than more does
 Tag: purpose::console
 
 Package: libressl
-Version: 3.7.0
+Version: 3.7.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: openssl
 Replaces: openssl
 Provides: openssl
-Filename: ./debs/libressl-3.7.0.deb
-Size: 11302358
-MD5sum: fb08326c47cd6861a6d94c4a19c04e15
-SHA1: 6e25957f2848778cfa6a2d91c1c1401bd3fdd399
-SHA256: 153a09e22964722d090e9d646cdbe0ccfde82f617b7cfeae9f0767185f1ad0e3
+Filename: ./debs/libressl-3.6.2.deb
+Size: 11163594
+MD5sum: 3c706854039438eaa3b67b12765759ea
+SHA1: 535eaccf8866f7f85d1fb22dd4c4accd0a6d9336
+SHA256: cb55eeef0c250a4d2e24717f75a84a454ea44fcf15096fa88ddfe5e8c3c63785
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
@@ -564,10 +564,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
 Filename: ./debs/openssh-9.2p1.deb
-Size: 2311168
-MD5sum: 2c57ed63189a4bde7a59cc7e5dea86b5
-SHA1: 0b2b16a477e9fc89e76ca4a6704b3f008f572224
-SHA256: 9f4465b8c0626609ff69135460cf76211b7c300977c10c7a74aff3571f29f031
+Size: 2311126
+MD5sum: 0572894caa2a14d50373ec236d29cd16
+SHA1: a4abae15882542da767e6e1ccbc2b9a1d63421a2
+SHA256: 81abf27b21b0995b74739e15ed76459ae54cf9a7b6fc7388d7190de1a13f356b
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -666,10 +666,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd
 Filename: ./debs/rsync-3.2.7.deb
-Size: 295624
-MD5sum: 1a2957900dfe1756838d427d5c920d47
-SHA1: 7e506feaaeb8006e107dae835bd540d220b95760
-SHA256: e64f18c9667f16f3b1b94b2290434fe29dd81060ca59d168494ceb505d269895
+Size: 295618
+MD5sum: 22f426cbbf3297ffbe051608056b4701
+SHA1: 966aaa8c8682aad7823092c535cbbeb9523f577c
+SHA256: 24e58ca48ead2a388346952205ada75b48e73e19474122e2ab43a7ea746ff1fe
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -820,10 +820,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 267816
-MD5sum: 513ed00800a0522148c455a26f5bf756
-SHA1: 95184040f899d0dda2e0f57549032f27c8424ace
-SHA256: 0967ff0418ca84de1cfa23dbc0e1a92c00fac0c71006c98c5c0d5f17001923f9
+Size: 267812
+MD5sum: 7543d07d0b234aab0f7fa3abbc53a772
+SHA1: 9bdd218dbd9d92744b3e0f6061c6bc2d5a698fef
+SHA256: f297a4b8849dcbac7b26820d3e25c12038bb7dce16552598d4eedb9acf9825a1
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
