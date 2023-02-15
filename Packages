@@ -424,6 +424,21 @@ Description: A powerful, efficient, lightweight, embeddable scripting language.
 Tag: purpose::console, role::hacker
 Name: Lua
 
+Package: luajit
+Version: 2.1.0-beta3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/luajit-2.1.0-beta3.deb
+Size: 928666
+MD5sum: eacb7b7647b425336b696d064a7d578a
+SHA1: fddd61528ad6c44477fcc3f72c75df2afe2030b0
+SHA256: 62cdbd57cacdcf5077ce08851801415ea7d018bb9d19f5e10b4eaf58fba2e4b5
+Section: Development
+Priority: optional
+Description: Just-in-time compiler and drop-in replacement for Lua 5.1
+Tag: purpose::console
+Name: LuaJIT
+
 Package: lz4
 Version: 1.9.4
 Architecture: iphoneos-arm
