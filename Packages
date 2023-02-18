@@ -68,10 +68,10 @@ Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/brotli-1.0.9.deb
-Size: 1178540
-MD5sum: 7bb47908d435ff2a10ceb3c5c9b9a234
-SHA1: dee532c9b4ad9350c924386fd3b32be46188fe91
-SHA256: 05698481b95ca806dc821376b6c19061b0304f13fb7baeb2c00d347fd8f5337e
+Size: 1178526
+MD5sum: 5353d440bfc87c9f78391b7f075fbd6d
+SHA1: cb78c9cb04f12bc3e64c6b53d627547683a91222
+SHA256: 5d390f183ae8ae7d1007e5351760b8e3fb70e49e7ca3651f70ee0f4fdea855cf
 Section: Archiving
 Priority: optional
 Description: A generic-purpose lossless compression algorithm
@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli
 Filename: ./debs/curl-7.88.0.deb
-Size: 808610
-MD5sum: 0015da450000745080ce409697c72117
-SHA1: a165f9e5d58c4b4ef917b7832d8c0f590f343ecc
-SHA256: d3c662f2ca35f492ca1b37fb5d2fb7a7d4982a86867cd452d2d81c3aba03963a
+Size: 808602
+MD5sum: df62dce1ef30a90ac1031bd5a153e23d
+SHA1: f58071d98400f9bb9531542b03d3f7cd4c1d2103
+SHA256: ec4d2c7ad972eed0fd85133dd49d4c927a88636b5dfd064512a557b4d744bd74
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -458,10 +458,10 @@ Version: 1.9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
-Size: 293444
-MD5sum: 9b9ada5e19f0ee1f4d40683c92cbe092
-SHA1: 5ac1965212b14f5d4b2dbe641a4bc4d667abcda4
-SHA256: d82ed2d180f010bc9a1aab0f1e947a49dc82b38b7778d20413a889270df2fd8b
+Size: 293446
+MD5sum: 662e13ed43613a5c4d3fc46b7cc33fce
+SHA1: edde3525c9b1378a45379d3256b448d1260e629d
+SHA256: 4c11ce69ff6e08c8ad5cd3df246ec1d65eb027ec048f2ed81f7764712957d514
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -848,10 +848,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz-5.4.1.deb
-Size: 592088
-MD5sum: 788fe198b6ed26a59ac214c91e37a623
-SHA1: cdadae6b09541c09be4d29771391bc8631527733
-SHA256: b03da78c4f98ebeebe9cca2a57c9256d94efe35285a747548b1bca6825453466
+Size: 592066
+MD5sum: 68acf0b2cefc46517e558139289dd9c8
+SHA1: 236fd3dc3acfe916e9566eca3aa62f4b3f6bdf13
+SHA256: 4039ea355fd035daf776a41524fa537ba935ef949e4818458f07571e4d47acbb
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
@@ -881,10 +881,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.4.deb
-Size: 1261338
-MD5sum: 86641af0d043b428b8998d4f47ad7801
-SHA1: 7f9daeb7fe01c11d12c0425fe9ba96bcdcb5031a
-SHA256: 61f9b75ad435524bb04141ef5e6e33d1f6761e92d1d23bf41cae74528dec5b83
+Size: 1261336
+MD5sum: 4d96bf1aea5cd408d1711a883ed00422
+SHA1: 441afcf51e096f7213586a2046b67ccdcb7e65a0
+SHA256: 44c4e21211876ba7f5006450095359b9ea1af344ca40270827d6268f5d774216
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
