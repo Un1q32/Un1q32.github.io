@@ -63,6 +63,20 @@ Priority: important
 Description: An arbitrary precision numeric processing language
 Tag: purpose::console
 
+Package: brotli
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/brotli-1.0.9.deb
+Size: 1178540
+MD5sum: 7bb47908d435ff2a10ceb3c5c9b9a234
+SHA1: dee532c9b4ad9350c924386fd3b32be46188fe91
+SHA256: 05698481b95ca806dc821376b6c19061b0304f13fb7baeb2c00d347fd8f5337e
+Section: Archiving
+Priority: optional
+Description: A generic-purpose lossless compression algorithm
+Tag: purpose::console
+
 Package: bzip2
 Version: 1.0.8
 Architecture: iphoneos-arm
@@ -129,15 +143,15 @@ Description: Configurable talking cow
 Tag: purpose::console
 
 Package: curl
-Version: 7.88.0
+Version: 7.88.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl
+Depends: libressl, zstd, brotli
 Filename: ./debs/curl-7.88.0.deb
-Size: 805564
-MD5sum: 091284b2d12891a2e62f6d3e158218b6
-SHA1: 145c466672bd1848ce20b17ed3330f327780f3a5
-SHA256: 42537c6a8088304d35ac1d5ae6f6eb9ee0db91620005abd1a5ed26e333cf49b4
+Size: 808610
+MD5sum: 0015da450000745080ce409697c72117
+SHA1: a165f9e5d58c4b4ef917b7832d8c0f590f343ecc
+SHA256: d3c662f2ca35f492ca1b37fb5d2fb7a7d4982a86867cd452d2d81c3aba03963a
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
