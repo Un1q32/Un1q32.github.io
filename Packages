@@ -64,14 +64,14 @@ Description: An arbitrary precision numeric processing language
 Tag: purpose::console
 
 Package: brotli
-Version: 1.0.9
+Version: 1.0.9-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/brotli-1.0.9.deb
-Size: 1178526
-MD5sum: 5353d440bfc87c9f78391b7f075fbd6d
-SHA1: cb78c9cb04f12bc3e64c6b53d627547683a91222
-SHA256: 5d390f183ae8ae7d1007e5351760b8e3fb70e49e7ca3651f70ee0f4fdea855cf
+Size: 371720
+MD5sum: 38407b71adbc313202c14ebaf154ac37
+SHA1: 35c997eb5a6ba082b12e4e3dea16c042c5a61b6c
+SHA256: b859ba44110515ef7393a50d9f6b4ba2fd9d4f6ffc8943b648d2fa396025afb1
 Section: Archiving
 Priority: optional
 Description: A generic-purpose lossless compression algorithm
@@ -83,9 +83,9 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
 Size: 222128
-MD5sum: bdee5a665ede83a86a42a4989091235f
-SHA1: 845d093c9e5864e3650b0dde8e83fc31a671e8da
-SHA256: fe345fc4129b5fbaa5e8c49eaaa2855fe61a8b8fa90f91427b45ac0eb2fb308a
+MD5sum: b6c0777bc0def4a07d41abd2228a37fd
+SHA1: f3618df8eb1b71db6879437f70d90ee534895020
+SHA256: 4675abf0406863acffa7a6fa2bb6f28bc4e4667f55472a0bc05ee8df37fa473a
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -143,15 +143,15 @@ Description: Configurable talking cow
 Tag: purpose::console
 
 Package: curl
-Version: 7.88.0-1
+Version: 7.88.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli
 Filename: ./debs/curl-7.88.0.deb
-Size: 808602
-MD5sum: df62dce1ef30a90ac1031bd5a153e23d
-SHA1: f58071d98400f9bb9531542b03d3f7cd4c1d2103
-SHA256: ec4d2c7ad972eed0fd85133dd49d4c927a88636b5dfd064512a557b4d744bd74
+Size: 457740
+MD5sum: 93e2e22f7bc88fd9f68b20ade6700192
+SHA1: ac561a66dcab40433768d2ec05eabfb015bce5ac
+SHA256: 3249340a5609cd30a213812f0ec819510b985f5ddb31fd7bdcc5572381afba91
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -222,10 +222,10 @@ Version: 5.44
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/file-5.44.deb
-Size: 464998
-MD5sum: bb2b798657bff798f48b379151e6aec9
-SHA1: 649e1a668d8bcb2758b3fe840a70219ba3ec84a0
-SHA256: d1ecef33e093d0b9c46c2d90f46090b39ebc57aec5598abc84e35a94f5a9fda1
+Size: 465002
+MD5sum: ecd73ae3344392f3d503292620ff75f2
+SHA1: 7ac7b2e73c6e304e3d4bcbefd87b745e716eac35
+SHA256: 460392e74080fe89be3c8a4cbedb4502478ca3a79dc680ea63db334cb94110f9
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
@@ -317,10 +317,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/gzip-1.12.deb
-Size: 73482
-MD5sum: 9c83ce9bf7c98d1371e11c870087fd55
-SHA1: 47be0ccf38c1b61764a59e5e2871b8791e183ce2
-SHA256: bce11b286725afc9b9e3a9e84825adb6640a021964a4d3de06b6ea5844467b7b
+Size: 73480
+MD5sum: 1a4131f9ff300e6c736d0a287750cef5
+SHA1: b8a8da1eb16fea51ea5fa49c7e6f2b6b7b831faa
+SHA256: 833c54c937ee7474761812d134371f0efbd14de4df0626f7a0a412ca5e5c264e
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
@@ -404,17 +404,17 @@ Description: provides less information than more does
 Tag: purpose::console
 
 Package: libressl
-Version: 3.7.0-1
+Version: 3.7.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: openssl
 Replaces: openssl
 Provides: openssl
 Filename: ./debs/libressl-3.6.2.deb
-Size: 11163594
-MD5sum: 3c706854039438eaa3b67b12765759ea
-SHA1: 535eaccf8866f7f85d1fb22dd4c4accd0a6d9336
-SHA256: cb55eeef0c250a4d2e24717f75a84a454ea44fcf15096fa88ddfe5e8c3c63785
+Size: 2398718
+MD5sum: 50d37f13cd6c537250b8d8a06a7ea0a7
+SHA1: 701b4c493e2497df168ccbe163ddb20e8467ba36
+SHA256: 7dc07eee81eddf6958ad3ae4a5a047bafe652e41b36a286889baeb2f4815dc46
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
@@ -428,10 +428,10 @@ Depends: readline
 Conflicts: com.deltaman.lua
 Replaces: com.deltaman.lua
 Filename: ./debs/lua-5.4.4.deb
-Size: 385712
-MD5sum: 4516c4e1c72304e5f5246c39425b3cd2
-SHA1: 350cc317c7b464530baf93d1972d69438ff7d65f
-SHA256: 30f0ca4e5ad09e94531f4bbc8abfd9f8123c94a5dccd57f758ea026c37885f16
+Size: 385702
+MD5sum: b8adfad782d60a66322bfc2bb839cd38
+SHA1: 0be56da2b99c4fde87efb15ef02541f5bd29fd79
+SHA256: 0f3ef0bd7932b547a41acaa1dbdcd2889c0f8f78ea8199cfc39155e425213f51
 Section: Development
 Priority: optional
 Description: A powerful, efficient, lightweight, embeddable scripting language.
@@ -547,10 +547,10 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses-5.9.deb
-Size: 912824
-MD5sum: c791bb6a5945f134c1234e2583c0de05
-SHA1: 7bd2c63b37312a22d2ea7adcc71f4ab2050e09cf
-SHA256: 091e3684aaa13dd20f95e45ca34aa8d4dde635fcf736c496dfdb90b8114bc66e
+Size: 912850
+MD5sum: 3885f474b44c53d066f9e31c337f904f
+SHA1: 38434c9fe4b02742010f83a1880b2ec9a8281ad2
+SHA256: c77efa7e101c27b01495b4c4432e11da72bcbc3c6a5b9c0aab051939cf2a69e2
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
@@ -603,14 +603,14 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45
+Version: 8.45-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/pcre-8.45.deb
-Size: 380852
-MD5sum: d367f57e4a76071adad5d1fb350b1890
-SHA1: 779d41eac5152acd37c4c7a85f22411a4b0329de
-SHA256: 449a6d03b1f9a7f16ddcbdea6151d5a683dd92b07beb9e1e95f1c25393582001
+Size: 160870
+MD5sum: e8a2f0975041257eb6e30c40152ad759
+SHA1: 4eddf7dbbb2aa4251f970aa4c0187fbf7b546297
+SHA256: f54ecde5988643ddb4ac5b758fe39932282987a72d1318a0d4ee37f4c98e34e0
 Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
@@ -647,14 +647,14 @@ Priority: optional
 Description: process forests are hard to see for the trees
 
 Package: readline
-Version: 8.2.1
+Version: 8.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/readline-8.2.1.deb
-Size: 667196
-MD5sum: d3d11a9e5406a01e6dad6057fd90a8ac
-SHA1: 0d3b12fc5b687ebceceffd8a1cd95cafc1d15cd9
-SHA256: 4d261823450520920fb954125bd99ca046be7c8b39f93d198ad9e43625c66485
+Size: 167810
+MD5sum: 519194a4392e01c8282589e2b86cf1e7
+SHA1: 32c2a53bdf0bbd341a233905ec895fa84ddf39a2
+SHA256: 036eb631dc370cc20877c34913e8aafd95665e4c59dfbdd0f6b05dc74fbe81cc
 Section: Development
 Priority: required
 Description: command-line history management
@@ -843,20 +843,20 @@ Priority: important
 Description: Network utility to retrieve files from the Web
 
 Package: xz-utils
-Version: 5.4.1
+Version: 5.4.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz-5.4.1.deb
-Size: 592066
-MD5sum: 68acf0b2cefc46517e558139289dd9c8
-SHA1: 236fd3dc3acfe916e9566eca3aa62f4b3f6bdf13
-SHA256: 4039ea355fd035daf776a41524fa537ba935ef949e4818458f07571e4d47acbb
+Size: 192966
+MD5sum: c178a68158c052d75377ee46c4c78903
+SHA1: 3edf5c2f66f002be81930993bfe0eb8c6118d049
+SHA256: ac1d65a536d01c207bc24ca073be2909a8cebbb0cad5f087f16c725818ef96bb
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
-Tag: purpose::console, role::hacker
+Tag: purpose::console
 Name: XZ Utils
 
 Package: zsh
