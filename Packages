@@ -458,10 +458,10 @@ Version: 1.9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
-Size: 293446
-MD5sum: 662e13ed43613a5c4d3fc46b7cc33fce
-SHA1: edde3525c9b1378a45379d3256b448d1260e629d
-SHA256: 4c11ce69ff6e08c8ad5cd3df246ec1d65eb027ec048f2ed81f7764712957d514
+Size: 215470
+MD5sum: b3b1f5de40607fe79bf8a1d5199c332e
+SHA1: 6e21f5ccd2441e5741f51eba6166334bfce3ef35
+SHA256: 0a79847c2dbd5952cf6d1901fc62c4b8db5bcab969c8e6e881c9dca5e785dd48
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -680,10 +680,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd
 Filename: ./debs/rsync-3.2.7.deb
-Size: 295618
-MD5sum: 22f426cbbf3297ffbe051608056b4701
-SHA1: 966aaa8c8682aad7823092c535cbbeb9523f577c
-SHA256: 24e58ca48ead2a388346952205ada75b48e73e19474122e2ab43a7ea746ff1fe
+Size: 295612
+MD5sum: 98c2857fd6076ebbb7fd13c3a909ba0b
+SHA1: e9f9e5ea1504a9f622ec20eb6d4da091431018de
+SHA256: d4ef7ae2cd82c5d7904c81fb42a56b677b2b9ebc7b341e37111f47b094fe790d
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -859,6 +859,20 @@ Description: XZ-format compression utilities
 Tag: purpose::console
 Name: XZ Utils
 
+Package: zlib
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/zlib-1.2.13.deb
+Size: 78384
+MD5sum: 67dabf59a791e51c1ed2bd58fb447005
+SHA1: af758420d130a6d8c7b1eaa5aa9027cf2cc82c83
+SHA256: 1a273650cf4efd15d58b68ad86f8024190cdbeb140e71c7f136fdde0808cf0ec
+Section: Archiving
+Priority: optional
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+Tag: purpose::console
+
 Package: zsh
 Version: 5.9
 Architecture: iphoneos-arm
@@ -881,10 +895,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.4.deb
-Size: 1261336
-MD5sum: 4d96bf1aea5cd408d1711a883ed00422
-SHA1: 441afcf51e096f7213586a2046b67ccdcb7e65a0
-SHA256: 44c4e21211876ba7f5006450095359b9ea1af344ca40270827d6268f5d774216
+Size: 871172
+MD5sum: c9bdddd476509414abc41cb0bfc245b2
+SHA1: c0d7f03111ad76cac9b0d5b7f85ceacdd2fb27d9
+SHA256: 318f4982df5dcd0afbfc66a3488b176d86f79c4f0cfc8a1fe0151cc12b7db01a
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
