@@ -454,14 +454,14 @@ Tag: purpose::console
 Name: LuaJIT
 
 Package: lz4
-Version: 1.9.4
+Version: 1.9.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
 Size: 215470
-MD5sum: b3b1f5de40607fe79bf8a1d5199c332e
-SHA1: 6e21f5ccd2441e5741f51eba6166334bfce3ef35
-SHA256: 0a79847c2dbd5952cf6d1901fc62c4b8db5bcab969c8e6e881c9dca5e785dd48
+MD5sum: f94a8620ad731a4741abcda30825bf77
+SHA1: 6effb7c0348787c9dbe0a6a42df145feea1eb9f7
+SHA256: e5cac212c09bd91e5c07362ff3030a1954481a5798f1883d9c20cf401c895ad3
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -876,15 +876,15 @@ Tag: purpose::console
 Name: Z Shell
 
 Package: zstd
-Version: 1.5.4
+Version: 1.5.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.4.deb
 Size: 871172
-MD5sum: c9bdddd476509414abc41cb0bfc245b2
-SHA1: c0d7f03111ad76cac9b0d5b7f85ceacdd2fb27d9
-SHA256: 318f4982df5dcd0afbfc66a3488b176d86f79c4f0cfc8a1fe0151cc12b7db01a
+MD5sum: 1204afa7116b775b9548c8415067c931
+SHA1: 78cdd7c17dba44cc53e008db6fe0b467a6d1f583
+SHA256: 09f528ff9a6093102dfc22bbffc8159885a368cb9389dbaf1c2f542439074365
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
