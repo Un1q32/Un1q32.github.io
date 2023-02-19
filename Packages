@@ -859,20 +859,6 @@ Description: XZ-format compression utilities
 Tag: purpose::console
 Name: XZ Utils
 
-Package: zlib
-Version: 1.2.13
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/zlib-1.2.13.deb
-Size: 78384
-MD5sum: 67dabf59a791e51c1ed2bd58fb447005
-SHA1: af758420d130a6d8c7b1eaa5aa9027cf2cc82c83
-SHA256: 1a273650cf4efd15d58b68ad86f8024190cdbeb140e71c7f136fdde0808cf0ec
-Section: Archiving
-Priority: optional
-Description: Compression library implementing the deflate compression method found in gzip and PKZIP
-Tag: purpose::console
-
 Package: zsh
 Version: 5.9
 Architecture: iphoneos-arm
