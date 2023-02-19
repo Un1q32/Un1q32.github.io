@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli
 Filename: ./debs/curl-7.88.0.deb
-Size: 457740
-MD5sum: 93e2e22f7bc88fd9f68b20ade6700192
-SHA1: ac561a66dcab40433768d2ec05eabfb015bce5ac
-SHA256: 3249340a5609cd30a213812f0ec819510b985f5ddb31fd7bdcc5572381afba91
+Size: 457738
+MD5sum: 0feedd531cf6c9e349dee7a7055c8489
+SHA1: 4d68881e80d644b819763f7039c848d2271b93dd
+SHA256: 758e266c4309fddfdd748ab9d7721dab27745f89b33b8709499adf6374bc5bd0
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
