@@ -143,18 +143,18 @@ Description: Configurable talking cow
 Tag: purpose::console
 
 Package: curl
-Version: 7.88.0-2
+Version: 7.88.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli
-Filename: ./debs/curl-7.88.0.deb
-Size: 457738
-MD5sum: 0feedd531cf6c9e349dee7a7055c8489
-SHA1: 4d68881e80d644b819763f7039c848d2271b93dd
-SHA256: 758e266c4309fddfdd748ab9d7721dab27745f89b33b8709499adf6374bc5bd0
+Filename: ./debs/curl-7.88.1.deb
+Size: 457418
+MD5sum: 53655edd07f5b1b39142ba5a4cdf3919
+SHA1: 7ac9b7d8af518b62fd9b45f3acf56cc2697425ba
+SHA256: f7ddcd2bd5d6b34a21bc89b4a2bfc7d9a807571669cfcd29f89177d26136ed71
 Section: Networking
 Priority: standard
-Homepage: http://curl.haxx.se/
+Homepage: http://curl.se/
 Description: An URL retrieval utility and library
 Name: cURL
 
