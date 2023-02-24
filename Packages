@@ -472,10 +472,10 @@ Version: 2.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lzo-2.10.deb
-Size: 280618
-MD5sum: 8f619f0278c70f23ebde856101d5bff2
-SHA1: e510173f5924ad74320ea87b6e16a5fc42be34ab
-SHA256: 350aac215eee4f717adf20fd7580d3ed3e22605759550092e13c8bf4c9229e59
+Size: 78392
+MD5sum: f70459932b024c461fa76f37d8876bac
+SHA1: 589261467cf207662b3b721e5ff8bd0262d21ef7
+SHA256: fd695d69e842bb191bac95d50ec94eaa33f50622a4ff9a440232c0092b82fd25
 Section: Development
 Priority: optional
 Description: Portable lossless data compression library
@@ -509,6 +509,21 @@ Section: Scripting
 Priority: important
 Homepage: http://www.gnu.org/software/m4/
 Description: The GNU macro processor
+Tag: purpose::console
+
+Package: moe
+Version: 1.13
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
+Filename: ./debs/moe-1.13.deb
+Size: 146270
+MD5sum: 1272ef72c8f4b4ab0b1e7d0417ee3106
+SHA1: 41ca3afeac140c3ecb6d515bb192b7ca7daec757
+SHA256: 72d9899b70d726cb46e1162f0efa9c4d38968d3549f6301f0585fad5a345e13e
+Section: Text_Editors
+Priority: optional
+Description: A powerful, 8-bit clean, text editor. Supports ISO-8859-15 and ASCII.
 Tag: purpose::console
 
 Package: nano
@@ -834,10 +849,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 267812
-MD5sum: 7543d07d0b234aab0f7fa3abbc53a772
-SHA1: 9bdd218dbd9d92744b3e0f6061c6bc2d5a698fef
-SHA256: f297a4b8849dcbac7b26820d3e25c12038bb7dce16552598d4eedb9acf9825a1
+Size: 269838
+MD5sum: 322b44816daf319a640bad96bca4a6ea
+SHA1: 55466bfb77ed3ee1dc61a71518ac5027209b3d2a
+SHA256: 9da95965fa6e8d9a769492120be1025b6f2fb8f1112b8869f1888426f046bb29
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
