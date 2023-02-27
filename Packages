@@ -511,6 +511,21 @@ Homepage: http://www.gnu.org/software/m4/
 Description: The GNU macro processor
 Tag: purpose::console
 
+Package: make
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/make-4.4.1.deb
+Size: 121194
+MD5sum: cf781c06b68c19fd63f2fc347543ec0b
+SHA1: 22592b7db7efdb3b2cce0dc93cbb61a861d0738f
+SHA256: f228010907eb5db1ebce79fa435c81e6163a674eb183c566b3cbba52017223ba
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/make/
+Description: Standard tool to compile source trees
+Tag: purpose::console
+
 Package: moe
 Version: 1.13
 Architecture: iphoneos-arm
