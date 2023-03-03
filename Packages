@@ -78,14 +78,14 @@ Description: A generic-purpose lossless compression algorithm
 Tag: purpose::console
 
 Package: bzip2
-Version: 1.0.8
+Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 222146
-MD5sum: c5d1c4939641b302d96d4c81e4bdf8a9
-SHA1: 024a1d6907cb50d3efcb9d429ded8db07d54d4ae
-SHA256: 865298648f4b5b6667a98746f0b26b134731da21813f610192634aea9c5ec711
+Size: 222140
+MD5sum: 581ac0dcffe9f45b5b9d20228a2b6a46
+SHA1: 430c569456daf1b921361d7cdbd429b61844cfda
+SHA256: ba2a88261178f36c84a137a9021b53a3a71ed950a30f0a0ccd47f2efb1f1923f
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
