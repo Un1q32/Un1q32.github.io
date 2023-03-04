@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: m4, perl
 Filename: ./debs/autoconf-2.71.deb
-Size: 578768
-MD5sum: 138a21ad178ef1e47b3b0cda2933626f
-SHA1: ff4f13b73fb837563cb77c9f0a1f43d41764ab19
-SHA256: dd8512ab946fd95b21a8bb7f7e37bf38e3b698031b0623667c1c64a063a54841
+Size: 578758
+MD5sum: 06b3c5700a6061ef8e5f49761a340401
+SHA1: c45a038fd3535573dec4fb72b20505c1f1df1b4b
+SHA256: 6c8c24bf7daf70c9204dba9342aaa0e4bd2896da2fb9907e6bfa3ec7f9c1d7ee
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/autoconf/
@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: perl
 Filename: ./debs/automake-1.16.5.deb
-Size: 389368
-MD5sum: 417436f2d4e36621e8f8a870f4e7caf6
-SHA1: 1c6e8a365598eaeb295809c38e7bdc99c0d0d1c7
-SHA256: 301d80ca428e11d5861abfedcd1ae1e36a4844e82327420817ce5e0142709a24
+Size: 389344
+MD5sum: 69e031a9788ca0bda23c2937b9ae49b2
+SHA1: 55105bfd2e965da2cf87f9169f58852904071b5c
+SHA256: 160d4762d5e9331a74fcaa814ac1009faa979f95d680ee1bb2b2659795fb6758
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/automake/
@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
 Filename: ./debs/bash-5.2.15.deb
-Size: 438256
-MD5sum: a00a5dcd4fcbbae0d5665cf05cf529f8
-SHA1: 9edb78526a2c367d1a9b030ee7d43d7f34e818b9
-SHA256: 881439c7b25e3458e030c3a05646f1d649a43ff729d6a6d876e8080e173cb3f3
+Size: 419302
+MD5sum: 0d7211ccbb36cdfb6ee88f89bb5fb972
+SHA1: 6794e17dd7e6a5f66d67aded7afdbe1b0954ecde
+SHA256: 4a746a0b7c3a6435e922c5d19bf169ac707d803665fd09a8a7c4ac9b5f9ffbc5
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -50,14 +50,14 @@ Tag: purpose::console
 Name: Bourne Again SHell
 
 Package: bc
-Version: 1.07.1
+Version: 1.07.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bc-1.07.1.deb
-Size: 646
-MD5sum: 43515353306fedc42f0964dfb89e0761
-SHA1: af04db4e18c21a58eab53995bc17377668a54f23
-SHA256: 4dc6589f5a87f328bdc64d0bcacb43fa41b259692164013d39dde48e2f92ceaf
+Size: 69516
+MD5sum: d50ed6fd2d023842073e17fb9eaa121a
+SHA1: 576e79b77fe952230a2086c7d62e9e183794f264
+SHA256: 240745d127ffdc83aeda4817703fe1e02ad4801dbc0caa6bbc51b03cd6ba23fd
 Section: Utilities
 Priority: important
 Description: An arbitrary precision numeric processing language
@@ -68,10 +68,10 @@ Version: 1.0.9-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/brotli-1.0.9.deb
-Size: 371720
-MD5sum: 38407b71adbc313202c14ebaf154ac37
-SHA1: 35c997eb5a6ba082b12e4e3dea16c042c5a61b6c
-SHA256: b859ba44110515ef7393a50d9f6b4ba2fd9d4f6ffc8943b648d2fa396025afb1
+Size: 371642
+MD5sum: 56771246a7f06e4d754b9f5d83dd2572
+SHA1: e2a991b4219a24cabb102ab690a573f30e884a9e
+SHA256: 2d02c988e4b5d2b75da35676a0d3faea6827519d461f83f9fde81939a5c2df91
 Section: Archiving
 Priority: optional
 Description: A generic-purpose lossless compression algorithm
@@ -82,10 +82,10 @@ Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 222140
-MD5sum: 581ac0dcffe9f45b5b9d20228a2b6a46
-SHA1: 430c569456daf1b921361d7cdbd429b61844cfda
-SHA256: ba2a88261178f36c84a137a9021b53a3a71ed950a30f0a0ccd47f2efb1f1923f
+Size: 219500
+MD5sum: 8265383eb6922e56e3b855714fd8182d
+SHA1: 48abb18d61d9791809bdb7219d085b65221f852f
+SHA256: fbc38f438b3d2409ba9f9cfda5124bc88771eadcd7d6c6c7603287d1ae436617
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -98,10 +98,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/cmatrix-2.0.deb
-Size: 7898
-MD5sum: 746c9c8618d93db1f430031802e1a21b
-SHA1: 485bf4a660056f15ee0015e87ef97f53d3c2194a
-SHA256: f771c1f369991048c5034ec95534ebb6708a73a4792432a1f016b83a6367debe
+Size: 7638
+MD5sum: 2f9977f226de19067531638c02b37c75
+SHA1: 375913ec35c830be2d06113e8762bbce026bc3f7
+SHA256: a098655a198cb9ff22b59a5dcce8a48e5d7c3748aadd262ccd0f54c19a191927
 Section: Utilities
 Priority: optional
 Description: Terminal screen saver based on the movie "The Matrix".
@@ -116,10 +116,10 @@ Conflicts: coreutils
 Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
 Filename: ./debs/coreutils-9.1.deb
-Size: 743360
-MD5sum: 0d7a2f2bd5b552b0bb3254c1eb5b42b7
-SHA1: 62f76ff94d204c099e627b2c7da3dbc2ab5f7fd2
-SHA256: e59a3521b99bdaeb9e098887ffa77963a444f65d800ddf8c08522a0bf28d03b5
+Size: 731500
+MD5sum: 04778d2c789ef708b12ed46d35989953
+SHA1: 6f4a07b3a3e9fd77ee37673cc0b6bcc18a33bd95
+SHA256: 1fc411ddcb46d6435359ff3543f64e8746ff61ad3d528c77493e5f2982095276
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
@@ -133,10 +133,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: perl
 Filename: ./debs/cowsay-3.7.0.deb
-Size: 13960
-MD5sum: e13b0f4dbf8e8f3c6a15cd7dae6aa5b5
-SHA1: defbd29e8fd2a2d9056d410ca4c6c379778d1c76
-SHA256: 0098e85d984782fb0678ce807b6d0f5b6d71bcf7fb3b5ca032f673eb5a11e9e6
+Size: 13956
+MD5sum: cf08bbda4dffab34fa9f3b4c28d5222c
+SHA1: 228b202c4d9639cb5d7d01beaa6b135ebe35c189
+SHA256: 6fc044960ec56e5a823932bc6f313353fd13182819f6f1318ccdf38bfa0d1ade
 Section: Utilities
 Priority: optional
 Description: Configurable talking cow
@@ -163,10 +163,10 @@ Version: 0.5.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/dash-0.5.12.deb
-Size: 62512
-MD5sum: 2eb1008f73e6105b7e34825027a7daf1
-SHA1: 711b0ba148bf7987029693fa17bb5551d3271c91
-SHA256: 50b107c9e1890aa939b1f64ad11874aa25a20613f698cbd4317323e8e6a6645c
+Size: 59730
+MD5sum: f2ac5415c32fdd98efbf3bdf11bf1ccb
+SHA1: faa1d46e043ccccfbc72cf09dc16b78c8243ec4a
+SHA256: 1a26f471cf71f35876088fc81ddc97bd0ecbcae6a0317a6cac3665176e8b2385
 Section: Terminal_Support
 Priority: optional
 Description: POSIX compliant shell that aims to be as small as possible
@@ -178,10 +178,10 @@ Version: 3.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/diffutils-3.9.deb
-Size: 183930
-MD5sum: c6299d36e1ea81e22bd2e6118ee17c63
-SHA1: 4f6c28413cea0a2b7ca013fd9439402858ee22c3
-SHA256: 8416882bfc72cf4c2db9b3f06af5bfa7c7cb31664bc5036cb126b46d8e1616cb
+Size: 177356
+MD5sum: 4990606b93c32aa40cb62927afe94158
+SHA1: feee7702dccb31581b44037240002bcc311c7192
+SHA256: 2cb4f5d30cb00ca97d02111ef457053864c54422c1d95453a3211501da4f1e00
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
@@ -194,10 +194,10 @@ Version: 7.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/dos2unix-7.4.4.deb
-Size: 37334
-MD5sum: e30dea5209345832c3e8e5c8efec97cd
-SHA1: 82ed1ce9bc8bf157083000e2498d1b288fb15a31
-SHA256: 2040c7d8bd8579f0275db1d87fc0390bde72e081f5bcceafdeab3e3701605807
+Size: 36066
+MD5sum: 58a1be0463d5da02f9e314e077f48de1
+SHA1: d6ab4436e53720c7863618a32042682681cd45e4
+SHA256: 0cd6d88b436d20574513303fe07fe753fa28917d76150a96dba53b48223c34a3
 Section: Utilities
 Priority: standard
 Description: DOS/Mac to Unix and vice versa text file format converter.
@@ -208,10 +208,10 @@ Version: 1.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ed-1.19.deb
-Size: 25480
-MD5sum: 493382c44013a9766bbebcace29f1b1c
-SHA1: 6084ac04bd612ee57894026dde8467b169700e07
-SHA256: 3d4789b5cede3538d58df766a85e7ed7013455d746c7f6ccdc236d863185bc8c
+Size: 24426
+MD5sum: 56323e6fad62025fed130ea2ce985e10
+SHA1: 4799d51ea11d69cb1f62a13abcd0fa49ed97ee71
+SHA256: ce0475a3cf82af5f9b5ee3b9fd551b6f3ef1dde776fec525c4a60896991bbe6d
 Section: Text_Editors
 Priority: important
 Description: A POSIX-compliant line-oriented text editor
@@ -222,10 +222,10 @@ Version: 5.44
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/file-5.44.deb
-Size: 465002
-MD5sum: ecd73ae3344392f3d503292620ff75f2
-SHA1: 7ac7b2e73c6e304e3d4bcbefd87b745e716eac35
-SHA256: 460392e74080fe89be3c8a4cbedb4502478ca3a79dc680ea63db334cb94110f9
+Size: 464938
+MD5sum: 23b3091a4fa84bcdd234a041d7da22fd
+SHA1: 43135a1b6a5394fc01ef9decb964d896be4a807a
+SHA256: f9e4d9c8c361a68ed3d60cd82dcd2f2dae8f929cadccab31aa2ecfdce6fd8c62
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
@@ -237,10 +237,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bash, sed
 Filename: ./debs/findutils-4.9.0.deb
-Size: 188876
-MD5sum: 13a6ce787b2cb891700373612b18ca0f
-SHA1: 9fa3a86c87219f9eb1bbf6f200344e26c61d645c
-SHA256: dc7bfcce248fda0bc49c72b160cab805d709cd5c6bc3e99e609dabd5fc08aee0
+Size: 182148
+MD5sum: 3ce12d5ce3cbc89948c4739eb38de17b
+SHA1: c9d4ae9caa9ae4b9d146024ce9b4b95554c7e2c9
+SHA256: afb7650574dc2de4142031df2b71a92b353ab9e3a749e23c703f267269392282
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/findutils/
@@ -254,10 +254,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: profile.d
 Filename: ./debs/gawk-5.2.1.deb
-Size: 395978
-MD5sum: de234fbdf6aaa93298cfad422c921072
-SHA1: dc8f9f4af22ca39b0121dbe18f1708c2eb970082
-SHA256: f2297ec2e22fd311d6cf83c0779aacb146e5d11305b5fb618392b280db8458a3
+Size: 389744
+MD5sum: ded7fc9cc8ffbbb58466d2bcadc3543f
+SHA1: e70c64ffd09c79b2d60223e68207a95d1d163ced
+SHA256: a16a7c96482716f529fa442be3149dc7775a0752396f2866d6f4a68048efde06
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
@@ -270,10 +270,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: perl
 Filename: ./debs/gcal-4.1.deb
-Size: 675882
-MD5sum: 69caf227bc37cd170b428a396a84c3d6
-SHA1: 2a732b45bbbaeb33a477b242cad57a0680118ab1
-SHA256: ae27d6d37af8c94f44996fbe1c82f486ec151cda919b85bf6a31a1e682522614
+Size: 667652
+MD5sum: de6df804e2022ac0f94aeb62747957a4
+SHA1: 2cf710c2a064cc483dff2308d5de6b3e9ab68a7b
+SHA256: 743c00a749bc2e5dc562e86ab901bb5696b4aba84976d89e58e0e45beb8f1e4a
 Section: Utilities
 Priority: optional
 Homepage: http://www.gnu.org/software/gcal/
@@ -287,10 +287,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, libressl, perl, grep
 Filename: ./debs/git-2.39.2.deb
-Size: 10244216
-MD5sum: 6cdf48128dffafacaefb289e9ed453ed
-SHA1: 372e0375c31284ca9b0b054143a8f93d86e7ba59
-SHA256: 36b616fae47a3f04d719211a53b9f12efaee3871c7647fadfe975f371b095306
+Size: 8274056
+MD5sum: 6d59fdc47693acb3bd13e31651dadf24
+SHA1: bda6a5b43e406cb2362d64cbd44e62ebec8c9bd0
+SHA256: 72e677d3e3a2e67491fc09e251929003412b49b2bf227204b3b6ba1fde9c0aa1
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -301,10 +301,10 @@ Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/grep-3.8.deb
-Size: 130966
-MD5sum: 37bb9106f5c444cb9f4b9ff44009870a
-SHA1: e348844d07e3a37cbca6d7a8527dc6c77981e010
-SHA256: 424d8daeab8352b1d94a6f826c981907dc0c689ce216093a6921ccd55f103cdf
+Size: 127872
+MD5sum: 0425fa35754f71326ec155b2f9caebb9
+SHA1: 68d25cf8a147c6ee2fadf1863eb836290f6fc600
+SHA256: 2ff6b9367d4e25989ba0915bf64352802657ea122babf62e94657e9b0362a352
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
@@ -317,10 +317,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/gzip-1.12.deb
-Size: 73480
-MD5sum: 1a4131f9ff300e6c736d0a287750cef5
-SHA1: b8a8da1eb16fea51ea5fa49c7e6f2b6b7b831faa
-SHA256: 833c54c937ee7474761812d134371f0efbd14de4df0626f7a0a412ca5e5c264e
+Size: 71336
+MD5sum: 2aa1ecec0090363cbda57c3009ef7cb7
+SHA1: b672d67449720b6f7fca96297d6de16d131b123a
+SHA256: 3c09a6c587d118823f449cb45b0b44f212f8a819f29dc1fcd468305a3f073c48
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
@@ -333,10 +333,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/hexedit-1.6.deb
-Size: 21202
-MD5sum: 6a05d42e5cee8f3a652b65dab9e3c762
-SHA1: 78d1dc198cf4368f207f47e0d8bfc0b4ae9061cb
-SHA256: 7bd3e8e87c6708c9d624ff944ed5258de0e354c72d89f8ae983acc8e1c81aadd
+Size: 19824
+MD5sum: 831325307d4868c48ec70fe5227d3b2c
+SHA1: ba89cd322384afbaa2a63df872cd9032de3d8b4b
+SHA256: 33b351e5e16d0ca8b2a99899d2df81c94581bdd269c00fcdcc99dcec17075e6f
 Section: Text_Editors
 Priority: optional
 Description: View and edit files in hexadecimal or in ASCII
@@ -348,10 +348,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/htop-3.0.2.deb
-Size: 59100
-MD5sum: 465b3c95188758ffda339a19ef990185
-SHA1: 57df26c24e25d67879aac960a9e3d992e0c218c5
-SHA256: fc7bdb19d42ade3fc35065ffe7a43bca889b20673b4127db1fa365965f2882d3
+Size: 55170
+MD5sum: d4cb4b870c507e8f19a0fcc07c0df8ac
+SHA1: 95a07d2d6a3d38b5bf418eadafde38e3e66412dc
+SHA256: 0b901271b7e4b9ae3e62ec522c6b7319c7d9e61a697f774384278a0307463304
 Section: Utilities
 Priority: optional
 Homepage: http://htop.dev
@@ -364,10 +364,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
 Filename: ./debs/inetutils-2.4.deb
-Size: 815972
-MD5sum: 62ab8f9dcd99e0e9dc4dc66b4634ec16
-SHA1: cf5379c0faee59d989abb15191187ad55294a000
-SHA256: 57ae9c902b2fb07ff061e60a3b91ced1db0c50252ae811712be1b3cc344346a6
+Size: 777430
+MD5sum: a297985a23dede4b1580f4e7df7ca530
+SHA1: d173fcd38f358778a504447153d31cfa651a5c97
+SHA256: 1264ac07143c4c65d24a143b71201791cb9e7f17469aeda4a824702124724843
 Section: Networking
 Priority: standard
 Description: A collection of common network programs
@@ -379,9 +379,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl
 Filename: ./debs/iconfix-5.1.deb
 Size: 1360
-MD5sum: 454497be704ff6fd37203cc86db2f545
-SHA1: b04161d7c92b7a7ef16ab7b34a1b5cc29cb5f7e8
-SHA256: d86e97d34c0194a4eb0b016e8579fac58e46b6ca08052b4c0da11c8c5ba3ec2e
+MD5sum: 7773f9476c8fafa57209576b595ab094
+SHA1: 001dba3159ac4de1d26407bef4543d88a066a4b4
+SHA256: 7a95869146139d2f0c5bdabc366c9d42085266008d0ce11d0d2c1c758c7e23d2
 Section: Utilities
 Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
 Name: iFile/MTerminal icon fix
@@ -394,10 +394,10 @@ Depends: ncurses
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
 Filename: ./debs/less-608.deb
-Size: 107398
-MD5sum: f1a5bf583acee257d2a13665c404304a
-SHA1: a0850b2bcef9ea401f64743b4b2ea79b60060d92
-SHA256: 261abe7aa405bba767f04ca59a21eb595e9a9efea0101ea83047028d6b171875
+Size: 101542
+MD5sum: 1a8bcec20c4523785cfa9b56e5202d3e
+SHA1: aa5be5d5bb8eba7743ac6c74f2a1d539cf6b989f
+SHA256: 58bebaeb6560a5157dc3dd2e53b9797b41248d147e29f2345ca2c800863c3fdb
 Section: Utilities
 Priority: important
 Description: provides less information than more does
@@ -411,10 +411,10 @@ Conflicts: openssl
 Replaces: openssl
 Provides: openssl
 Filename: ./debs/libressl-3.6.2.deb
-Size: 2398718
-MD5sum: 50d37f13cd6c537250b8d8a06a7ea0a7
-SHA1: 701b4c493e2497df168ccbe163ddb20e8467ba36
-SHA256: 7dc07eee81eddf6958ad3ae4a5a047bafe652e41b36a286889baeb2f4815dc46
+Size: 2396554
+MD5sum: caccc3d1bf0ade0534663630d3f225ca
+SHA1: 3cc4e44fcbb6303f838dc190e05294415e5af227
+SHA256: 815ef6a694434a29892538b3d2e75048eed8e559e5931fd72bfa670dbfce685b
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
@@ -428,10 +428,10 @@ Depends: readline
 Conflicts: com.deltaman.lua
 Replaces: com.deltaman.lua
 Filename: ./debs/lua-5.4.4.deb
-Size: 385702
-MD5sum: b8adfad782d60a66322bfc2bb839cd38
-SHA1: 0be56da2b99c4fde87efb15ef02541f5bd29fd79
-SHA256: 0f3ef0bd7932b547a41acaa1dbdcd2889c0f8f78ea8199cfc39155e425213f51
+Size: 378032
+MD5sum: a45b92b720f5b71ead6f3ea86ae9834d
+SHA1: cc9063f4dffc6d183929ec713dba66a3e493b347
+SHA256: 1b6fc46bc66dbfcfd1b78196429057088892c34c35e96e9e528ff2ca563a0965
 Section: Development
 Priority: optional
 Description: A powerful, efficient, lightweight, embeddable scripting language.
@@ -443,10 +443,10 @@ Version: 2.1.0-beta3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/luajit-2.1.0-beta3.deb
-Size: 928666
-MD5sum: eacb7b7647b425336b696d064a7d578a
-SHA1: fddd61528ad6c44477fcc3f72c75df2afe2030b0
-SHA256: 62cdbd57cacdcf5077ce08851801415ea7d018bb9d19f5e10b4eaf58fba2e4b5
+Size: 927294
+MD5sum: a8398d80d18df14ed17d28c093f68479
+SHA1: 870c40678d967297a6f573c10af9e561a972822a
+SHA256: 15ec720816350ff5b0bc25eee56fdb1d625bef8ecb3146415b4731240d8a02f2
 Section: Development
 Priority: optional
 Description: Just-in-time compiler and drop-in replacement for Lua 5.1
@@ -458,10 +458,10 @@ Version: 1.9.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lz4-1.9.4.deb
-Size: 215470
-MD5sum: f94a8620ad731a4741abcda30825bf77
-SHA1: 6effb7c0348787c9dbe0a6a42df145feea1eb9f7
-SHA256: e5cac212c09bd91e5c07362ff3030a1954481a5798f1883d9c20cf401c895ad3
+Size: 213194
+MD5sum: d36bebef0ed944f76719f082ef8beb58
+SHA1: 7df62e3a78088fdeb9a1a6038a6b3b5e13e06287
+SHA256: 75a598dab3f8fa7f0e5f8340345120fe34ff29a461594e893e3ac8191ac201fa
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -473,9 +473,9 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lzo-2.10.deb
 Size: 78392
-MD5sum: f70459932b024c461fa76f37d8876bac
-SHA1: 589261467cf207662b3b721e5ff8bd0262d21ef7
-SHA256: fd695d69e842bb191bac95d50ec94eaa33f50622a4ff9a440232c0092b82fd25
+MD5sum: 815a6f66106cfa4921ff19b3c747283f
+SHA1: 15cad99fbb1b6e1c0cfd1c8b8f2262ce8be8fc34
+SHA256: c6d0fd997ee00e712fdd694ba2c890d6afb03ab6ea3b696b82936d1fa5dbcfd4
 Section: Development
 Priority: optional
 Description: Portable lossless data compression library
@@ -487,10 +487,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lzo
 Filename: ./debs/lzop-1.0.4.deb
-Size: 35738
-MD5sum: 469c23b8b39e6918e86fc7967424e9d0
-SHA1: a8a582824cca456b4e029bdbc860b70256b9f6ef
-SHA256: 6dde652ad6504c895717558b0e1e82ac48960149eb7fa78bc3ce5ac2524fff52
+Size: 34092
+MD5sum: 63b90c17f9a43e74d0b6433240e7b05b
+SHA1: 667e204c1f702fc3199007557c0c2a3bbd619757
+SHA256: f27828a98177c4a595e5cbea1c83952a0852ccdd8b3d3e8b868d1314f17e1949
 Section: Archiving
 Priority: optional
 Description: File compressor using lzo lib
@@ -501,10 +501,10 @@ Version: 1.4.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/m4-1.4.19.deb
-Size: 138010
-MD5sum: 4c5667d734f139861bc232cad408501e
-SHA1: e53e09697cec212e0309d35f4cd8926937c719dc
-SHA256: e5c56bab7e944e4d1bbe9ebdf8cfedc404c33252d29a6b2636be9b41e02a7c90
+Size: 133554
+MD5sum: 780461e0c6b00840d00bb002d08e6c0d
+SHA1: 26cbd0e70528935d178f4e8a2f7bc8281be41d63
+SHA256: 9406baadea412d7933c0668b9054a10a7e9b2ed60f761593c70093802a0c9b85
 Section: Scripting
 Priority: important
 Homepage: http://www.gnu.org/software/m4/
@@ -516,10 +516,10 @@ Version: 4.4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/make-4.4.1.deb
-Size: 121194
-MD5sum: cf781c06b68c19fd63f2fc347543ec0b
-SHA1: 22592b7db7efdb3b2cce0dc93cbb61a861d0738f
-SHA256: f228010907eb5db1ebce79fa435c81e6163a674eb183c566b3cbba52017223ba
+Size: 117168
+MD5sum: d30cae352da70cda19641593b61ceab7
+SHA1: 91fcb3680aef56f6aa0c7780869166ae43566134
+SHA256: 0bccffff9c475fefb1125b6706cdc9b79403f0a6ce9d56af1818e1dc719486ce
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/make/
@@ -532,10 +532,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/moe-1.13.deb
-Size: 146270
-MD5sum: 1272ef72c8f4b4ab0b1e7d0417ee3106
-SHA1: 41ca3afeac140c3ecb6d515bb192b7ca7daec757
-SHA256: 72d9899b70d726cb46e1162f0efa9c4d38968d3549f6301f0585fad5a345e13e
+Size: 140274
+MD5sum: d7bc7763df21db1dedd8fc98d12327f2
+SHA1: 033c8d7bb9bee7c9cb1e02a52398b2b32c212ac8
+SHA256: 126288d81787908c3ea9e51097fcb1dbbf7dfcb03ceff80e8185e76519b25a5f
 Section: Text_Editors
 Priority: optional
 Description: A powerful, 8-bit clean, text editor. Supports ISO-8859-15 and ASCII.
@@ -547,10 +547,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/nano-7.2.deb
-Size: 296050
-MD5sum: 5658834135521e9985c1fb4d4bade200
-SHA1: 43e8d397d35a3626ead4011bc8376dbf451b6389
-SHA256: 4f65ad467e2857269faf5a2937c7b409be7082ee6a265146c16ce53779313a86
+Size: 287372
+MD5sum: 3edcd7f1bbdcee9edd152605536df3ff
+SHA1: 051f8383f34cf4878c6f20f05eb1595d1e2e9357
+SHA256: 91e41a1fa64a31041943bb2b84ed668fd7b0c358a35e3203766cce8b89e9f02b
 Section: Text_Editors
 Priority: standard
 Description: completely free, modern clone of Pico
@@ -562,10 +562,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/ncdu-1.18.deb
-Size: 39870
-MD5sum: f6d5147e3d31c7f45afdd5657db215ca
-SHA1: ff1b3fda401b6b08c16de677ca49bac20ac53205
-SHA256: fb082cdf1a8d81ecdaf76d9a83d3850c766485ccf7321b471f0f4ea349dfe6ab
+Size: 38652
+MD5sum: 2a22fafbb420cde08bdd748feed98546
+SHA1: e7360f4f845b043374009f710726b7033cb6eff2
+SHA256: 99d070d09ba51d563536081fac99c6d5751e7f18b44d928359c74e0f797d35da
 Section: Utilities
 Priority: optional
 Description: Disk usage analyzer with an ncurses interface
@@ -577,10 +577,10 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses-5.9.deb
-Size: 912850
-MD5sum: 3885f474b44c53d066f9e31c337f904f
-SHA1: 38434c9fe4b02742010f83a1880b2ec9a8281ad2
-SHA256: c77efa7e101c27b01495b4c4432e11da72bcbc3c6a5b9c0aab051939cf2a69e2
+Size: 911852
+MD5sum: 8cf8b8dab0e8c339a618f9bb853cc5df
+SHA1: a51e5760223f0e668791af872020018bc37944d8
+SHA256: 4eb447ec0925ec850f09e32770c1a0eb8e937a3a75d26282a69e0c1a925c4c86
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
@@ -592,10 +592,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
 Filename: ./debs/nextvi.deb
-Size: 78686
-MD5sum: ce34ea74d7e22f8618cf9a7f935961ad
-SHA1: 91dce51a817513e8c50a35785ee89bacde606f1d
-SHA256: 3b0e984f5903eca040017d68441ec8883323c9b23a250aa15d5f2eeb0fdac9b0
+Size: 78684
+MD5sum: 9299816b839dc35cd774738a1b675629
+SHA1: e7a8273756159ff4d2def886c2fc0c95d113d1de
+SHA256: 2a10be3774b84ad8a667898463abd2b33fe326d867c7377f9d59eb811f1bbd19
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
@@ -608,10 +608,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
 Filename: ./debs/openssh-9.2p1.deb
-Size: 2311126
-MD5sum: 0572894caa2a14d50373ec236d29cd16
-SHA1: a4abae15882542da767e6e1ccbc2b9a1d63421a2
-SHA256: 81abf27b21b0995b74739e15ed76459ae54cf9a7b6fc7388d7190de1a13f356b
+Size: 2234312
+MD5sum: eea66b0e1ece9d3d4220407460857230
+SHA1: a64fc278bb9337a354696175c9b9db7285589a10
+SHA256: 0b06a6a0aaabdef5b1ee096796faec30c309176e9d37e5382ba3ca68196f58a3
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -623,10 +623,10 @@ Version: 2.7.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/patch-2.7.6.deb
-Size: 116248
-MD5sum: 6a26f0cc02fd12ea28a520d60101d041
-SHA1: ed96a40592fc40fbddebb499bd8c683c078da820
-SHA256: 8d64f244ce81abb2582c264bf56c6ca2f6e5951c039f54d0599b571b809a6d09
+Size: 112530
+MD5sum: c70697caf28c167a264123e0351cf8da
+SHA1: f409a59a223680440706937a5e4785e47171446b
+SHA256: 3c4b76ef2f675893c0a502df210abad9c3f43b70ab3c8a1c057c6b724ac9a220
 Section: Development
 Priority: important
 Description: merge a difference onto a file
@@ -637,10 +637,10 @@ Version: 8.45-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/pcre-8.45.deb
-Size: 160870
-MD5sum: e8a2f0975041257eb6e30c40152ad759
-SHA1: 4eddf7dbbb2aa4251f970aa4c0187fbf7b546297
-SHA256: f54ecde5988643ddb4ac5b758fe39932282987a72d1318a0d4ee37f4c98e34e0
+Size: 160452
+MD5sum: 0e3b1a9bb3815a0b5c0c240d151c0c08
+SHA1: 9db4e72ea4bf3f419810d3a2675decefa478b7ec
+SHA256: c05ed9c91760bf2fbf3a9bd601d21d0b0f7baff43bfba7999f8da1dd81c24cc7
 Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
@@ -653,10 +653,10 @@ Conflicts: org.coolstar.perl
 Replaces: org.coolstar.perl
 Provides: org.coolstar.perl
 Filename: ./debs/perl-5.26.1.deb
-Size: 12043934
-MD5sum: 1df85eb71b6845f03204f436eb049a65
-SHA1: 805dd5835351f84afecbce1630795b6c07b34fa0
-SHA256: b7a48372b25fd511018b92e5bd49e236a33866b4bf4cb3f0dea95201257b3b94
+Size: 12043880
+MD5sum: a6ed40a3225ccda8c24d36afb9c58e58
+SHA1: bd146c0d5389fe78bd276d6ca8bd8b4adda47d91
+SHA256: d245a36bef3bd94e3a71f20bd8d2e11ba7d0ad408b2a61640e2c0a4f7e2633d4
 Section: Development
 Description: A highly capable, feature-rich programming language
 Tag: purpose::console, role::hacker
@@ -668,10 +668,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: adv-cmds
 Filename: ./debs/pstree-2.40.deb
-Size: 6578
-MD5sum: 41eb56a0d61b5afc2e3b4488b1f23b08
-SHA1: b4fd6818d31315bfef5f633f2c340732b43f3741
-SHA256: ad5f9e5fff360dde66787789f6366a24212f4a1acfe7613f8cfd20e3045c9cb2
+Size: 6462
+MD5sum: 104ebfbf838a5f54dc9b95617b7242a2
+SHA1: 7e849ade110f7dca0433843243e20a0b82968a3b
+SHA256: 4b85e9670d6963ea8004077af67fc75384b4ede598fd1549e0a95f2a39a3ae66
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
@@ -682,9 +682,9 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/readline-8.2.1.deb
 Size: 167810
-MD5sum: 519194a4392e01c8282589e2b86cf1e7
-SHA1: 32c2a53bdf0bbd341a233905ec895fa84ddf39a2
-SHA256: 036eb631dc370cc20877c34913e8aafd95665e4c59dfbdd0f6b05dc74fbe81cc
+MD5sum: 263a4def4d0c5b251c945ed7133d722b
+SHA1: fac97476870e9782658e9a2d16110565f363cb54
+SHA256: c4dd7e8bc77eaa1bc865a9d18df181e33ab7aac6bcaafefd18036d0fd9d53a09
 Section: Development
 Priority: required
 Description: command-line history management
@@ -694,10 +694,10 @@ Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/rogue-5.4.4.deb
-Size: 97430
-MD5sum: fd533af04a28bdc8ec64e1126e7e9be8
-SHA1: f26653ebd96e073e1a36da21703bfd451b6bf805
-SHA256: 75eef74218658c865796bb1427ef038161da1a054b3c1223225a8dff84e3453a
+Size: 92482
+MD5sum: ebffe0e975582de9e6ba07dcb5b247f4
+SHA1: 9342debac71c1be20668b18d786c71528ff0b67f
+SHA256: f2b31303a89b8579715af869c252bb990afbf16bbe82bd9502ee7dffb2f39d4e
 Section: Games
 Priority: important
 Description: The original dungeon crawl game.
@@ -710,10 +710,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd
 Filename: ./debs/rsync-3.2.7.deb
-Size: 295612
-MD5sum: 98c2857fd6076ebbb7fd13c3a909ba0b
-SHA1: e9f9e5ea1504a9f622ec20eb6d4da091431018de
-SHA256: d4ef7ae2cd82c5d7904c81fb42a56b677b2b9ebc7b341e37111f47b094fe790d
+Size: 286004
+MD5sum: dc093dfdfb1041798a86202ab0ddca16
+SHA1: 3991520eafbed5e678bcc7e99b10cb43a539316b
+SHA256: 8ce57f42567fe498243ce47cc58475f45f2a55ac1f478d04405ad3ec5eeec143
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -725,10 +725,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/screen-4.9.0.deb
-Size: 476268
-MD5sum: c70b8b8b165b7e4ec9dfe4a7b2b78dd1
-SHA1: 68197e3ca4606b0ce806799f608c9d34a843819d
-SHA256: a544735d8daf25a6bff4db40eefda9050e5359de59602f4ad5df88bd800fe578
+Size: 470080
+MD5sum: f5a9f567fdf5e90305888839c82a9c79
+SHA1: 46979d213d660d9c8ab7e9e32dc41843ecaf3bba
+SHA256: f1b23b626d7d3b7a71d07c29e72cd37df15934b3cf6b007ede8069d70dafd2ee
 Section: Terminal_Support
 Priority: important
 Homepage: http://www.gnu.org/software/screen/
@@ -739,10 +739,10 @@ Version: 4.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/sed-4.9.deb
-Size: 105196
-MD5sum: b8dac7c94729a4e0dbedf196934719b3
-SHA1: c2ccbf92acbe98e77e2505b8e71e88382fda8fb7
-SHA256: 4e861a88434be714b3d05a6164b1ec9349b723dc76f97055aab530a689b2938c
+Size: 102728
+MD5sum: a46d6ddfbf50476ca81b7118587f776c
+SHA1: 13fd33968dbcbac73fdd1daa3e1d599e8057f30c
+SHA256: 41766d3635cb56cd355385d6a794a96f353ffe725b625dbafd6691531458d80a
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
@@ -754,10 +754,10 @@ Version: 1.9.13p2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/sudo-1.9.13p2.deb
-Size: 887644
-MD5sum: baea6e10fb04d4e8d1eeba1d8f6b67cd
-SHA1: 4221380b5bbf5dc5deda7fba5cdacbd96c2fd103
-SHA256: f9ddc1e9ff2bb0a96c662e25db4d8b0a78daa8ee7c27810667370d5b96388ee4
+Size: 887074
+MD5sum: ca50b2c47cdc4f28ab8ff66356524a3b
+SHA1: d1162660afa2a56e62fb322a5e5b3dc0007ca725
+SHA256: 5f971fb085295d1770535fc9afcda1eeb62ec2a8282b58aa53ececda624b12a4
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
@@ -789,10 +789,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bzip2, gzip
 Filename: ./debs/tar-1.34.deb
-Size: 266632
-MD5sum: fbd476ac9f33b0e6a25bffed9eea31a4
-SHA1: 55173b9c52685ba8dac7fc0f1bb8929d64d54184
-SHA256: 58636a63ba6d246b236577e98f50b71787e8963bb9dca4ce83f3b714b0efce0c
+Size: 257696
+MD5sum: 96dff293012d4cb28186d544e9ff7c27
+SHA1: f08f2db57e211420bef4fccf4358040662a10b41
+SHA256: 266b693654024ec9944b3a4ec49e7f0e89d45fecc2ff58d82e29ef776294d95d
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
@@ -806,10 +806,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/tcsh-6.24.07.deb
-Size: 211432
-MD5sum: df181329a484bc93e6c8775881b9b123
-SHA1: 454aa668a64897a0feed67f478f7a1f955024af4
-SHA256: 4e00276d70bb543a7733fd24fd85f0e987c40527ef47e17b804d00be952ba9e6
+Size: 199516
+MD5sum: baa486b204ee99724dd157741ad0e409
+SHA1: 53366a93a07b75f7a092cd652d61e046582ac88d
+SHA256: 1d3422c3c36e9786253381d4c0412c24ad91c1b35383ee205e08cad0ddb186a4
 Section: Terminal_Support
 Priority: optional
 Description: enhanced version of the BSD C Shell
@@ -820,10 +820,10 @@ Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/tree-2.1.0.deb
-Size: 34438
-MD5sum: 3e2ca04e95a1ebd5e62b38cae0b13ab4
-SHA1: e954ea5d9c77b3a55c39e0e17d4031ff915ab6ec
-SHA256: 8afe69321c41b9abef95d66834a3ca8b535cf02e183e62449c7ec84eed8a48a0
+Size: 32448
+MD5sum: 3c10a6d54f3f6224579c989f6b389f2c
+SHA1: c13f7379d16a86207af2602410fdc2ba07e79cb5
+SHA256: aac99ed2d3e903829a0f302e032ab94420b944bbea43df04c794c6ceb8fb73bb
 Section: Utilities
 Priority: optional
 Description: A colorized, indented directory listing tool
@@ -834,24 +834,24 @@ Version: 6.2.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/unrar-6.2.6.deb
-Size: 177874
-MD5sum: 9631792663ea36b690705da5e0e0739c
-SHA1: f7dce5762cd5c2cb62356ba16067d1dd31135582
-SHA256: 166ab0422d2b8a028ca9f2b23567b79cea3a69ee3272cf15a6cbad4a9a658c4f
+Size: 168374
+MD5sum: a799ff99109f87d6d40e12ca65b6b281
+SHA1: 9cb13de9600a6ce5b6ff4fb9be89abe9b7f1a823
+SHA256: 3f87e86ff30ee07f181f61cf5507cc7d3ffe869cf852ed95b3c35ae01c50c06f
 Section: Archiving
 Priority: optional
 Description: de-compresses files in rar format
 
 Package: vim
-Version: 9.0.1341
+Version: 9.0.1376
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/vim-9.0.1341.deb
-Size: 10070500
-MD5sum: 5183214e87832ee82515c6e07eb68053
-SHA1: 4cfcd4deebfa727d580a7cbf359b07ef8449cd51
-SHA256: 100ed12d328de9fbf06535164e4d88ed2056799935eac0928f59c1a2232d77b2
+Filename: ./debs/vim-9.0.1376.deb
+Size: 10077330
+MD5sum: 9bfc7e3fc16e87c5dae607d149e85450
+SHA1: 3f9dd9f806073b004bc8ed94565bcae6f6b082db
+SHA256: f2493577d6ecf02abf87b42354e24d6c4650fa96ab8a1b33b70e78999761734d
 Section: Text_Editors
 Priority: standard
 Description: A highly configurable, improved version of the vi text editor
@@ -864,10 +864,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 269838
-MD5sum: 322b44816daf319a640bad96bca4a6ea
-SHA1: 55466bfb77ed3ee1dc61a71518ac5027209b3d2a
-SHA256: 9da95965fa6e8d9a769492120be1025b6f2fb8f1112b8869f1888426f046bb29
+Size: 264186
+MD5sum: c6db99b93000386cebf53a0c0e3a4bfb
+SHA1: 0c76bce88b604fc4a343b69712979f70fd2dd7ac
+SHA256: 242b0f7248cd540ec28246dcac3f1e2180e65e137cfb99c5b75edee9675812d9
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
@@ -878,10 +878,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz-5.4.1.deb
-Size: 192966
-MD5sum: c178a68158c052d75377ee46c4c78903
-SHA1: 3edf5c2f66f002be81930993bfe0eb8c6118d049
-SHA256: ac1d65a536d01c207bc24ca073be2909a8cebbb0cad5f087f16c725818ef96bb
+Size: 192848
+MD5sum: 5f5660620535a27046865e82822ae31a
+SHA1: b57f5bcd1371cae9aee8ca8b8b3376377d8de7b9
+SHA256: 6ee8b3581c523d576e7e1485eb0d90bb65706177fa0da902ae5586f1a7847d5d
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
@@ -895,10 +895,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, pcre
 Filename: ./debs/zsh-5.9.deb
-Size: 2051298
-MD5sum: 69f70ceef6d37a8be1abf450f63b572f
-SHA1: f0a4c610c32f8777b22046d780b95ae7b7e143c0
-SHA256: cb4d74af8dfb071b24d664e0fc18201d3a965949e3ac771d1716f404bea9972a
+Size: 2031996
+MD5sum: bf49fbc677516e660c9ff0aea92ca5c6
+SHA1: e01d11ddf717585925b559a95b6e0acf57f79355
+SHA256: e862dc2977680d8d80e6f9a001ad2d28570d531b4b711c286062ca758c82feb5
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
@@ -911,10 +911,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils
 Filename: ./debs/zstd-1.5.4.deb
-Size: 871172
-MD5sum: 1204afa7116b775b9548c8415067c931
-SHA1: 78cdd7c17dba44cc53e008db6fe0b467a6d1f583
-SHA256: 09f528ff9a6093102dfc22bbffc8159885a368cb9389dbaf1c2f542439074365
+Size: 862686
+MD5sum: 6438872c0cfdb1884d378bc03fd56c37
+SHA1: d998ca2eae09a80b7e2bf8802be09a7cb151ed17
+SHA256: fb36a3b911427625d8ac58ec6119737bf725729dd15358b8f561bf301cb3dd74
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
