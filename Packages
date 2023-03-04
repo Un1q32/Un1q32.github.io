@@ -773,10 +773,10 @@ Conflicts: sudo
 Replaces: sudo
 Provides: sudo
 Filename: ./debs/sudo-1.9.13p2-arm64.deb
-Size: 840686
-MD5sum: 24cf872c6e493718ec9660862d6e7d47
-SHA1: f3ce2d754a33fc80f348f55006b574f56cd8e71e
-SHA256: b3c062c46fc8774e1a493cdf0680c9f8538a95cb859bc07bd3ed58e120b7417f
+Size: 840482
+MD5sum: 99fce52d8159a1e6c3e8b219889d9652
+SHA1: 922ac843892b2b4e2592c5e815dfc36ce1da14a9
+SHA256: c0a039396adc632402ecd9d3b09d2f77afcd3d6f76693c2db18348c2caa224c5
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
