@@ -390,14 +390,14 @@ Package: less
 Version: 608
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: ncurses
+Depends: ncurses, pcre2
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
 Filename: ./debs/less-608.deb
-Size: 101654
-MD5sum: 6e5ac5da29756001d4b2ffe74123226c
-SHA1: b12bdcc0d9199a69a86ad27d85354d2ebacfb9a1
-SHA256: af06989e332955ae4a490799ac146c3f719676e8c5d7b0ce6b5a28e0c873c7c5
+Size: 101660
+MD5sum: 905c74831c60b57642b808976c5d2b46
+SHA1: 393636d06bdb3a6c4f8399cadda833dc5741068c
+SHA256: 5d8020bf5133e5eeb3ca09fc9d9330789c149796c74e83e94a1763cef5722e6a
 Section: Utilities
 Priority: important
 Description: provides less information than more does
