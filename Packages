@@ -394,10 +394,10 @@ Depends: ncurses
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
 Filename: ./debs/less-608.deb
-Size: 101542
-MD5sum: 1a8bcec20c4523785cfa9b56e5202d3e
-SHA1: aa5be5d5bb8eba7743ac6c74f2a1d539cf6b989f
-SHA256: 58bebaeb6560a5157dc3dd2e53b9797b41248d147e29f2345ca2c800863c3fdb
+Size: 101654
+MD5sum: 6e5ac5da29756001d4b2ffe74123226c
+SHA1: b12bdcc0d9199a69a86ad27d85354d2ebacfb9a1
+SHA256: af06989e332955ae4a490799ac146c3f719676e8c5d7b0ce6b5a28e0c873c7c5
 Section: Utilities
 Priority: important
 Description: provides less information than more does
@@ -645,6 +645,20 @@ SHA256: e6b90ed99409c6fb5a947629fddc6695352363f0c5dffb9c1cd91d89f1dd0f7e
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
+
+Package: pcre2
+Version: 10.42
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: readline, bzip2, zlib
+Filename: ./debs/pcre2-10.42.deb
+Size: 232282
+MD5sum: 43422e5e197e52575a318b1a2f0d4ce7
+SHA1: 0d5c55136defb28f0df882084b66af9833a74a77
+SHA256: be5336e7019ddb5dbf1981d6c0e157ae05cb7ada2f70a7db894d5d2ecd53138c
+Section: Development
+Priority: standard
+Description: A library that implements Perl 5-style regular expressions. 2nd version
 
 Package: perl
 Version: 5.26.1-6
