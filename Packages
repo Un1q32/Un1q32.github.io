@@ -633,14 +633,15 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45-2
+Version: 8.45-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 160766
-MD5sum: 2358b105352a9ef541bcf4b4591627da
-SHA1: eff195c7ee7835d93bd1a7589785374e34d76d3f
-SHA256: a48ce4615ba958dcb4aa773ed32c99a31abca9595429b7312f0c6c4cdf40a937
+Size: 161256
+MD5sum: 9545c6965d3677afb22fa02fa9e96054
+SHA1: 506a0cf95b6f4e9dab578f67d672b89677832892
+SHA256: e6b90ed99409c6fb5a947629fddc6695352363f0c5dffb9c1cd91d89f1dd0f7e
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
@@ -888,6 +889,21 @@ Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
 Tag: purpose::console
 Name: XZ Utils
+
+Package: zlib
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/zlib-1.2.13.deb
+Size: 78404
+MD5sum: a4cb7631eb44136efb36e2ea19cb0056
+SHA1: 3a16f3fc39bf113c907649ee2f33aba0a6c9951f
+SHA256: 40b6b358e318c159c6bc6f8271465f4530d2df6095b397aeb5f44e85f0969197
+Section: Archiving
+Priority: required
+Homepage: http://www.zlib.net/
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+Tag: purpose::console
 
 Package: zsh
 Version: 5.9
