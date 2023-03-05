@@ -633,17 +633,17 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45-1
+Version: 8.45-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/pcre-8.45.deb
-Size: 160452
-MD5sum: 0e3b1a9bb3815a0b5c0c240d151c0c08
-SHA1: 9db4e72ea4bf3f419810d3a2675decefa478b7ec
-SHA256: c05ed9c91760bf2fbf3a9bd601d21d0b0f7baff43bfba7999f8da1dd81c24cc7
+Size: 160766
+MD5sum: 2358b105352a9ef541bcf4b4591627da
+SHA1: eff195c7ee7835d93bd1a7589785374e34d76d3f
+SHA256: a48ce4615ba958dcb4aa773ed32c99a31abca9595429b7312f0c6c4cdf40a937
 Section: Development
 Priority: required
-Description: Perl-compatible regular expressions
+Description: A library that implements Perl 5-style regular expressions
 
 Package: perl
 Version: 5.26.1-6
