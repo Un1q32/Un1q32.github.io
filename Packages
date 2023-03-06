@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib
 Filename: ./debs/curl-7.88.1.deb
-Size: 455118
-MD5sum: fa9828e1ca18f1adcdc8d0f39a6838d7
-SHA1: 1d0c93e0c87b1b3682bd1aa41d3baf311bb41110
-SHA256: 7a4ee8bc542eea2098571f9b9077d99f518c506ea17d780ec434e86ee0fca26c
+Size: 455144
+MD5sum: 9d11237770d88c05fd54d3740a502e56
+SHA1: 85183720802b021dc056e1507eb88dda981ea174
+SHA256: 5f03aebb0424fedf17c03a902651fde864a0a863ec5faa3a21226fb834d1e428
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
