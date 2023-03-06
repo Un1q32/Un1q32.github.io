@@ -909,11 +909,11 @@ Version: 1.2.13
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/zlib-1.2.13.deb
-Size: 78438
-MD5sum: 0999b0b6f878d90242cb1c51844d4f5b
-SHA1: 6aa6bb6a763418216c3fa79ada02edbb098b072d
-SHA256: aca79dc395c1929c1c1012b5d5db4a994e2e55acd37611dd705c437a8955c62e
-Section: Archiving
+Size: 78430
+MD5sum: cabbe63e2a184dda80aeb756128fc436
+SHA1: 701392773d7d5cf69b13fbb4303715cbf10481a4
+SHA256: 4ea06bb445065be20d50b88af415367b619c0e44e0241389d6f09ac63715f26c
+Section: Development
 Priority: required
 Homepage: http://www.zlib.net/
 Description: Compression library implementing the deflate compression method found in gzip and PKZIP
