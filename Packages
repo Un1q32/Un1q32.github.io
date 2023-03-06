@@ -638,10 +638,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161252
-MD5sum: 1da019f697d5c7c9f07845cb303c8114
-SHA1: 8e8687112069c3ac1db84b9f3bb7b1cd4e00e60d
-SHA256: ddaaced8df1543aaec1ba1e7bc2bbf2585d373463dd298005605b35bb94c5557
+Size: 161262
+MD5sum: ec1e3edc80e75f0746cf11d36f3ff50f
+SHA1: 8d93d8dcb8c15147f23a49aca9ef60d74a92fbcb
+SHA256: 6da9a45da8c7f81f3da54f53831bd9ee5a27e8475478d9ab48ef7aacf9ce6898
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
@@ -652,10 +652,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 232286
-MD5sum: d22b5f7643c4c048b6647253b4085236
-SHA1: 966e4311bd1eb6f58986399a6aec8b95c70f25c6
-SHA256: 30970d4b3ea4b48c0d8bf85eda5f2f7d15d56f7d77f24154fa704f6137079a09
+Size: 232306
+MD5sum: 82eb2ab8a3d72300d348b42649f9ad50
+SHA1: 5df02128c25c1192f7ae4655e2957b96d86288d0
+SHA256: d6a227705accf7ab55ea949199d0345c66053ce32b4b2256a7777e30bb153581
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
