@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
 Filename: ./debs/bash-5.2.15.deb
-Size: 419302
-MD5sum: 0d7211ccbb36cdfb6ee88f89bb5fb972
-SHA1: 6794e17dd7e6a5f66d67aded7afdbe1b0954ecde
-SHA256: 4a746a0b7c3a6435e922c5d19bf169ac707d803665fd09a8a7c4ac9b5f9ffbc5
+Size: 419288
+MD5sum: 71aeb7bff24963fe7befa57f0fc13cee
+SHA1: a9f6db7cb1fe77ac78aef1b382b5e1c1e2b85e65
+SHA256: c3f201354c95b4c2c03b4754f56391c067c79010784c61d6d0b906be40492814
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -297,14 +297,15 @@ Description: fast content-addressable filesystem
 Name: Git
 
 Package: grep
-Version: 3.8
+Version: 3.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/grep-3.8.deb
-Size: 127872
-MD5sum: 0425fa35754f71326ec155b2f9caebb9
-SHA1: 68d25cf8a147c6ee2fadf1863eb836290f6fc600
-SHA256: 2ff6b9367d4e25989ba0915bf64352802657ea122babf62e94657e9b0362a352
+Depends: pcre2
+Filename: ./debs/grep-3.9.deb
+Size: 129486
+MD5sum: fd6acb9d5809a04112ab1d66412d2358
+SHA1: c26c59ed7438e9ec0972c52692c33a06dbe1406d
+SHA256: e096c194710f0234a7162cd727588580f4cea87cc4e472c36e2f3584cc102efd
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
@@ -638,10 +639,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161262
-MD5sum: ec1e3edc80e75f0746cf11d36f3ff50f
-SHA1: 8d93d8dcb8c15147f23a49aca9ef60d74a92fbcb
-SHA256: 6da9a45da8c7f81f3da54f53831bd9ee5a27e8475478d9ab48ef7aacf9ce6898
+Size: 161254
+MD5sum: f184f680d179e096b694b376eaf03190
+SHA1: 713891007bd6ece90e81e1b975aa4592e89568c2
+SHA256: dab51c9568c2bf140f9f6ce99cd4788ad799ab3ff5b21064e7e16b595a573fd1
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
