@@ -803,18 +803,16 @@ Package: tar
 Version: 1.34
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bzip2, gzip
 Filename: ./debs/tar-1.34.deb
-Size: 257696
-MD5sum: 96dff293012d4cb28186d544e9ff7c27
-SHA1: f08f2db57e211420bef4fccf4358040662a10b41
-SHA256: 266b693654024ec9944b3a4ec49e7f0e89d45fecc2ff58d82e29ef776294d95d
+Size: 257662
+MD5sum: 3b4a56e9d39f2ea50ee4f4951a88eea2
+SHA1: d9782eee4f785502c6d3be17408caa166e8a6102
+SHA256: 4139f84fadfe2d0d9ed0706af28d35f084864ad2fa81a4ccd4ce2ba532d68498
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
-Description: tool for making tape archives
+Description: A tool for making tape archives
 Tag: purpose::console
-Name: Tape Archive
 
 Package: tcsh
 Version: 6.24.07
