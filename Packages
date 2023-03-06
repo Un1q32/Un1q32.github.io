@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib
 Filename: ./debs/curl-7.88.1.deb
-Size: 455144
-MD5sum: 9d11237770d88c05fd54d3740a502e56
-SHA1: 85183720802b021dc056e1507eb88dda981ea174
-SHA256: 5f03aebb0424fedf17c03a902651fde864a0a863ec5faa3a21226fb834d1e428
+Size: 455146
+MD5sum: 3e1643aeaaf54dbc92edc629f81046f0
+SHA1: 92e9bc7beaa7552ec598d99bf4056fc70cc1b9cf
+SHA256: ac185f053aca6eb74ddea931b2cc3c45ca183553e4056b71f8e9aa94b62fda63
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -725,10 +725,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd, zlib
 Filename: ./debs/rsync-3.2.7.deb
-Size: 286004
-MD5sum: 386cb469afb042333a6426e4a6852bc3
-SHA1: 35c71086f05ee34b22b5ba923d592c24b469cb9a
-SHA256: d33681ee58ba9678c022d7a8bff9bb09d8ab62e2df22ddc5c07d447ab7f7129d
+Size: 286006
+MD5sum: 46bf136fa5d46071f2574628ff6f0160
+SHA1: 925c88270739c0e6c840e631a210267ae2585803
+SHA256: 4fc8b85e584adf0cf1b53203af3ac39f4e9f6081f6a7217dab09cdbe0986145e
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -893,10 +893,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz-5.4.1.deb
-Size: 192848
-MD5sum: 5f5660620535a27046865e82822ae31a
-SHA1: b57f5bcd1371cae9aee8ca8b8b3376377d8de7b9
-SHA256: 6ee8b3581c523d576e7e1485eb0d90bb65706177fa0da902ae5586f1a7847d5d
+Size: 192842
+MD5sum: 743350273fddb6e8c7a0e78bb2d37cd1
+SHA1: d58d60e1f785a4c36254db64dbfec8fcb126f7ee
+SHA256: 49f64c3861a19c4d1b1f36ab20b3c0cadaae12a823ce903646e682353207e62f
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
@@ -909,10 +909,10 @@ Version: 1.2.13
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/zlib-1.2.13.deb
-Size: 78426
-MD5sum: b1aa540cea9eb9598cc46fb34853b5be
-SHA1: 827fb6264cd0cf841e0c3adf2d29368e97c9bb63
-SHA256: bcfefe0e10e62f46a3c792fdac4910f324ca28064537dc8cc309a9f2d5f3409d
+Size: 78438
+MD5sum: 0999b0b6f878d90242cb1c51844d4f5b
+SHA1: 6aa6bb6a763418216c3fa79ada02edbb098b072d
+SHA256: aca79dc395c1929c1c1012b5d5db4a994e2e55acd37611dd705c437a8955c62e
 Section: Archiving
 Priority: required
 Homepage: http://www.zlib.net/
