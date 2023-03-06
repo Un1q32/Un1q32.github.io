@@ -608,10 +608,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
 Filename: ./debs/openssh-9.2p1.deb
-Size: 2234312
-MD5sum: eea66b0e1ece9d3d4220407460857230
-SHA1: a64fc278bb9337a354696175c9b9db7285589a10
-SHA256: 0b06a6a0aaabdef5b1ee096796faec30c309176e9d37e5382ba3ca68196f58a3
+Size: 2234288
+MD5sum: 576e0bae6dab903420054ecea831a24a
+SHA1: 09a34128439c05d8de4059ba8054d513238eb5a8
+SHA256: d26ec692b6544b50ab9c850b1737578c4eb917a9f1c003cc81ed1a9965577bdf
 Section: Networking
 Priority: important
 Description: secure remote access between machines
