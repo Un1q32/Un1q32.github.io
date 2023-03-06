@@ -78,14 +78,14 @@ Description: A generic-purpose lossless compression algorithm
 Tag: purpose::console
 
 Package: bzip2
-Version: 1.0.8-1
+Version: 1.0.8-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 219500
-MD5sum: 8265383eb6922e56e3b855714fd8182d
-SHA1: 48abb18d61d9791809bdb7219d085b65221f852f
-SHA256: fbc38f438b3d2409ba9f9cfda5124bc88771eadcd7d6c6c7603287d1ae436617
+Size: 170212
+MD5sum: 4ae24eebd5b7997459ecd777a72e7f43
+SHA1: 78cdccffe6e3806905b13c9343dd3c9a9bde03eb
+SHA256: 52a8a096957b61d3a3289cbb45c0517287c4abe62e3923e2220b93ef63d02801
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -639,10 +639,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161254
-MD5sum: f184f680d179e096b694b376eaf03190
-SHA1: 713891007bd6ece90e81e1b975aa4592e89568c2
-SHA256: dab51c9568c2bf140f9f6ce99cd4788ad799ab3ff5b21064e7e16b595a573fd1
+Size: 161258
+MD5sum: 8021e8735f842d6f88a10b9e4a466a06
+SHA1: aec7c0765df185a6c8c3605ad4db319d2252b609
+SHA256: 051596373b5d28afc4c371e9be1ad6978acbffb779edadbcbd00d429228236d1
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
@@ -653,10 +653,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 232306
-MD5sum: 82eb2ab8a3d72300d348b42649f9ad50
-SHA1: 5df02128c25c1192f7ae4655e2957b96d86288d0
-SHA256: d6a227705accf7ab55ea949199d0345c66053ce32b4b2256a7777e30bb153581
+Size: 232288
+MD5sum: bfb3e05f6a4969f45fa6794d3fe7639d
+SHA1: 30ca4939291e7d27531ddb0c3e6545ef1ac3c851
+SHA256: 665fd1eb1674b5073e8715003fb5f199cc42c0aa33cdf60370ea482d3de4c3a2
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
