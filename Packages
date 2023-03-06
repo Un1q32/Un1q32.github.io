@@ -634,29 +634,29 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45-3
+Version: 8.45-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161258
-MD5sum: 8021e8735f842d6f88a10b9e4a466a06
-SHA1: aec7c0765df185a6c8c3605ad4db319d2252b609
-SHA256: 051596373b5d28afc4c371e9be1ad6978acbffb779edadbcbd00d429228236d1
+Size: 161262
+MD5sum: 01d66281780e45e1aec82e27c77d2362
+SHA1: 7e43b8f9adc5c35af3429232917ca17823df1039
+SHA256: 5329cfbbf9e3b4fd79a4207e91a48dbe0881561d7422680b7143d16d4405ae4d
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
 
 Package: pcre2
-Version: 10.42
+Version: 10.42-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 232288
-MD5sum: bfb3e05f6a4969f45fa6794d3fe7639d
-SHA1: 30ca4939291e7d27531ddb0c3e6545ef1ac3c851
-SHA256: 665fd1eb1674b5073e8715003fb5f199cc42c0aa33cdf60370ea482d3de4c3a2
+Size: 232294
+MD5sum: 02fbf5f09580e2720f8b239f5cc39bfe
+SHA1: 91ebbf7585550444592a134786a558ab0a59d56b
+SHA256: b9a10b6a8fd48e122483463e9bcdee212b6bf9c6a78967056f0e17fac5f1cd03
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
