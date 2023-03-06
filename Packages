@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib
 Filename: ./debs/curl-7.88.1.deb
-Size: 455106
-MD5sum: bc654667145ff1f1271ce49976ef820d
-SHA1: d11660dc85537fee0fb546781f526182ae1f26d9
-SHA256: e8834fc54ffaca4389ba8ec269a30a57f0f6ae7eef28e902cbde27a8a348a6ca
+Size: 455118
+MD5sum: fa9828e1ca18f1adcdc8d0f39a6838d7
+SHA1: 1d0c93e0c87b1b3682bd1aa41d3baf311bb41110
+SHA256: 7a4ee8bc542eea2098571f9b9077d99f518c506ea17d780ec434e86ee0fca26c
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -638,10 +638,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161256
-MD5sum: 9545c6965d3677afb22fa02fa9e96054
-SHA1: 506a0cf95b6f4e9dab578f67d672b89677832892
-SHA256: e6b90ed99409c6fb5a947629fddc6695352363f0c5dffb9c1cd91d89f1dd0f7e
+Size: 161252
+MD5sum: 1da019f697d5c7c9f07845cb303c8114
+SHA1: 8e8687112069c3ac1db84b9f3bb7b1cd4e00e60d
+SHA256: ddaaced8df1543aaec1ba1e7bc2bbf2585d373463dd298005605b35bb94c5557
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
@@ -652,10 +652,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 232282
-MD5sum: 43422e5e197e52575a318b1a2f0d4ce7
-SHA1: 0d5c55136defb28f0df882084b66af9833a74a77
-SHA256: be5336e7019ddb5dbf1981d6c0e157ae05cb7ada2f70a7db894d5d2ecd53138c
+Size: 232286
+MD5sum: d22b5f7643c4c048b6647253b4085236
+SHA1: 966e4311bd1eb6f58986399a6aec8b95c70f25c6
+SHA256: 30970d4b3ea4b48c0d8bf85eda5f2f7d15d56f7d77f24154fa704f6137079a09
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
@@ -723,12 +723,12 @@ Package: rsync
 Version: 3.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, lz4, zstd
+Depends: libressl, lz4, zstd, zlib
 Filename: ./debs/rsync-3.2.7.deb
 Size: 286004
-MD5sum: dc093dfdfb1041798a86202ab0ddca16
-SHA1: 3991520eafbed5e678bcc7e99b10cb43a539316b
-SHA256: 8ce57f42567fe498243ce47cc58475f45f2a55ac1f478d04405ad3ec5eeec143
+MD5sum: 386cb469afb042333a6426e4a6852bc3
+SHA1: 35c71086f05ee34b22b5ba923d592c24b469cb9a
+SHA256: d33681ee58ba9678c022d7a8bff9bb09d8ab62e2df22ddc5c07d447ab7f7129d
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -909,10 +909,10 @@ Version: 1.2.13
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/zlib-1.2.13.deb
-Size: 78404
-MD5sum: a4cb7631eb44136efb36e2ea19cb0056
-SHA1: 3a16f3fc39bf113c907649ee2f33aba0a6c9951f
-SHA256: 40b6b358e318c159c6bc6f8271465f4530d2df6095b397aeb5f44e85f0969197
+Size: 78426
+MD5sum: b1aa540cea9eb9598cc46fb34853b5be
+SHA1: 827fb6264cd0cf841e0c3adf2d29368e97c9bb63
+SHA256: bcfefe0e10e62f46a3c792fdac4910f324ca28064537dc8cc309a9f2d5f3409d
 Section: Archiving
 Priority: required
 Homepage: http://www.zlib.net/
