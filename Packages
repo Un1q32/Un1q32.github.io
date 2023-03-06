@@ -939,12 +939,12 @@ Package: zstd
 Version: 1.5.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: lz4, xz-utils
+Depends: lz4, xz-utils, zlib
 Filename: ./debs/zstd-1.5.4.deb
-Size: 862686
-MD5sum: 6438872c0cfdb1884d378bc03fd56c37
-SHA1: d998ca2eae09a80b7e2bf8802be09a7cb151ed17
-SHA256: fb36a3b911427625d8ac58ec6119737bf725729dd15358b8f561bf301cb3dd74
+Size: 862688
+MD5sum: 0a72b306ee9883abbeb0af81acb9559c
+SHA1: a266a48c94b0f696c50dd6bfa8a6774266b6a6a6
+SHA256: 871ff2696a0caf290e678a6b9b99179738441ac24817fa697a91b78a0f4e39e5
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
