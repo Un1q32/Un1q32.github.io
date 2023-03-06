@@ -146,12 +146,12 @@ Package: curl
 Version: 7.88.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, zstd, brotli
+Depends: libressl, zstd, brotli, zlib
 Filename: ./debs/curl-7.88.1.deb
-Size: 457418
-MD5sum: 53655edd07f5b1b39142ba5a4cdf3919
-SHA1: 7ac9b7d8af518b62fd9b45f3acf56cc2697425ba
-SHA256: f7ddcd2bd5d6b34a21bc89b4a2bfc7d9a807571669cfcd29f89177d26136ed71
+Size: 455106
+MD5sum: bc654667145ff1f1271ce49976ef820d
+SHA1: d11660dc85537fee0fb546781f526182ae1f26d9
+SHA256: e8834fc54ffaca4389ba8ec269a30a57f0f6ae7eef28e902cbde27a8a348a6ca
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -877,12 +877,12 @@ Package: wget
 Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, pcre
+Depends: libressl, pcre2
 Filename: ./debs/wget-1.21.3.deb
-Size: 264186
-MD5sum: c6db99b93000386cebf53a0c0e3a4bfb
-SHA1: 0c76bce88b604fc4a343b69712979f70fd2dd7ac
-SHA256: 242b0f7248cd540ec28246dcac3f1e2180e65e137cfb99c5b75edee9675812d9
+Size: 264222
+MD5sum: c31166778ebae8c37ac82b7207d5936a
+SHA1: 61786717a23ac6b4742b0bab9e247f976015e6ff
+SHA256: 91d27ab369622832a9c1733562bc44ca71351e74f3ab8e657a879d8d47b20d1f
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
