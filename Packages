@@ -606,12 +606,12 @@ Package: openssh
 Version: 9.2p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl
+Depends: libressl, zlib
 Filename: ./debs/openssh-9.2p1.deb
-Size: 2234288
-MD5sum: 576e0bae6dab903420054ecea831a24a
-SHA1: 09a34128439c05d8de4059ba8054d513238eb5a8
-SHA256: d26ec692b6544b50ab9c850b1737578c4eb917a9f1c003cc81ed1a9965577bdf
+Size: 2234302
+MD5sum: 0433183b22e5f8e66516e80f485ee0af
+SHA1: 8316e4a81fe6752fa8227d01180278ba3a822f02
+SHA256: 973bc1623d2de55eff20d2bae248ffbc399f849f3f73d0381b97bd1e664990e0
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -877,12 +877,12 @@ Package: wget
 Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, pcre2
+Depends: libressl, pcre2, zlib
 Filename: ./debs/wget-1.21.3.deb
-Size: 264222
-MD5sum: c31166778ebae8c37ac82b7207d5936a
-SHA1: 61786717a23ac6b4742b0bab9e247f976015e6ff
-SHA256: 91d27ab369622832a9c1733562bc44ca71351e74f3ab8e657a879d8d47b20d1f
+Size: 264240
+MD5sum: e4831c3429db889470c28a366168cb4d
+SHA1: ad8be1122c4c9f4bd45fc6711be32664dedc88da
+SHA256: 7fc2caa2ca108328f8982fc8b6671bf1422dc114b59eb1694452dd5829a9708d
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
