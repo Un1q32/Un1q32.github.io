@@ -78,14 +78,14 @@ Description: A generic-purpose lossless compression algorithm
 Tag: purpose::console
 
 Package: bzip2
-Version: 1.0.8-2
+Version: 1.0.8-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 170212
-MD5sum: 4ae24eebd5b7997459ecd777a72e7f43
-SHA1: 78cdccffe6e3806905b13c9343dd3c9a9bde03eb
-SHA256: 52a8a096957b61d3a3289cbb45c0517287c4abe62e3923e2220b93ef63d02801
+Size: 170234
+MD5sum: 8cd2b53f5d93aa480ea2592a27752aaa
+SHA1: b124a4f965d86a2e9377cad6622c9cb6c26d2bdc
+SHA256: cceec6fb068edd9944f57c045c35f96aa05a13f01d58a3d7b983eec9a03650b8
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -634,29 +634,29 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45-4
+Version: 8.45-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 161262
-MD5sum: 01d66281780e45e1aec82e27c77d2362
-SHA1: 7e43b8f9adc5c35af3429232917ca17823df1039
-SHA256: 5329cfbbf9e3b4fd79a4207e91a48dbe0881561d7422680b7143d16d4405ae4d
+Size: 161264
+MD5sum: 6112fdefe6d635a6d92234e765dcfabc
+SHA1: 9f93760daf0be2c09e5298ae87ad4f5bdc739c06
+SHA256: 12ec96beba4b0c053b30f8120a537d68ac071095aaadd1ecf2ce92b8fb8809a1
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
 
 Package: pcre2
-Version: 10.42-1
+Version: 10.42-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 232294
-MD5sum: 02fbf5f09580e2720f8b239f5cc39bfe
-SHA1: 91ebbf7585550444592a134786a558ab0a59d56b
-SHA256: b9a10b6a8fd48e122483463e9bcdee212b6bf9c6a78967056f0e17fac5f1cd03
+Size: 232298
+MD5sum: 28a3fe9a4bdc2bba608479ce7ab4f178
+SHA1: e12132163760192512b9a0f47d02008f28fd0000
+SHA256: e1b9f45842736efcc7662a9737dcfc16b195b2380047cc765568d6a3a97c7530
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
