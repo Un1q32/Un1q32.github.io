@@ -108,7 +108,7 @@ Description: Terminal screen saver based on the movie "The Matrix".
 Tag: purpose::console
 
 Package: coreutils-bin
-Version: 9.1-2
+Version: 9.1-3
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
@@ -116,14 +116,14 @@ Conflicts: coreutils
 Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
 Filename: ./debs/coreutils-9.1.deb
-Size: 731500
-MD5sum: 04778d2c789ef708b12ed46d35989953
-SHA1: 6f4a07b3a3e9fd77ee37673cc0b6bcc18a33bd95
-SHA256: 1fc411ddcb46d6435359ff3543f64e8746ff61ad3d528c77493e5f2982095276
+Size: 730178
+MD5sum: 4ef57192811048c2bedbe738209e8069
+SHA1: e79df50bf8dd78ab4f35021ed4d70ec223228c29
+SHA256: 4c85ae8cc95e7111acb9068db967c305c5d01de65718530425ac646c95188328
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
-Description: Core set of Unix utilities from GNU
+Description: The basic file, shell and text manipulation utilities of the GNU operating system
 Tag: purpose::console
 Name: Core Utilities
 
@@ -254,12 +254,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: profile.d
 Filename: ./debs/gawk-5.2.1.deb
-Size: 389744
-MD5sum: ded7fc9cc8ffbbb58466d2bcadc3543f
-SHA1: e70c64ffd09c79b2d60223e68207a95d1d163ced
-SHA256: a16a7c96482716f529fa442be3149dc7775a0752396f2866d6f4a68048efde06
+Size: 389762
+MD5sum: 1c024cbd56b011bdea4b865712d5b077
+SHA1: 9b15287f247911d9974648cae44e745c3fd0abad
+SHA256: 331fdd0330ccb883395aaeead150906aca2b6cd4fff6ff28ae2e32bde2fda8ba
 Section: Utilities
 Priority: important
+Homepage: http://www.gnu.org/software/gawk/
 Description: GNU's heavy-weight implementation of awk
 Tag: purpose::console
 Name: Gawk
@@ -533,12 +534,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/moe-1.13.deb
-Size: 140274
-MD5sum: d7bc7763df21db1dedd8fc98d12327f2
-SHA1: 033c8d7bb9bee7c9cb1e02a52398b2b32c212ac8
-SHA256: 126288d81787908c3ea9e51097fcb1dbbf7dfcb03ceff80e8185e76519b25a5f
+Size: 140298
+MD5sum: 348393523f672e17af5217ff3dbc749c
+SHA1: 8ef6528a8373db99b699ccb2b6086537a01ead28
+SHA256: 7c866d73ae5cc439814093964b4a682c45ecb95315cc66d54617860a33ba6d95
 Section: Text_Editors
 Priority: optional
+Homepage: http://www.gnu.org/software/moe/
 Description: A powerful, 8-bit clean, text editor. Supports ISO-8859-15 and ASCII.
 Tag: purpose::console
 
