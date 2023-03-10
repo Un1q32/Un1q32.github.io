@@ -671,10 +671,10 @@ Conflicts: org.coolstar.perl
 Replaces: org.coolstar.perl
 Provides: org.coolstar.perl
 Filename: ./debs/perl-5.26.1.deb
-Size: 12043880
-MD5sum: a6ed40a3225ccda8c24d36afb9c58e58
-SHA1: bd146c0d5389fe78bd276d6ca8bd8b4adda47d91
-SHA256: d245a36bef3bd94e3a71f20bd8d2e11ba7d0ad408b2a61640e2c0a4f7e2633d4
+Size: 12043928
+MD5sum: c537d01be8afc8739eab517f2088ce96
+SHA1: 0ac39478a1a9c7fec90de657874c0cf637a67880
+SHA256: e24ab5e739140956c69b022530b7fde755a37e829c93bb8e351cae2c0b2c369f
 Section: Development
 Description: A highly capable, feature-rich programming language
 Tag: purpose::console, role::hacker
