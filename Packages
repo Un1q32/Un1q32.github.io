@@ -664,17 +664,17 @@ Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
 Package: perl
-Version: 5.26.1-6
+Version: 5.26.1-7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: org.coolstar.perl
 Replaces: org.coolstar.perl
 Provides: org.coolstar.perl
 Filename: ./debs/perl-5.26.1.deb
-Size: 12043928
-MD5sum: c537d01be8afc8739eab517f2088ce96
-SHA1: 0ac39478a1a9c7fec90de657874c0cf637a67880
-SHA256: e24ab5e739140956c69b022530b7fde755a37e829c93bb8e351cae2c0b2c369f
+Size: 12043932
+MD5sum: 04a32ddbbd90a65303df531e7de4a603
+SHA1: 12c85381fac7a7e351fb9de1cab5546e0b198345
+SHA256: 6c6da5fb729222b5de3fa794420479c6c95d18cacd75988d4c19c61c0f3d7111
 Section: Development
 Description: A highly capable, feature-rich programming language
 Tag: purpose::console, role::hacker
