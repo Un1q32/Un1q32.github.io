@@ -127,21 +127,6 @@ Description: The basic file, shell and text manipulation utilities of the GNU op
 Tag: purpose::console
 Name: Core Utilities
 
-Package: cowsay
-Version: 3.7.0
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: perl
-Filename: ./debs/cowsay-3.7.0.deb
-Size: 13956
-MD5sum: cf08bbda4dffab34fa9f3b4c28d5222c
-SHA1: 228b202c4d9639cb5d7d01beaa6b135ebe35c189
-SHA256: 6fc044960ec56e5a823932bc6f313353fd13182819f6f1318ccdf38bfa0d1ade
-Section: Utilities
-Priority: optional
-Description: Configurable talking cow
-Tag: purpose::console
-
 Package: curl
 Version: 7.88.1
 Architecture: iphoneos-arm
