@@ -671,13 +671,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: adv-cmds
 Filename: ./debs/pstree-2.40.deb
-Size: 6462
-MD5sum: 104ebfbf838a5f54dc9b95617b7242a2
-SHA1: 7e849ade110f7dca0433843243e20a0b82968a3b
-SHA256: 4b85e9670d6963ea8004077af67fc75384b4ede598fd1549e0a95f2a39a3ae66
+Size: 6450
+MD5sum: e054ecf740098f1d8da79a4783345585
+SHA1: bc48290888d4eaf3c0a184d1fa353ac5619459b1
+SHA256: 0973e35639910f90dd623ac220f6cd04e6b9b085e8d9cf4f03a67d1c1fdf8996
 Section: Utilities
 Priority: optional
-Description: process forests are hard to see for the trees
+Description: Show ps output as a tree
 
 Package: readline
 Version: 8.2.1-1
