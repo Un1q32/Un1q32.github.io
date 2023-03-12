@@ -844,15 +844,15 @@ Priority: optional
 Description: de-compresses files in rar format
 
 Package: vim
-Version: 9.0.1376
+Version: 9.0.1402
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: ncurses
-Filename: ./debs/vim-9.0.1376.deb
-Size: 10077330
-MD5sum: 9bfc7e3fc16e87c5dae607d149e85450
-SHA1: 3f9dd9f806073b004bc8ed94565bcae6f6b082db
-SHA256: f2493577d6ecf02abf87b42354e24d6c4650fa96ab8a1b33b70e78999761734d
+Depends: ncurses, xxd
+Filename: ./debs/vim-9.0.1402.deb
+Size: 10066808
+MD5sum: f26ce1526467e121568bd7db3a3f3833
+SHA1: 12c7f5f1a669f014728d2d70b5eba9415ee41566
+SHA256: 8f8b9442b5ceda8b587ca8318d5d97dfb436ff18d459e68c00140d31d102cf63
 Section: Text_Editors
 Priority: standard
 Description: A highly configurable, improved version of the vi text editor
@@ -872,6 +872,20 @@ SHA256: 7fc2caa2ca108328f8982fc8b6671bf1422dc114b59eb1694452dd5829a9708d
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
+
+Package: xxd
+Version: 9.0.1383
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/xxd-9.0.1383.deb
+Size: 8294
+MD5sum: bb74b1c1635bac22ab93037e2bf49564
+SHA1: 287a6524806ab3b436bbc4209222621fd3d56b80
+SHA256: 6d891b42b0bd107dc884418e56d2de4272041ea3f26f7f4ff26dea887609d70d
+Section: Text_Editors
+Priority: standard
+Description: Hexdump utility from vim
+Tag: purpose::console
 
 Package: xz-utils
 Version: 5.4.1-2
