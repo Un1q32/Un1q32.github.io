@@ -753,14 +753,14 @@ Description: GNU stream editor
 Tag: purpose::console
 
 Package: sudo
-Version: 1.9.13p2
+Version: 1.9.13p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/sudo-1.9.13p2.deb
-Size: 887074
-MD5sum: ca50b2c47cdc4f28ab8ff66356524a3b
-SHA1: d1162660afa2a56e62fb322a5e5b3dc0007ca725
-SHA256: 5f971fb085295d1770535fc9afcda1eeb62ec2a8282b58aa53ececda624b12a4
+Filename: ./debs/sudo-1.9.13p3.deb
+Size: 885160
+MD5sum: c61cafc9c821c9b2bd7e3167f26d7412
+SHA1: af0ef847151446231eba12aa0185b95feec225cf
+SHA256: c314a8aa88324093f963cb9a2c0608c1fd0ccae559db1780c325c33cc3a9ec33
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
@@ -768,18 +768,18 @@ Tag: purpose::console
 Name: Sudo
 
 Package: sudo-arm64
-Version: 1.9.13p2
+Version: 1.9.13p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 7.0)
 Conflicts: sudo
 Replaces: sudo
 Provides: sudo
-Filename: ./debs/sudo-1.9.13p2-arm64.deb
-Size: 840482
-MD5sum: 99fce52d8159a1e6c3e8b219889d9652
-SHA1: 922ac843892b2b4e2592c5e815dfc36ce1da14a9
-SHA256: c0a039396adc632402ecd9d3b09d2f77afcd3d6f76693c2db18348c2caa224c5
+Filename: ./debs/sudo-1.9.13p3-arm64.deb
+Size: 840244
+MD5sum: e59bf1c157fad0b5c3f349a6ace38703
+SHA1: 84bb5d78442c551f8c9f0098234535aa13ccf180
+SHA256: a6043fd916f626ed328141798a1676afe54238abe4ab32883b2cac0671917c64
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
