@@ -38,16 +38,16 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
 Filename: ./debs/bash-5.2.15.deb
-Size: 419288
-MD5sum: 71aeb7bff24963fe7befa57f0fc13cee
-SHA1: a9f6db7cb1fe77ac78aef1b382b5e1c1e2b85e65
-SHA256: c3f201354c95b4c2c03b4754f56391c067c79010784c61d6d0b906be40492814
+Size: 419290
+MD5sum: e9af3236b265ffa48ac50cd80bb4c094
+SHA1: 996af2daa3df54c176f6a65ed29cb5e6719f7363
+SHA256: 4a5b841cf4bf6caec01b5d1b19dd2dd33f8514e79e758c4ebedfe4941d4f9a44
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
 Tag: purpose::console
-Name: Bourne Again SHell
+Name: Bourne Again Shell
 
 Package: bc
 Version: 1.07.1-1
@@ -148,15 +148,15 @@ Version: 0.5.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/dash-0.5.12.deb
-Size: 59730
-MD5sum: f2ac5415c32fdd98efbf3bdf11bf1ccb
-SHA1: faa1d46e043ccccfbc72cf09dc16b78c8243ec4a
-SHA256: 1a26f471cf71f35876088fc81ddc97bd0ecbcae6a0317a6cac3665176e8b2385
+Size: 59724
+MD5sum: b48f2ddb22c3301e6b13817b328d557c
+SHA1: 8e8a4f1feba10bd28e2a45fb98121ed9a412f91d
+SHA256: efb052d4c00ce99a742df1488420be587a3b70c941941b9ebc216b50692bb9e9
 Section: Terminal_Support
 Priority: optional
 Description: POSIX compliant shell that aims to be as small as possible
 Tag: purpose::console
-Name: Debian Almquist SHell
+Name: Debian Almquist Shell
 
 Package: diffutils
 Version: 3.9
@@ -512,6 +512,21 @@ Priority: optional
 Homepage: http://www.gnu.org/software/make/
 Description: Standard tool to compile source trees
 Tag: purpose::console
+
+Package: mksh
+Version: 59c
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/mksh-59c.deb
+Size: 164136
+MD5sum: 65f4c2626125c3286bb76b8b3475645b
+SHA1: e0551a2089325f469f4ad0b81d08e84d52b402fb
+SHA256: 87e29bd34cf9754936644f2c99ccc1c8a8905fc3b9b39b6e14e87514d9d0f495
+Section: Terminal_Support
+Priority: optional
+Description: A free implementation of the Korn Shell programming language
+Tag: purpose::console
+Name: MirBSD Korn Shell
 
 Package: moe
 Version: 1.13
