@@ -698,11 +698,12 @@ Package: readline
 Version: 8.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
 Filename: ./debs/readline-8.2.1.deb
-Size: 166660
-MD5sum: d56db387389a8f596020f02ac6d0e7fa
-SHA1: dbfe6e5d9ec3c000dced131a637f911f305c7db1
-SHA256: 97b87b8874a077cbfc55bc0ba5f8682fed50eafd5c1fd9cab6e6e0db3bfd8ebf
+Size: 166670
+MD5sum: 114490f2773e2c51505f7b91849b70bd
+SHA1: cc4d7792b198425c6c0f7601eacfcc1f5af2f0b3
+SHA256: 3e16d7ea3f9dafa9f1355708d1f753f9b41ed28cbe9b636fe7d0d098db4312ce
 Section: Development
 Priority: required
 Description: command-line history management
