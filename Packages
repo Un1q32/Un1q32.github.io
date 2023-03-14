@@ -268,15 +268,15 @@ Tag: purpose::console
 Name: Gcal
 
 Package: git
-Version: 2.39.2
+Version: 2.40.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: curl, libressl, perl, grep, pcre2
-Filename: ./debs/git-2.39.2.deb
-Size: 10255702
-MD5sum: f3686621e03dfb565d2c227cbb5a4718
-SHA1: f04924741ea8ae4c6537869a5ebb1a854a662606
-SHA256: 89a487ce4060e0b087a7fab8edf7230b26f7d4a88dabe1acd5249dc299d02c5f
+Depends: curl, libressl, perl, grep, pcre2, zlib
+Filename: ./debs/git-2.40.0.deb
+Size: 10294232
+MD5sum: d75f6255c2a60e936948bf47b569c1c7
+SHA1: 976d506e1e4f1a6c9e49e96433c457356d32253c
+SHA256: a84e9a1cd231e89abc2ec9e414d1561d20d538291916f2f131981e3449301f54
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
