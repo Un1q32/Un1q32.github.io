@@ -638,11 +638,12 @@ Package: nghttp2
 Version: 1.52.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: libxml2
 Filename: ./debs/nghttp2-1.52.0.deb
-Size: 113040
-MD5sum: 00ffa9365ce13fb69a52515905c6a936
-SHA1: 0733411bcb4ea5223175a5709032993949636fa8
-SHA256: 3d3520ebe4befe1d3c4ae85969695834587bdf61ba6bca382af8510ca2390c54
+Size: 113056
+MD5sum: 08be1ec66e961312e99b6d4f1dd16298
+SHA1: cc1969fb64926c2812ba7141b7fb76f13f3e130f
+SHA256: 29b12a36fffd1b5f2e52adf4d2c0f970e7118e22555d653df2742a96881b035a
 Section: Development
 Priority: standard
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
