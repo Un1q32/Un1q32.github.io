@@ -422,6 +422,20 @@ Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
 Tag: purpose::console
 
+Package: libxml2
+Version: 2.10.3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/libxml2-2.10.3.deb
+Size: 700190
+MD5sum: 19a2206b4e9f891e21810eaf21a8b9e0
+SHA1: 78a74d20e6b5016552fb0a0966b78f06f577c881
+SHA256: ff8c654a14a3a82b4085e4cab0870ed258f3f2bea802f36f67e909bb17d89fb9
+Section: Development
+Priority: standard
+Description: XML C parser and toolkit
+Tag: purpose::console
+
 Package: lua
 Version: 5.4.4
 Architecture: iphoneos-arm
@@ -625,13 +639,13 @@ Version: 1.52.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/nghttp2-1.52.0.deb
-Size: 113014
-MD5sum: 55b0d17fa425a0986521478f92111b5b
-SHA1: c34ddaa526d5f87d18b3002b3adc2e469f0ee8ff
-SHA256: 2def0b6ced814194f01248658079176008bd2dda67672ce807ba1daacf6f88f3
+Size: 113040
+MD5sum: 00ffa9365ce13fb69a52515905c6a936
+SHA1: 0733411bcb4ea5223175a5709032993949636fa8
+SHA256: 3d3520ebe4befe1d3c4ae85969695834587bdf61ba6bca382af8510ca2390c54
 Section: Development
 Priority: standard
-Description: Framing layer of HTTP/2 is implemented as a reusable C library
+Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 Tag: purpose::console
 
 Package: openssh
