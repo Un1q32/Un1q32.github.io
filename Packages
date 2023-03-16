@@ -131,12 +131,12 @@ Package: curl
 Version: 7.88.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, zstd, brotli, zlib, libssh2
+Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2
 Filename: ./debs/curl-7.88.1.deb
-Size: 471086
-MD5sum: 30febd937e48c9a404e9bfc7d62d33d4
-SHA1: 16397ac583e495c8531b603084d2508808a218a3
-SHA256: bd40eedfdd98ae4d4174a8c6cccba768991e875cb4090768ba3bf2466db97f4e
+Size: 482690
+MD5sum: 4e9f193b68f7862e82c8ea9deeed618d
+SHA1: 6e26a7376dee5cc9482103a0b5a132ea8db73d6d
+SHA256: bc6688d68b5e4b7f672a9af485ccc82f597431b3edfb41e88755151f774efbe8
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -619,6 +619,20 @@ Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
 Tag: purpose::console
 Name: NextVI
+
+Package: nghttp2
+Version: 1.52.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/nghttp2-1.52.0.deb
+Size: 113014
+MD5sum: 55b0d17fa425a0986521478f92111b5b
+SHA1: c34ddaa526d5f87d18b3002b3adc2e469f0ee8ff
+SHA256: 2def0b6ced814194f01248658079176008bd2dda67672ce807ba1daacf6f88f3
+Section: Development
+Priority: standard
+Description: Framing layer of HTTP/2 is implemented as a reusable C library
+Tag: purpose::console
 
 Package: openssh
 Version: 9.3p1
