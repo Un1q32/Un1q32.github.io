@@ -128,15 +128,15 @@ Tag: purpose::console
 Name: Core Utilities
 
 Package: curl
-Version: 7.88.1
+Version: 7.88.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib
 Filename: ./debs/curl-7.88.1.deb
-Size: 455168
-MD5sum: 8c8a59d0f789818d7240bbc762ebc386
-SHA1: b82c52faa961710219715acb4ec006ca75698700
-SHA256: d58b49a2b2552e361ecb6b54ce770b8b5ef9837bc7badbeacd6794ee411a8149
+Size: 471084
+MD5sum: d761027eb2014e6cfe2a17629e22ad5b
+SHA1: 3562a431567239a66875c4c02cc4ba27bf5a2d55
+SHA256: 22ec899cee37d160ff7af366a83373489a856cb0b23f7bc119f2c2fff900ad21
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -406,6 +406,21 @@ Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 Name: LibreSSL
+
+Package: libssh2
+Version: 1.10.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/libssh2-1.10.0.deb
+Size: 127862
+MD5sum: 164bdc4881698e077fa00b8a35cd919c
+SHA1: 0df25ada5309987d614ace8f35f93ff3a0eb9d22
+SHA256: 673cd3f3528bc7a1627cdb7958eb036aca489aefe99af372055b6c630205f2ff
+Section: Development
+Priority: standard
+Homepage: http://www.libssh2.org/
+Description: A library implementing the SSH2 protocol
+Tag: purpose::console
 
 Package: lua
 Version: 5.4.4
