@@ -427,10 +427,10 @@ Version: 2.10.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/libxml2-2.10.3.deb
-Size: 700190
-MD5sum: 19a2206b4e9f891e21810eaf21a8b9e0
-SHA1: 78a74d20e6b5016552fb0a0966b78f06f577c881
-SHA256: ff8c654a14a3a82b4085e4cab0870ed258f3f2bea802f36f67e909bb17d89fb9
+Size: 700184
+MD5sum: 9faed6c10350b4c788ad47a3671bb300
+SHA1: 80705c217faaa512ea676306b1abcfd67649e011
+SHA256: 1db6e881b390aafb49d437c284cdc096aabd660221402eabc0b9e853ddc45946
 Section: Development
 Priority: standard
 Description: XML C parser and toolkit
