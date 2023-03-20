@@ -128,15 +128,15 @@ Tag: purpose::console
 Name: Core Utilities
 
 Package: curl
-Version: 8.0.1
+Version: 8.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2
+Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2, libpsl, libidn2
 Filename: ./debs/curl-8.0.1.deb
-Size: 484442
-MD5sum: 57e9089cb402a5d51a9a0605e8245e49
-SHA1: 2f5d970f3102c1316206bf72cd29142417b26dee
-SHA256: 0cdc9d038ebc16d54d92fdc3d91c216531f6d238eee81dd4602f85f6805dc6f5
+Size: 485076
+MD5sum: 43ba47163be1bbb117127c4945a76445
+SHA1: 9860f33c5560d687845054c1c1c7a196728bdfe4
+SHA256: 2550914bee09f24abae464225ecdcf1ee8de9e48700dd67afb9b18ab3cad9ccc
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -390,6 +390,36 @@ Priority: important
 Description: provides less information than more does
 Tag: purpose::console
 
+Package: libidn2
+Version: 2.3.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: libunistring
+Filename: ./debs/libidn2-2.3.4.deb
+Size: 122124
+MD5sum: c7622c68c143b7d9a2d672f609bc7352
+SHA1: 6a4f2bd1d369014ccc7f89d4ba2959ebf0195fb0
+SHA256: ce7a3f6ed494e45a84cc2842b66bb403dd7be815badef789d559700b8a5c4e8d
+Section: Development
+Priority: standard
+Homepage: http://www.gnu.org/software/libidn/
+Description: A free software implementation of IDNA2008, Punycode and TR46
+Tag: purpose::console
+
+Package: libpsl
+Version: 0.21.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/libpsl-0.21.2.deb
+Size: 63954
+MD5sum: e26a00662e896e1da320c277d99582b3
+SHA1: a6f822f04463777962bf88ee51c4d43ef5bbf054
+SHA256: a25ffcf5f9040b76584a18e836ea56d33dd3895ab7ea17b291e0d7e9693cefa1
+Section: Development
+Priority: standard
+Description: Public Suffix List library
+Tag: purpose::console
+
 Package: libressl
 Version: 3.7.0-2
 Architecture: iphoneos-arm
@@ -420,6 +450,21 @@ Section: Development
 Priority: standard
 Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
+Tag: purpose::console
+
+Package: libunistring
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/libunistring-1.1.deb
+Size: 729352
+MD5sum: 5572d34e6a9db5ea0e5bea67552de706
+SHA1: cabdc9953e0b209d2c7b826da569d87eba81672f
+SHA256: 16f308064aa401cfc413e52c103970324cd86b9de1808a65d4389428a7f1f724
+Section: Development
+Priority: standard
+Homepage: http://www.gnu.org/software/libunistring/
+Description: Library for manipulating Unicode strings and C strings
 Tag: purpose::console
 
 Package: libxml2
@@ -920,15 +965,15 @@ Tag: purpose::console
 Name: Vi IMproved
 
 Package: wget
-Version: 1.21.3
+Version: 1.21.3-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, pcre2, zlib
+Depends: libressl, pcre2, zlib, libunistring, libpsl
 Filename: ./debs/wget-1.21.3.deb
-Size: 264238
-MD5sum: f8ec1491c36b2ead5d6ca6aac15a79d7
-SHA1: fae71d37868acafbec3127a191969201e675c8d0
-SHA256: b788453c5b997b66bdd44f16d86073b444f245c0da38bcc76e74a0c0a88afdc7
+Size: 263194
+MD5sum: 8e9b0af0e1afec02ac229a475ea84dcd
+SHA1: 1c04f1eacd40e55a55d102243e229c1f26fe7a0e
+SHA256: 164d55b825c92e351f0728dc45bb73e7217922eb2bbd8160d37fb7ee07d315fb
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
