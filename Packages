@@ -589,15 +589,15 @@ Description: completely free, modern clone of Pico
 Tag: purpose::console
 
 Package: ncdu
-Version: 1.18
+Version: 1.18.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/ncdu-1.18.deb
-Size: 38652
-MD5sum: 137176a843c2e06e41cdd6166f94fa17
-SHA1: 496726bcd06c760afb96ae5d6d9ce30f09e804d0
-SHA256: 71f7656247b7234c6922762b7699f2d74a288186babc5abf7d1d2a4ccc953b71
+Filename: ./debs/ncdu-1.18.1.deb
+Size: 38712
+MD5sum: 98652ea16456bc300137f99cd610a092
+SHA1: 011d019ace2254493395bcbdb32462ee02f72575
+SHA256: 4fb9d896ec52c6dfd18ac3a12ae82799c4656435688c47d1db8bd11dd25334bd
 Section: Utilities
 Priority: optional
 Description: Disk usage analyzer with an ncurses interface
