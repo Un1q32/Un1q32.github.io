@@ -143,6 +143,22 @@ Homepage: http://curl.se/
 Description: An URL retrieval utility and library
 Name: cURL
 
+Package: curl
+Version: 8.0.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2
+Filename: ./debs/curl-8.0.1.deb
+Size: 484442
+MD5sum: 57e9089cb402a5d51a9a0605e8245e49
+SHA1: 2f5d970f3102c1316206bf72cd29142417b26dee
+SHA256: 0cdc9d038ebc16d54d92fdc3d91c216531f6d238eee81dd4602f85f6805dc6f5
+Section: Networking
+Priority: standard
+Homepage: http://curl.se/
+Description: An URL retrieval utility and library
+Name: cURL
+
 Package: dash
 Version: 0.5.12
 Architecture: iphoneos-arm
