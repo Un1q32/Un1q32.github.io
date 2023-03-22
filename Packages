@@ -864,10 +864,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: zlib
 Filename: ./debs/sudo-1.9.13p3.deb
-Size: 902500
-MD5sum: 4e83de46d201ca26263da6e896205084
-SHA1: 0b0aee897e3740218ed6bfcbb961307028c2f195
-SHA256: f78003ae11cbc0486edc9c872f1515a89aeea8412499e7b760c2c0fa744ea987
+Size: 902460
+MD5sum: 73f98621ec1a2a8c46a414e62bca26c4
+SHA1: 2da991fef81300a8b323e7c5b3dfb22941dc7ce2
+SHA256: 323a9cc2d97c9b0547e8eaae71337c31d475d0de8083bcc07ef53cd9a45bb15e
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
@@ -883,10 +883,10 @@ Conflicts: sudo
 Replaces: sudo
 Provides: sudo
 Filename: ./debs/sudo-1.9.13p3-arm64.deb
-Size: 840254
-MD5sum: b022f6a5bdcc1b2b4fde82c81f13703e
-SHA1: 72caefe7ef1f50ab1c19827e5cd2e042d76ff1bd
-SHA256: 32baba584c1d87265ca21cd08cda60bb00de8cd4fd8b472961045cd4dbd41b88
+Size: 856938
+MD5sum: 70145a8dd75dde3f299e4c6e4ee76fb8
+SHA1: 03e275c70445dbc01d51f17144a7462e4a6cac30
+SHA256: 2a7cc88f99878b365d4fb2f57d676c16aa3c6b9e984e11cd6a63d8c04cb91cae
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
