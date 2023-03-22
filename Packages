@@ -863,10 +863,10 @@ Version: 1.9.13p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/sudo-1.9.13p3.deb
-Size: 900726
-MD5sum: 6bcf04356cffbcbb329cf758c7f6d530
-SHA1: c5c0cfc03bf4d7c20d0cf2c1f8d6c88f68063c84
-SHA256: d4f325d26d7322c8c073c0557865be92b26250364a9335a1e0042cd82c6ce051
+Size: 902484
+MD5sum: 270137e516da8ff413141c31b549efb1
+SHA1: 3df6b13cd0633d78cc1b887764a4057128263617
+SHA256: bb67863b4e0111bb2f021844b8c6321057b43dcba13c282b16bf82eae1f784e0
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
