@@ -862,11 +862,12 @@ Package: sudo
 Version: 1.9.13p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: zlib
 Filename: ./debs/sudo-1.9.13p3.deb
-Size: 902484
-MD5sum: 270137e516da8ff413141c31b549efb1
-SHA1: 3df6b13cd0633d78cc1b887764a4057128263617
-SHA256: bb67863b4e0111bb2f021844b8c6321057b43dcba13c282b16bf82eae1f784e0
+Size: 902500
+MD5sum: 4e83de46d201ca26263da6e896205084
+SHA1: 0b0aee897e3740218ed6bfcbb961307028c2f195
+SHA256: f78003ae11cbc0486edc9c872f1515a89aeea8412499e7b760c2c0fa744ea987
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
