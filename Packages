@@ -283,15 +283,15 @@ Description: fast content-addressable filesystem
 Name: Git
 
 Package: grep
-Version: 3.9
+Version: 3.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: pcre2
-Filename: ./debs/grep-3.9.deb
-Size: 127212
-MD5sum: 9929b927473ae1e412cf062023a0e46c
-SHA1: 8d7be9759ab2b54fcd55e342fdfe1292585bafac
-SHA256: 619377917b37aaec548248880a5ac8ab31e4f170caeb856634cc29fddb75cd95
+Filename: ./debs/grep-3.10.deb
+Size: 127480
+MD5sum: 161e891e2794b43c95f68b7065e47c1f
+SHA1: d8cfba730a524feca5119060dcf464d365be592e
+SHA256: aa3f0eed97faa0adb6b1b079eb5b43a128d28dce249234afe5d66a8e0cf0a63f
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
