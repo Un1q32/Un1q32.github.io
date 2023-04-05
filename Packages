@@ -1043,15 +1043,15 @@ Tag: purpose::console
 Name: Z Shell
 
 Package: zstd
-Version: 1.5.4-2
+Version: 1.5.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils, zlib
-Filename: ./debs/zstd-1.5.4.deb
-Size: 854880
-MD5sum: 543cad244d7f038995ae27bf0f8cc8ef
-SHA1: 8d8569c9e42beea9d37aec8f38e03678917c28ea
-SHA256: c841ddd2007a068b0d32434a712dba831d5fb3e4528eba9f4daebcf95778a7c8
+Filename: ./debs/zstd-1.5.5.deb
+Size: 887444
+MD5sum: 7bfd2eae691379a30c02fd59ff4e991b
+SHA1: 58b962fdc41b842af48d4af0f26cd38adc2e0f59
+SHA256: 0d4b95ac356014fbc3de9a6225a57d2fdc3ec703d3468499158cffe59bacb191
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
