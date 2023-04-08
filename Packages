@@ -345,6 +345,23 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 Tag: purpose::console
 
+Package: iconfix
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: curl, coreutils
+Replaces: io.github.oldworldordr.iconfix
+Provides: io.github.oldworldordr.iconfix
+Filename: ./debs/iconfix-5.2.deb
+Size: 1384
+MD5sum: 6de8581315897e56bd4fadc93bda6de6
+SHA1: 7c3d47717c5ee5a114847621462e5a0284f70e46
+SHA256: b45754b8134a5a5d3750c0f4ae60726e1e6e55c8ff567ce468d40027e24affbe
+Section: Utilities
+Description: A script that fixes the iFile and MTerminal icons on iOS 6 and below.
+Conflits: io.github.oldworldordr.iconfix
+Name: iFile/MTerminal icon fix
+
 Package: inetutils
 Version: 2.4
 Architecture: iphoneos-arm
@@ -358,20 +375,6 @@ SHA256: f8caca978ef5741caf938329329e8cc2810086c292b9b229116f0f7a6e4e9c3f
 Section: Networking
 Priority: standard
 Description: A collection of common network programs
-
-Package: io.github.oldworldordr.iconfix
-Version: 5.1
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: curl
-Filename: ./debs/iconfix-5.1.deb
-Size: 1364
-MD5sum: 0b3f819102bea37357cc2817ab4098c4
-SHA1: 5b8b7d3d04b00eb4e5b1090e06b4c79fefb844be
-SHA256: 73deb4db1bf583f329d150b2c072c5f6a7bbd842b05316cc8ff0c612ff6701bd
-Section: Utilities
-Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
-Name: iFile/MTerminal icon fix
 
 Package: less
 Version: 608
