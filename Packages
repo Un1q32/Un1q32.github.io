@@ -425,17 +425,17 @@ Description: Public Suffix List library
 Tag: purpose::console
 
 Package: libressl
-Version: 3.7.0-2
+Version: 3.7.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: openssl
 Replaces: openssl
 Provides: openssl
-Filename: ./debs/libressl-3.6.2.deb
-Size: 2721730
-MD5sum: 6d2e6afe4086ecffb69c21f3e414735f
-SHA1: 278c015a428d710cf6576def094387c8f111aea9
-SHA256: 6108398f2a5797b8581b511d7174787ec9bb8077d8672b53f236f0c0b5c7643c
+Filename: ./debs/libressl-3.7.2.deb
+Size: 2740400
+MD5sum: 0e329ba15f0d248f6cb1a37798e75435
+SHA1: e92a96a95fb929034061aa866d82c0dbf0b92829
+SHA256: a9d3e814a5a29ef15c4cf58ebd22ec9987083e58ca4609e544f4e6f26a7dd66b
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
