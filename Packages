@@ -203,14 +203,15 @@ Description: A POSIX-compliant line-oriented text editor
 Tag: purpose::console
 
 Package: file
-Version: 5.44
+Version: 5.44-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: xz-utils, bzip2, zlib, zstd, lzlib
 Filename: ./debs/file-5.44.deb
-Size: 467950
-MD5sum: a9e581b428d30a85b5e1bb5f59a3b997
-SHA1: a9b68ddf42a4914359f4e189f5c716966539892b
-SHA256: 2d23ccb11d0d3f39a117a797c48b9bb4d9a694232b67a7f520b6f40b9a1ef82d
+Size: 470084
+MD5sum: bde714f40e62dc79f7346507a9364617
+SHA1: bddc8961be057b1f7e0c896b0ae171982af303a1
+SHA256: 1166415d9f3e1bd09f69ee2f87a5261ecbc6b4e55eb299c4423fabcc85ee6534
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
@@ -530,6 +531,20 @@ SHA256: 6e0848272b91ebbe9f34303adec40cc18912934a2076d5c2b2a08c7e285d3b25
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
+Tag: purpose::console
+
+Package: lzlib
+Version: 1.13
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/lzlib-1.13.deb
+Size: 35430
+MD5sum: 1c18842f41d03e9df486c00947fff202
+SHA1: f9d2717169095164ee236b562aa939474c8f843c
+SHA256: 399da03d6a0467ac5457ac2a2629a58f54456cf2c647472d3b200a093a0ab844
+Section: Archiving
+Priority: optional
+Description: A library providing in-memory LZMA compression and decompression functions
 Tag: purpose::console
 
 Package: lzo
