@@ -82,10 +82,10 @@ Version: 1.0.8-7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 83324
-MD5sum: 3150553129a7013db396637e096fdbb0
-SHA1: 1bea25d67be09474f9f54dd799b605be2254812f
-SHA256: 2ed76b1f94c07b67054d115ae0eafbbc5ec8cceae3072818a19f415a926b7755
+Size: 83320
+MD5sum: 402c0a98c51f3a8d24e82f0bbc39c2db
+SHA1: 8505d740095e47005c4eb6a5d0ffe29272e3f8c2
+SHA256: 7210bbe87a5e35f8accc8680a485cdebfc9783638e8921b819eceb549068b097
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -552,10 +552,10 @@ Version: 1.13-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/lzlib-1.13.deb
-Size: 35434
-MD5sum: 0dfc6c7aa18729d5614cbadfb683e04b
-SHA1: cc496916d54a1c9b96e9ebf3389a319068f9f98b
-SHA256: f2be1152a9463161a3270ec7891792f943c8011232e415012cedfe7b88c01ebe
+Size: 35428
+MD5sum: 2ef31cdf20647b40871ef66647498d43
+SHA1: 1ee2a2426d98d25df35a76c7b9be2921eb855a74
+SHA256: bd1fb4b937d7e7a6a3870f63779fa759cae35520b63cbb376e39ca43b5d521be
 Section: Archiving
 Priority: optional
 Description: A library providing in-memory LZMA compression and decompression functions
