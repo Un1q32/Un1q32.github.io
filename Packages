@@ -78,14 +78,14 @@ Description: A generic-purpose lossless compression algorithm
 Tag: purpose::console
 
 Package: bzip2
-Version: 1.0.8-6
+Version: 1.0.8-7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 83332
-MD5sum: bd1f77fce08cac34a3a4190cc561e175
-SHA1: 32a1ed77753d322457d03b166318c4cde379ffec
-SHA256: 4b53874a4d95c7279b72bb51c3156a6829b166c8d12554bde12eac6df42df52a
+Size: 83324
+MD5sum: 3150553129a7013db396637e096fdbb0
+SHA1: 1bea25d67be09474f9f54dd799b605be2254812f
+SHA256: 2ed76b1f94c07b67054d115ae0eafbbc5ec8cceae3072818a19f415a926b7755
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -203,15 +203,15 @@ Description: A POSIX-compliant line-oriented text editor
 Tag: purpose::console
 
 Package: file
-Version: 5.44-1
+Version: 5.44-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: xz-utils, bzip2, zlib, zstd, lzlib
 Filename: ./debs/file-5.44.deb
-Size: 470084
-MD5sum: bde714f40e62dc79f7346507a9364617
-SHA1: bddc8961be057b1f7e0c896b0ae171982af303a1
-SHA256: 1166415d9f3e1bd09f69ee2f87a5261ecbc6b4e55eb299c4423fabcc85ee6534
+Size: 470082
+MD5sum: 8c255e205326b7fa50bf9415aea9f0b2
+SHA1: 0f7008033443eb1dee568abb7026ef096a615a61
+SHA256: 724044c728a7c3a701c0acd5a26d170c3eb8d628566b434ccbb0520e4cd291de
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
@@ -758,29 +758,29 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pcre
-Version: 8.45-6
+Version: 8.45-7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre-8.45.deb
-Size: 160490
-MD5sum: 0dbab16225ea7260f666701cf44e261e
-SHA1: a5b0e4cfe3d4bcc10b7a42b29d373f8bdf4036e8
-SHA256: 785db771f7466fb1fe937990ab91bcb88a3411cd3156195642309c6f8f46de72
+Size: 160512
+MD5sum: 0aa8dd7d525dbf16716d944392bcbcd0
+SHA1: edbdb8fcc26171c9f175d2d5483d1c389c48ab4a
+SHA256: dafb16740c525fba9610ddbce95ed508e03b7a091d13bdceaba38aec541be29c
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
 
 Package: pcre2
-Version: 10.42-3
+Version: 10.42-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
 Filename: ./debs/pcre2-10.42.deb
-Size: 228182
-MD5sum: b63c8d0de87b3e41e65243473ee27cfc
-SHA1: 4f5d613913cc7ea5045086400a962249f629ae84
-SHA256: 556ce027c47299d7500113013b8e1691ce7539c556f0db64b60c6a4cbf44dc49
+Size: 228162
+MD5sum: 2d685c4a0eed80796736752151e9f394
+SHA1: 7dd1ba79056bfd9e5d49fb9a32ccedd4d23b7f0d
+SHA256: 29b8f13b58bc31d389883147e8f16913472fde0487b5f8be0546c9afbcbd1093
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
