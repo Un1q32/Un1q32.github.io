@@ -696,6 +696,21 @@ Priority: required
 Description: System V Release 4.0 curses emulation library
 Name: New Curses
 
+Package: neofetch
+Version: 7.3.8
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: bash, gawk, sed, grep, coreutils
+Filename: ./debs/neofetch-7.3.8.deb
+Size: 121060
+MD5sum: 28aeebcd23b7c13a97639ce692c8f63a
+SHA1: b5e5294ff21b05b737f55ba4c67a45d062c62221
+SHA256: fa5dba4fb1e1bd9473a1c8da5f37421278fba42d1e49100c908ddccfa9c79513
+Section: Utilities
+Priority: optional
+Description: A CLI system information tool written in BASH.
+Name: Neofetch
+
 Package: nextvi
 Version: 4
 Architecture: iphoneos-arm
