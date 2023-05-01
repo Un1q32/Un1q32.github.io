@@ -108,18 +108,18 @@ Description: Terminal screen saver based on the movie "The Matrix".
 Tag: purpose::console
 
 Package: coreutils-bin
-Version: 9.2
+Version: 9.3
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: coreutils
 Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
-Filename: ./debs/coreutils-9.2.deb
-Size: 789694
-MD5sum: 7673b10c29a0a0218cd65f58090ce947
-SHA1: 68b885bf1212f06e10e9af4bb0de4e86531c411b
-SHA256: 6ab6cdf920da406689719ad42a0d8b8a36d9acd9bb00bd3be55787a8a41bfdb2
+Filename: ./debs/coreutils-9.3.deb
+Size: 789910
+MD5sum: ec56873080fb0570f04b7c1c7d2a569b
+SHA1: 679de8ea8bf68cafbe744aa13e75bf1e63ebe5cc
+SHA256: 084ab24643cb62acba9a3855a6c663491689e28f1eb0c512ea6ec3d2a5a5a0fe
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
