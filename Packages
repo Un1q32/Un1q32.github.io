@@ -757,15 +757,15 @@ Depiction: http://cydia.saurik.com/info/openssh/
 Name: OpenSSH
 
 Package: openssl
-Version: 0.9.8zg-14
+Version: 0.9.8zg-13-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl
 Filename: ./debs/openssl-0.9.8zg.deb
-Size: 1168436
-MD5sum: 5787a1d7c6b3a8f30c284fdd55d8f4d5
-SHA1: 6c6fa4654e0aa89eab8a19415b827e962ef5f21e
-SHA256: be938c44edb162843496affb6ecdba4416edaf280ace599faeefa6355279a609
+Size: 1221014
+MD5sum: 9880502273edf79f3857e90c1e46bb1c
+SHA1: e5fb64cad5b820a4d4639945b0bd175ece85b3f4
+SHA256: a9b1d41bc2acbe07ee9211ad79f6d033eb29c355156c818e28d6319af474ee44
 Section: Security
 Priority: standard
 Description: Old version of OpenSSL kept around for compatability reasons
