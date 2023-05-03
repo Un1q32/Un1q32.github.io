@@ -429,14 +429,12 @@ Package: libressl
 Version: 3.7.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Conflicts: openssl
 Replaces: openssl
-Provides: openssl
 Filename: ./debs/libressl-3.7.2.deb
-Size: 2740400
-MD5sum: 0e329ba15f0d248f6cb1a37798e75435
-SHA1: e92a96a95fb929034061aa866d82c0dbf0b92829
-SHA256: a9d3e814a5a29ef15c4cf58ebd22ec9987083e58ca4609e544f4e6f26a7dd66b
+Size: 2738502
+MD5sum: 8b78cd13dc8119407cf2c5c7441884a9
+SHA1: 0e607545ff2c3dc65842a05773c13ef3e9f2f6e9
+SHA256: 36b0efe4272c15b2df99aa5367a229b8a9d9cd86af688d4fc0c222458b6cedd9
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
