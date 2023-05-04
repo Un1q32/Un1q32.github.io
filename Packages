@@ -1055,15 +1055,15 @@ Description: Hexdump utility from vim
 Tag: purpose::console
 
 Package: xz-utils
-Version: 5.4.2
+Version: 5.4.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
-Filename: ./debs/xz-5.4.2.deb
-Size: 202032
-MD5sum: 13ed56a310a6872cdf0b71dbacdc291d
-SHA1: b47bdbc87324ed32659a0231cab1f5b5d46bbf13
-SHA256: db2f719dc4dd25947d7447fecf4bb28f6bc1deb04e06209af6832b7445436c0c
+Filename: ./debs/xz.deb
+Size: 202886
+MD5sum: e83b3da20fa152a13b79d43da1aa283d
+SHA1: 14297e0eb74a46949f26c784806bb6fce64ebcfe
+SHA256: d319c40d18948f5e13569b530be13a3e625869911f9e0e5b6b721867ea714cbe
 Section: Archiving
 Priority: standard
 Homepage: http://tukaani.org/xz/
