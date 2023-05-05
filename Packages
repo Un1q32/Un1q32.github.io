@@ -335,11 +335,11 @@ Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/htop-3.0.2.deb
-Size: 53920
-MD5sum: b41aa491a4d74df58931eda8aa0998b6
-SHA1: 7ea90a04ba15785b6f42b2d2aeac79fddcc29b33
-SHA256: cf19352fa34e617e9fa77b92685b698ce488b136e21a4f5a7b1788ecf68fed26
+Filename: ./debs/htop.deb
+Size: 53942
+MD5sum: 9901d0ea808e57d2f4483aa8fab9f3f3
+SHA1: 0f8188543c536ba68a869276634220605de548b8
+SHA256: 9cc1582b11ed7628ceb5e782c099efdc459260a32b970dfa707103255aeffe19
 Section: Utilities
 Priority: optional
 Homepage: http://htop.dev
@@ -684,11 +684,11 @@ Package: ncurses
 Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/ncurses-5.9.deb
-Size: 907268
-MD5sum: 4c2c5499473d4034e716e24c21228117
-SHA1: 1dc9d2bcada0c8fd282c0e56748b719fea4efe57
-SHA256: 273458d8c0c75909f9c351f8e0afb10b6ac44663fcf7ae454ca0279db1e0ab3a
+Filename: ./debs/ncurses.deb
+Size: 911460
+MD5sum: 290c673c5ee82144dbff3e1a7f7bd3e5
+SHA1: 1970ed3b340e0c27d3ea57a6594c9d33399b6b69
+SHA256: e4947c716a9d0aec199011c7f8131a7f815fd61886a89e7ad7831954d92bfee1
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
