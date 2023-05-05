@@ -1044,12 +1044,12 @@ Package: xxd
 Version: 9.0.1383
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/xxd-9.0.1383.deb
-Size: 7890
-MD5sum: d6407363e8b21c6d11f19491f4894aa8
-SHA1: 8fb005859c7e262e9f72f3c90487cb75b3de0212
-SHA256: f7582b1eef51f65c84d3ab9ee2657b1fc1b5c28c0fffcbf9b566e8ab3977b661
-Section: Text_Editors
+Filename: ./debs/xxd.deb
+Size: 7854
+MD5sum: bbafa43bed7ece3fa1613391f0ab9d95
+SHA1: 78fd80c5ed0f0ea34db204d06562a8d9e7024ef2
+SHA256: 6c96e67fe17a7bf6fada4e61b9d65ad176dfd096977f3fa6ba6c0294b6c2ab86
+Section: Utilities
 Priority: standard
 Description: Hexdump utility from vim
 Tag: purpose::console
