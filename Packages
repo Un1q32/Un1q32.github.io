@@ -353,11 +353,11 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils
 Replaces: io.github.oldworldordr.iconfix
 Provides: io.github.oldworldordr.iconfix
-Filename: ./debs/iconfix-5.2.deb
-Size: 1384
-MD5sum: 6de8581315897e56bd4fadc93bda6de6
-SHA1: 7c3d47717c5ee5a114847621462e5a0284f70e46
-SHA256: b45754b8134a5a5d3750c0f4ae60726e1e6e55c8ff567ce468d40027e24affbe
+Filename: ./debs/iconfix.deb
+Size: 1386
+MD5sum: a7589a0635b7091373f9126bb97d5100
+SHA1: bfe614766345761872a4cbd6f9023008058adc10
+SHA256: daaed1a3fd1a741a8dbaad89c9a2037b193f643cca0d00c18a4e7f777f9c6da0
 Section: Utilities
 Description: A script that fixes the iFile and MTerminal icons on iOS 6 and below.
 Conflits: io.github.oldworldordr.iconfix
