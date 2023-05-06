@@ -67,11 +67,11 @@ Package: brotli
 Version: 1.0.9-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/brotli-1.0.9.deb
-Size: 371200
-MD5sum: d43c7fd044aed0f713eac7dfec4d8c50
-SHA1: 0fc9f38fbe0ad8596f32060e6d8235ce1fb062c1
-SHA256: 0bdcf28cfa5844c4eac5bad4f271ba3555ebcdf9e28f4d8a4c7fcedb6542c355
+Filename: ./debs/brotli.deb
+Size: 370728
+MD5sum: 70cc618d6f2e6e9094b06d5ba72b6761
+SHA1: 565968433042a52594bb9d7fd5808db969a0d011
+SHA256: 104b474660dc7c0a1dafdafd18d5d47116a2ce57ef7fec9fc8bd23c8f6e71e52
 Section: Archiving
 Priority: optional
 Description: A generic-purpose lossless compression algorithm
@@ -132,11 +132,11 @@ Version: 8.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2, libpsl, libidn2
-Filename: ./debs/curl-8.0.1.deb
-Size: 490402
-MD5sum: 02efa03b75d7fc60e1035e96fac21543
-SHA1: 87587a414a31342bf0c1b0b8ced101cca113a5d0
-SHA256: b846760c541903e1151a12e7c96512ed2d72c4ac040e443272f891dd87a5d45c
+Filename: ./debs/curl.deb
+Size: 495890
+MD5sum: cf9dd9d0958b763ca68682af9c9c84a6
+SHA1: ce193bee1d68986a4b807454a696a7e9084fd6b7
+SHA256: 37af09049db797f8d0d9a9775abacbb1431737108e005f6cc6b08572671e4eb2
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -399,11 +399,11 @@ Version: 2.3.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libunistring
-Filename: ./debs/libidn2-2.3.4.deb
-Size: 123702
-MD5sum: 353a107692ec1b1cee7c4949545d1e7d
-SHA1: a51880b1cb2f6d703d4c823e34bce99d9ed6da9c
-SHA256: d5cadf5d750974b2ce94ff2751ebc50dc621e50c8d9cd887a57a52c210965569
+Filename: ./debs/libidn2.deb
+Size: 123536
+MD5sum: ed3fb99cb6dc304840fe518d3ea8614f
+SHA1: cfb9af2534b9cadc2ac463abcd43443033bd5bed
+SHA256: 3c6612547eb49b11f1c61610706248c3c68dacbc150a315f5fa4a02d38837c9d
 Section: Development
 Priority: standard
 Homepage: http://www.gnu.org/software/libidn/
@@ -415,11 +415,11 @@ Version: 0.21.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libunistring, libidn2
-Filename: ./debs/libpsl-0.21.2.deb
-Size: 63646
-MD5sum: 796dfcaadd74446bfba239a56c260542
-SHA1: 65e58ea433d0bbf393138333d89e0d3fdb5b448c
-SHA256: 939f4acc67ded1c75d86d3e216229f9656f85da9fd95c609444a2d327c1e1c9a
+Filename: ./debs/libpsl.deb
+Size: 63654
+MD5sum: 183bd5d7aabeddd9288710808ba09582
+SHA1: 3471b376a29f8acd5d8a01fca496e7c12ef09179
+SHA256: abe0ba3fa0cb9795ec245e9cc6ddc13ded533b7501c8ea0116a4f8ed24f10677
 Section: Development
 Priority: standard
 Description: Public Suffix List library
@@ -430,11 +430,11 @@ Version: 3.7.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Replaces: openssl
-Filename: ./debs/libressl-3.7.2.deb
-Size: 2738502
-MD5sum: 8b78cd13dc8119407cf2c5c7441884a9
-SHA1: 0e607545ff2c3dc65842a05773c13ef3e9f2f6e9
-SHA256: 36b0efe4272c15b2df99aa5367a229b8a9d9cd86af688d4fc0c222458b6cedd9
+Filename: ./debs/libressl.deb
+Size: 2739180
+MD5sum: 9e46433ce147ecd052252157243a78ce
+SHA1: 97a6c00b883ac6884efef2a7df1e73ec4cd043b2
+SHA256: 8433f2f8b950500a9c51a831007462f25875e92ddc300243e4085e5103e3c995
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
@@ -444,11 +444,11 @@ Package: libssh2
 Version: 1.10.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/libssh2-1.10.0.deb
-Size: 129762
-MD5sum: d72760cfeb93f13f06b4bbd0b5be3649
-SHA1: 2ab4bc4424fe886cd275c48bb4d076037d6e39eb
-SHA256: e5dd93eccaf8e024a3a9adb4acfc3b7c815412f573d5ef98a0c5bb4f4f3110e3
+Filename: ./debs/libssh2.deb
+Size: 129788
+MD5sum: e8f0dd621d931475c25b25d195e83342
+SHA1: 188f18c6780bd93bb9c1bcd123c971388475139f
+SHA256: 5b34f912c0cd27d41124d86b02d5bca89db08093c1f684ca58fd27f53559f08d
 Section: Development
 Priority: standard
 Homepage: http://www.libssh2.org/
@@ -459,11 +459,11 @@ Package: libunistring
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/libunistring-1.1.deb
-Size: 748284
-MD5sum: 75524e07717c2595acf18efc9a2fd630
-SHA1: bbbf493595ea19b90e3d29350b9525fd78380170
-SHA256: fa93f66c83c1244e22648cd504cc2d4974f3806355c64c560f5d1a4307202fd9
+Filename: ./debs/libunistring.deb
+Size: 747130
+MD5sum: 32f5307b3686bc716c618fec9f6980c6
+SHA1: 56f3e1d588b8c22bc5f3f9c035682847d7607b24
+SHA256: 75b8bd0fc57f470f426a87550165ebfe65cd97e506937a27b70c6c6bcde8e1da
 Section: Development
 Priority: standard
 Homepage: http://www.gnu.org/software/libunistring/
@@ -521,11 +521,11 @@ Package: lz4
 Version: 1.9.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lz4-1.9.4.deb
-Size: 209938
-MD5sum: f298b6210a8163a5345c77e25854a66b
-SHA1: 1c5f3dc63044076ea36198dfbcdcf8822260ebc2
-SHA256: 6e0848272b91ebbe9f34303adec40cc18912934a2076d5c2b2a08c7e285d3b25
+Filename: ./debs/lz4.deb
+Size: 208732
+MD5sum: 8cc378cd0f864613efb93cbceac21d16
+SHA1: 89d9f3c0d53aebc943ae519ccc3b10202dd6afb1
+SHA256: e2b1edbef45f256f51e766cc1fcc747df6f550a3598e60c02e4572a6c96a05e0
 Section: Archiving
 Priority: optional
 Description: Extremely fast compression algorithm
@@ -685,10 +685,10 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses.deb
-Size: 911460
-MD5sum: 290c673c5ee82144dbff3e1a7f7bd3e5
-SHA1: 1970ed3b340e0c27d3ea57a6594c9d33399b6b69
-SHA256: e4947c716a9d0aec199011c7f8131a7f815fd61886a89e7ad7831954d92bfee1
+Size: 911456
+MD5sum: dd1cae62d0359e64a037a9026d66658f
+SHA1: 813c5ff1f8cdf786c73096ab4195280d266cb975
+SHA256: 10bc5f3c833bc37a4abc7b49e1ae3ce444faf2e8564959b4594a94e13c19ba8d
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
@@ -715,10 +715,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
 Filename: ./debs/nextvi.deb
-Size: 77060
-MD5sum: 1514ea5d94be67b4411feab77cbaed1d
-SHA1: 09be50d8635916e0b9b7d8b2969bd9ad45678405
-SHA256: a336b948a1871746495b819d5085bf362099c6e9f081a396f349ec7c6cd54d4e
+Size: 76810
+MD5sum: 7cd7652fad7272a8c0c1b5637ffb36ba
+SHA1: dc50a6d12f3a69375f332c6bb67bda42a26b904d
+SHA256: 60ad9eacd35f57fbe75ca6e85ef09218c9f0166d941c7db2ee4510c6a2ecd233
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
@@ -730,11 +730,11 @@ Version: 1.52.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libxml2
-Filename: ./debs/nghttp2-1.52.0.deb
-Size: 121712
-MD5sum: 8ea91c19af2068f0dc63d0a0debee69d
-SHA1: 8d6a79f56e59a46906f0ca387022207f4b450b75
-SHA256: 70865e57e3d5930fff856278ce9b26625d93d1d010a89546d9800668b776bbe2
+Filename: ./debs/nghttp2.deb
+Size: 121696
+MD5sum: b83d9cf96cedd69d62af221ad7ea4795
+SHA1: 0ba6322bdd3ff9ae36f70c638985e76adf8ccec1
+SHA256: 23f80f026de991c3476dd49d3fcaa75c60a73fca82237bc084271a772f7d16d3
 Section: Development
 Priority: standard
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
@@ -1060,10 +1060,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
 Filename: ./debs/xz.deb
-Size: 202886
-MD5sum: e83b3da20fa152a13b79d43da1aa283d
-SHA1: 14297e0eb74a46949f26c784806bb6fce64ebcfe
-SHA256: d319c40d18948f5e13569b530be13a3e625869911f9e0e5b6b721867ea714cbe
+Size: 202884
+MD5sum: c3647c444c4c0ccaa7b6252bb00561d2
+SHA1: 6f5b492f18b7243c42eac64b1a523bbdfee79b0e
+SHA256: fb6f9bcd9580a61e926658b02198d64f5299e6778bba95ea3375c22ff1bcbe8d
 Section: Archiving
 Priority: standard
 Homepage: http://tukaani.org/xz/
@@ -1075,11 +1075,11 @@ Package: zlib
 Version: 1.2.13
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/zlib-1.2.13.deb
-Size: 78078
-MD5sum: f152da04c204d7733e956fa124e2e9f6
-SHA1: dbe659c848a1a621021418cfc4ac912872e28551
-SHA256: 2f02161a1e6f54dd13ee120784697504722ab3572f93b51eb157e397815bf061
+Filename: ./debs/zlib.deb
+Size: 78120
+MD5sum: 0da9c342399fb6f0dfb19184f6655bf1
+SHA1: 1286044de7969968678931d8c7b0397420f5ee23
+SHA256: 2407f82839d8d89ebb2d8a9c6c748c8ab640c3495087392113b18fc83dbf97ef
 Section: Development
 Priority: required
 Homepage: http://www.zlib.net/
@@ -1107,11 +1107,11 @@ Version: 1.5.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lz4, xz-utils, zlib
-Filename: ./debs/zstd-1.5.5.deb
-Size: 887444
-MD5sum: 7bfd2eae691379a30c02fd59ff4e991b
-SHA1: 58b962fdc41b842af48d4af0f26cd38adc2e0f59
-SHA256: 0d4b95ac356014fbc3de9a6225a57d2fdc3ec703d3468499158cffe59bacb191
+Filename: ./debs/zstd.deb
+Size: 888862
+MD5sum: ea8e35c11ce612918ff8282bc8fd1682
+SHA1: 6cedeb172c1df46793fa79de5f6b3243e150e631
+SHA256: db00150e19ad45cae9be7039430400f39c8cf282659b935c48f5664358d29f49
 Section: Archiving
 Priority: optional
 Description: Zstandard - Fast real-time compression algorithm
