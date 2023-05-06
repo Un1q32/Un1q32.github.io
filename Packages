@@ -81,11 +81,11 @@ Package: bzip2
 Version: 1.0.8-8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/bzip2-1.0.8.deb
-Size: 83350
-MD5sum: e3f28cb2eb73a3f9b6b013675fec84fc
-SHA1: ef8515fb13ff29357963bf8e17cb5ea8e3b36cc6
-SHA256: 0bf6144cad3a9df9c2b0f59fc22076e589418298dbe527af89aab6a248cd9076
+Filename: ./debs/bzip2.deb
+Size: 83998
+MD5sum: 1b0dfb16e4fd5bca703a30296627df3b
+SHA1: d1d1bbdcd72c510e5021b6f94fdbf79133c7275d
+SHA256: 2443dd2e762f2aada17b149d0624cfe6623e48eb9b055b890b2e3b22f9518084
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -378,17 +378,17 @@ Priority: standard
 Description: A collection of common network programs
 
 Package: less
-Version: 608
+Version: 633
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, pcre2
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
-Filename: ./debs/less-608.deb
-Size: 99070
-MD5sum: 5af301f7996053b4535c95c431335619
-SHA1: ec138c32c2d85b2303184da4fa39dcf2878d0a3d
-SHA256: 805f72599a31691860b8d7de898ef7c6e499baeef1e32abaab9f1b1514dc8245
+Filename: ./debs/less.deb
+Size: 106544
+MD5sum: 35e039d44742b229adcedca0c7c23411
+SHA1: 9f1e4e20a3ed93e53e24430c3b2af4a3d3ae89c5
+SHA256: 70350d2789aadfe7d28aa74244910605d16fdea7b031722bc1ddc34087862b50
 Section: Utilities
 Priority: important
 Description: provides less information than more does
@@ -790,11 +790,11 @@ Version: 8.45-9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
-Filename: ./debs/pcre-8.45.deb
-Size: 159326
-MD5sum: af8876f3f73b32c8821c61469da72df2
-SHA1: fe6d86882002877608b71d699b213da056cfea0c
-SHA256: 752dd0126961025faf082c641020571682c1ec08c22a592053c1ac37624dd6ab
+Filename: ./debs/pcre.deb
+Size: 159354
+MD5sum: dfb192e502b31beaab72ff72cf94d857
+SHA1: 45c01c90ab5b542a0d62e016eff5ee33b09272c8
+SHA256: a5eef8baca2463e064e02abed1d362218b874d61e7af157366c516af28a4de35
 Section: Development
 Priority: required
 Description: A library that implements Perl 5-style regular expressions
@@ -804,11 +804,11 @@ Version: 10.42-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline, bzip2, zlib
-Filename: ./debs/pcre2-10.42.deb
-Size: 228172
-MD5sum: 3ca3f5cdf228c06bf2a92c400ed91bcd
-SHA1: 271b06124a08b739e5d0aebd23d4777821afd016
-SHA256: 5a8f1e77df1ecf3b18b64961be9173ad6c0844a59fb0a820de69b3fe061de9ef
+Filename: ./debs/pcre2.deb
+Size: 226378
+MD5sum: fd4ac941099ef1302464657f0f0d7650
+SHA1: f7e608c178db202faf9eaf22c7ddb83a0aa072ce
+SHA256: f19656b12562a677b1ffeb20b739b381fb875ba02058f3b72ea7ca2618ffdc2a
 Section: Development
 Priority: standard
 Description: A library that implements Perl 5-style regular expressions. 2nd version
@@ -849,11 +849,11 @@ Version: 8.2.1-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/readline-8.2.1.deb
-Size: 181822
-MD5sum: 0c17ebdfef96b7a7ff8e396d3e4fc41b
-SHA1: a12b106da300285d4f75472d47f7de1326cca00b
-SHA256: 174d3922fbb577227589e613ba03f69a970e1ea1df8aefc31a0a9e390c854352
+Filename: ./debs/readline.deb
+Size: 182798
+MD5sum: c0cac55ab69779f70c87ef42bc35e31d
+SHA1: 7a176bb53301cee3b9fc7bcf9b5cc45510438951
+SHA256: 27f03e1cf2b0c7e8df323d91d0708e69657eb05e029f02513533837d4c072dab
 Section: Development
 Priority: required
 Description: command-line history management
