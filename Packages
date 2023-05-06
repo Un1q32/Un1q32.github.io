@@ -699,11 +699,11 @@ Version: 7.3.8-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bash, gawk, sed, grep, coreutils, system-cmds
-Filename: ./debs/neofetch-7.3.8.deb
-Size: 122956
-MD5sum: 4e742bd5bc999a1b39f2c6d304082c19
-SHA1: 498124dc7e911f021b5dae9ae490ae6d6a032ca6
-SHA256: 8393fbbc015bd4547d0085b0707af4a1c564c0bc9ceef633a9dc76e1eb08165d
+Filename: ./debs/neofetch.deb
+Size: 122960
+MD5sum: e1a14b050b2da22fbc48247529b1813c
+SHA1: 83da79128c82c02d0fb330428f2055c10f94631d
+SHA256: 8c3147b06a27be62359b2b37f4353aa8d9d97506a736b1e14cf0b5f16404af8a
 Section: Utilities
 Priority: optional
 Description: A CLI system information tool written in BASH.
