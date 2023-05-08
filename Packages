@@ -304,11 +304,11 @@ Version: 1.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
-Filename: ./debs/gzip-1.12.deb
-Size: 70080
-MD5sum: c66a95745799b45fe88d0d8c47964eb2
-SHA1: 44ef9f78da96473063414b23f87935b5b378aaf8
-SHA256: b357b431225f269698552e7a4927659960682f26ae8f873c8a3db8bd98cf2935
+Filename: ./debs/gzip.deb
+Size: 70098
+MD5sum: fbe2fc479cfbcdbc2dd5e525042236ee
+SHA1: b8ddd569f450e106481631f24d2e421f62cc38c7
+SHA256: bfdc329c2c6d400778a757366ea1c4a4cc58bc971b1e15b2a81ec014151f8f19
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
