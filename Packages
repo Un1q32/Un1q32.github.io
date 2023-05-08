@@ -471,14 +471,14 @@ Description: Library for manipulating Unicode strings and C strings
 Tag: purpose::console
 
 Package: libxml2
-Version: 2.10.4
+Version: 2.11.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/libxml2-2.10.4.deb
-Size: 743426
-MD5sum: 775cc7aa1179195843e56328eb9ba80f
-SHA1: 309e65a97880b3300325563656cd7c8a09c57c4c
-SHA256: 6fe659db7b5db812d266cd931586216d2687673889333b382901d6e7cf4b6da1
+Filename: ./debs/libxml2.deb
+Size: 737228
+MD5sum: 2df028ddc30d11371bd0c200149a91b6
+SHA1: 0eefbd5bb11c9dcbb5c0cc91a6ca3cae59206d3b
+SHA256: 03ce3a44a7c0083864620bd61c708f9b93a3f0b08efa76ae16d68656769dd9e7
 Section: Development
 Priority: standard
 Description: XML C parser and toolkit
