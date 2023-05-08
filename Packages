@@ -97,11 +97,11 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/cmatrix-2.0.deb
-Size: 7222
-MD5sum: f5ef74f1313883939a501c5b5915730c
-SHA1: 35d14fba757f4a39733299401b0f4ca8641fa7d1
-SHA256: 5745372956da91e43a9e9c5bff971e1ebb4d1caa2a5bed093fcbd854b27c9042
+Filename: ./debs/cmatrix.deb
+Size: 7208
+MD5sum: b771368454a086a80316bcbd135eb5a5
+SHA1: 2ed7f448a81d8ff7efada57f7cc41f0237c2e3fc
+SHA256: 4f01d258f446c3fc4a765aec2160545788df775f828cdbf42e57936b4196e0e6
 Section: Utilities
 Priority: optional
 Description: Terminal screen saver based on the movie "The Matrix".
