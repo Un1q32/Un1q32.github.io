@@ -235,15 +235,15 @@ Tag: purpose::console
 Name: Find Utilities
 
 Package: gawk
-Version: 5.2.1
+Version: 5.2.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: profile.d
-Filename: ./debs/gawk-5.2.1.deb
-Size: 383854
-MD5sum: 198b88c8c52951c93f33a09fb60970bd
-SHA1: e9b472fec44268bf40d0addd37379616895ea24c
-SHA256: 656970d051f09fdb8a4ad96750f77760685b15ad82973bd68836637039c54606
+Filename: ./debs/gawk.deb
+Size: 389446
+MD5sum: d4755e7f883386adcb91efef40c6d884
+SHA1: 13e55935d64e6b6abcc729c4c03b4c35c2f9a2ab
+SHA256: cd3025d42af0ee2e55376f838cb61ae14d290e6cee51ccaeeae4e4e69fbd441d
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/gawk/
