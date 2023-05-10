@@ -726,15 +726,15 @@ Tag: purpose::console
 Name: NextVI
 
 Package: nghttp2
-Version: 1.52.0
+Version: 1.53.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libxml2
 Filename: ./debs/nghttp2.deb
-Size: 121696
-MD5sum: b83d9cf96cedd69d62af221ad7ea4795
-SHA1: 0ba6322bdd3ff9ae36f70c638985e76adf8ccec1
-SHA256: 23f80f026de991c3476dd49d3fcaa75c60a73fca82237bc084271a772f7d16d3
+Size: 124140
+MD5sum: ede7daced159da2a3bb7cb1393c95caf
+SHA1: 95e6bc057f267e8c6a52b4c4384893acb1e5ccba
+SHA256: a48e23da344b060d526a5c35884c4b5347352dec260a5c9c1ce0e7bfde535c10
 Section: Development
 Priority: standard
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
