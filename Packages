@@ -1027,15 +1027,15 @@ Tag: purpose::console
 Name: Vi IMproved
 
 Package: wget
-Version: 1.21.3-1
+Version: 1.21.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, pcre2, zlib, libunistring, libpsl
-Filename: ./debs/wget-1.21.3.deb
-Size: 258598
-MD5sum: 29f5014edffcc4e83dbbc00941e8d709
-SHA1: fc25ba93b78aac06ad3b126a46df9f05caf28e14
-SHA256: e6b705ad8f8882bdbfa618b1631521e6b0adef993dd6e6db06a361bfd8fe7018
+Filename: ./debs/wget.deb
+Size: 260752
+MD5sum: 8d14ca9aa212b60b5b8d09a23e299d54
+SHA1: 07eee1c66ad4f3615e2f4cfbc290725db3727aa5
+SHA256: 45a2787baaabab54d44dd511050f7b60073de9a2632e84f359bf337e49e58749
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
