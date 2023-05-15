@@ -284,15 +284,15 @@ Description: fast content-addressable filesystem
 Name: Git
 
 Package: grep
-Version: 3.10
+Version: 3.11
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: pcre2
-Filename: ./debs/grep-3.10.deb
-Size: 127480
-MD5sum: 161e891e2794b43c95f68b7065e47c1f
-SHA1: d8cfba730a524feca5119060dcf464d365be592e
-SHA256: aa3f0eed97faa0adb6b1b079eb5b43a128d28dce249234afe5d66a8e0cf0a63f
+Filename: ./debs/grep.deb
+Size: 128560
+MD5sum: 746758bbb04d0fc9b402339ed55ded51
+SHA1: 5b71c1ed5e68c94bbba54ba8a7c84230ec310b2e
+SHA256: cc2db686fc3f62d9642ddf59b553eb643824129bc5a7ccecce2882b0287ecf6e
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
@@ -471,14 +471,14 @@ Description: Library for manipulating Unicode strings and C strings
 Tag: purpose::console
 
 Package: libxml2
-Version: 2.11.2
+Version: 2.11.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/libxml2.deb
-Size: 737228
-MD5sum: 2df028ddc30d11371bd0c200149a91b6
-SHA1: 0eefbd5bb11c9dcbb5c0cc91a6ca3cae59206d3b
-SHA256: 03ce3a44a7c0083864620bd61c708f9b93a3f0b08efa76ae16d68656769dd9e7
+Size: 737292
+MD5sum: b8315f9f22c6a24a645953b91ad4f1d3
+SHA1: cf369518dd68a8e7c0ec92d49bbad930bf69e2de
+SHA256: d7d59c4e12de00315134756a2b9e8dd76cb8bb91846dde852a85130a81259479
 Section: Development
 Priority: standard
 Description: XML C parser and toolkit
@@ -998,14 +998,14 @@ Description: A colorized, indented directory listing tool
 Tag: purpose::console
 
 Package: unrar
-Version: 6.2.6
+Version: 6.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/unrar-6.2.6.deb
-Size: 165282
-MD5sum: ca3f33f460463b3ae864324804471931
-SHA1: 2b92fe25492c5cdf85c9e60d6de87956cdf4f510
-SHA256: b1c177f4c001fc1a9baf20d558e73ecc0b8f18c9f79ecf595ae263bbd5f168ca
+Filename: ./debs/unrar.deb
+Size: 165246
+MD5sum: 7856bffa13bead9043f653296311d111
+SHA1: e1cf3a1fbecf653eedb8a711676c7299c94ea5fe
+SHA256: 7c3cc8abe1cacdb9f70e1ddaba7154b1bf4c949772e735ce206156b936b4c21a
 Section: Archiving
 Priority: optional
 Description: de-compresses files in rar format
