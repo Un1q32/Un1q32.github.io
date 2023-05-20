@@ -175,14 +175,14 @@ Tag: purpose::console
 Name: Diff Utilities
 
 Package: dos2unix
-Version: 7.4.4
+Version: 7.5.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/dos2unix-7.4.4.deb
-Size: 34710
-MD5sum: ee01707d594ea9fb5ab2f4940286eca4
-SHA1: d9dd9f574cab8ba732143fd58492e58a7dfcaf75
-SHA256: 9305cf87777056bc2e752bd3c3deb4fac50313649b78f1f05062e4b85ff4ef83
+Filename: ./debs/dos2unix.deb
+Size: 36782
+MD5sum: 0a1b29be2e7862c8fbcccd98df1a7a1e
+SHA1: 38cb6502f1c04ca13ca9afc8bdb633de12bfb6d3
+SHA256: a72f0d2ade0d42f46897ea4e108479bf84a4ad465f0efdf3ce8d089ff967122a
 Section: Utilities
 Priority: standard
 Description: DOS/Mac to Unix and vice versa text file format converter.
@@ -471,14 +471,14 @@ Description: Library for manipulating Unicode strings and C strings
 Tag: purpose::console
 
 Package: libxml2
-Version: 2.11.3
+Version: 2.11.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/libxml2.deb
-Size: 737292
-MD5sum: b8315f9f22c6a24a645953b91ad4f1d3
-SHA1: cf369518dd68a8e7c0ec92d49bbad930bf69e2de
-SHA256: d7d59c4e12de00315134756a2b9e8dd76cb8bb91846dde852a85130a81259479
+Size: 737514
+MD5sum: 6db2e62452d288d63ff5d04e3bc14ae3
+SHA1: d9034ca731c352f5faf791ff2daa7848b8dca8e9
+SHA256: f3f1ef29dccd4c75d019019c41952505c5e784a4e1b1e8a9164666b1323ed953
 Section: Development
 Priority: standard
 Description: XML C parser and toolkit
