@@ -289,10 +289,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: pcre2
 Filename: ./debs/grep.deb
-Size: 128560
-MD5sum: 746758bbb04d0fc9b402339ed55ded51
-SHA1: 5b71c1ed5e68c94bbba54ba8a7c84230ec310b2e
-SHA256: cc2db686fc3f62d9642ddf59b553eb643824129bc5a7ccecce2882b0287ecf6e
+Size: 128568
+MD5sum: 5fda0e9390ed82bdc243c5d13d99b9db
+SHA1: 5de8f9f8c029759c70594e4f95e31a43b04965ed
+SHA256: 38f33c2a974921a5f9999f0328c2e77b476a94aceed898a14b72d3ad5fd5a4a3
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
@@ -592,11 +592,11 @@ Package: m4
 Version: 1.4.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/m4-1.4.19.deb
-Size: 131158
-MD5sum: 46ab87d77e9b6b7263d5547fdabf597d
-SHA1: d2cff9a31f1214cb612ad98afe0853b877796609
-SHA256: f9dc1f56afecf2a95118bc8f513ff22900e3603b870bb366516c1b7e70e7ce42
+Filename: ./debs/m4.deb
+Size: 130714
+MD5sum: 974c2337db1d01559e5036147a3e77ca
+SHA1: b3d935079d187504ce91ca23845c8376de550844
+SHA256: bc3fc7ee4fb2511a314228a0fc72824b78ddf5e4a6f81b2f2db914f2673f53a1
 Section: Scripting
 Priority: important
 Homepage: http://www.gnu.org/software/m4/
@@ -607,11 +607,11 @@ Package: make
 Version: 4.4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/make-4.4.1.deb
-Size: 114944
-MD5sum: 5204064dc273b1efbb28b5ed8b01e579
-SHA1: 5c5b69bf1ad14a6976ec09e069ef1bfd8354efdc
-SHA256: f282157a2ad4376fce1d76f35d9fabf52315e3612b8af70e7be7f839f1fcd4ae
+Filename: ./debs/make.deb
+Size: 114908
+MD5sum: b26a740e0654dff23052114c5c07f0dc
+SHA1: d5367cbb59a0afbbebf7f053eefb3a13a6332a5c
+SHA256: 7d8bd76bfff835af78cbd00a7bb0c873fb5e34e8ea0b7f2ea92ae51ab5192c33
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/make/
