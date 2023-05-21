@@ -159,14 +159,14 @@ Tag: purpose::console
 Name: Debian Almquist Shell
 
 Package: diffutils
-Version: 3.9
+Version: 3.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/diffutils-3.9.deb
-Size: 173124
-MD5sum: 58bed076f1a5f8f319d7b4352a9e896a
-SHA1: 8fa022501c579b6d35fcdf58e23863a404ea07a5
-SHA256: 5ce4b7a36f1eae783b377d4a19da472adf8eb06f64250f584dea7dea7a15d367
+Filename: ./debs/diffutils.deb
+Size: 173018
+MD5sum: 93dc228f153920df5af25fb21282d352
+SHA1: 1afd9b2a2c0b75f36847188ba7dce555d4877bb3
+SHA256: 44c7f06ba8cbd8e2fc1af51bda3132dd8419614bd3eb3c4599f0950d77acb386
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
