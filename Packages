@@ -163,10 +163,10 @@ Version: 3.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/diffutils.deb
-Size: 173018
-MD5sum: 93dc228f153920df5af25fb21282d352
-SHA1: 1afd9b2a2c0b75f36847188ba7dce555d4877bb3
-SHA256: 44c7f06ba8cbd8e2fc1af51bda3132dd8419614bd3eb3c4599f0950d77acb386
+Size: 173028
+MD5sum: 1532a650f685d4759a6f2d8edec0d801
+SHA1: 96746a196aa7fa81a17b4f9adf9ac4b25f1bed40
+SHA256: ddb37b8ec2637fad16edacc8807e7e3941528d488c1121a277d83b23d0d8d320
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
