@@ -128,15 +128,15 @@ Tag: purpose::console
 Name: Core Utilities
 
 Package: curl
-Version: 8.1.0
+Version: 8.1.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2, libpsl, libidn2
 Filename: ./debs/curl.deb
-Size: 507208
-MD5sum: fce05c80b811dfeee57fdbc5ab1cc235
-SHA1: 4b6e3695d4e65af94ad8d58441326f4d4884ad9d
-SHA256: 9bbb35ee2edda4ab3a28b2eec320ffea4192e0198b9c503298c376041f246865
+Size: 507548
+MD5sum: 33ec3b8ccf3fdf6c95ba0dcb1e00d5c5
+SHA1: 6229bc6d95355b471fbe10ac24216936dee653dc
+SHA256: a43b7f2c1224e74bb259e1f003b79a868775a2a35c0bef23c10ada0b13099dd3
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
