@@ -710,18 +710,18 @@ Description: A CLI system information tool written in BASH.
 Name: Neofetch
 
 Package: nextvi
-Version: 4
+Version: 5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
 Filename: ./debs/nextvi.deb
-Size: 76810
-MD5sum: 7cd7652fad7272a8c0c1b5637ffb36ba
-SHA1: dc50a6d12f3a69375f332c6bb67bda42a26b904d
-SHA256: 60ad9eacd35f57fbe75ca6e85ef09218c9f0166d941c7db2ee4510c6a2ecd233
+Size: 93496
+MD5sum: 895e558dff0e96f6010e2d91179678ce
+SHA1: 16bd8a32c23120e8c7f634c3fdb9b200fc74b675
+SHA256: fe1e20676dce4bb3793d189052df5dd9722f60380a7cbc5b844782d13b089113
 Section: Text_Editors
 Priority: standard
-Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text. (Arkaeriit fork)
+Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
 Tag: purpose::console
 Name: NextVI
 
