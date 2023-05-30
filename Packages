@@ -128,15 +128,15 @@ Tag: purpose::console
 Name: Core Utilities
 
 Package: curl
-Version: 8.1.1
+Version: 8.1.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2, libpsl, libidn2
 Filename: ./debs/curl.deb
-Size: 507548
-MD5sum: 33ec3b8ccf3fdf6c95ba0dcb1e00d5c5
-SHA1: 6229bc6d95355b471fbe10ac24216936dee653dc
-SHA256: a43b7f2c1224e74bb259e1f003b79a868775a2a35c0bef23c10ada0b13099dd3
+Size: 505730
+MD5sum: 679550a925318b170cad82517b741d41
+SHA1: 4772bf33b97f7c655b3eb7a58a79e89060002182
+SHA256: 999c3bf2ad59277cd9eaf9a3811dc545153dabb38bb9e2798f43faa34af8de09
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -441,14 +441,14 @@ Description: Free version of the TLS/crypto stack forked from OpenSSL
 Name: LibreSSL
 
 Package: libssh2
-Version: 1.10.0
+Version: 1.11.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/libssh2.deb
-Size: 129788
-MD5sum: e8f0dd621d931475c25b25d195e83342
-SHA1: 188f18c6780bd93bb9c1bcd123c971388475139f
-SHA256: 5b34f912c0cd27d41124d86b02d5bca89db08093c1f684ca58fd27f53559f08d
+Size: 131524
+MD5sum: efa5b993aed8f2555b4fb928dc2df5ab
+SHA1: 996f21bb36fba81af07123aeb500416ca6131258
+SHA256: f665a76e55896c50c91b90a82731823a53c2a395a6d6cf408e3114b49f284e8b
 Section: Development
 Priority: standard
 Homepage: http://www.libssh2.org/
