@@ -858,6 +858,20 @@ Section: Development
 Priority: required
 Description: command-line history management
 
+Package: ripgrep
+Version: 13.0.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/ripgrep.deb
+Size: 1590434
+MD5sum: 9edfa1b309e7a7e5dab88345a9dddfd5
+SHA1: a6b7a6a9eec581d9b39075e69606fbd5a3938489
+SHA256: d582fc100663c287d391db0682fac3c1ea39e0bdeec9e217c21dd24273209a76
+Section: Utilities
+Priority: optional
+Description: Searches files for regular expressions faster then grep (armv6 not supported)
+Tag: purpose::console
+
 Package: rogue
 Version: 5.4.4
 Architecture: iphoneos-arm
