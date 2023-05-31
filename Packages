@@ -863,10 +863,10 @@ Version: 13.0.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ripgrep.deb
-Size: 1590434
-MD5sum: 9edfa1b309e7a7e5dab88345a9dddfd5
-SHA1: a6b7a6a9eec581d9b39075e69606fbd5a3938489
-SHA256: d582fc100663c287d391db0682fac3c1ea39e0bdeec9e217c21dd24273209a76
+Size: 1590426
+MD5sum: 1ea1849e219b9a1407b20b836937601b
+SHA1: b7f26682a0dcdcbb7e2e9f3561ad3b818d368633
+SHA256: 6a43c555d65a6df2e7e6dc111400d844a8641408d71a90f99f44541eae2039c4
 Section: Utilities
 Priority: optional
 Description: Searches files for regular expressions faster then grep (armv6 not supported)
