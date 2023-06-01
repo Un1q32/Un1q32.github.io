@@ -984,14 +984,14 @@ Description: enhanced version of the BSD C Shell
 Name: TENEX C Shell
 
 Package: tree
-Version: 2.1.0
+Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/tree-2.1.0.deb
-Size: 31632
-MD5sum: 5ab3f228708774d4f63ca40669d721c7
-SHA1: 61565791561279e885e463476b15c026f685404a
-SHA256: c9a70b39c360d71827f2fab95833b5bab38baa0989ef16c2d644ed9701baee48
+Filename: ./debs/tree.deb
+Size: 33732
+MD5sum: 57da193315bfbadaec905edceadd9c00
+SHA1: c707d14b8112270ac46c03d821eb98abfbc3360f
+SHA256: 1494a23a669b4ef7447f4ac024f478d7a0a544b97963e2dee72ca78f7e74929a
 Section: Utilities
 Priority: optional
 Description: A colorized, indented directory listing tool
