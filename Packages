@@ -1011,15 +1011,15 @@ Priority: optional
 Description: de-compresses files in rar format
 
 Package: vim
-Version: 9.0.1507
+Version: 9.0.1596
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, xxd
 Filename: ./debs/vim.deb
-Size: 10077504
-MD5sum: 4e0682abdb6954fbd6145951862e288a
-SHA1: 525ff3796aaaef8ce3dd579f1a4e501d891fa97d
-SHA256: 8149b94952a3deb75c1fa77b9b111f27373c00b8de5a79a15665aa8089944ffc
+Size: 10082114
+MD5sum: d704fa7045ae47c39c16c2cfb17cffd3
+SHA1: ff581bdf0889fdb4235ee26b642e465912e359e4
+SHA256: c084a76305fe8824fa8b05432e6a0a65aad7ca4bca8f10009e4577faf592b5ba
 Section: Text_Editors
 Priority: standard
 Description: A highly configurable, improved version of the vi text editor
