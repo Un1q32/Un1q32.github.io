@@ -37,11 +37,11 @@ Version: 5.2.15
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
-Filename: ./debs/bash-5.2.15.deb
-Size: 411920
-MD5sum: d616ed643b4c0c44f91b6d03786e70ee
-SHA1: 9a8bfccdf107534bec616a80e3fcdb8fa8b43123
-SHA256: 2ab8aca092d85e98504035b175402cfa5b62af002080850cd269527b629c8609
+Filename: ./debs/bash.deb
+Size: 412562
+MD5sum: 09cfb086d91cfbd7a849c4652ce0cf10
+SHA1: 627a11e39b7d2d17de7d12266b064f8ed4abda42
+SHA256: 9c17b9b763e72596d0e33b834234751e8de38d3063792b3c92ca6c84fb61ea99
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -53,11 +53,11 @@ Package: bc
 Version: 1.07.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/bc-1.07.1.deb
-Size: 67788
-MD5sum: 0ba51c87c4ff6d0d9282c9ad1833390f
-SHA1: 7558055c29e10c9a435f7674756621aa40693257
-SHA256: 1748af793966756b49cdc3e4974ec7e1b1671853db4e6d007922fef77657f729
+Filename: ./debs/bc.deb
+Size: 69350
+MD5sum: 62e545fe6e17c8c31509b3237799faa8
+SHA1: 61e6fdf31c4d8c7690f6a85c6d6c0c0c5032c7a7
+SHA256: eecc85a22974895f05e33e5c20bfab27a27bdaecbac43a93537463063e9f9f9a
 Section: Utilities
 Priority: important
 Description: An arbitrary precision numeric processing language
@@ -256,11 +256,11 @@ Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: perl
-Filename: ./debs/gcal-4.1.deb
-Size: 659538
-MD5sum: 63f9d841fae105a7b72d936923d40954
-SHA1: 8e051017456fe06839d12421871a25a2a2658b42
-SHA256: aeb6d3a11ab6c58a329a72abb1dde4d9c366740a937162e5f2eec0532889f5ce
+Filename: ./debs/gcal.deb
+Size: 658448
+MD5sum: b933a0f44c9608dffb5660af7f611ab9
+SHA1: d07e7dcc0f6481c23ff6147189cb7e3ba52b5e6a
+SHA256: e0f1b5ffb3a921d09d924cf3822de8fd0418112e49dbb96eeef0188d0799d567
 Section: Utilities
 Priority: optional
 Homepage: http://www.gnu.org/software/gcal/
@@ -320,11 +320,11 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/hexedit-1.6.deb
-Size: 19228
-MD5sum: dfb3b8ae5f4073be2681e61f98a4f7be
-SHA1: 6ca9e38d0fe6c302b329dfc4edfa708620e95be6
-SHA256: d3f0f37c8f0124d88e7abc5a5df0d86f319dc5b58b2a91997585c2006b831dca
+Filename: ./debs/hexedit.deb
+Size: 19170
+MD5sum: 1ebff603e3d94b3d564ca195ef15df44
+SHA1: 64afea9f46ad83e23d0cbaeb9708d87ba72aae59
+SHA256: 4c995df381d1dca1087fbbc2aa1c6a07b5bb63f5e3eb6ca1abcbc268a1bf1dcb
 Section: Text_Editors
 Priority: optional
 Description: View and edit files in hexadecimal or in ASCII
@@ -535,11 +535,11 @@ Package: lzip
 Version: 1.23
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lzip-1.23.deb
-Size: 54672
-MD5sum: 5f2e78044dc09d4a9ab7a0c42356203f
-SHA1: 8c35b0ba7776ff68695435cdac4d9a1100a2d7e6
-SHA256: fddd66552627e0a2ce57e0ac0566895631074d8c44bba9bf6abbb74e9f028d19
+Filename: ./debs/lzip.deb
+Size: 54890
+MD5sum: e53683494ebe53e0c21d94bfbc22d0d5
+SHA1: eec1e586d1eda0ac906c473821dc2851e1481467
+SHA256: 7cd6184a8d4954f8c27d70329f278be7f95842b83edbfc3a08d8470cfe605f1d
 Section: Archiving
 Priority: optional
 Description: A lossless file compressor based on the LZMA algorithm
@@ -549,11 +549,11 @@ Package: lzlib
 Version: 1.13-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lzlib-1.13.deb
-Size: 35434
-MD5sum: f4fb0771465000d0ce79222dbc976f35
-SHA1: 84167c1c9216fb17f772c65fec5e6da3a323f020
-SHA256: 94dddc52d0de844eccc83b1c381af16745284774fdc63e952da91fd80fca7673
+Filename: ./debs/lzlib.deb
+Size: 35814
+MD5sum: 8b607c425263fdb1d8eb8693f8b59d58
+SHA1: cadde10c6aa87bb06e554550f5fd96672121f4de
+SHA256: ec117f6d107d281e75f1c5f4fb47f1ae99ab8c161db58ecbd68dae5b118a06c8
 Section: Archiving
 Priority: optional
 Description: A library providing in-memory LZMA compression and decompression functions
