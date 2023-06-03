@@ -503,14 +503,14 @@ Tag: purpose::console, role::hacker
 Name: Lua
 
 Package: luajit
-Version: 2.1.0-beta3-2
+Version: 2.1.0-beta3-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/luajit-2.1.0-beta3.deb
-Size: 589148
-MD5sum: c4f8619b747e40538e7485e614cac676
-SHA1: cc0685fa062416a67d2846d3cb1f4e92096f89fd
-SHA256: 3f8ee83e50921cdeb9a0b2236752e71cd863792322d51671ba702ee29aa326f3
+Filename: ./debs/luajit.deb
+Size: 588340
+MD5sum: a9e764b3e8e327308b1e2b07f9e398f8
+SHA1: b6459047543dfa0334a3ec1e98291174c3d33f2f
+SHA256: 52c9dc293654b7520a4240e30f535688349f835c80a875967e2b015bd619c241
 Section: Development
 Priority: optional
 Description: Just-in-time compiler and drop-in replacement for Lua 5.1
