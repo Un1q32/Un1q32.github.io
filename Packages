@@ -907,11 +907,11 @@ Package: sed
 Version: 4.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/sed-4.9.deb
-Size: 100878
-MD5sum: 80317068ef7170d962f918652b010556
-SHA1: da359ce0aaa9419f86d9c0b6dae429811aebff79
-SHA256: 1782d574f84c9d3982817af9abe6c11e372c491515efb4aa6f686883c53dd6a6
+Filename: ./debs/sed.deb
+Size: 100924
+MD5sum: 4d9292481d621004ad72f91f228e6ec5
+SHA1: e613c9017045662034d78273bd0c561f3db9b91e
+SHA256: f1e61fd17357bf1ac60025c3635521ae71adf7eb335bee2b0ecc7eb1b61bdc92
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
@@ -1091,11 +1091,11 @@ Version: 5.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, pcre
-Filename: ./debs/zsh-5.9.deb
-Size: 2021292
-MD5sum: 52e66fec27011e062e61824ca1e61e51
-SHA1: 9ff36d7d93225c716c88a7f9b467981461e6d565
-SHA256: 36cd40642555181e897c867abea69a035a0d7ce04f6af9d96d84b9ec1a38cf54
+Filename: ./debs/zsh.deb
+Size: 2036120
+MD5sum: 335b409f42236f091c76cc12e2fc9654
+SHA1: 8ee57f083b9ae73ae95f275538667b09c86fb484
+SHA256: 91fe7202229dc083fcc076259611b06cfed4effa29412cce30cfc4227c750c2c
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
