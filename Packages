@@ -622,11 +622,11 @@ Package: mksh
 Version: 59c
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/mksh-59c.deb
-Size: 161220
-MD5sum: b7f53cc79c0fe19fed57b599850f7296
-SHA1: 27f7c11ff3fc6d963d02da2e0ee037f62730bd78
-SHA256: 93e511ed18d6ebd4e483fb16afa8b2ae281704e1edef6ba889400baf621f1474
+Filename: ./debs/mksh.deb
+Size: 164348
+MD5sum: 7379f97af133bee8662c9a18352d668a
+SHA1: 52addd07d29222683c1fbce75f9408d39d6fded6
+SHA256: 62b1de31930cdb4a45ec22be8cd1027236d3edc4e57f771ae7b52c73ad58ed81
 Section: Terminal_Support
 Priority: optional
 Description: A free implementation of the Korn Shell programming language
@@ -638,11 +638,11 @@ Version: 1.13
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/moe-1.13.deb
-Size: 137352
-MD5sum: 2a75698edf2e8b289afdb021f721916a
-SHA1: 375ebf585f2aa1dd6b20e4b48b2d9585f6f74b45
-SHA256: cc999ebdaf69621820be13dec31abb88b5b37615de07c151e586aba3645a9908
+Filename: ./debs/moe.deb
+Size: 137360
+MD5sum: d218d577e4536a3b4a41465d99b4bf9f
+SHA1: 508d7447861bf62bc93fa29540042bcab53b5dc1
+SHA256: e07e091e058dfb392eec9519972511cb01eacad59f5c0bdbbb28203506dd4d97
 Section: Text_Editors
 Priority: optional
 Homepage: http://www.gnu.org/software/moe/
@@ -669,11 +669,11 @@ Version: 1.18.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/ncdu-1.18.1.deb
-Size: 37798
-MD5sum: 2ace578bd4dfbe61027e4d497dd8e175
-SHA1: c04afd7381057265ab0a534c3a77870da2ad1c46
-SHA256: 7bd2e609f87c06c1f5c4e9bb073de705bf609344f2a2cf3ec92eec6d649f9739
+Filename: ./debs/ncdu.deb
+Size: 38100
+MD5sum: 4fed703bcffb0792fb16cde5855c3236
+SHA1: 5d827996d5ee5a0a6fec06d19a1a87a5c4525c73
+SHA256: 3c5eca5dd6f79d6d9b9cf9ad992bb205e5c1a37b85b8adddf43b85195b44a178
 Section: Utilities
 Priority: optional
 Description: Disk usage analyzer with an ncurses interface
@@ -745,11 +745,11 @@ Version: 9.3p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zlib
-Filename: ./debs/openssh-9.3p1.deb
-Size: 2192460
-MD5sum: 6e8d63dd75de96448d2c5e0c2cd5a895
-SHA1: 0393b6263f8b094badd87387a5531620b19061a5
-SHA256: 4043bb7736b4d819d4d49a1e03c83c389af282f5d8552ef4f78ccba25540c615
+Filename: ./debs/openssh.deb
+Size: 2232648
+MD5sum: d42ed269cd835bd247ae6e1939a93d7a
+SHA1: df7a147eaaeefcc2b530f11917bfa40be2e87ee1
+SHA256: 578dca368b7a278d6d9ccedf0936f0dbf8bf5f01ece0e504fd4db0d9cd0e08d1
 Section: Networking
 Priority: important
 Description: secure remote access between machines
