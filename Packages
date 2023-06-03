@@ -893,7 +893,7 @@ Version: 4.9.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/screen-4.9.0.deb
+Filename: ./debs/screen.deb
 Size: 466564
 MD5sum: 5b3e0fc39ac6ff022ed7a1099fdff89d
 SHA1: 4910900b1f692e712812ab36b65bd5cbb979ca94
