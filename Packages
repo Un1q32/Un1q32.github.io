@@ -862,11 +862,11 @@ Package: rogue
 Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/rogue-5.4.4.deb
-Size: 90408
-MD5sum: 35afde10fc71f868c2613952e2e7305c
-SHA1: 48f8abedddae17a5ebf8bb5aed6189d6dd6f2c77
-SHA256: a7aa27aa88c7d556d1a7a18fa2bfcfb46d62bf3e98693892ce1fc46ff5bc15a4
+Filename: ./debs/rogue.deb
+Size: 90058
+MD5sum: f36cbfa72aadfbe118289f966cff36d7
+SHA1: 442658fc2db0738b37fa7b65cf085ed11ccb4801
+SHA256: bce770b29781f0f845acb9647ca11891c80d4e4add93bf46efb52af2b8e0df11
 Section: Games
 Priority: important
 Description: The original dungeon crawl game.
@@ -923,11 +923,11 @@ Version: 1.9.13p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: zlib
-Filename: ./debs/sudo-1.9.13p3.deb
-Size: 902460
-MD5sum: 73f98621ec1a2a8c46a414e62bca26c4
-SHA1: 2da991fef81300a8b323e7c5b3dfb22941dc7ce2
-SHA256: 323a9cc2d97c9b0547e8eaae71337c31d475d0de8083bcc07ef53cd9a45bb15e
+Filename: ./debs/sudo.deb
+Size: 903630
+MD5sum: e5ea92c7d11b378f3f276aa8b0762ab6
+SHA1: 373fd6975b68f39774c0313a76a71f3c3a64c70d
+SHA256: 7fcec340a5678538700fee43668da4d9e7f0607675508d44c395b5f763be4206
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
@@ -942,11 +942,11 @@ Depends: firmware (>= 7.0)
 Conflicts: sudo
 Replaces: sudo
 Provides: sudo
-Filename: ./debs/sudo-1.9.13p3-arm64.deb
-Size: 856938
-MD5sum: 70145a8dd75dde3f299e4c6e4ee76fb8
-SHA1: 03e275c70445dbc01d51f17144a7462e4a6cac30
-SHA256: 2a7cc88f99878b365d4fb2f57d676c16aa3c6b9e984e11cd6a63d8c04cb91cae
+Filename: ./debs/sudo-arm64.deb
+Size: 822802
+MD5sum: c34b3c72c00ce3ee329a8ed96bea3838
+SHA1: da3c1ae1ccbcce8f85c8c7165384a172d95bae53
+SHA256: d7b3fc88fc6c5fc3b6413b6f60927951f0e260127d23be576e8322d99128be76
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
@@ -957,11 +957,11 @@ Package: tar
 Version: 1.34
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/tar-1.34.deb
-Size: 253262
-MD5sum: 301c07356808a87bb001a80b2fcb5fc0
-SHA1: 1193d38f941ecb99c96e17dfa26513a64e1baac5
-SHA256: 49ea28ad8867882213f05005beec798555962847a21e3bc8b5374c07ccdeed6f
+Filename: ./debs/tar.deb
+Size: 253018
+MD5sum: 4dcc3a5bd7f71acb65846310a31c1bac
+SHA1: b46014563c3ea744c9f51d1dd70662c9ecb0e7a3
+SHA256: 7c8f4a35fd58d4134f1bae0e8335de059be6659eb4d196cec62509f2f0473cbb
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
