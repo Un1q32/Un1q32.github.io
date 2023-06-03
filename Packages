@@ -775,11 +775,11 @@ Package: patch
 Version: 2.7.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/patch-2.7.6.deb
-Size: 110436
-MD5sum: 47aed2dce7472a161d5a302fb182f7f9
-SHA1: bd2891ea5d7217ffc214584a66ba50b3049fe6c8
-SHA256: 13860baf7850c9c60b8d4c7f74ada25ccbb6e4e6b5849e9f2aaa91aafaaaf92f
+Filename: ./debs/patch.deb
+Size: 110232
+MD5sum: 1440503e57ac2a9ae7fae5933d6beadb
+SHA1: fa1b7862438bf5747a99e430656161e55cb62d4b
+SHA256: 087595714e025a2d26f4f399542006cd6aa213e65f1ab489c7b789319208aec5
 Section: Development
 Priority: important
 Description: merge a difference onto a file
@@ -878,11 +878,11 @@ Version: 3.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd, zlib
-Filename: ./debs/rsync-3.2.7.deb
-Size: 281306
-MD5sum: 3973d662999ebf214c91d06ea95ac83b
-SHA1: b1d8194560fb2371f3f6ea8f1f7a86a27cab6a7c
-SHA256: 3eef9a714de30e874f1117e901b91b22fe2ad13df7d79946103d9180d8a0dff4
+Filename: ./debs/rsync.deb
+Size: 282510
+MD5sum: e41c9d0cea0ac011eb3f9b750c217c82
+SHA1: 210cd936001316ce3f23fc3f6609586f2064e9dc
+SHA256: a6984411889e583b7cbe3830205a7cf3e3cec5cd6f8aa0b852f69fdc507a05a0
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -973,11 +973,11 @@ Version: 6.24.07
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/tcsh-6.24.07.deb
-Size: 196160
-MD5sum: 7f815278d03952f1cfb561c866d1109a
-SHA1: d4ddb93ccdf9997a3cf98868bbdaada82ede1735
-SHA256: bdb504a2034ac8eaec132ee9101e59e7d174dd759a4c9d12fdfbaf9be61c8b35
+Filename: ./debs/tcsh.deb
+Size: 198674
+MD5sum: 6381778a9a904c705547026fb574db6a
+SHA1: f251d9f682ae23802f6b3de78a446db5310a60cd
+SHA256: c93aa6f86522dbfa91082e66ba10e20446d251c87d6ee073d2ab74bfabb284ac
 Section: Terminal_Support
 Priority: optional
 Description: enhanced version of the BSD C Shell
