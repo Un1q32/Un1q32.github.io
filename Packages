@@ -368,11 +368,11 @@ Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, readline
-Filename: ./debs/inetutils-2.4.deb
-Size: 758036
-MD5sum: 601606ddc33e7b6df952cf63c348ea5e
-SHA1: f0b8020e99dc0839e2f353b9b41b6deb2267674a
-SHA256: f8caca978ef5741caf938329329e8cc2810086c292b9b229116f0f7a6e4e9c3f
+Filename: ./debs/inetutils.deb
+Size: 759236
+MD5sum: 1e1c3e9168223ad9a0aea0df7c3b8ba2
+SHA1: bc58d2cf0887c517c00b84b7606ebe8ca0fc074c
+SHA256: 1b032e60ff111437c1eb8e8076563382891da34101d8bfe4eb727bedc30d145c
 Section: Networking
 Priority: standard
 Description: A collection of common network programs
@@ -563,11 +563,11 @@ Package: lzo
 Version: 2.10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lzo-2.10.deb
-Size: 81184
-MD5sum: ce1a4471775a5e8366202b12e8cdf15c
-SHA1: a4a1d386a50a573d6939c1766de7087a17c6c4ca
-SHA256: 80b70f22bc1f00ef2433212ed25c3a83cceb38f063cc2a1046e40125c100e6a1
+Filename: ./debs/lzo.deb
+Size: 80072
+MD5sum: c6ce5417c7d8e66bdc420a9145f13aed
+SHA1: 48f433f21975689f3c245ee2cf826dd8fa5a8096
+SHA256: 6753e34b7870a77a147470917118b71eaaaf25427ff50774927a88c263e9ce46
 Section: Development
 Priority: optional
 Description: Portable lossless data compression library
@@ -578,11 +578,11 @@ Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: lzo
-Filename: ./debs/lzop-1.0.4.deb
-Size: 33254
-MD5sum: 464840149d8c11c5e8edd1c1b1619063
-SHA1: c3e8c3cedd79379307d4552a45ee5fad28590f4a
-SHA256: b26b1ce983cf55b0b60a2897ec37e7ae8ddb827c70113dac59c1948273304784
+Filename: ./debs/lzop.deb
+Size: 33234
+MD5sum: 671e8a512e0d0b612316233a00c060fb
+SHA1: 4bdf80758c231deac0194fd994d2b4b2169e92a4
+SHA256: 03b9a0d5ef6ce4441c82ed222abd8a477e330fb9fdcf65736ac7dc64cf2dfe71
 Section: Archiving
 Priority: optional
 Description: File compressor using lzo lib
