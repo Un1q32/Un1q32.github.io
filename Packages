@@ -685,10 +685,10 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses.deb
-Size: 911450
-MD5sum: de544880c452353b4de60fd1957cb711
-SHA1: b4b9b21203bb402d235bd1561e4249b87b516ea6
-SHA256: b887ccd2917e059f8449aab38a4d6ee772be208eb3fffe2a15320fe29106196f
+Size: 911512
+MD5sum: b520b754a5f9695ebf8fe4652dedf3d9
+SHA1: 5f56b41a6ce2bd7103bf4929cce8f8ca5dc8b475
+SHA256: 4e23b2a3656f752abb92920ae8dd8e88f82503d3ea904dfe555053c372063fb7
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
