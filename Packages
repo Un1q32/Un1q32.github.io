@@ -491,11 +491,11 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline
 Conflicts: com.deltaman.lua
 Replaces: com.deltaman.lua
-Filename: ./debs/lua-5.4.4.deb
-Size: 373298
-MD5sum: 8bccd32e71857231cf80839e2f680cbd
-SHA1: 95b5a9f1c74589af339bfe69de1175b2cfc82081
-SHA256: 9f66c71de7b95c314ac0f8f429f13990071aed6324b0b31a4c7fca779ad2ae3c
+Filename: ./debs/lua.deb
+Size: 371576
+MD5sum: 9717c3ac3b7134d0b849a2954b496f0b
+SHA1: bb878c6b98618344c1b53ca0b17ca3ef8165fa91
+SHA256: b4ff3be5031a41836dcfdd23d69a9f497eb5ddc7700a5552675dce6eefa9837b
 Section: Development
 Priority: optional
 Description: A powerful, efficient, lightweight, embeddable scripting language.
@@ -685,10 +685,10 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/ncurses.deb
-Size: 911456
-MD5sum: dd1cae62d0359e64a037a9026d66658f
-SHA1: 813c5ff1f8cdf786c73096ab4195280d266cb975
-SHA256: 10bc5f3c833bc37a4abc7b49e1ae3ce444faf2e8564959b4594a94e13c19ba8d
+Size: 911450
+MD5sum: de544880c452353b4de60fd1957cb711
+SHA1: b4b9b21203bb402d235bd1561e4249b87b516ea6
+SHA256: b887ccd2917e059f8449aab38a4d6ee772be208eb3fffe2a15320fe29106196f
 Section: System
 Priority: required
 Description: System V Release 4.0 curses emulation library
@@ -850,10 +850,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/readline.deb
-Size: 182798
-MD5sum: c0cac55ab69779f70c87ef42bc35e31d
-SHA1: 7a176bb53301cee3b9fc7bcf9b5cc45510438951
-SHA256: 27f03e1cf2b0c7e8df323d91d0708e69657eb05e029f02513533837d4c072dab
+Size: 182792
+MD5sum: 122ba53136035682a4a35f0ce372f8cf
+SHA1: 5a138b425eb12bfb289f0826c26db8a9343da6b8
+SHA256: 3b5c08c9281aba1923a331d97b04b7f967c1d6cfc0afd8fa325ae6c2666c0cd5
 Section: Development
 Priority: required
 Description: command-line history management
