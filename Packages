@@ -142,15 +142,15 @@ Tag: purpose::console
 Name: Core Utilities
 
 Package: curl
-Version: 8.1.2
+Version: 8.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zstd, brotli, zlib, libssh2, nghttp2, libpsl, libidn2
 Filename: ./debs/curl.deb
-Size: 505730
-MD5sum: 679550a925318b170cad82517b741d41
-SHA1: 4772bf33b97f7c655b3eb7a58a79e89060002182
-SHA256: 999c3bf2ad59277cd9eaf9a3811dc545153dabb38bb9e2798f43faa34af8de09
+Size: 505728
+MD5sum: 93182680caa2c3e64ba7d54137e32a9f
+SHA1: 49ce575bdcd0f945c1d240e916c168a600235e52
+SHA256: bdfb097fce560b53bc701dda111ee6f788b543daa4719fea57fb2d270627d866
 Section: Networking
 Priority: standard
 Homepage: http://curl.se/
@@ -283,15 +283,15 @@ Tag: purpose::console
 Name: Gcal
 
 Package: git
-Version: 2.41.0
+Version: 2.41.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, libressl, perl, grep, pcre2, zlib
 Filename: ./debs/git.deb
-Size: 10200952
-MD5sum: 70b436d4ffea012377a5607af22e1161
-SHA1: 9b8649a6cb18bb17d14ef7fdaa1c7fa16ca2167b
-SHA256: 80eed91bdde80adc084de6c0d5f7c9d01895d2a4080fdb96276a5aeea02d955c
+Size: 10200962
+MD5sum: 7b62dbaa002d457946c4b857b7318708
+SHA1: 13859db9dd8d0d020a1f656de0fdcaaaf43cd087
+SHA256: 8504ebfd27944224da5a7f19d2890d7c024587a27ff68a7eb64fa2ff5f36936a
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -440,29 +440,28 @@ Description: Public Suffix List library
 Tag: purpose::console
 
 Package: libressl
-Version: 3.7.2
+Version: 3.7.2-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Replaces: openssl
 Filename: ./debs/libressl.deb
-Size: 2739180
-MD5sum: 9e46433ce147ecd052252157243a78ce
-SHA1: 97a6c00b883ac6884efef2a7df1e73ec4cd043b2
-SHA256: 8433f2f8b950500a9c51a831007462f25875e92ddc300243e4085e5103e3c995
+Size: 2739036
+MD5sum: f4c03deac13d45dd18b262a202cf3729
+SHA1: a4eafe096b399cec36f90aa4f53b843a05c40a96
+SHA256: 967325646c3bc683818498de7b934de9bb2b70595ed09bc0a83a7ceaf6cec71e
 Section: Security
 Priority: standard
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 Name: LibreSSL
 
 Package: libssh2
-Version: 1.11.0
+Version: 1.11.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/libssh2.deb
-Size: 131524
-MD5sum: efa5b993aed8f2555b4fb928dc2df5ab
-SHA1: 996f21bb36fba81af07123aeb500416ca6131258
-SHA256: f665a76e55896c50c91b90a82731823a53c2a395a6d6cf408e3114b49f284e8b
+Size: 131536
+MD5sum: 63bcaff0865fa4867f21b6b0d9ed7019
+SHA1: 9d071395096c191778376d5bfc18bf12148b2edd
+SHA256: 6ee9daad55c29d152ee788b3598a1ee81c53ea4e3258673129a00f542d1367a0
 Section: Development
 Priority: standard
 Homepage: http://www.libssh2.org/
@@ -740,50 +739,35 @@ Tag: purpose::console
 Name: NextVI
 
 Package: nghttp2
-Version: 1.54.0
+Version: 1.54.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libxml2
 Filename: ./debs/nghttp2.deb
-Size: 124148
-MD5sum: da3f5508e04c23dcdd7197395be4aafc
-SHA1: 1892328defd83e28935481c4c3f38892c9468db3
-SHA256: 7a37e77b9ca16b7b2406942a0b59eb3c45b73ebc653a9c107eb1eccf11699083
+Size: 124152
+MD5sum: b4f6d11984b557dfd2960292e51584df
+SHA1: a74f263ead0490f59a544f65551f4ce61223d98a
+SHA256: 1d56dc23988c2c1d47aa96ad1677320e754c527da89b0fb3bb614eabd8d2757e
 Section: Development
 Priority: standard
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 Tag: purpose::console
 
 Package: openssh
-Version: 9.3p1
+Version: 9.3p1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, zlib
 Filename: ./debs/openssh.deb
-Size: 2232648
-MD5sum: d42ed269cd835bd247ae6e1939a93d7a
-SHA1: df7a147eaaeefcc2b530f11917bfa40be2e87ee1
-SHA256: 578dca368b7a278d6d9ccedf0936f0dbf8bf5f01ece0e504fd4db0d9cd0e08d1
+Size: 2232712
+MD5sum: 86cceda5909d042d08d566501c23e661
+SHA1: a1c2dfbded089eb08f7278d269517a9cc17a0c5d
+SHA256: ba4bf15def67593df679998b4f63f635993a46f010560b305269a53d64369aea
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
 Name: OpenSSH
-
-Package: openssl
-Version: 0.9.8zg-13-1
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: libressl, perl
-Filename: ./debs/openssl.deb
-Size: 1221022
-MD5sum: ada6285348409ccefab40718184b5ac7
-SHA1: a47eaad5d0cba5a42f78d0c90806b849c16ca4f0
-SHA256: 87f175f7d6f2dcfd05565fd228a46dc6cb8aebb8349f8b7dc36cffaff275516c
-Section: Security
-Priority: standard
-Description: Old version of OpenSSL kept around for compatability reasons
-Name: OpenSSL (legacy)
 
 Package: patch
 Version: 2.7.6
@@ -888,15 +872,15 @@ Tag: purpose::console
 Name: Rogue
 
 Package: rsync
-Version: 3.2.7
+Version: 3.2.7-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, lz4, zstd, zlib
 Filename: ./debs/rsync.deb
-Size: 282510
-MD5sum: e41c9d0cea0ac011eb3f9b750c217c82
-SHA1: 210cd936001316ce3f23fc3f6609586f2064e9dc
-SHA256: a6984411889e583b7cbe3830205a7cf3e3cec5cd6f8aa0b852f69fdc507a05a0
+Size: 282526
+MD5sum: db3a50ebdee065bdca1c1fc271511bf3
+SHA1: ea3433878f46aeb677f7a64d86cbe5432d4b2565
+SHA256: 9742015362548bdc4a96d8d0e71391328b6304245ca8c762717da073e3042504
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
@@ -1041,15 +1025,15 @@ Tag: purpose::console
 Name: Vi IMproved
 
 Package: wget
-Version: 1.21.4
+Version: 1.21.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: libressl, pcre2, zlib, libunistring, libpsl
 Filename: ./debs/wget.deb
-Size: 260752
-MD5sum: 8d14ca9aa212b60b5b8d09a23e299d54
-SHA1: 07eee1c66ad4f3615e2f4cfbc290725db3727aa5
-SHA256: 45a2787baaabab54d44dd511050f7b60073de9a2632e84f359bf337e49e58749
+Size: 260762
+MD5sum: 9afe9fdd4b880cd2353011fcca340f07
+SHA1: a380a684b09f3e0afab10a9142328bde47105d02
+SHA256: d6773f7fe412da43cd90d2d29dad0adba626858170c05a4651031e3394fcb5ab
 Section: Networking
 Priority: important
 Description: Network utility to retrieve files from the Web
