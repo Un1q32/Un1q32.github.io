@@ -1,3 +1,17 @@
+Package: 2048.c
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/2048.deb
+Size: 7076
+MD5sum: 441d459188607e2e28ee8a2e2e4f230b
+SHA1: daf9aa0b5d9c3ba8931212a444ae0473769f8ec9
+SHA256: 91f21636d9861661d7694c51e034df86974fea2539ed8bb5df8580c18bb4ffc4
+Section: Games
+Priority: optional
+Description: 2048 in your terminal
+Tag: purpose::console
+
 Package: autoconf
 Version: 2.71
 Architecture: iphoneos-arm
@@ -863,10 +877,10 @@ Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/rogue.deb
-Size: 90058
-MD5sum: f36cbfa72aadfbe118289f966cff36d7
-SHA1: 442658fc2db0738b37fa7b65cf085ed11ccb4801
-SHA256: bce770b29781f0f845acb9647ca11891c80d4e4add93bf46efb52af2b8e0df11
+Size: 90056
+MD5sum: 8df9e6911fd24b6003edf0562ef2e360
+SHA1: 361c7dc406216ebf598dae4338b520b26d3b66a7
+SHA256: ffa8e1825e58f50ab0e06a26028a7868a386db324fcd632a988dad3a35a759d2
 Section: Games
 Priority: important
 Description: The original dungeon crawl game.
