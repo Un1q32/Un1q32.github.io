@@ -1090,10 +1090,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, pcre
 Filename: ./debs/zsh.deb
-Size: 2036120
-MD5sum: 335b409f42236f091c76cc12e2fc9654
-SHA1: 8ee57f083b9ae73ae95f275538667b09c86fb484
-SHA256: 91fe7202229dc083fcc076259611b06cfed4effa29412cce30cfc4227c750c2c
+Size: 2047526
+MD5sum: 0c9a6dabcef71aca1cb71f117b3e685b
+SHA1: c24807a683ddf5f358265a8e43b240eaa3ee0546
+SHA256: 831c89b5475639b36bc661363340f3765caba6011398ad8e8460866d8d2eeb32
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
