@@ -1085,15 +1085,15 @@ Description: Compression library implementing the deflate compression method fou
 Tag: purpose::console
 
 Package: zsh
-Version: 5.9-1
+Version: 5.9-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, pcre
 Filename: ./debs/zsh.deb
-Size: 2047564
-MD5sum: 8ea0aa6df96f8de459d69d2da0ff699e
-SHA1: 3700cf0d1fc25cd620ed5f5de2a4bcaa68ddb418
-SHA256: b96ec676d0fced7bf7b9eb6e335e3cd9b6222c7a85afda53f610470c7aa933d6
+Size: 2047556
+MD5sum: ecfaf03880b5b4b2cf2c3dad389d7917
+SHA1: 3b569641c95bef5b62c45a05c43f7b25bfc7d07d
+SHA256: 362dac42bd2656b8e03300bc7df0eba928575c0ec348373366ada6f72e4b30b7
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
