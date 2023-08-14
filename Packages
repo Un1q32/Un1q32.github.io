@@ -1,3 +1,17 @@
+Package: iphoneports-2048
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/2048.deb
+Size: 7500
+MD5sum: 70927afa38ef0faf288ca94a66a6383f
+SHA1: ad2a100e9463f19f00d6a39ebc31f701a4699ce5
+SHA256: 582aea083ae4a828adde330375d314e02f7a37703437cc32f0f50bbce116b121
+Section: Games
+Description: 2048 in your terminal
+Tag: purpose::console
+
 Package: iphoneports-base
 Version: 1
 Architecture: iphoneos-arm
