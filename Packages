@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 1000
-MD5sum: 7de1bbc7e04699bd50f34acd0205f7c0
-SHA1: 91bf2694461f995739d40a5391b814441a61cf5f
-SHA256: 835218bbd873ea837a86f4196bbea3e5503b12225dfc38bfa1af3a72536dd149
+Size: 1024
+MD5sum: 56b50bafd546740a5ae3f061074dc7ce
+SHA1: 148f8f857be0ce3cba8e0be27dc766554c61b63c
+SHA256: 1ec3d09922b146b6cc22b2856b1e821e542c4482431fa24ad7930ef555655ddd
 Section: System
 Description: Base system package that sets up all the others for you
 
