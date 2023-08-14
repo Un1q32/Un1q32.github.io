@@ -126,6 +126,21 @@ Section: Utilities
 Description: guesses the type of a file from contents
 Tag: purpose::console
 
+Package: iphoneports-gawk
+Version: 5.2.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gawk.deb
+Size: 401120
+MD5sum: 0f0ad90af3ab270043ecdb6adae6928a
+SHA1: 28352838f46aaefba8bb4d9392c390d92b020dd2
+SHA256: a42bb780076a47354a838f30a865c08d09465d3324107f0b0310a406dd0bb6eb
+Section: Utilities
+Homepage: http://www.gnu.org/software/gawk/
+Description: GNU's heavy-weight implementation of awk
+Tag: purpose::console
+
 Package: iphoneports-grep
 Version: 3.11
 Architecture: iphoneos-arm
