@@ -212,6 +212,20 @@ Section: Development
 Description: XML C parser and toolkit
 Tag: purpose::console
 
+Package: iphoneports-lua
+Version: 5.4.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-readline
+Filename: ./debs/lua.deb
+Size: 376088
+MD5sum: bdbaebdb9f3b58adb1607b32c86e1c29
+SHA1: 2d6dcd092afce85980fa3ed06a037459ed1e462b
+SHA256: 4040a5d87625e20bebca445f049bdfaee234fea4127906255f63d1efbb81b095
+Section: Development
+Description: A powerful, efficient, lightweight, embeddable scripting language.
+Tag: purpose::console, role::hacker
+
 Package: iphoneports-lz4
 Version: 1.9.4
 Architecture: iphoneos-arm
@@ -349,6 +363,19 @@ SHA256: 2b104ff23362ee098d0c6b3ed60682cb9f8e90787ce810deaa862c8b584301f3
 Section: Utilities
 Description: A colorized, indented directory listing tool
 Tag: purpose::console
+
+Package: iphoneports-unrar
+Version: 6.2.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/unrar.deb
+Size: 168012
+MD5sum: 942461f4631fa34de65231f90443b7ab
+SHA1: e2132b96d85f88bada08f9d1c8afa6045f5fcdd6
+SHA256: ef3e6ce3547e5fe639731bbf4a2446cc35609b33c0afcab135b1df103a597c9c
+Section: Archiving
+Description: de-compresses files in rar format
 
 Package: iphoneports-vim
 Version: 9.0.1702
