@@ -26,15 +26,15 @@ Section: System
 Description: Base system package that sets up all the others for you
 
 Package: iphoneports-bash
-Version: 5.2.15
+Version: 5.2.15-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
 Filename: ./debs/bash.deb
-Size: 420488
-MD5sum: 1240595e8b829ad3cb1fe63fd4920e01
-SHA1: e61db036e37c350f8918e65ff256c71f65b7cc64
-SHA256: 7e8592144e82c48c08d4214e3b2974c10d4b9206c3eb3893a01ab4e01d6e209d
+Size: 420490
+MD5sum: 84f26ba0398ec3e94fa586463588d614
+SHA1: 4623533be7f32cedd0f1dfac15e91227faa5ed78
+SHA256: 70ef31753d049d9b091b02692a7b62d33c53d50b1200eeef3390668cdddbcd87
 Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
