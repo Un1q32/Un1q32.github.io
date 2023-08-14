@@ -143,6 +143,20 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 Tag: purpose::console
 
+Package: iphoneports-less
+Version: 633
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre2
+Filename: ./debs/less.deb
+Size: 109220
+MD5sum: 519f830c68037ffa7b94440dba97f481
+SHA1: 57b891bab8f85e9cbff5b8f44eba43871165a9ce
+SHA256: 3bb49f9766bcc575e52d75a1c54e7c93f11a543ced603bfdb43303ab89dc793e
+Section: Utilities
+Description: provides less information than more does
+Tag: purpose::console
+
 Package: iphoneports-libarchive
 Version: 3.7.1
 Architecture: iphoneos-arm
@@ -306,6 +320,20 @@ SHA256: 4f1d41f486dcad4cc78ed20aca179cac259ff03906e7476fbdacb79bb452702f
 Section: Utilities
 Homepage: http://www.gnu.org/software/sed/
 Description: GNU stream editor
+Tag: purpose::console
+
+Package: iphoneports-tree
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/tree.deb
+Size: 34780
+MD5sum: 9113a456ddc9b3f1e2ce499b2c01b6c1
+SHA1: e7971b4ec952a7afcbcd7d7524ba9b2b90af7efd
+SHA256: bf05dea30fa3ccd85d246feeb0c14f919204f8329ecbb65c675cfe839c78acf8
+Section: Utilities
+Description: A colorized, indented directory listing tool
 Tag: purpose::console
 
 Package: iphoneports-vim
