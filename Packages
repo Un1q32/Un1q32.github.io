@@ -128,6 +128,20 @@ Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
 Tag: purpose::console
 
+Package: iphoneports-hexedit
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/hexedit.deb
+Size: 19916
+MD5sum: d7bb13f07e1ab3b5c294bc8732496500
+SHA1: 37f559443fc359448136b3b7f49447dbdf802fd5
+SHA256: 9668be0f9aaebc8cd2f130f35a963588c1ef5a05dff3694fce80e2ae1a36bb41
+Section: Text_Editors
+Description: View and edit files in hexadecimal or in ASCII
+Tag: purpose::console
+
 Package: iphoneports-htop
 Version: 3.0.2
 Architecture: iphoneos-arm
