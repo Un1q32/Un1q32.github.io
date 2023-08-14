@@ -55,6 +55,20 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 Tag: purpose::console
 
+Package: iphoneports-cmatrix
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/cmatrix.deb
+Size: 7650
+MD5sum: 5518dce196b1cdb1a0edb1254820ee2c
+SHA1: 1d09106b8ae440ce7d4cbc6cd80eefa405916107
+SHA256: 70eaee12eae1e185aa9bdddeb6cf8765aa0f7cfd9bb2fabbf58d9c090078d89b
+Section: Utilities
+Description: Terminal screen saver based on the movie "The Matrix".
+Tag: purpose::console
+
 Package: iphoneports-coreutils
 Version: 9.3
 Architecture: iphoneos-arm
