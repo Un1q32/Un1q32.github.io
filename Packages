@@ -118,10 +118,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd, iphoneports-lzlib
 Filename: ./debs/file.deb
-Size: 93072
-MD5sum: a5f5cb92e57e274456f86264b45167bb
-SHA1: 13157c91c257b3db09b3257b212aa5a611ef22d9
-SHA256: 0a667e14a8ff3d022e1d9c43d5801215c02f4081b01e81addd55838506b0ec6e
+Size: 486756
+MD5sum: 89d3c87b70f0a4b16d69857925f90997
+SHA1: d763863d53cff9783b81bb35ee9f4ef49bb1aa9a
+SHA256: 71a7062ca75fe079e2c384d82f1661a589e74e160fadf7e9f07f428ab8831af6
 Section: Utilities
 Description: guesses the type of a file from contents
 Tag: purpose::console
