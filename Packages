@@ -328,10 +328,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/tree.deb
-Size: 34780
-MD5sum: 9113a456ddc9b3f1e2ce499b2c01b6c1
-SHA1: e7971b4ec952a7afcbcd7d7524ba9b2b90af7efd
-SHA256: bf05dea30fa3ccd85d246feeb0c14f919204f8329ecbb65c675cfe839c78acf8
+Size: 34784
+MD5sum: ed5c69e9b9f3313f0ca0e07141c4ea88
+SHA1: 5ac0b809a5dacad5ad17c355b69be84c11b39dd5
+SHA256: 2b104ff23362ee098d0c6b3ed60682cb9f8e90787ce810deaa862c8b584301f3
 Section: Utilities
 Description: A colorized, indented directory listing tool
 Tag: purpose::console
