@@ -226,6 +226,20 @@ SHA256: 169f15442e8af58fdd09b847a89e1c89e5e45f28c3bd203f5418f65912ca268c
 Section: Archiving
 Description: Multi-format archive and compression library
 
+Package: iphoneports-libidn2
+Version: 2.3.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libunistring
+Filename: ./debs/libidn2.deb
+Size: 126162
+MD5sum: f9a9c69df1844668c47a572b693cff35
+SHA1: a357b95d6993ebc37c6321f8044ab298acba8d78
+SHA256: 37fcabda82d1c10ed04e3aaab9c89273ede5a69ed4a1da90464d2b5500f5e194
+Section: Development
+Homepage: http://www.gnu.org/software/libidn/
+Description: A free software implementation of IDNA2008, Punycode and TR46
+
 Package: iphoneports-libressl
 Version: 3.7.2
 Architecture: iphoneos-arm
@@ -252,6 +266,20 @@ SHA256: 100a29c72c63e516cb9a35a32eee10204b871f9fc6ee1bc29623b4983ae68d75
 Section: Development
 Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
+
+Package: iphoneports-libunistring
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libunistring.deb
+Size: 762192
+MD5sum: ab2fbd4b4e3c0d5c249e345dba8055bb
+SHA1: 1995821c802e449d72e199938ad0ae8dfe6791b9
+SHA256: 3778639c6518cd287629529e17a3dbea72f1fa6cec280a5fcab2a786c27eecea
+Section: Development
+Homepage: http://www.gnu.org/software/libunistring/
+Description: Library for manipulating Unicode strings and C strings
 
 Package: iphoneports-libxml2
 Version: 2.11.4
