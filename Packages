@@ -200,6 +200,19 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 Tag: purpose::console
 
+Package: iphoneports-inetutils
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
+Filename: ./debs/inetutils.deb
+Size: 778428
+MD5sum: 951aed901f07d52faf9562b6ca72d718
+SHA1: 3707b4dbd03ae28caf112351bb537573a7f0187f
+SHA256: 81b845258354df2cd79721960880d448663458f7f899b71ead5a10fb4426471b
+Section: Networking
+Description: A collection of common network programs
+
 Package: iphoneports-less
 Version: 633
 Architecture: iphoneos-arm
