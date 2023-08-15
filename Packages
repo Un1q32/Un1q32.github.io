@@ -379,6 +379,20 @@ SHA256: f1f99c635454f78d8f4f13a8b88d1cf4e5bd81d15ce4a4063f5adf7612650cfb
 Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
+Package: iphoneports-pstree
+Version: 2.40
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: adv-cmds
+Filename: ./debs/pstree.deb
+Size: 6472
+MD5sum: e556e605fc3f6f8817ac7443d34199ff
+SHA1: 83cf1cfc652050bee13ff1f825ee51145e42a932
+SHA256: dff0448066f70a30230dcf8fd98fdd14e98f0490828a93e9f9b70b4b0bed59d7
+Section: Utilities
+Description: Show ps output as a tree
+Tag: purpose::console
+
 Package: iphoneports-readline
 Version: 8.2.1
 Architecture: iphoneos-arm
