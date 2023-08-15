@@ -92,6 +92,19 @@ SHA256: d1c2084ee62beebf3edcb4ff3ebeb4209fcbea75dd3385b7da77888010dc21d9
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
+Package: iphoneports-dos2unix
+Version: 7.5.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/dos2unix.deb
+Size: 38180
+MD5sum: 78beb9f4a18fa648d6553e04e64f8f0e
+SHA1: 54580a75852f702d83de39afa4f5d0d0b355fe4f
+SHA256: d10eeb3e090e1935828a26b4f51d8048f07ba0f687bc7b71b10c24ad84220383
+Section: Utilities
+Description: DOS/Mac to Unix and vice versa text file format converter.
+
 Package: iphoneports-ed
 Version: 1.19
 Architecture: iphoneos-arm
