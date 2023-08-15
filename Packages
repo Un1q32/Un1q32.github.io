@@ -145,6 +145,20 @@ SHA256: 19523bd5248bab24d7d11e040e7f72fbcff2756caa8fabed27f31f509e6d4b8c
 Section: Utilities
 Description: guesses the type of a file from contents
 
+Package: iphoneports-findutils
+Version: 4.9.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-bash, iphoneports-sed
+Filename: ./debs/findutils.deb
+Size: 452280
+MD5sum: 8b98420a6c89d3a75766082921e1b790
+SHA1: 0b0ee14262776a40d79c56e0c1bc60a4de0d33d8
+SHA256: e0ca90f4531ee58dc5b3a6335694cc35e9e77f0e9773b2f899ca16f6c46a65f0
+Section: Utilities
+Homepage: http://www.gnu.org/software/findutils/
+Description: indexes and searches filesystems
+
 Package: iphoneports-gawk
 Version: 5.2.2
 Architecture: iphoneos-arm
