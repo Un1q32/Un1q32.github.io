@@ -506,6 +506,35 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/sed/
 Description: GNU stream editor
 
+Package: iphoneports-sudo
+Version: 1.9.13p3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-zlib
+Filename: ./debs/sudo.deb
+Size: 924048
+MD5sum: 19819b039b42bc1423fed0bd72d4e8e4
+SHA1: bb151e95b5f83201d178fe85b7aad758370593d7
+SHA256: 133624f6c4433d8140bcb0a6baa565e8dfdf3eada3154a406e6b5a6bb4650ae1
+Section: Administration
+Description: temporarily assume root priviledges
+
+Package: iphoneports-sudo64
+Version: 1.9.13p3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, firmware (>= 7.0)
+Conflicts: iphoneports-sudo
+Replaces: iphoneports-sudo
+Provides: iphoneports-sudo
+Filename: ./debs/sudo64.deb
+Size: 842752
+MD5sum: d9ae6697fc30b56d4b6612db9060f8cf
+SHA1: 74a306c981dd650ba077ebc19e1a1665d90a53b3
+SHA256: 1197c55fbb6831f097b855e27216eab7b89546bd5c7624ecb0030b66253c0d9a
+Section: Administration
+Description: temporarily assume root priviledges
+
 Package: iphoneports-tree
 Version: 2.1.1
 Architecture: iphoneos-arm
