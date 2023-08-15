@@ -518,6 +518,19 @@ SHA256: c2ebb8332746d7aa22ee6d911161d9d1f04d19494426c5f7c05fb2f700755dd3
 Section: Text_Editors
 Description: A highly configurable, improved version of the vi text editor
 
+Package: iphoneports-wget
+Version: 1.21.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
+Filename: ./debs/wget.deb
+Size: 265290
+MD5sum: 819e6a5e9fab62c4f6290f1b1b85ddb1
+SHA1: eb024ef846232638f8e4d8b320eea7e2536edff9
+SHA256: a1f85f09a2f8cf569493a75b9222e418baf61f437ac12fb5b28217a34deccfc6
+Section: Networking
+Description: Network utility to retrieve files from the Web
+
 Package: iphoneports-xxd
 Version: 9.0.1383
 Architecture: iphoneos-arm
