@@ -106,6 +106,20 @@ SHA256: d1c2084ee62beebf3edcb4ff3ebeb4209fcbea75dd3385b7da77888010dc21d9
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
+Package: iphoneports-diffutils
+Version: 3.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/diffutils.deb
+Size: 177234
+MD5sum: 3fc5baa96cde84ff61858b92a82a5c59
+SHA1: ee87398e22cc435714ef318cea0f4ed140efc878
+SHA256: 0a1fec7cc0eb7ad110c7065d29fed26a8363fef417b05e4c418efcf7bd9b3ec4
+Section: Development
+Homepage: http://www.gnu.org/software/diffutils/
+Description: compare two files for differences
+
 Package: iphoneports-dos2unix
 Version: 7.5.0
 Architecture: iphoneos-arm
