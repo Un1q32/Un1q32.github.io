@@ -85,10 +85,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-libidn2
 Filename: ./debs/curl.deb
-Size: 517534
-MD5sum: 15cefae70100b90cf0f966f420323d81
-SHA1: a56d73b778938b2d3062ad6f783d5ffe2a9bf9d9
-SHA256: a0a195605f13753f672cdf2f9d68aff7c3f295385fe21bbdb60402ee61db16b7
+Size: 517686
+MD5sum: adf7a4018ff879696f6e2cd2097cdc28
+SHA1: cea4561e000f3fe64c02c66e9afed03926e5f176
+SHA256: 697be14b04f92bb243b0a74b127232ee5404341e8d3b969418765a4243602518
 Section: Networking
 Homepage: http://curl.se/
 Description: An URL retrieval utility and library
