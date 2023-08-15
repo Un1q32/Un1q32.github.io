@@ -240,6 +240,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
+Package: iphoneports-libpsl
+Version: 0.21.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libunistring, iphoneports-libidn2
+Filename: ./debs/libpsl.deb
+Size: 64866
+MD5sum: 5915360b4545215ebadc8d628bb2c46e
+SHA1: 67d6dd0d86bc0fc64549de00bd1df695a026935a
+SHA256: f538ad66173095a14b7fbe7d26b6a044c3e5c9038f4b081eb900f94fd452acaa
+Section: Development
+Description: Public Suffix List library
+
 Package: iphoneports-libressl
 Version: 3.7.2
 Architecture: iphoneos-arm
