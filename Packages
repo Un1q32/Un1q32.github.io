@@ -13,28 +13,28 @@ Description: 2048 in your terminal
 Tag: purpose::console
 
 Package: iphoneports-base
-Version: 1
+Version: 2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 1024
-MD5sum: 3376f4af7a96f0970164cc63e1c2e00f
-SHA1: 6ae7b7d5394ea22ad7eb47baab7f8a514dac571f
-SHA256: 90037294297ae6188c83896b6989e17f446308966584e0455c40fc903511e53a
+Size: 1032
+MD5sum: 619f6b803ac261b1afab9c8cb9081d24
+SHA1: bc8e45fdc30aaaa759d407a256c967b79e3ac6eb
+SHA256: 56cce3ad7fd1d7b5998a85d774650fb648fde3d5b0eda09dea7bde35c810b847
 Section: System
 Description: Base system package that sets up all the others for you
 
 Package: iphoneports-bash
-Version: 5.2.15-1
+Version: 5.2.15-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
 Filename: ./debs/bash.deb
-Size: 420556
-MD5sum: e0847acb795c2f7686ade28b4153846c
-SHA1: 344d2cb4d5eb8e24cf22884b5633eaa7b9ec7636
-SHA256: 52543327fbd1bdf34c1810662a0c94da9e3f82e2f22afd45661b0516ba346c2a
+Size: 420550
+MD5sum: ae3f2113aed747bf2f38710e55941c48
+SHA1: 415322086a356a15e317486325fcf2ee764a580f
+SHA256: 172f1d22c15ec9f60ae6ca15b365bc0e0be4cae36a2269e3d92c5a7504acf09c
 Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
@@ -85,15 +85,15 @@ Description: The basic file, shell and text manipulation utilities of the GNU op
 Tag: purpose::console
 
 Package: iphoneports-dash
-Version: 0.5.12
+Version: 0.5.12-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/dash.deb
-Size: 59948
-MD5sum: aadb5532bdc9a22ac056865b2ddb721f
-SHA1: 8ba6ae8570b4af0027c37b1ca945068ce119ec22
-SHA256: a89233dd775bea54b444c311c22b0f5be26778cc8e53acc5938da84cb29b8dde
+Size: 59952
+MD5sum: d265395fcda2c6b0c66caa5369ddb763
+SHA1: 31b5e9aa155aa40dd4fba186b10fa0fd4f172e68
+SHA256: cfea8a4ebaacd79d6c089811b4bb59093b215a8411df30570af218ff3225e530
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 Tag: purpose::console
@@ -339,16 +339,16 @@ Description: Next version of neatvi (a small vi/ex editor) for editing bidirecti
 Tag: purpose::console
 
 Package: iphoneports-openssh
-Version: 9.3p2
+Version: 9.3p2-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2287558
-MD5sum: 8fc0b4b3cf2af134464cdf53c9c15f49
-SHA1: 82797ea5837cbe3f19adb93e196fb559eb3e826e
-SHA256: 6d24cfbd9701b1ffecf5e0fbf0917b60eddb9dee9928ed1510a1419ff9cb160a
+Size: 2287586
+MD5sum: 41ec1e77c2142d22e436b0c573ec4bf3
+SHA1: 5b07cbd2fb682acc478f4b74f24ef69fd5feb128
+SHA256: cac89e16a3729457892c1da846d2c4193118db2e6cb40976916542e0cc33fada
 Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
