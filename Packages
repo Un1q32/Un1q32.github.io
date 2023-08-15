@@ -149,12 +149,12 @@ Package: iphoneports-findutils
 Version: 4.9.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-bash, iphoneports-sed
+Depends: iphoneports-base, iphoneports-bash, iphoneports-sed
 Filename: ./debs/findutils.deb
-Size: 296848
-MD5sum: f50f38f64fe60c8544cdab97572c18a0
-SHA1: 6a6f2b1157d7dfd25a8d40b92ed48c350c27d92a
-SHA256: b3d1ba252ab48a0468c1504cc34ef4a8f6ac34979db4a4c2677acb356557fec0
+Size: 287056
+MD5sum: fd82c0ea613f5d6957591c6d85283538
+SHA1: b53df106c5df89090a22720c86cbc1ab4593d58c
+SHA256: 50794e3e1b8a5ea5136a17cfc5c3a1ad3f47747d694249e0cd8a90fa6991319e
 Section: Utilities
 Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
