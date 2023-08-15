@@ -316,12 +316,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, system-cmds
 Filename: ./debs/neofetch.deb
-Size: 126846
-MD5sum: 845f9e1eae4de977eb9734a9b118e610
-SHA1: 8240c4e196f26259efa07388ffb373613b52dbd6
-SHA256: 7e4c3035bd4839e3cc4c219bb565e679bff51a08d376f8e895ae957e3268d643
+Size: 126874
+MD5sum: db8005ff278c700e481779c42864b7ca
+SHA1: d30fd9a3be45c442741d9afe695e6cd42d3a9bad
+SHA256: 0c10acb28972d6614307b60dc917bf249e4a7a35d033395614322fad2fe24a3f
 Section: Utilities
 Description: A CLI system information tool written in BASH.
+Tag: purpose::console
 
 Package: iphoneports-nextvi
 Version: 1
