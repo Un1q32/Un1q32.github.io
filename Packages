@@ -414,6 +414,19 @@ SHA256: d8c98ee9a3442d0655dbf74c581708cc84eec096a0807fb064186630fdcc25b7
 Section: Archiving
 Description: A library providing in-memory LZMA compression and decompression functions
 
+Package: iphoneports-ncdu
+Version: 1.18.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-ncurses
+Filename: ./debs/ncdu.deb
+Size: 39044
+MD5sum: 6e6fa5195aad817384e66a2c71c38c03
+SHA1: aed292521689dbd9b6e2b6935a2af463eea61c5f
+SHA256: 1dd8075e0c800bfedddf87d8bb472beeaced2b53b1e1402ea4f63a2038ac97ca
+Section: Utilities
+Description: Disk usage analyzer with an ncurses interface
+
 Package: iphoneports-ncurses
 Version: 6.4
 Architecture: iphoneos-arm
