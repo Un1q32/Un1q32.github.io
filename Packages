@@ -389,12 +389,12 @@ Package: iphoneports-pstree
 Version: 2.40
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: adv-cmds
+Depends: iphoneports-base, adv-cmds
 Filename: ./debs/pstree.deb
-Size: 6456
-MD5sum: 79a96ce41ff0fa5b0dc25f9d472f13df
-SHA1: 2ac5182c00b2fa00e51906e964cfd979514301c3
-SHA256: 8e7d67328164700c99c8cba25721f2df73a992ea78ba08025ed56cb64bacce5a
+Size: 6460
+MD5sum: 0e515f3b9a3e822d054a12946df35d07
+SHA1: 40557e76c51f5ea86da0506fdc9e3684442f1e48
+SHA256: fa5e117c5a2a73111d1efc2c310db79c4b9688e0630c75d5f5d1abd17545a796
 Section: Utilities
 Description: Show ps output as a tree
 
