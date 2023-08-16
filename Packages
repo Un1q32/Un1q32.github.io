@@ -38,6 +38,19 @@ Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
 
+Package: iphoneports-bc
+Version: 1.07.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/bc.deb
+Size: 71144
+MD5sum: 12d1f3c352c1c54ca0869ff28a61c5de
+SHA1: be078c4142e5bc96c753f0eb847045919fea6832
+SHA256: 6d19bc341a9d6a6962ab407b746f98e61f5ec5082b96ac232301e9d980e3944c
+Section: Utilities
+Description: An arbitrary precision numeric processing language
+
 Package: iphoneports-bzip2
 Version: 1.0.8
 Architecture: iphoneos-arm
