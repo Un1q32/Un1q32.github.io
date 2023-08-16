@@ -766,10 +766,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
 Filename: ./debs/sudo.deb
-Size: 924054
-MD5sum: 4eacce88693a40bdd119137ba6854e2c
-SHA1: aef0b8c482a72248e1a93361c63126e381977219
-SHA256: 2889a4a5096ae423c9052e6049c30b7f60197e91a4740166cd597204a9e12365
+Size: 924148
+MD5sum: f1ca0e7b910015bf05b8413e657f50fb
+SHA1: 7d071f79e50809a6a70506c41fa88467f231bc93
+SHA256: 9f8adf65ead76395894f3f745c67ec1c3f8508d5be0d64e314be10bd175668c5
 Section: Administration
 Description: temporarily assume root priviledges
 
@@ -782,10 +782,10 @@ Conflicts: iphoneports-sudo
 Replaces: iphoneports-sudo
 Provides: iphoneports-sudo
 Filename: ./debs/sudo64.deb
-Size: 842440
-MD5sum: 0247e30c4d8477c5fcbb1fb1a44d7fca
-SHA1: a80599d90ffb78821614d46f4f0770ae2b91c57d
-SHA256: 204220345808391f72c3e15ca7ac6b1f7607ba628d772a99f6205c6c7062669d
+Size: 842514
+MD5sum: 355e2bced2481520e1394555701d4a04
+SHA1: 5c261acede4b6423848051e6634b905d5f2ada14
+SHA256: b2f9eccffe08d9d8437be0b9105d80ee6387e4d3df2eb01434f91cbbfc62172b
 Section: Administration
 Description: temporarily assume root priviledges
 
