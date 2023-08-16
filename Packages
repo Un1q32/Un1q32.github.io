@@ -440,6 +440,32 @@ SHA256: d8c98ee9a3442d0655dbf74c581708cc84eec096a0807fb064186630fdcc25b7
 Section: Archiving
 Description: A library providing in-memory LZMA compression and decompression functions
 
+Package: iphoneports-lzo
+Version: 2.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/lzo.deb
+Size: 81446
+MD5sum: 47e340ac52aefd90776501113735b0c6
+SHA1: 33c6622a247a536237574d25b1a4f85e911d7fbe
+SHA256: 68b80912d37445a4a9ec5f07566e7af6a21fda19f2718ff62ce13ddb0d50f332
+Section: Development
+Description: Portable lossless data compression library
+
+Package: iphoneports-lzop
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-lzo
+Filename: ./debs/lzop.deb
+Size: 34078
+MD5sum: 30c3bd939e50ffd667df2c1e98127586
+SHA1: 9a7143a67d9ea283fd54e9c48e9e9bb5f3e19754
+SHA256: abae3c1e7448e4bb52ba0799a7e654104eb7725fa43d98a1350981648bc7c981
+Section: Archiving
+Description: File compressor using lzo lib
+
 Package: iphoneports-make
 Version: 4.4.1
 Architecture: iphoneos-arm
@@ -645,9 +671,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-lz4, iphoneports-zstd, iphoneports-zlib
 Filename: ./debs/rsync.deb
 Size: 251654
-MD5sum: 9722175a8e13d9764e6075ad94696a44
-SHA1: da38c8f30f32f94596613bb76572d61e883ce821
-SHA256: 4e0bb7bfbbd27c5dbaf7b225bc4b7efa6c96a64bc775854ad1b3a4d54ef23490
+MD5sum: c1cf4eda179560c617d08105368bb44a
+SHA1: 3573f9352ecda5714ee6753c8e5dd29eefc737a8
+SHA256: e49090329d45de2cc3842e6698ecba59937045660e9612720b73c2ee5182a54a
 Section: Networking
 Homepage: http://www.samba.org/rsync/
 Description: A fast and versatile file copying tool for remote and local files
