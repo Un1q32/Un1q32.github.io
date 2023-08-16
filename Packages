@@ -560,6 +560,19 @@ Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
 
+Package: iphoneports-patch
+Version: 2.7.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/patch.deb
+Size: 112302
+MD5sum: 164e1a5295f298df27e9dc26dfdd813d
+SHA1: 663e43e4ffab943f7bc054acebcfaa0814482b65
+SHA256: 5623fe9c677d2502d56e6cfac6b97e1eead1a18166356badcccaa2f9f8a7b5d0
+Section: Development
+Description: merge a difference onto a file
+
 Package: iphoneports-pcre
 Version: 8.45
 Architecture: iphoneos-arm
