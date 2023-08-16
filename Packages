@@ -546,6 +546,19 @@ SHA256: e6cb877f355a2bce1e2c945e1389b112e52b778187ace036fca1ea0585b17c0c
 Section: Development
 Description: command-line history management
 
+Package: iphoneports-rogue
+Version: 5.4.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/rogue.deb
+Size: 92178
+MD5sum: e919d68e4b5ed4f0cfc5dd05ceb786f4
+SHA1: 01cd8b42b05f673d72890618baffa1876347aaf8
+SHA256: 240057f290ad6d599f687aabc53f5b08419a9e5efd891f0e3bfac1bac65e239e
+Section: Games
+Description: The original dungeon crawl game.
+
 Package: iphoneports-sed
 Version: 4.9
 Architecture: iphoneos-arm
