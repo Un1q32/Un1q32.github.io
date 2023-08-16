@@ -628,6 +628,19 @@ SHA256: 204220345808391f72c3e15ca7ac6b1f7607ba628d772a99f6205c6c7062669d
 Section: Administration
 Description: temporarily assume root priviledges
 
+Package: iphoneports-tcsh
+Version: 6.24.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/tcsh.deb
+Size: 202172
+MD5sum: b6f4b3d5a4a6525de40822c6d19baddb
+SHA1: c2b0f573b8a02da8fa2eb8905cce1cc447af6084
+SHA256: 55913838dcbb47d9d13fa9fa535ef3d48bfa48a7d6751995822c009ded8d05e0
+Section: Terminal_Support
+Description: enhanced version of the BSD C Shell
+
 Package: iphoneports-tree
 Version: 2.1.1
 Architecture: iphoneos-arm
