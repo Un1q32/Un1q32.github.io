@@ -638,6 +638,20 @@ SHA256: 204d7f5678d0b182e6e68ade39dda8683b57d91e3ade6a58a4035ce2c85044bd
 Section: Games
 Description: The original dungeon crawl game.
 
+Package: iphoneports-rsync
+Version: 3.2.7
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-lz4, iphoneports-zstd, iphoneports-zlib
+Filename: ./debs/rsync.deb
+Size: 251654
+MD5sum: 9722175a8e13d9764e6075ad94696a44
+SHA1: da38c8f30f32f94596613bb76572d61e883ce821
+SHA256: 4e0bb7bfbbd27c5dbaf7b225bc4b7efa6c96a64bc775854ad1b3a4d54ef23490
+Section: Networking
+Homepage: http://www.samba.org/rsync/
+Description: A fast and versatile file copying tool for remote and local files
+
 Package: iphoneports-sed
 Version: 4.9
 Architecture: iphoneos-arm
