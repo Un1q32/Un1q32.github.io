@@ -414,6 +414,19 @@ SHA256: d8c98ee9a3442d0655dbf74c581708cc84eec096a0807fb064186630fdcc25b7
 Section: Archiving
 Description: A library providing in-memory LZMA compression and decompression functions
 
+Package: iphoneports-nano
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/nano.deb
+Size: 288128
+MD5sum: 11454f2f83babd8a53496c6ddcff7576
+SHA1: d9458064ce1530d475c6420a83d9597075f47c64
+SHA256: d8baacf76133dc5a5729a5e817ce7e47e0c30ef9c68b5b7c11473e5d6855be85
+Section: Text_Editors
+Description: completely free, modern clone of Pico
+
 Package: iphoneports-ncdu
 Version: 1.18.1
 Architecture: iphoneos-arm
