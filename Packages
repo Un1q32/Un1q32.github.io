@@ -32,9 +32,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
 Size: 1174
-MD5sum: 1d68ca24891411cd7a966407c99485a6
-SHA1: 193dbdd87f4677c6a8895071c6ca451ce8ca6f00
-SHA256: 9791efa146b7ba5f12e162176c151e8fa8376ebed978038029aae1208633161b
+MD5sum: f30868cc83c58ab0b7d20fa431c7f7e2
+SHA1: 4dcd2cfcb8fb8286fca0cce613fa6e72f11886ff
+SHA256: ec3f698998b8ed0b5f56adaa17d06b0ca97f525f06a14b390ee97a7242296502
 Section: System
 Description: iPhonePorts base
 
