@@ -93,15 +93,15 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 
 Package: iphoneports-chsh
-Version: 1
+Version: 2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/chsh.deb
-Size: 2750
-MD5sum: 13676e320528a12d4adf9410f98eb3ca
-SHA1: 3b70fc057a8689a9798d4b24eb487e305030ac02
-SHA256: 45c18fab127d56070ce0552a82a65e058b175d6992052c900ec662e0d32f268d
+Size: 2786
+MD5sum: 99055f8290828c69849b0aa2209bbad8
+SHA1: d37453699c4b1e369b2d8cfa0129ffab5cf2023d
+SHA256: 1f2f4c0d61ea77b9de02bc783c07e9c71b6a515e7e2f4218c161be0f72409887
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
