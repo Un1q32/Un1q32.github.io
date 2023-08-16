@@ -492,6 +492,20 @@ SHA256: abae3c1e7448e4bb52ba0799a7e654104eb7725fa43d98a1350981648bc7c981
 Section: Archiving
 Description: File compressor using lzo lib
 
+Package: iphoneports-m4
+Version: 1.4.19
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/m4.deb
+Size: 133106
+MD5sum: 0f5abfc18d1f978d35ca730fb3ed1263
+SHA1: 285904f1266f0f6f4c8501a1808c8b21e47b5685
+SHA256: 6bd8b15933d4476d758665093a13dc40d6b9c33fe078cf135b4a36db6803227f
+Section: Scripting
+Homepage: http://www.gnu.org/software/m4/
+Description: The GNU macro processor
+
 Package: iphoneports-make
 Version: 4.4.1
 Architecture: iphoneos-arm
