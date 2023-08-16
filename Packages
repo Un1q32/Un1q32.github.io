@@ -816,15 +816,15 @@ Section: Terminal_Support
 Description: enhanced version of the BSD C Shell
 
 Package: iphoneports-tree
-Version: 2.1.1
+Version: 2.1.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/tree.deb
-Size: 34764
-MD5sum: 46263101e746a5fc25771789369b6197
-SHA1: ce1bb1063e9fcd5a73fc36c85365fcc512b0abfc
-SHA256: 06bcbf91a605fa45195372054adc6f4c4f198e661df8509c74ab995a412c7969
+Size: 32400
+MD5sum: fc2c204e8f5efe984883e3df9b7f37ff
+SHA1: fc70ae10c4dacc1051b59822e7a02e23cb273ff2
+SHA256: e439b100ad0b2b78bbac236666c3e79d039b52a59d86fd0facfadb59c79d096a
 Section: Utilities
 Description: A colorized, indented directory listing tool
 
