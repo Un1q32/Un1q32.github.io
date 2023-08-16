@@ -711,10 +711,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue.deb
-Size: 92186
-MD5sum: 5285b1f5c08a4d218783a388e8f5b758
-SHA1: 3257eb0c007b7679910d6784584c634fc00e8af7
-SHA256: 204d7f5678d0b182e6e68ade39dda8683b57d91e3ade6a58a4035ce2c85044bd
+Size: 92276
+MD5sum: a02798c3aeea1464233ef7a432f11aa4
+SHA1: d629d89e82ae40580e0820ea65139d5c0a7801e5
+SHA256: bb8a9cfd038680f6fc4672d8c7d0fc2d230cc9fa9d4ad400d8aee69f7640f7b9
 Section: Games
 Description: The original dungeon crawl game.
 
