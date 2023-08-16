@@ -51,6 +51,19 @@ SHA256: 6d19bc341a9d6a6962ab407b746f98e61f5ec5082b96ac232301e9d980e3944c
 Section: Utilities
 Description: An arbitrary precision numeric processing language
 
+Package: iphoneports-brotli
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/brotli.deb
+Size: 724810
+MD5sum: 179b0fe1ad50aeef845e49e9aa0b0e86
+SHA1: 9bf3808b824512fe1eee46b2eb6d410fae022994
+SHA256: 58a6ab7f796c47447344d1ec9ffffe540d2e07dfc96f0dedf98546677c3c69f6
+Section: Archiving
+Description: A generic-purpose lossless compression algorithm
+
 Package: iphoneports-bzip2
 Version: 1.0.8
 Architecture: iphoneos-arm
