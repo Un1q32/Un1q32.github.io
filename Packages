@@ -321,6 +321,19 @@ Section: Utilities
 Homepage: http://htop.dev
 Description: interactive processes viewer
 
+Package: iphoneports-ifconfig
+Version: 325
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ifconfig.deb
+Size: 14082
+MD5sum: 124e2132fc73672e1488587960b008b5
+SHA1: 5a252fe06b6a26a0c495e6b696085d82e2c34e2d
+SHA256: 3116967206964013758b5edcc8bfd7af568a729fe6c0b6e33f0f593e4a20d7a7
+Section: Utilities
+Description: A utility for configuring network interface parameters
+
 Package: iphoneports-less
 Version: 633
 Architecture: iphoneos-arm
