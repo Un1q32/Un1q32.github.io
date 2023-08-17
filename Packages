@@ -159,6 +159,19 @@ SHA256: d1c2084ee62beebf3edcb4ff3ebeb4209fcbea75dd3385b7da77888010dc21d9
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
+Package: iphoneports-df
+Version: 403.100.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/df.deb
+Size: 7778
+MD5sum: 6a976300a08ef12b82540130133fa619
+SHA1: 760432590e90b1f714027840190f1c2076a8088d
+SHA256: 9cb5ef75180e857eeaeca100ece324d81422bceca1012e197f3655324194077e
+Section: Utilities
+Description: A utility for displaying free disk space
+
 Package: iphoneports-diffutils
 Version: 3.10
 Architecture: iphoneos-arm
@@ -567,9 +580,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
 Size: 12826
-MD5sum: a3200431dafe3d9dcda01a894c02692f
-SHA1: 34b2505f6762ac2f11ef5a86bb7c9eb0e88dec15
-SHA256: 4fa5977d7ac11481eec024c45685fb8159e08130ad586de0c021ca2ccb9bb8c6
+MD5sum: a5450afafd7056c36208c761ff574f48
+SHA1: 91104cbaf6dd20fe77f02ae7ed87fbb7cb273e86
+SHA256: bf1c54451052596f304520474613f6be355dea3f28ac06471ac170ea359d95e2
 Section: Utilities
 Description: A program for calculating and printing calendars
 
