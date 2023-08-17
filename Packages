@@ -160,15 +160,15 @@ Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
 Package: iphoneports-df
-Version: 403.100.6
+Version: 403.100.6-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/df.deb
-Size: 7778
-MD5sum: 6a976300a08ef12b82540130133fa619
-SHA1: 760432590e90b1f714027840190f1c2076a8088d
-SHA256: 9cb5ef75180e857eeaeca100ece324d81422bceca1012e197f3655324194077e
+Size: 8136
+MD5sum: 909e4582652a0cffc3f233853440b867
+SHA1: d162cb16d148b5df5c79d311414869a3d4217346
+SHA256: 8f9ca875173fef7fb58986e70fd9e2264347b1f80bca2a55e915a2c6583f8035
 Section: Utilities
 Description: A utility for displaying free disk space
 
@@ -574,15 +574,15 @@ Section: Text_Editors
 Description: completely free, modern clone of Pico
 
 Package: iphoneports-ncal
-Version: 37
+Version: 37-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
-Size: 12826
-MD5sum: a5450afafd7056c36208c761ff574f48
-SHA1: 91104cbaf6dd20fe77f02ae7ed87fbb7cb273e86
-SHA256: bf1c54451052596f304520474613f6be355dea3f28ac06471ac170ea359d95e2
+Size: 12726
+MD5sum: 78c20733690bd5e797cfa2a5c6f52ab2
+SHA1: 9bf93b6f1f356bfad7e5366b2ce7c6b5edbf0f71
+SHA256: c2302c766bcd881aa778c326d4ecf4160ead6fa3068d82c5088dff8254ab1d78
 Section: Utilities
 Description: A program for calculating and printing calendars
 
