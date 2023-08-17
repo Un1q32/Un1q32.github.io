@@ -815,6 +815,19 @@ SHA256: 2be561e334fa637a3b6a98b14c4e63a3a97d1956e619b7ca59a6f3e5083edf50
 Section: Administration
 Description: temporarily assume root priviledges
 
+Package: iphoneports-sysctl
+Version: 950
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/sysctl.deb
+Size: 8302
+MD5sum: 14300b8b91f373730e19aa933740be7f
+SHA1: 833bfb6ab98ebd71f4248b142a53c15b72bdda6f
+SHA256: 32dcbd8adceddcc6923795f371591188c2284d03f68b31dc855de7a0b34ab240
+Section: Utilities
+Description: A utility for retrieving and setting kernel parameters
+
 Package: iphoneports-tcsh
 Version: 6.24.10
 Architecture: iphoneos-arm
