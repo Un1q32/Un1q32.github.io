@@ -842,15 +842,15 @@ Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-vim
-Version: 9.0.1702
+Version: 9.0.1721
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-xxd
 Filename: ./debs/vim.deb
-Size: 10141182
-MD5sum: bbc338a7cd1ccd1be1e98ae1a5b2c11f
-SHA1: 26ced3d28f94f53be2d395bb11a044b64be6f930
-SHA256: c2ebb8332746d7aa22ee6d911161d9d1f04d19494426c5f7c05fb2f700755dd3
+Size: 10143106
+MD5sum: 2f7e3f395905fd8d67a015fc08e66839
+SHA1: 89c81374113b05f745965e88d04f56fcd827f0e4
+SHA256: 1257e00fc2b6e22405bec42dbb42994a60982cc7efbc3ac84e07dabab05a2193
 Section: Text_Editors
 Description: A highly configurable, improved version of the vi text editor
 
