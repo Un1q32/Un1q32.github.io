@@ -566,10 +566,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
-Size: 12408
-MD5sum: c11c7bae424e9ac6d6addb36d9cfc49c
-SHA1: 97991e45dc0dcaeaf8b82d3a0bdd97fe3660060a
-SHA256: b4b3f2dc83673d3e3cbd385226d1ed645d74494b64fb77f099c703142c96643f
+Size: 12826
+MD5sum: a3200431dafe3d9dcda01a894c02692f
+SHA1: 34b2505f6762ac2f11ef5a86bb7c9eb0e88dec15
+SHA256: 4fa5977d7ac11481eec024c45685fb8159e08130ad586de0c021ca2ccb9bb8c6
 Section: Utilities
 Description: A program for calculating and printing calendars
 
