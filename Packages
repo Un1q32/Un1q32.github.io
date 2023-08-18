@@ -868,6 +868,19 @@ SHA256: 55913838dcbb47d9d13fa9fa535ef3d48bfa48a7d6751995822c009ded8d05e0
 Section: Terminal_Support
 Description: enhanced version of the BSD C Shell
 
+Package: iphoneports-top
+Version: 39
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/top.deb
+Size: 34654
+MD5sum: 3c402ad432731ebd0bbfd46869788663
+SHA1: 717aa96db8a3fe0aca0722d8032151acb81348e5
+SHA256: 7aacba8116970f98d2c833154f60aefc2e8d4105207225818201badf85eb818e
+Section: Utilities
+Description: A utility to display and update information about the top cpu processes
+
 Package: iphoneports-tree
 Version: 2.1.1-1
 Architecture: iphoneos-arm
