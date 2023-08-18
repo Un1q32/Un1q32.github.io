@@ -200,17 +200,17 @@ Section: Utilities
 Description: DOS/Mac to Unix and vice versa text file format converter.
 
 Package: iphoneports-ed
-Version: 1.19
+Version: 154
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ed.deb
-Size: 25196
-MD5sum: 7483497e2b359cc94d7f58918a21d134
-SHA1: b19910634d58461a88ce912dd2331f2c99f61ad7
-SHA256: f0bc14a1b14cb506ead09919a60949811c41e25c0cd8e2bc4ab497e56ca4f57f
+Size: 26462
+MD5sum: 55769b0a82700ffb0a50b2c39662de6e
+SHA1: ea88525db07e6f839e67f766981ed41b7c825153
+SHA256: a575601b71486c0e2bd232b605d476cb93b4baad52d7ffd511ca5ee7222f8193
 Section: Text_Editors
-Description: A POSIX-compliant line-oriented text editor
+Description: A line-oriented text editor
 
 Package: iphoneports-file
 Version: 5.45
@@ -704,6 +704,19 @@ SHA1: f42381fbd5122182acda57d2617f5bb3e569707d
 SHA256: 97fa06881fa4298109e62e619d0f5b17bfbcaae27d13dbb6d1e0c7ec64b2ee78
 Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
+
+Package: iphoneports-ping
+Version: 325
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ping.deb
+Size: 13898
+MD5sum: 8dda2b478e58ccf99e21ee248aae4ed7
+SHA1: 0aab96ce73ffd718e789c3cf617c193b1208c2eb
+SHA256: 7e7cf4d635b1bd54859f6651dbb182714faeceefafda79fa73e4a2ea26b8beed
+Section: Utilities
+Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
 Package: iphoneports-pstree
 Version: 2.40
