@@ -652,16 +652,16 @@ Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
 Package: iphoneports-openssh
-Version: 9.3p2-2
+Version: 9.3p2-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2287574
-MD5sum: 7a180940d11193b72e09248fb52e165a
-SHA1: 656314d8fcd46c24aeafcc8eedaa09157813c32e
-SHA256: a892f9907d40c4f9f575bab431be25ebdd7197301d78d73da39745fe9cd4f212
+Size: 2287484
+MD5sum: bba7dfd3f22157d03f0fbf689535c581
+SHA1: 53d2a27254e577b97061313b14598f85aaadc56d
+SHA256: 90e86b64e3b08416b6e6b7351068013bf20b58c14bb8d84dcc242a853698afc3
 Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
