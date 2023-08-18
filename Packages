@@ -750,10 +750,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue.deb
-Size: 92276
-MD5sum: a02798c3aeea1464233ef7a432f11aa4
-SHA1: d629d89e82ae40580e0820ea65139d5c0a7801e5
-SHA256: bb8a9cfd038680f6fc4672d8c7d0fc2d230cc9fa9d4ad400d8aee69f7640f7b9
+Size: 92290
+MD5sum: e183a16088f41bda9ebfed65328ff816
+SHA1: 91621a0aa70925915e9250687a2229480ac274d6
+SHA256: add488381b00bdf96f43e3fa370d5fec62620c7ed41204f08ff1fef97fc2717a
 Section: Games
 Description: The original dungeon crawl game.
 
@@ -805,10 +805,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
 Filename: ./debs/sudo.deb
-Size: 924096
-MD5sum: 5444f45e533b5e55630b7f886aef750a
-SHA1: 1a3fc05678cc51a34c8632ccd44d14bd94413e8b
-SHA256: 5c66f3cc05fd7436b48c4b5fe94df90d1c62762ba01a9346d32316a00f671ac6
+Size: 924120
+MD5sum: b05b5c35f3aaacd79d68ea9e67c7b739
+SHA1: 6ffc2e3aa7fcc1e60713f5b59a688cff472b8e49
+SHA256: f32b54ed08a613604b83ecec9f4c5d44d490ec44b760b65bc22a408209dab596
 Section: Administration
 Description: temporarily assume root priviledges
 
@@ -821,10 +821,10 @@ Conflicts: iphoneports-sudo
 Replaces: iphoneports-sudo
 Provides: iphoneports-sudo
 Filename: ./debs/sudo64.deb
-Size: 842474
-MD5sum: d9b2a90d0cd0cffe057406c71401c8f5
-SHA1: 399d72d54c0f08945ae09463b0e1df89d44e4f3b
-SHA256: 2be561e334fa637a3b6a98b14c4e63a3a97d1956e619b7ca59a6f3e5083edf50
+Size: 842478
+MD5sum: eac05888fe57b2df0e5ad586e0bf5f8f
+SHA1: d3b897fb65b9b10726992aeeb3422611d160bf3a
+SHA256: aa7f62dceecfe9711f387ff4002873ed80d42bdf8e40eaebedebb03700604493
 Section: Administration
 Description: temporarily assume root priviledges
 
