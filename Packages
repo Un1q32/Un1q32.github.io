@@ -348,15 +348,15 @@ Section: Utilities
 Description: provides less information than more does
 
 Package: iphoneports-libarchive
-Version: 3.7.1-1
+Version: 3.7.1-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libxml2, iphoneports-xz, iphoneports-zlib, iphoneports-bzip2, iphoneports-zstd, iphoneports-lz4, iphoneports-lzo
 Filename: ./debs/libarchive.deb
-Size: 503940
-MD5sum: 60e439b4a1b13646eaead1d526cd6391
-SHA1: 7ceab542d73d5fb019971522dadbe7690e224d8a
-SHA256: f5ac62188ba0a08d9e3f64ec0bb0cea85d7e3e5026ca3847f051db2d236a39af
+Size: 503968
+MD5sum: 86f84530fcf7620b1749acaa2138ef22
+SHA1: 46cb28e742f98eca6a58bfaa5364d44586451085
+SHA256: b9248d47b88eb1a248c41e98d8fc87f82e9ea883e4b9e7d6f4a4b569041ae538
 Section: Archiving
 Description: Multi-format archive and compression library
 
