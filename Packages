@@ -658,10 +658,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2287538
-MD5sum: 76ee66aa6ed765e6a8b7c0200f4d457c
-SHA1: 488d77b1024ba4171f3ea38623b9f6b18ed974ba
-SHA256: 0f54ceb32996fabdf4f0b5fb60fdf487f54cb20a1f3da7695769f51fc3204061
+Size: 2287550
+MD5sum: 83cbe9d3fdf1526ddaf5a7388f2e782d
+SHA1: 51857eca5a60a51e14067687337dfc8890414003
+SHA256: c5b0fccd191348aa469ba17168eec3ffeb438f4cc9fd656630bd6e0bca106b66
 Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
