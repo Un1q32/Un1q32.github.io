@@ -286,10 +286,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 38590
-MD5sum: 65c9781b2cdb528bff3a7e39d502e784
-SHA1: 9c925fff8717aff4d13a136db0bd0b308ad1d938
-SHA256: 76b8a99f39157c901eebc91de06a9e82478f95b7d935ee98e51920b229a43a22
+Size: 31542
+MD5sum: ea9811aa9a034c3bd64dc567c320f2c6
+SHA1: a585e1c0407a6cc7b7ff9f5be7e6cab0ec024493
+SHA256: c4a10dd1df80468080903f0df77d2e576bda2fce6efedeade06718359440e858
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
@@ -598,6 +598,20 @@ SHA1: aed292521689dbd9b6e2b6935a2af463eea61c5f
 SHA256: 1dd8075e0c800bfedddf87d8bb472beeaced2b53b1e1402ea4f63a2038ac97ca
 Section: Utilities
 Description: Disk usage analyzer with an ncurses interface
+
+Package: iphoneports-ncompress
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ncompress.deb
+Size: 11148
+MD5sum: 54301f04fabe8c53f11998c970d62088
+SHA1: 2d4ce759fc2ed7ac47ec358e9f01e8fe39f6868c
+SHA256: 7b42119648fce5c1dd96204a8882ec552b5dfc050eee1093ffb7d900c5db36d1
+Section: Archiving
+Homepage: http://www.gzip.org/
+Description: a fast, simple LZW file compressor
 
 Package: iphoneports-ncurses
 Version: 6.4
