@@ -192,10 +192,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Filename: ./debs/doas.deb
-Size: 14990
-MD5sum: 511beb579affb51592a099511aec1658
-SHA1: 36eab018048a5a3ace68e390efcd8499a61a426d
-SHA256: 98ec56d30ee0a25a25cf5cade4b41e2096735a3cfb2b27c4a01ee1acb99d5bab
+Size: 14986
+MD5sum: a945f92c29c5a81ea24b6404a216d489
+SHA1: 78536f373b5789366d957b778adb522e2258ee55
+SHA256: 67771b9d2041bc9164c7b621424493a30e48d1b70735a0854339a95ae1cd9faa
 Section: Administration
 Description: a minimal replacement for sudo
 
