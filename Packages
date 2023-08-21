@@ -218,10 +218,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ed.deb
-Size: 26462
-MD5sum: 55769b0a82700ffb0a50b2c39662de6e
-SHA1: ea88525db07e6f839e67f766981ed41b7c825153
-SHA256: a575601b71486c0e2bd232b605d476cb93b4baad52d7ffd511ca5ee7222f8193
+Size: 26488
+MD5sum: b1d5f48f54c896ef359cdfbd8379f5b0
+SHA1: 5c647015dce036f09d109504cdae3ebd1d694a42
+SHA256: b7737f5dfb68576b1ed858bd21d56c95307c413a27d258853e62f26f46571b4d
 Section: Text_Editors
 Description: A line-oriented text editor
 
@@ -299,10 +299,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 31542
-MD5sum: ea9811aa9a034c3bd64dc567c320f2c6
-SHA1: a585e1c0407a6cc7b7ff9f5be7e6cab0ec024493
-SHA256: c4a10dd1df80468080903f0df77d2e576bda2fce6efedeade06718359440e858
+Size: 31546
+MD5sum: 83220f9946fa43bcf0bf1be4d5572fc9
+SHA1: 64b1aabba6ea423387fe00176fc246d54adbaaae
+SHA256: ac797dc4eb628cfe1701b27d46244ebf12812622bdc4d67015cb3e4c8d1daa06
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
@@ -592,10 +592,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
-Size: 12726
-MD5sum: 78c20733690bd5e797cfa2a5c6f52ab2
-SHA1: 9bf93b6f1f356bfad7e5366b2ce7c6b5edbf0f71
-SHA256: c2302c766bcd881aa778c326d4ecf4160ead6fa3068d82c5088dff8254ab1d78
+Size: 12728
+MD5sum: 3370ff0a4d0c3a6cab75fb3e18f5549a
+SHA1: ec8b2af5483083bf928bd1e9de2eeb177356ebec
+SHA256: 8e551627e6c7d343df4b34ab3342e1dfa833a4a8bac536d6c30b4e42237cd3f8
 Section: Utilities
 Description: A program for calculating and printing calendars
 
@@ -705,6 +705,19 @@ SHA1: 663e43e4ffab943f7bc054acebcfaa0814482b65
 SHA256: 5623fe9c677d2502d56e6cfac6b97e1eead1a18166356badcccaa2f9f8a7b5d0
 Section: Development
 Description: merge a difference onto a file
+
+Package: iphoneports-pax
+Version: 403.100.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pax.deb
+Size: 59154
+MD5sum: b46fa17f0a6b68ab866a60544e26263c
+SHA1: 350869513906cb103b44f5659947a1227cf47054
+SHA256: abe345e7d560f305848d4db9b3d89632836bb2b293d006af9e5bed8f91bcd880
+Section: Archiving
+Description: Portable Archive eXchange
 
 Package: iphoneports-pcre
 Version: 8.45
