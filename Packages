@@ -267,15 +267,15 @@ Homepage: http://www.gnu.org/software/gawk/
 Description: GNU's heavy-weight implementation of awk
 
 Package: iphoneports-git
-Version: 2.41.0
+Version: 2.42.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
 Filename: ./debs/git.deb
-Size: 10353146
-MD5sum: 7437b5a212227d606be4ce3f4e11bd73
-SHA1: f3bb9d3b697832117469169c8b675474f8290abb
-SHA256: af86e9b330e58ae02a6842ae3f90a58b3cf7836eccbee4d40d2053b4c4dcbc18
+Size: 10420006
+MD5sum: d0d3358f579f053f3b177d1ef773085f
+SHA1: 97bfdeb43faaf004fa72a23aa41f22897d1a01fa
+SHA256: 9a42d5933347aa5e6141ceb2a8b800bfb9506e5154eb1de8acbab69cf237a187
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
