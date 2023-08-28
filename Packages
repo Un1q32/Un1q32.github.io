@@ -187,15 +187,15 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-doas
-Version: 6.3p9-3
+Version: 6.3p9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Filename: ./debs/doas.deb
-Size: 15220
-MD5sum: e5ee56248b2b8a484d346f850ac332cd
-SHA1: 5d31c6ad0ddf78701f821fafac7abf9ad8505423
-SHA256: f7b0008f45a57719dd596d32a2b2b5dc5bccf88200582e50e6605ae45a7e7ce4
+Size: 15218
+MD5sum: b1aaa03cb01aa8f5e0b41a3cf09907c7
+SHA1: 1c0ad7b06131ec40aa1f100ee961dc89747438b5
+SHA256: cbf0718c7dc08dedd291d87dddc23f72a439f6448c93adf3d21471351066c8c0
 Section: Administration
 Description: a minimal replacement for sudo
 
@@ -784,15 +784,15 @@ Section: Development
 Description: command-line history management
 
 Package: iphoneports-rogue
-Version: 5.4.4-1
+Version: 5.4.4-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue.deb
-Size: 87566
-MD5sum: 9f409dc71d875cf16658320f6723bd76
-SHA1: e9ab75f6c3869780da0139aac04d4af18c75b5b2
-SHA256: 1a4e8a90162eeb2a7442d04a86a9813d70ed265b98c8d85d61a736ec8f346ee8
+Size: 87550
+MD5sum: ce21d15330fc4e606ca62fdfc0bd0a82
+SHA1: 5cf67656f65ea2314de55749f413ee88c5ea1794
+SHA256: 8c77ceff9a6a0c9a1e4d8ebd45e3fc3d785d2eba26ef528ad4c22b9250248607
 Section: Games
 Description: The original dungeon crawl game.
 
@@ -839,34 +839,34 @@ Homepage: http://www.gnu.org/software/sed/
 Description: GNU stream editor
 
 Package: iphoneports-su
-Version: 116-1
+Version: 116-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Replaces: pam
 Filename: ./debs/su.deb
-Size: 6572
-MD5sum: b06c20e7799d301f1ec758ed2097dc10
-SHA1: cdf154bbd38ea2dab8cef550b7a0781d16c19454
-SHA256: 2586dfe6367a5c2dc6707a55552efdb208fd53d8a27c3cc784917160f5286d2d
+Size: 6558
+MD5sum: c0fa6ac81e7531139a2222e2c80aa9b8
+SHA1: eedc5782a025f37afd46d56513c22ef038b9ef70
+SHA256: f8bd8b94863a10a9db0bce887a058be313fb94382e5825511ab11913d140f52b
 Section: Administration
 Description: substitute user
 
 Package: iphoneports-sudo
-Version: 1.9.13p3-1
+Version: 1.9.13p3-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
 Filename: ./debs/sudo.deb
-Size: 848576
-MD5sum: 438a770927dec5b3b86509a258018841
-SHA1: 4388f6361d59925788fa44c8a105556638954a79
-SHA256: f573dcfced2f8cf48cc804140a7bf82c0e8732bd17e6b10826c2bb094f6f9553
+Size: 848522
+MD5sum: 08ccd57e9fa0360e16070dc2c004edbc
+SHA1: a22a4fd4fa7270d14ee70da97771706f1fbdd2b4
+SHA256: 8c837705c5482ca769acfcc0f5609981eb3d51cc71536d166b40be1e9c865d09
 Section: Administration
 Description: temporarily assume root priviledges
 
 Package: iphoneports-sudo64
-Version: 1.9.13p3
+Version: 1.9.13p3-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, firmware (>= 7.0)
@@ -874,10 +874,10 @@ Conflicts: iphoneports-sudo
 Replaces: iphoneports-sudo
 Provides: iphoneports-sudo
 Filename: ./debs/sudo64.deb
-Size: 842478
-MD5sum: eac05888fe57b2df0e5ad586e0bf5f8f
-SHA1: d3b897fb65b9b10726992aeeb3422611d160bf3a
-SHA256: aa7f62dceecfe9711f387ff4002873ed80d42bdf8e40eaebedebb03700604493
+Size: 843908
+MD5sum: f5b66f23124e953212d75a4332f25761
+SHA1: 00d4c04a6ccc5828c9624fc89706e273948ef799
+SHA256: 9c499ae2f7e746f1a301fcfc061627990f30efd1b58299087ee5df6b78a524de
 Section: Administration
 Description: temporarily assume root priviledges
 
@@ -908,15 +908,15 @@ Section: Terminal_Support
 Description: enhanced version of the BSD C Shell
 
 Package: iphoneports-top
-Version: 39-1
+Version: 39-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/top.deb
-Size: 32890
-MD5sum: 700ae38b936c82a58ead142d9a532d9d
-SHA1: bfe084f89d11082f4a90b114319389a1f0441a3d
-SHA256: a16fcaa4a02b7f28479f6dd49050d159f37abf539835f3b2a9f4c1accced8e02
+Size: 32886
+MD5sum: 3c8bf9e8fe27f2d61a94d9d549e4d6b2
+SHA1: a5c75541681beb65596fafd772f305dc2bec7ac1
+SHA256: d153c7c73745f079bf60e39840eb93e5fa4c56ab1c7f7c48e4f2658f4b4a3535
 Section: Utilities
 Description: A utility to display and update information about the top cpu processes
 
