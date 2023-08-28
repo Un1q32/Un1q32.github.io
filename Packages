@@ -946,6 +946,19 @@ SHA256: 33f3cbc3d4521eaf28d4d5a71898f1d501efc872d2218becc16024e953ac64be
 Section: Archiving
 Description: de-compresses files in rar format
 
+Package: iphoneports-vm-stat
+Version: 498.0.10
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/vm_stat.deb
+Size: 4874
+MD5sum: 2236f65d930353643ccff8883354ce56
+SHA1: 99b7c1e2e35074fa57ec2af42734097132deb9a2
+SHA256: 08b91562eda914474abd134dd22053be4d8040b22fc179176a14054e1506c209
+Section: Utilities
+Description: A utility for displaying Mach virtual memory statistics
+
 Package: iphoneports-wget
 Version: 1.21.4-1
 Architecture: iphoneos-arm
