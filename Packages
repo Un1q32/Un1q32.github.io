@@ -92,6 +92,19 @@ Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 
+Package: iphoneports-ca-certificates
+Version: 2023-08-22
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libressl
+Filename: ./debs/ca-certificates.deb
+Size: 127072
+MD5sum: 429482b6354fc99fa445b7418edbe538
+SHA1: 14d970083d280d7d54009f8325c2da2b8aa7b1fa
+SHA256: 63687fe4a7d81501c392631488e3c49d666eff90dac76a1fbc86e4b7320d94a0
+Section: Security
+Description: Common CA certificates
+
 Package: iphoneports-chsh
 Version: 3
 Architecture: iphoneos-arm
@@ -414,15 +427,15 @@ Section: Development
 Description: Public Suffix List library
 
 Package: iphoneports-libressl
-Version: 3.7.3-1
+Version: 3.7.3-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-ca-certificates
 Filename: ./debs/libressl.deb
-Size: 2614376
-MD5sum: 66460ca74d85c43c3a9ca766def3b64f
-SHA1: 2b0373a27927d91d5447467b1e8156edf3feb0d7
-SHA256: 5bd9152e40aa7bb52866beb1e33b788b88ff78df90f84c9fd5e80d8b3eddadf7
+Size: 2461028
+MD5sum: d830609546352e945feebe5c7eb03b0d
+SHA1: 51f7f7fcda8cdb18e96ccdca83f34dc486742f21
+SHA256: 74665d9449fbb1dc602e57504d92ef382b1ca6e27b4d8c8ef9769c0fde4e81c7
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 
