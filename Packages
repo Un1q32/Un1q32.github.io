@@ -865,22 +865,6 @@ SHA256: 8c837705c5482ca769acfcc0f5609981eb3d51cc71536d166b40be1e9c865d09
 Section: Administration
 Description: temporarily assume root priviledges
 
-Package: iphoneports-sudo64
-Version: 1.9.13p3-1
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, firmware (>= 7.0)
-Conflicts: iphoneports-sudo
-Replaces: iphoneports-sudo
-Provides: iphoneports-sudo
-Filename: ./debs/sudo64.deb
-Size: 843908
-MD5sum: f5b66f23124e953212d75a4332f25761
-SHA1: 00d4c04a6ccc5828c9624fc89706e273948ef799
-SHA256: 9c499ae2f7e746f1a301fcfc061627990f30efd1b58299087ee5df6b78a524de
-Section: Administration
-Description: temporarily assume root priviledges
-
 Package: iphoneports-sysctl
 Version: 950-1
 Architecture: iphoneos-arm
