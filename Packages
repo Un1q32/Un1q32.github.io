@@ -400,6 +400,32 @@ Section: Development
 Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
+Package: iphoneports-libimobiledevice
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libimobiledevice.deb
+Size: 597370
+MD5sum: cb116eb8e47fd900b98fbddd1c4ff769
+SHA1: 9fc208cd8401d7504aac22f906fb4b09d75bfee1
+SHA256: 6c00d6c7be7ed96c4d576e733bcb9332cd815a4a2612c94005d57c2dd78ef6d9
+Section: Development
+Description: A cross-platform protocol library to communicate with iOS devices
+
+Package: iphoneports-libimobiledevice-glue
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libimobiledevice-glue.deb
+Size: 20252
+MD5sum: 4f7ed93d5d45b94e62d20a8264cfe5a8
+SHA1: 1cab3a986b136a9b15891e33b271164d5060aad2
+SHA256: aca51976e1e37033f92bbebabdc0c59c57c148a3ac50b2bbdc92404f71fb06c7
+Section: Development
+Description: A library with common code used by libraries and tools around the libimobiledevice project
+
 Package: iphoneports-libplist
 Version: 2.3.0
 Architecture: iphoneos-arm
