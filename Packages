@@ -387,6 +387,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
+Package: iphoneports-libplist
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libplist.deb
+Size: 87804
+MD5sum: be284b970bd4e4244a1960d5d32a6179
+SHA1: 3689ffe1a3dc4f66ed5588c971c255d95bbda39e
+SHA256: 8f50901c41c34b7dd4c617e6e307383369f600366c8f763e83a395b6caeaefb9
+Section: Development
+Description: A library to handle Apple Property List format in binary or XML
+
 Package: iphoneports-libpsl
 Version: 0.21.2-1
 Architecture: iphoneos-arm
@@ -440,6 +453,19 @@ SHA256: 7b6fca90cfe18c7858d00f00e74ee79bec9bd644b59bd2b83eb790508e612f98
 Section: Development
 Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
+
+Package: iphoneports-libusbmuxd
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libplist
+Filename: ./debs/libusbmuxd.deb
+Size: 40970
+MD5sum: 83595353bd2073eed17a01e4900e63af
+SHA1: 5dff7d7f44edeba4dfd92439bed11b2cd587f66e
+SHA256: 44ad151bc41d95a6d06cdfc00a8c5d6f13151b8225a29d835442fd799ef1ba9e
+Section: Development
+Description: A client library to multiplex connections from and to iOS devices
 
 Package: iphoneports-libxml2
 Version: 2.11.4-1
