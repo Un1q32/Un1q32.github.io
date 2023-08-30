@@ -493,6 +493,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
 
+Package: iphoneports-libusb
+Version: 1.0.23
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libusb.deb
+Size: 61718
+MD5sum: eb3c15897b9c24eddca0320441079668
+SHA1: 600337fdb9b88fde3d0ef2ee71bcc6c9b206e2d6
+SHA256: f22f4eea1f8469bd8493667aaaaf1bdb9ea2b5ef0bfaa117c5023ee0147bd205
+Section: Development
+Description: A cross-platform library to access USB devices
+
 Package: iphoneports-libusbmuxd
 Version: 2.0.2-1
 Architecture: iphoneos-arm
