@@ -401,15 +401,15 @@ Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
 Package: iphoneports-libimobiledevice
-Version: 1.3.0
+Version: 1.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libimobiledevice-glue, iphoneports-libusbmuxd, iphoneports-libplist
+Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl
 Filename: ./debs/libimobiledevice.deb
-Size: 619846
-MD5sum: c6ae2f7c09bf3f91d25ea558ed7fb03c
-SHA1: d7e5a4cdba65824ad18ad82f34337d324b7b1efb
-SHA256: f817d910c5cbae61cc83d717fe5f68ee9a1d20a2cc075af02f38a6440e4c199a
+Size: 240364
+MD5sum: 6f06876e358af71ee06a881e9f46b2e1
+SHA1: 893cc2be83358e1b0c0b2c6db6f28bb3a96dd226
+SHA256: 99a98171bbaedbe31ece43cee7f4dda4d1a96ea192ba7f3010f98b60afe0ea88
 Section: Development
 Description: A cross-platform protocol library to communicate with iOS devices
 
@@ -427,15 +427,15 @@ Section: Development
 Description: A library with common code used by libraries and tools around the libimobiledevice project
 
 Package: iphoneports-libplist
-Version: 2.3.0
+Version: 2.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libplist.deb
-Size: 87804
-MD5sum: be284b970bd4e4244a1960d5d32a6179
-SHA1: 3689ffe1a3dc4f66ed5588c971c255d95bbda39e
-SHA256: 8f50901c41c34b7dd4c617e6e307383369f600366c8f763e83a395b6caeaefb9
+Size: 68852
+MD5sum: 39a6b0a61c3767f0a55c0a2867c967c7
+SHA1: c30ae4f6f5072582a3ff8d1d906d7f47ec8a99db
+SHA256: 1c9c8d6d21db27229f62526c028048a7b624c461d803dd6f730b618765a02ed5
 Section: Development
 Description: A library to handle Apple Property List format in binary or XML
 
@@ -494,15 +494,15 @@ Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
 
 Package: iphoneports-libusbmuxd
-Version: 2.0.2
+Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist
 Filename: ./debs/libusbmuxd.deb
-Size: 40970
-MD5sum: 83595353bd2073eed17a01e4900e63af
-SHA1: 5dff7d7f44edeba4dfd92439bed11b2cd587f66e
-SHA256: 44ad151bc41d95a6d06cdfc00a8c5d6f13151b8225a29d835442fd799ef1ba9e
+Size: 40982
+MD5sum: c293b644db2b3420a27984778fac38fc
+SHA1: b6074686ade3fa5d59d0401aa81ef1827ddf5869
+SHA256: 70d694e4e9f34743b69b6dee67df47ba5231ba6bc7ab3c55dd07eb837dbdfa6c
 Section: Development
 Description: A client library to multiplex connections from and to iOS devices
 
@@ -994,6 +994,19 @@ SHA1: ed4160510fa9face6ea49c3b0aad76c2cc853c4a
 SHA256: 33f3cbc3d4521eaf28d4d5a71898f1d501efc872d2218becc16024e953ac64be
 Section: Archiving
 Description: de-compresses files in rar format
+
+Package: iphoneports-usbmuxd
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb
+Filename: ./debs/usbmuxd.deb
+Size: 31588
+MD5sum: 1a1c9d66452c2f11b8b566bbaf4388aa
+SHA1: a377419d41abac9c07369e396e9ea04cdeeff89e
+SHA256: d60f66c14301ba62d305c5ed08e1eb672e387bb8fdd6c3a02e2a6f7440a549d0
+Section: Utilities
+Description: A socket daemon to multiplex connections from and to iOS devices
 
 Package: iphoneports-vm-stat
 Version: 498.0.10
