@@ -997,15 +997,15 @@ Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-usbmuxd
-Version: 1.1.1-1
+Version: 1.1.1-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb
 Filename: ./debs/usbmuxd.deb
 Size: 31590
-MD5sum: 0e6606909fea5a758b338c61bc92677c
-SHA1: 44b7823ed2c7cb5477d17d4f4d60d9947603057a
-SHA256: 5f4131c8fd0ceae68384ac3135b33915fe7976f7971da4ac801a93b3098436c7
+MD5sum: d370b115b4f3a11c2c28d0ba658bb377
+SHA1: 7d27b68677b83b7333ca231c5163ea1cba364005
+SHA256: c50c04e490544daaadd059607336dbdd4a8d902122ea5a9efdfb30965acf1585
 Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
