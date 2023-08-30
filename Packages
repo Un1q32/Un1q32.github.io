@@ -97,11 +97,12 @@ Version: 2023-08-22
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
+Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 127072
-MD5sum: 5a026131299dee5a92a2567954d0cb6c
-SHA1: 837333f60d62316d009b1e6079eb6f4d18dc7fa0
-SHA256: 167088c4e277064510cd9a4f6050364fa73e85cd429fad86b3c7529c6f25fbea
+Size: 127080
+MD5sum: 68f58e864fc9b3b78448e0cfb49d547f
+SHA1: d033170727d3b68bc651c414345ae773fde5e78c
+SHA256: 6ac7a73f0653ca6d2320a61acb4ec5018d10bff92b309b239c9dfeeed5dc8f0f
 Section: Security
 Description: Common CA certificates
 
@@ -404,12 +405,12 @@ Package: iphoneports-libimobiledevice
 Version: 1.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl
+Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd
 Filename: ./debs/libimobiledevice.deb
-Size: 240376
-MD5sum: 3e5a69d52f3fb043b365ec2e63085322
-SHA1: 9e0b14c18215f8dd1c7978ed808f008f971cb750
-SHA256: 9b098be8a4ad254a5e15b218bb7e7b5269bce4aa8bfad5c150a007514c0c5ad1
+Size: 240318
+MD5sum: 76d090079d480af8a3fd5dead4105602
+SHA1: 380a64248dc35aed9f71e18280129263078f07ad
+SHA256: 9288beff149fe00874cad01cd45b91dafb39868c1e1b6cdfc41ab3f3444fae6e
 Section: Development
 Description: A cross-platform protocol library to communicate with iOS devices
 
