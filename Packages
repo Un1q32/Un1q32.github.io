@@ -29,12 +29,12 @@ Package: iphoneports-base
 Version: 10
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 6.0), iphoneports-dash, iphoneports-coreutils
+Depends: firmware (>= 5.1), iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
 Size: 1388
-MD5sum: c640fee4fe15695cfd86c77d218a3172
-SHA1: f7ff624226ce69a6ee558c473fea711b4282dc5a
-SHA256: 530db75c0af975fe9762ef912401beda015a14f76b3eafd05d9accb74e34eea6
+MD5sum: 9474310872f0d3980feefafef4625b71
+SHA1: 11a65d7a5d1de8e2a8311685d6fc0ef535d148e2
+SHA256: 0e886ad52170f93997025b82444af7d23c98c9cc0f2a0db500f15fa190f50a30
 Section: System
 Description: iPhonePorts base
 
