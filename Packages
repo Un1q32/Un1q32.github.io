@@ -404,12 +404,12 @@ Package: iphoneports-libimobiledevice
 Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-libimobiledevice-glue, iphoneports-libusbmuxd, iphoneports-libplist
 Filename: ./debs/libimobiledevice.deb
-Size: 597370
-MD5sum: cb116eb8e47fd900b98fbddd1c4ff769
-SHA1: 9fc208cd8401d7504aac22f906fb4b09d75bfee1
-SHA256: 6c00d6c7be7ed96c4d576e733bcb9332cd815a4a2612c94005d57c2dd78ef6d9
+Size: 619846
+MD5sum: c6ae2f7c09bf3f91d25ea558ed7fb03c
+SHA1: d7e5a4cdba65824ad18ad82f34337d324b7b1efb
+SHA256: f817d910c5cbae61cc83d717fe5f68ee9a1d20a2cc075af02f38a6440e4c199a
 Section: Development
 Description: A cross-platform protocol library to communicate with iOS devices
 
