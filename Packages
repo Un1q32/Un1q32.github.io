@@ -407,11 +407,11 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd
 Filename: ./debs/libimobiledevice.deb
-Size: 240318
-MD5sum: 76d090079d480af8a3fd5dead4105602
-SHA1: 380a64248dc35aed9f71e18280129263078f07ad
-SHA256: 9288beff149fe00874cad01cd45b91dafb39868c1e1b6cdfc41ab3f3444fae6e
-Section: Development
+Size: 240398
+MD5sum: 0ee8b8b3236b519334940eae63b98b18
+SHA1: e0569a98411007320d7ca821170b8a116eaadfb5
+SHA256: a1ff871c7c5ca8ef22175f983dd0656989f859907f8ece83f4ebb1c5d90eb2d5
+Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
 Package: iphoneports-libplist
