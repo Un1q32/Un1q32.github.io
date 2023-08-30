@@ -348,6 +348,19 @@ Section: Utilities
 Homepage: http://htop.dev
 Description: interactive processes viewer
 
+Package: iphoneports-idevicerestore
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery
+Filename: ./debs/idevicerestore.deb
+Size: 81634
+MD5sum: d6fe673b047f2b1573778c19b721e432
+SHA1: 163c49c551b0c9483ec117a8255919bafda3cc64
+SHA256: 4c94ad8c7ab321d82583ade2b3b84c2f775e00625090195d1f64674849ac083c
+Section: Utilities
+Description: Restore/upgrade firmware of iOS devices
+
 Package: iphoneports-ifconfig
 Version: 325-1
 Architecture: iphoneos-arm
@@ -532,6 +545,19 @@ SHA1: 434231c0e22070ca0fafe2717cd9df54f9d0dcbc
 SHA256: 5e61ad1b1899bcc8891440b71a868eee3750d91a0f0e53d0976eb5da00be0fda
 Section: Development
 Description: XML C parser and toolkit
+
+Package: iphoneports-libzip
+Version: 1.10.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-xz
+Filename: ./debs/libzip.deb
+Size: 100840
+MD5sum: c86473a7214263f758c2ba60edab166c
+SHA1: ede445c98ed2a152869eb63144a42664ec8a92a6
+SHA256: 540f47f852ff6854c666d69fe7391f38a973b606e7f82fb8419099c89b6e33e6
+Section: Development
+Description: A C library for reading, creating, and modifying zip archives.
 
 Package: iphoneports-lua
 Version: 5.4.4-1
