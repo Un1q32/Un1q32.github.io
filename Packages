@@ -214,15 +214,15 @@ Section: Administration
 Description: a minimal replacement for sudo
 
 Package: iphoneports-dos2unix
-Version: 7.5.0-1
+Version: 7.5.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/dos2unix.deb
-Size: 36536
-MD5sum: 113f7196b3a2fe8a7a000aeda7f9c58c
-SHA1: 0bad8347e5f2a5c7461f4a511862331b6f6fa243
-SHA256: ec6dee1441f6e8173ec0bf55fcbd379b36465c3fd46cccda5141124396d44f6c
+Size: 36588
+MD5sum: db8d16f7f81115333b580d70d2cd0b79
+SHA1: 8d5a9a6be9b0b9bfe85bd88fc5937a3e1dd35758
+SHA256: c7abc4cb15bc94cd05e0410b5711026c4a0406b999329ea7772816d3f82d8d45
 Section: Utilities
 Description: DOS/Mac to Unix and vice versa text file format converter.
 
