@@ -133,15 +133,15 @@ Section: Utilities
 Description: Terminal screen saver based on the movie "The Matrix".
 
 Package: iphoneports-coreutils
-Version: 9.3-2
+Version: 9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/coreutils.deb
-Size: 612554
-MD5sum: 8dbe4692aca7a51ea6df02a3f6766fc0
-SHA1: cc821c4581c9f220ddb7ec41cbcfb6415758be50
-SHA256: 0fe78015a8cdadf066455842768ac5741d6d914fc7fcf5a6c50993c7da0d38e2
+Size: 616520
+MD5sum: ea408702176d604613be7b6397296f96
+SHA1: 7a9e700ca30ef917522f07d7660081d5b3fbfd39
+SHA256: 1df8e6946538f1c51f866840992e9eb9ba59269c9ae8c5c51328d25f05fc7342
 Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
