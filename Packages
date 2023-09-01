@@ -375,15 +375,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-less
-Version: 633-1
+Version: 643
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre2
 Filename: ./debs/less.deb
-Size: 105914
-MD5sum: 0be3f7a78fb9441c10e60279050c2e30
-SHA1: bd21de436e7810310e1fbe27766dee68c40f9f44
-SHA256: a448c6ec6e3d879352a487e4cc9c9e7c04a7dda10d93f5baae2de1f107710ac3
+Size: 106114
+MD5sum: 227f2072d7dbc6851393cf9a357c5a28
+SHA1: d8646ea9cda8de11aeae8efed3f07aaa5c734f4e
+SHA256: 4a91cf54c0eaa1ecc60ff71c4dc0ec59580b5d4b1d95cb1a00f5d0112067b65d
 Section: Utilities
 Description: provides less information than more does
 
