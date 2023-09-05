@@ -783,15 +783,15 @@ Section: Text_Editors
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
 
 Package: iphoneports-nghttp2
-Version: 1.56.0-1
+Version: 1.56.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libxml2, iphoneports-libressl, iphoneports-zlib
 Filename: ./debs/nghttp2.deb
-Size: 114458
-MD5sum: 79919761048be24a4e1ee57ccd14b1a5
-SHA1: e669ca401fcb1ece0d8ddcf873a8c20ef08071fa
-SHA256: 37e7e8e05c8e887c04e1150069e6ce9717277f4d40978ba47cc68d6906ac2509
+Size: 114468
+MD5sum: e23a566b8412f5ad4e93feaff93c5972
+SHA1: 80799b40c1967fa35559de5b96460c846cb2e9da
+SHA256: 3e611ee3a2d0b0b25625ecc62a0a89e93ac01f1e1b3163155703f8c60506969d
 Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
