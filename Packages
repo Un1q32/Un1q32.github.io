@@ -79,15 +79,15 @@ Section: Utilities
 Description: An arbitrary precision numeric processing language
 
 Package: iphoneports-brotli
-Version: 1.1.0
+Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/brotli.deb
-Size: 421856
-MD5sum: 2624741cb7410e76025afb99c897e94b
-SHA1: 3e8773cb1f2e47a0f660126c5d47e6f2686a88f9
-SHA256: 5a7067cc501db03832acd0bdbc83cd77056dbd1af4f2f779d4dbae91164a49c7
+Size: 421706
+MD5sum: b8bafcb8badb2dbfee4a64bc6dfec279
+SHA1: 2b53fa7057d15cceb1bda9dcc2a45756aba85ef0
+SHA256: a36b4a4577eedea2c63fc8d7886419419ecd0fb8e96adb703ada9d55ca32918a
 Section: Archiving
 Description: A generic-purpose lossless compression algorithm
 
