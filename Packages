@@ -84,10 +84,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/brotli.deb
-Size: 421870
-MD5sum: 3cba1a2691023f3d0c82d1264506150e
-SHA1: 76ac297c135c41f14046f901ae7bdb8ba7b6c076
-SHA256: 02c103992e95df18495e1266dd4b739625cf2b375f995b60b3503cab543ce15d
+Size: 421856
+MD5sum: 2624741cb7410e76025afb99c897e94b
+SHA1: 3e8773cb1f2e47a0f660126c5d47e6f2686a88f9
+SHA256: 5a7067cc501db03832acd0bdbc83cd77056dbd1af4f2f779d4dbae91164a49c7
 Section: Archiving
 Description: A generic-purpose lossless compression algorithm
 
@@ -560,15 +560,15 @@ Section: Development
 Description: XML C parser and toolkit
 
 Package: iphoneports-libzip
-Version: 1.10.1
+Version: 1.10.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xz
 Filename: ./debs/libzip.deb
-Size: 100840
-MD5sum: c86473a7214263f758c2ba60edab166c
-SHA1: ede445c98ed2a152869eb63144a42664ec8a92a6
-SHA256: 540f47f852ff6854c666d69fe7391f38a973b606e7f82fb8419099c89b6e33e6
+Size: 94738
+MD5sum: 8aa65d9ed2983dc4cd20fc4c202b1dbf
+SHA1: 3ca23bc96a51018b5f273808dbc41a0592a3e93e
+SHA256: 78c692905b1c1680b12ea27509dc1ed0c1100c183e087e087e44ce90440a7da6
 Section: Development
 Description: A C library for reading, creating, and modifying zip archives.
 
@@ -783,15 +783,15 @@ Section: Text_Editors
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
 
 Package: iphoneports-nghttp2
-Version: 1.56.0
+Version: 1.56.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libxml2
+Depends: iphoneports-base, iphoneports-libxml2, iphoneports-libressl, iphoneports-zlib
 Filename: ./debs/nghttp2.deb
-Size: 120970
-MD5sum: 5a2f999218cddf8fc8dd75650fc450de
-SHA1: 68b566ca53211253aad6c736a52cfe2fce59acc2
-SHA256: 76151753a566bd2e5e2b63c6b2a9ced73e5ef08d5d170f79db22924d402d04b8
+Size: 114458
+MD5sum: 79919761048be24a4e1ee57ccd14b1a5
+SHA1: e669ca401fcb1ece0d8ddcf873a8c20ef08071fa
+SHA256: 37e7e8e05c8e887c04e1150069e6ce9717277f4d40978ba47cc68d6906ac2509
 Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
