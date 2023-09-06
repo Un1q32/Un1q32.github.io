@@ -44,10 +44,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
 Filename: ./debs/bash.deb
-Size: 396350
-MD5sum: 21ff7c078ba3581926da41fda453e6cb
-SHA1: 22c7a6b392fee895099e8b42d8533558eb6803fa
-SHA256: 0f175c4e7050bcf096181d4c5d475796f8f227aafa51e40818c1e5566694907d
+Size: 396324
+MD5sum: 16bb243bcc584f417c6984974613df4d
+SHA1: 6747aeb7712d3026e69551cb2c6d594f98036450
+SHA256: 5edc90297a52b1d9b4d12168badd99cbeb33295898b8b13fd1510933af25f0ac
 Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
