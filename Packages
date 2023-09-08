@@ -971,15 +971,15 @@ Section: Administration
 Description: substitute user
 
 Package: iphoneports-sudo
-Version: 1.9.13p3-3
+Version: 1.9.14p3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
 Filename: ./debs/sudo.deb
-Size: 848520
-MD5sum: be32c262ae2afe82126c450fea0d7f33
-SHA1: 049ddbbb634c74b630bd0e571747f18fd4033a79
-SHA256: 592542091900f69730ac9c6f8edc3de2f4690346dd418456b2295a749ecdc5a8
+Size: 860806
+MD5sum: 7a04e2fee94b7ea0b3cd446f0e17425b
+SHA1: e997f2c4b936b78142fd68cb962a84ff2645bdc9
+SHA256: d8902c07d0c1df6fa5a041ea7c5aa27be57fd25aae3cdfa5c749759d75b5a4a9
 Section: Administration
 Description: temporarily assume root priviledges
 
