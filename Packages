@@ -1035,6 +1035,19 @@ SHA256: 058738a78370e7ab21afb3f9722b66e75418ebf534e1fafd18be065006ee0354
 Section: Terminal_Support
 Description: enhanced version of the BSD C Shell
 
+Package: iphoneports-time
+Version: 279.100.3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/time.deb
+Size: 4128
+MD5sum: 6212e2d320d0a5ac3fe67ee9ff239403
+SHA1: f02cbcb39334ef3ef54483f32d849f333a393e78
+SHA256: 1b788c60ef0ae81b3b9aa5ebc99aeb9e7bc8732fec87c8e52ce5e2e3db36e574
+Section: Utilities
+Description: A utility for timing command execution
+
 Package: iphoneports-top
 Version: 39-3
 Architecture: iphoneos-arm
