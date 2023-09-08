@@ -347,6 +347,19 @@ SHA256: 2ae248a023482674e4e3dbfa8cd5fb3f76820fab35e63ee584725c1140958139
 Section: Text_Editors
 Description: View and edit files in hexadecimal or in ASCII
 
+Package: iphoneports-hostname
+Version: 240.100.15
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/hostname.deb
+Size: 3062
+MD5sum: 2f1471660a14b84d2f8329fd7b316cf9
+SHA1: 26ff0d56a7c62016e2f731a251eac768828bbc70
+SHA256: 73275d8a3f7da20170bade20bdd93b388b81e3b803ad41ce2d7881941b4e3f34
+Section: Utilities
+Description: A utility for setting or printing the name of the current host system
+
 Package: iphoneports-htop
 Version: 3.0.2-1
 Architecture: iphoneos-arm
