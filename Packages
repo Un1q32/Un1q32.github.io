@@ -400,6 +400,19 @@ SHA256: 16eec7d201bc4984b8c9655f4b9ce8d577a07d3b9dba1e05755a3f911501cc01
 Section: Utilities
 Description: A utility for configuring network interface parameters
 
+Package: iphoneports-killall
+Version: 234
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/killall.deb
+Size: 6232
+MD5sum: d22c73878950bd08a8540ff5b08a9520
+SHA1: e7aa9ea576f453011a05e88687aadd32251c353b
+SHA256: 30a923e10f12c6102e40f50750925ce5c1b0244698ad1d8abe5c15699ed583f4
+Section: Utilities
+Description: A utility for killing processes by name
+
 Package: iphoneports-less
 Version: 643
 Architecture: iphoneos-arm
