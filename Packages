@@ -1101,15 +1101,15 @@ Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
 Package: iphoneports-vm-stat
-Version: 498.0.10
+Version: 498.0.10-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/vm_stat.deb
-Size: 4906
-MD5sum: d8cb2dd2a6f7502e76ca7db26182d09e
-SHA1: 9fc8976a61045cfab0c05f775f3409ad70dc9e56
-SHA256: 25f5dabb201ce5cbd4fcc7ed0444dd49e9c20eb216667fe5214e2749c742429b
+Size: 4814
+MD5sum: 3e67c216e7ca68cc2651fd722fc5f4db
+SHA1: 8d55c6bfc2154ccef1aaf8c852a8c023e382359c
+SHA256: 4321913b1b94979b57597206632e12d7a50382eb37f8b486140bb7202984d598
 Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
