@@ -1139,6 +1139,19 @@ SHA256: f6f5b07936e128eace706268ad2eb94c0a0bc9dd6f4820770efb955dfec5338e
 Section: Utilities
 Description: A utility for locating programs in the user's PATH
 
+Package: iphoneports-whois
+Version: 199.0.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/whois.deb
+Size: 6576
+MD5sum: 1548074484c39f9f984b86353527896a
+SHA1: 2bd1a206f37cc26a4e6ee559e8c377d007ed4de6
+SHA256: 4bae7394547f02f298a6b5c27da105840379df782d1f0f15d42755c831ba02ec
+Section: Utilities
+Description: An internet domain name and network number directory service
+
 Package: iphoneports-xxd
 Version: 9.0.1383-1
 Architecture: iphoneos-arm
