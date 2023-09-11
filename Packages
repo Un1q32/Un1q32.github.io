@@ -245,10 +245,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ed.deb
-Size: 25698
-MD5sum: b5453040c47a722a3090b0366e081fe3
-SHA1: 041e029d372db54bdc49da4a6356f2e16b754f78
-SHA256: c4362460e83f6136198f35ab7a2904c61ccc331d398b12134bd5d8c39c2ad57e
+Size: 25704
+MD5sum: b4057f67978bd057cf7fc635b8103888
+SHA1: 8f7698f10a93c6c66e6cfdbac7fbc514033381af
+SHA256: 647316c1ac874bd8836edc4ac47b13777e1724194b0766c6f5708385566a97ac
 Section: Text_Editors
 Description: A line-oriented text editor
 
@@ -340,10 +340,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 29498
-MD5sum: 7f797ab59af13cfcb1c10bf3bddc8173
-SHA1: df8908c7ce752949fc1c4c6086facd71e5658dbe
-SHA256: ac17b3996b6a105c38cb757bbef0996b4c7416967063a6396882a846de24f11a
+Size: 29504
+MD5sum: ba094eb48034449a7ec002c820929e55
+SHA1: 67e9e279d5010d9b205195c1bbe9d94dcda5e6a5
+SHA256: ac8a70aca0dbced82187aff145390e0b87e6f9fc7bccd356b0ca0605d625469a
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
@@ -367,10 +367,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/hostname.deb
-Size: 3062
-MD5sum: 2f1471660a14b84d2f8329fd7b316cf9
-SHA1: 26ff0d56a7c62016e2f731a251eac768828bbc70
-SHA256: 73275d8a3f7da20170bade20bdd93b388b81e3b803ad41ce2d7881941b4e3f34
+Size: 3050
+MD5sum: 49bbe916a84dc99d4d10c927c4a68247
+SHA1: 6652fdc54b7f1be8c6824ee6da5b57d704fbb0d1
+SHA256: 9c0126cdad2d84daf6b570fc9fc10bab409573b7e82d8fc271dae196384b6d2d
 Section: Utilities
 Description: A utility for setting or printing the name of the current host system
 
@@ -420,10 +420,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/killall.deb
-Size: 6232
-MD5sum: d22c73878950bd08a8540ff5b08a9520
-SHA1: e7aa9ea576f453011a05e88687aadd32251c353b
-SHA256: 30a923e10f12c6102e40f50750925ce5c1b0244698ad1d8abe5c15699ed583f4
+Size: 6214
+MD5sum: ed0a9c4a99fca7f76595df8086bf11c4
+SHA1: 812f27e77eb2708ea9b8fcb8fdcdf783f2c1a4a9
+SHA256: ec18a26f9ce0599682642f24280aa539d3add49e4b9012926c2f966d4dc9e045
 Section: Utilities
 Description: A utility for killing processes by name
 
@@ -750,10 +750,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
-Size: 12426
-MD5sum: 4054eddf94287c2eff18009585b03d81
-SHA1: 39a596b45f231322a811e3999b91adead646396c
-SHA256: dcc77d1db1f631ee83819d22eac27a93f5e50b1d2ae44a50f30f44db3ca5940b
+Size: 12428
+MD5sum: bae16f92815f86d24794092033d68a15
+SHA1: 6c742112b997c438c8a1ff43b4ecbc9d5fb3a9ab
+SHA256: 1b5c89bb20db14d64c4288846301f059c2e3897b962d761c720575758e17b0bd
 Section: Utilities
 Description: A program for calculating and printing calendars
 
@@ -1055,10 +1055,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/time.deb
-Size: 4128
-MD5sum: 6212e2d320d0a5ac3fe67ee9ff239403
-SHA1: f02cbcb39334ef3ef54483f32d849f333a393e78
-SHA256: 1b788c60ef0ae81b3b9aa5ebc99aeb9e7bc8732fec87c8e52ce5e2e3db36e574
+Size: 4130
+MD5sum: 8e43394878bd118bebdd141d8069b18b
+SHA1: d1f1ac05e1b611029945947bcce235c9705d67ce
+SHA256: 33dbf5e81841ec6e41b4e830c651ae1100d5943354bb2fce0ba0c479465056a1
 Section: Utilities
 Description: A utility for timing command execution
 
@@ -1146,10 +1146,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/which.deb
-Size: 3440
-MD5sum: a36dc4cc10877fe88443ed083795bfa0
-SHA1: 01a75bf87d1cbc47b116d8a828174840ce6630fc
-SHA256: f6f5b07936e128eace706268ad2eb94c0a0bc9dd6f4820770efb955dfec5338e
+Size: 3412
+MD5sum: 79753758ea96b8449826330433f4fcc3
+SHA1: 9f8eb65faf4c1436ea737a3a176c930fb6244139
+SHA256: 01e1049f4ce7a9ff67844795ee8b04dec62751a44a5dbffb6166294326697f4f
 Section: Utilities
 Description: A utility for locating programs in the user's PATH
 
@@ -1159,10 +1159,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/whois.deb
-Size: 6576
-MD5sum: 1548074484c39f9f984b86353527896a
-SHA1: 2bd1a206f37cc26a4e6ee559e8c377d007ed4de6
-SHA256: 4bae7394547f02f298a6b5c27da105840379df782d1f0f15d42755c831ba02ec
+Size: 6560
+MD5sum: 753b9b22e5af6a17369bf56df3994bb5
+SHA1: aeadf1e2ac73afb69af7fc6f05d7beec1ba5b27b
+SHA256: 0d8f6b0f8859b51f6e82018cb0f6198daee5fb0a06531ae08e7379a79cb55440
 Section: Utilities
 Description: An internet domain name and network number directory service
 
