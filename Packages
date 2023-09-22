@@ -256,12 +256,12 @@ Package: iphoneports-file
 Version: 5.45-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd, iphoneports-lzlib
+Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd
 Filename: ./debs/file.deb
-Size: 479112
-MD5sum: 12b3a4f0ae7116e2606a5a15b063bdd2
-SHA1: 7792de14a95c80e658de8de609e800be70a1ef65
-SHA256: 2f783bc77b5fde26b3e256fc8863a27b43ed23f07e37da71866a122efeb21409
+Size: 478714
+MD5sum: 3b781237d4b05b7f41f01d8d70812f82
+SHA1: a600fac54011bb8c1fdaabd57e0a762cb30e8c72
+SHA256: ec568ded4ee823bfaa164c6f23c4d6dfff332cdbce96911bad6c58142c97c778
 Section: Utilities
 Description: guesses the type of a file from contents
 
