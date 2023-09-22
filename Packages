@@ -348,15 +348,15 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: GNU implementation of the tar command
 
 Package: iphoneports-gzip
-Version: 400-2
+Version: 400-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 29504
-MD5sum: ba094eb48034449a7ec002c820929e55
-SHA1: 67e9e279d5010d9b205195c1bbe9d94dcda5e6a5
-SHA256: ac8a70aca0dbced82187aff145390e0b87e6f9fc7bccd356b0ca0605d625469a
+Size: 29496
+MD5sum: 7c3735fcabec5de6c1b5478cfca0a22c
+SHA1: 1c3609ce3df5fdc87ab4cd3a706f7d1223970059
+SHA256: 3f5c0b9c0b6dec342cf25e54faf24f11165a579e91d90b139fcb87ccdff71222
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
