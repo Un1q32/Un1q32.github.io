@@ -346,6 +346,20 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
+Package: iphoneports-gsed
+Version: 4.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gsed.deb
+Size: 93518
+MD5sum: c88a0603477c7a5ae0dd73f754dc7ad4
+SHA1: 1b1d9a38f045eb3c9f295aeaa04cdd8fccfa388e
+SHA256: 7d00a9236e73353d35f681655e4963e2f0f888381dd58aad7630a3e704459447
+Section: Utilities
+Homepage: http://www.gnu.org/software/sed/
+Description: GNU implementation of sed
+
 Package: iphoneports-gtar
 Version: 1.35
 Architecture: iphoneos-arm
@@ -1009,18 +1023,17 @@ Homepage: http://www.gnu.org/software/screen/
 Description: multiplexes a terminal into many
 
 Package: iphoneports-sed
-Version: 4.9-1
+Version: 164.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sed.deb
-Size: 93508
-MD5sum: a122f87ff9f1d266d47e56e3418fa529
-SHA1: 61ad79b704d1f862ad486f7235cd2754a2921fb8
-SHA256: 09d19fefc209644fde437d0e51b7547ee53bb9dbcbc2248d35b962a62e83f96d
+Size: 17760
+MD5sum: c347ca8b357f533c813f74c89f2d8424
+SHA1: 59bb0be93215586786d0a545db4a43030e8926f7
+SHA256: f62aa96b8b56bff441cc4514dde2788c8c8e7c5ec83695351015075bcce94cfc
 Section: Utilities
-Homepage: http://www.gnu.org/software/sed/
-Description: GNU stream editor
+Description: stream editor
 
 Package: iphoneports-su
 Version: 116-3
