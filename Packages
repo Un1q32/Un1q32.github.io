@@ -25,6 +25,19 @@ SHA256: 490f9470af3901cbdbc24473cd526016ec909899a8ca45c8a0fed7858fba0fd9
 Section: Games
 Description: 2048 in your terminal
 
+Package: iphoneports-awk
+Version: 20230911
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/awk.deb
+Size: 63508
+MD5sum: 49468cf3371314361bf34cf76686390f
+SHA1: c64fe0a19e2109773b9f497e6d0fcb55458049bb
+SHA256: bcd96a2d1cdb20f797d41073b73ae26454c18ee8410e9f5e8d61115cba625961
+Section: Utilities
+Description: pattern scanning and processing language
+
 Package: iphoneports-base
 Version: 11
 Architecture: iphoneos-arm
@@ -311,10 +324,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gawk.deb
-Size: 361802
-MD5sum: 21d230e6b4726faad2c1ecd156381df2
-SHA1: 682db422590ac3cc8a1c1b635512b2558b155201
-SHA256: 6992762156853bc91d5863e7f60f20c8c5bbb8fb5112177cc921988d513ba00f
+Size: 361764
+MD5sum: c3e6781827f60a58fabbe2430fb27dd8
+SHA1: 41d9c9814169d696f1ee82ead6a94396f5484225
+SHA256: d3c5c2f6fadb01640ea66b1b999d3b163fbf83ee50b62c3e3fbe9797df9c12c5
 Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: GNU's heavy-weight implementation of awk
