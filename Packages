@@ -853,12 +853,12 @@ Package: iphoneports-neofetch
 Version: 7.3.10-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl
+Depends: iphoneports-base, iphoneports-bash, iphoneports-awk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl
 Filename: ./debs/neofetch.deb
-Size: 129840
-MD5sum: e1a680773a2e0692cdcd555762f9f09e
-SHA1: 4cc6f8f38c3993f71831e82653e08d5558f682a8
-SHA256: 23dd6fda06d38ccd0253b1b67db204580228cfae140a6afed4333f86928895a3
+Size: 129846
+MD5sum: 1d760e55015bc5a242918610fc25aa43
+SHA1: e3aed3d0a2edd8034ff9f63024f148bae7e60192
+SHA256: 03f6e364606bf25bf2ca36576c703f45413fda1cfefc58f3102ffff016fcbd56
 Section: Utilities
 Description: A command line system information tool
 
