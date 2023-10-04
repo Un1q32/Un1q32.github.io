@@ -332,6 +332,20 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: GNU's heavy-weight implementation of awk
 
+Package: iphoneports-ggrep
+Version: 3.11
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-pcre2
+Filename: ./debs/ggrep.deb
+Size: 119642
+MD5sum: d6516ff394c691d73a3e1f8db28ceacc
+SHA1: aaedabd63a84cf9e10ffcf408f2ce961e5bd1270
+SHA256: 5a424a735c0cdbe8219456cff66abbf506dbbf013fde41c42a501405ea4e592a
+Section: Utilities
+Homepage: http://www.gnu.org/software/grep/
+Description: GNU implementation of the grep utility
+
 Package: iphoneports-git
 Version: 2.42.0-1
 Architecture: iphoneos-arm
