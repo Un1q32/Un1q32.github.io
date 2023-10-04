@@ -338,13 +338,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pcre2
 Filename: ./debs/ggrep.deb
-Size: 119642
-MD5sum: d6516ff394c691d73a3e1f8db28ceacc
-SHA1: aaedabd63a84cf9e10ffcf408f2ce961e5bd1270
-SHA256: 5a424a735c0cdbe8219456cff66abbf506dbbf013fde41c42a501405ea4e592a
+Size: 119636
+MD5sum: c2a56efb68dfed6505660fa3e5faffd3
+SHA1: 8cbeed02fd79dbb5220114dfae6eb0f829f68cf4
+SHA256: 046e625069041a4530bda194813772e750f4b1335768d5afa761a852472fa9c9
 Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
-Description: GNU implementation of the grep utility
+Description: GNU implementation of grep
 
 Package: iphoneports-git
 Version: 2.42.0-1
