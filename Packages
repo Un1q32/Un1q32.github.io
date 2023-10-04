@@ -105,15 +105,15 @@ Section: Archiving
 Description: A generic-purpose lossless compression algorithm
 
 Package: iphoneports-bzip2
-Version: 1.0.8-3
+Version: 1.0.8-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less
 Filename: ./debs/bzip2.deb
-Size: 54532
-MD5sum: 779c6fb6a6d946ebfaf0c743e6557f66
-SHA1: aeac303420ec22e81293d652983f257d96f61092
-SHA256: 1b5862e5724c768cb63a47d9982e662f98ea275ebef49673b64042842bf0eaa2
+Size: 54536
+MD5sum: 345b6edfdb2e7cf5938069c9b39e1222
+SHA1: 3e8e96ab0ad1e47647a61f1589bc9eaa32bd5baf
+SHA256: c9ef99e9cccb8e8ed5834bae33d325f301a2e18517f4fda65ecde242770a9727
 Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
