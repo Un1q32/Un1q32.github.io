@@ -108,12 +108,12 @@ Package: iphoneports-bzip2
 Version: 1.0.8-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less
 Filename: ./debs/bzip2.deb
-Size: 54514
-MD5sum: 7dd633d4256f7116e71e74436f4f17d5
-SHA1: aa652451a5173ead94bf6e7028b40384694849e9
-SHA256: 2619d044039246f97806e7e7b3204bc3351e290b3350832c1254a4a7b2308647
+Size: 54532
+MD5sum: 779c6fb6a6d946ebfaf0c743e6557f66
+SHA1: aeac303420ec22e81293d652983f257d96f61092
+SHA256: 1b5862e5724c768cb63a47d9982e662f98ea275ebef49673b64042842bf0eaa2
 Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
@@ -401,15 +401,15 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: GNU implementation of the tar command
 
 Package: iphoneports-gzip
-Version: 400-3
+Version: 400-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-grep, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 29496
-MD5sum: 7c3735fcabec5de6c1b5478cfca0a22c
-SHA1: 1c3609ce3df5fdc87ab4cd3a706f7d1223970059
-SHA256: 3f5c0b9c0b6dec342cf25e54faf24f11165a579e91d90b139fcb87ccdff71222
+Size: 29434
+MD5sum: a0dee9d108f7ced4d0a617d359f42d58
+SHA1: d497674ddcd79fda4a9d7bcf61dafb7d6c033f19
+SHA256: 6c5bc42f9c6e3061f88ba7a378e4924e8b67884a44477129d29f1d112fc053da
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
