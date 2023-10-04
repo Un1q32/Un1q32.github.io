@@ -346,17 +346,16 @@ Section: Data_Storage
 Description: fast content-addressable filesystem
 
 Package: iphoneports-grep
-Version: 3.11-1
+Version: 165.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-pcre2
+Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/grep.deb
-Size: 119754
-MD5sum: d0fe6d2d1f865a475f32ddf7ea64d3c0
-SHA1: 0c44b3aec0259d0cbae0596363cc254baf96ccac
-SHA256: 2be8094667bb9fe38b0c501aad7e385db84f4c2974cbf9977563f3a2162a6f48
+Size: 15202
+MD5sum: dbce8b5bbbc2742fb3be10d242310e32
+SHA1: 8d9ef969f2a80df05c6e4fa716a64b1b08df326a
+SHA256: 7669e11ffa89da6a72b7ddc761340a2a35da7705d4b636e887e2f36982fc5541
 Section: Utilities
-Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
 Package: iphoneports-gsed
