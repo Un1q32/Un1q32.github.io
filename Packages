@@ -969,15 +969,15 @@ Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
 Package: iphoneports-ping
-Version: 325-1
+Version: 325-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ping.deb
-Size: 13754
-MD5sum: 071ca13fb1530afdf270bb6f8825caa1
-SHA1: cdb6121410a58fe38cb1e369bb852a7cb1e4904f
-SHA256: b4c81b4e18f84fa28abc30c1123ffcb84919c46dc79520087d83653f9f2ff9ea
+Size: 31480
+MD5sum: e549bacb0ad4ccd1db37fa19104dbd04
+SHA1: 5f7dfc17987296a72a3111f7ecd53e9e5f541764
+SHA256: dafe8864759b97c3a06ae3163529c7995810a0833beccf828b4c0d614467b9f5
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
