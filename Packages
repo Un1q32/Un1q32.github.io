@@ -1062,6 +1062,19 @@ SHA256: f62aa96b8b56bff441cc4514dde2788c8c8e7c5ec83695351015075bcce94cfc
 Section: Utilities
 Description: stream editor
 
+Package: iphoneports-sqlite
+Version: 3.43.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/sqlite.deb
+Size: 1805728
+MD5sum: 1d842b586dbc5233839fe8479e127679
+SHA1: fe084b03c87d751aeb742e66129971d79059b37e
+SHA256: cf0b7fcebeb3a528de1bcf82b2375b5c39dd09d25c42e60574e5b515b9f18777
+Section: Utilities
+Description: SQL database engine
+
 Package: iphoneports-su
 Version: 116-3
 Architecture: iphoneos-arm
