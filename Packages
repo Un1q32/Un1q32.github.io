@@ -40,15 +40,15 @@ Section: Utilities
 Description: pattern scanning and processing language
 
 Package: iphoneports-base
-Version: 11
+Version: 12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0), iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 1556
-MD5sum: 80ba2ebe3983206226609be310cb6856
-SHA1: 6dc822c6dc4301ae14a98c98530ea7d1fc4a8922
-SHA256: 8590275fc5d751214d0e0a35d517ef23d2fbd7957a489896c7f6199d08ccad14
+Size: 1462
+MD5sum: f656f8d4ce33771069e25215b8ff48ed
+SHA1: a7dda7c5a8f5468ec343db7df3d30d635b086f89
+SHA256: f8599b3510ceb5071124cc64c4610535da225bc3e6b6ac3dcac098634af49563
 Section: System
 Description: iPhonePorts base
 
