@@ -30,11 +30,12 @@ Version: 20230911
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
+Replaces: gawk
 Filename: ./debs/awk.deb
-Size: 63508
-MD5sum: 49468cf3371314361bf34cf76686390f
-SHA1: c64fe0a19e2109773b9f497e6d0fcb55458049bb
-SHA256: bcd96a2d1cdb20f797d41073b73ae26454c18ee8410e9f5e8d61115cba625961
+Size: 63584
+MD5sum: 750fc02ad2682315d0f85fecad7df76b
+SHA1: 67b8ea3f59514606e7cb64bd90b82b7e857e86d5
+SHA256: 9b41c8a804cdfc93d843b62e2999e49c5cf2bfb1734233b4abd619180f2d9f92
 Section: Utilities
 Description: pattern scanning and processing language
 
