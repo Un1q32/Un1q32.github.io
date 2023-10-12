@@ -659,10 +659,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz
 Filename: ./debs/libxml2.deb
-Size: 691992
-MD5sum: 28093a2f8765d9b3a5eb95c42c17526d
-SHA1: 5fa456d78dc82f506aaf535056bea8babde254d9
-SHA256: caa0f0d596e65f225a4657b1cf8dff3c5115c2bc1d903f50f17da72096cc19fb
+Size: 691974
+MD5sum: aef0e2e6000734cbc6b10fae08604516
+SHA1: 8cc21f84f13eb88a8e6a248fb5f39a2f333ba050
+SHA256: a2d5002d9d539793d6f61672fb94674b6dead29fdc91d60007e81d349ba5cdfc
 Section: Development
 Description: XML C parser and toolkit
 
