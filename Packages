@@ -79,17 +79,17 @@ Section: Terminal_Support
 Description: a collection of command line command completions for the Bash shell
 
 Package: iphoneports-bc
-Version: 1.07.1-1
+Version: 6.7.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/bc.deb
-Size: 68268
-MD5sum: 76c63adcb0740f0fe4a97e63580e4f96
-SHA1: 0c48e2cd7ef7017c294d9bb9b5bf029594106cc0
-SHA256: c4e6a1a7b77813cf6de76fa0faecde40f314cc07df346f0d0ab7b264b3d083dc
+Size: 59330
+MD5sum: 8fb0dee9c14f0b621cc2f761763020b5
+SHA1: fb431c45bc7d4375103d3aa933d771cb0aaed89b
+SHA256: eb8802af77bbe313059a551cb95f606ea8020436394877a1b390fdd5a88dc351
 Section: Utilities
-Description: An arbitrary precision numeric processing language
+Description: An arbitrary-precision decimal arithmetic language and calculator
 
 Package: iphoneports-brotli
 Version: 1.1.0-1
