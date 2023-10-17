@@ -1007,16 +1007,29 @@ SHA256: dafe8864759b97c3a06ae3163529c7995810a0833beccf828b4c0d614467b9f5
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
+Package: iphoneports-ps
+Version: 172
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ps.deb
+Size: 17036
+MD5sum: 3103978ccb29836c1d2e0b1e75c94454
+SHA1: d6c97dd711b7b3e41d724399eeee9c4bc0eba50d
+SHA256: 495f94a8ded2ebbc511c4aaa20de9d3d4eeac9d928957f62a8471593e720cf35
+Section: Utilities
+Description: report a snapshot of the current processes
+
 Package: iphoneports-pstree
 Version: 2.40-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, adv-cmds
+Depends: iphoneports-base, iphoneports-ps
 Filename: ./debs/pstree.deb
 Size: 6760
-MD5sum: 6003ccb2a29ec5a5379225feafc5c5ba
-SHA1: 7a903a48b2064626fd6e8a68d94fa647c6d5bcb5
-SHA256: 7371cc70a6371c95061ff02f22860fefb1992aa875a89b60a8cdd3a7a9be7af7
+MD5sum: 88d690a93ebd7f30975f5ab99793f134
+SHA1: 059c7effb96ff55b57ce4c94bd52c198ce3dc42c
+SHA256: 7247bded5d955164118ba931b7220f4e9832e457bbe2e7d1802a11d1feb4bc86
 Section: Utilities
 Description: Show ps output as a tree
 
