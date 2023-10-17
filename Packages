@@ -481,15 +481,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-killall
-Version: 234
+Version: 302.0.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/killall.deb
-Size: 6214
-MD5sum: ed0a9c4a99fca7f76595df8086bf11c4
-SHA1: 812f27e77eb2708ea9b8fcb8fdcdf783f2c1a4a9
-SHA256: ec18a26f9ce0599682642f24280aa539d3add49e4b9012926c2f966d4dc9e045
+Size: 6196
+MD5sum: 94b419ed7022e800cec4a30727d934e3
+SHA1: 9cda84577f4b02c3eb9fd7167a5b251a936a324a
+SHA256: 370ebc1259b2f173ec69b99d1e710860505c60cfd62487e4f8d4feb5fd3725aa
 Section: Utilities
 Description: A utility for killing processes by name
 
@@ -956,15 +956,15 @@ Section: Development
 Description: merge a difference onto a file
 
 Package: iphoneports-pax
-Version: 403.100.6-1
+Version: 428
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/pax.deb
-Size: 57970
-MD5sum: 84ebbde3598f8ef422ac68f819a99931
-SHA1: f76cfa60b0afc993d344df8da283b91f9381c703
-SHA256: 86b116318b011fd17459a00f33df9898da5a81a7dba7226c90a83c1881d8080b
+Size: 58408
+MD5sum: 6de7c4bd020204cb3d5268e5f9498709
+SHA1: 8a2dfcc7511ed265b62ca1d9d65df7381fc5727f
+SHA256: d0def15b6a8bf8e8129cde237347121503ed95de6222dbcd44405349522ff6cd
 Section: Archiving
 Description: Portable Archive eXchange
 
@@ -1075,15 +1075,15 @@ Homepage: http://www.gnu.org/software/screen/
 Description: multiplexes a terminal into many
 
 Package: iphoneports-sed
-Version: 164.0.4
+Version: 165.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sed.deb
-Size: 17760
-MD5sum: c347ca8b357f533c813f74c89f2d8424
-SHA1: 59bb0be93215586786d0a545db4a43030e8926f7
-SHA256: f62aa96b8b56bff441cc4514dde2788c8c8e7c5ec83695351015075bcce94cfc
+Size: 17824
+MD5sum: dcc7b7c7062bbe32503bb75c7f0f4968
+SHA1: ac0c1e51a4343b1b4e9a3776f7d733e2d269b7ca
+SHA256: 10c070cc6c40eaf10aa90045ccf270e3f18664b1e9050b7c85e8012b533c658f
 Section: Utilities
 Description: stream editor
 
@@ -1128,15 +1128,15 @@ Section: Administration
 Description: temporarily assume root priviledges
 
 Package: iphoneports-sysctl
-Version: 950-1
+Version: 970.0.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sysctl.deb
-Size: 8276
-MD5sum: 72792301fc7c4cf1fd89975fe59b0a0f
-SHA1: 33fc611f311ae5b129c19fb3563a94a374a1a7a1
-SHA256: a1d3152506d8c319127085a77e37e0b1e9a0426ec2f091f950b7a3c40998dbca
+Size: 8274
+MD5sum: bb40c534c7820483147e1c06328367d5
+SHA1: 7f2f039d9ff0d07362c1a4fbb4cdaf1ba28224ed
+SHA256: 3140c450eaa7176e6f5543e1c4286afd1b9712c6478198bb22821b9be7827f1c
 Section: Utilities
 Description: A utility for retrieving and setting kernel parameters
 
