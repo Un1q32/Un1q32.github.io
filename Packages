@@ -226,15 +226,15 @@ Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
 Package: iphoneports-df
-Version: 403.100.6-2
+Version: 428
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-libxo
 Filename: ./debs/df.deb
-Size: 8352
-MD5sum: d6dca42bd52db442da6fc11eb0632fa9
-SHA1: 4cb76c87d1ecdd51958755d525d3c91881539eea
-SHA256: 5fc3feaeeac63eb9ae796d7685625af5701b2bc2cc77d567cb31a565985031be
+Size: 8784
+MD5sum: 54ec32a509c6aebba2e5f8be8ca2e84f
+SHA1: a3c60addbbe5eb46a7c99fa14ddc41aa9355babc
+SHA256: 2bf6d98162817374449892fc871334b6cc199b96e456894d0299a440065700ed
 Section: Utilities
 Description: A utility for displaying free disk space
 
@@ -664,6 +664,19 @@ SHA1: 8cc21f84f13eb88a8e6a248fb5f39a2f333ba050
 SHA256: a2d5002d9d539793d6f61672fb94674b6dead29fdc91d60007e81d349ba5cdfc
 Section: Development
 Description: XML C parser and toolkit
+
+Package: iphoneports-libxo
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libxo.deb
+Size: 90082
+MD5sum: ed7c00b4f8cf2ed61ba39b6cc2bbbebc
+SHA1: cbb52ee4b5370751882c9ea02a8fe6456cdb9833
+SHA256: 070fe0c299602ea2269dbe1fd0e95de76af8b32b056c860b86104aa60bf7f102
+Section: Development
+Description: A Library for Generating Text, XML, JSON, and HTML Output
 
 Package: iphoneports-libzip
 Version: 1.10.1-1
