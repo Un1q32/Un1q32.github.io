@@ -105,15 +105,15 @@ Section: Archiving
 Description: A generic-purpose lossless compression algorithm
 
 Package: iphoneports-bzip2
-Version: 1.0.8-4
+Version: 1.0.8-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less
+Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less, iphoneports-grep
 Filename: ./debs/bzip2.deb
-Size: 54536
-MD5sum: 345b6edfdb2e7cf5938069c9b39e1222
-SHA1: 3e8e96ab0ad1e47647a61f1589bc9eaa32bd5baf
-SHA256: c9ef99e9cccb8e8ed5834bae33d325f301a2e18517f4fda65ecde242770a9727
+Size: 55434
+MD5sum: 6046b62c9736a9ad679d692b8e3da62f
+SHA1: ea5d6c741ba0faa98987a065d662089bcfee0466
+SHA256: ab6a1fec65c5deafab8579eb953f4605b35de864e709e287d37912e0cbea0886
 Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
@@ -319,18 +319,18 @@ Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
 
 Package: iphoneports-gawk
-Version: 5.2.2-2
+Version: 5.2.2-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gawk.deb
-Size: 361764
-MD5sum: 34787fa4740cdac5b7b8e8a335e4bd97
-SHA1: 4c5d3d14d3c7e5049020e89f3e5abfed233f5710
-SHA256: 4bd40dcc12971715f4186fb3b7187efa25c635d5bd7a10f52af16d236bf4cba3
+Size: 363304
+MD5sum: 205391ed539b28599e7acccc15d4009b
+SHA1: 0e59b85b8ec0823cec2fabc3afce9950142e8620
+SHA256: 5d180c004aebc89dead55a8cebd5ffe4f7d223c584a87f17ed5e10e5b7ad46d1
 Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
-Description: GNU's heavy-weight implementation of awk
+Description: pattern scanning and processing language
 
 Package: iphoneports-ggrep
 Version: 3.11
@@ -360,16 +360,17 @@ Section: Data_Storage
 Description: fast content-addressable filesystem
 
 Package: iphoneports-grep
-Version: 165.0.4
+Version: 3.11-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-pcre2
 Filename: ./debs/grep.deb
-Size: 15202
-MD5sum: dbce8b5bbbc2742fb3be10d242310e32
-SHA1: 8d9ef969f2a80df05c6e4fa716a64b1b08df326a
-SHA256: 7669e11ffa89da6a72b7ddc761340a2a35da7705d4b636e887e2f36982fc5541
+Size: 119634
+MD5sum: 8ad58316405f63f8ec44700160a2d236
+SHA1: e84b325c0856226752f62a80cc35986eebb35e43
+SHA256: adaa792e85cf3c27e33a01f528b3c00173fe724dcd77064af5a0b41b9e2a4d7c
 Section: Utilities
+Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
 Package: iphoneports-gsed
@@ -401,15 +402,15 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: GNU implementation of the tar command
 
 Package: iphoneports-gzip
-Version: 400-4
+Version: 400-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-sed, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-sed, iphoneports-grep, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/gzip.deb
-Size: 29434
-MD5sum: a0dee9d108f7ced4d0a617d359f42d58
-SHA1: d497674ddcd79fda4a9d7bcf61dafb7d6c033f19
-SHA256: 6c5bc42f9c6e3061f88ba7a378e4924e8b67884a44477129d29f1d112fc053da
+Size: 29466
+MD5sum: a402407c437ec331ac5f7c81fc17d3dd
+SHA1: 950e68eb26d8045734acbe227695f687f6dac6d9
+SHA256: 27ebb6f6680a7082201f2cac630616a8eea0fb51bb6af5913595a0cc7a59dcdb
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
@@ -889,15 +890,15 @@ Section: System
 Description: System V Release 4.0 curses emulation library
 
 Package: iphoneports-neofetch
-Version: 7.3.10-5
+Version: 7.3.10-6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-bash, iphoneports-awk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl
+Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl
 Filename: ./debs/neofetch.deb
 Size: 129846
-MD5sum: 1d760e55015bc5a242918610fc25aa43
-SHA1: e3aed3d0a2edd8034ff9f63024f148bae7e60192
-SHA256: 03f6e364606bf25bf2ca36576c703f45413fda1cfefc58f3102ffff016fcbd56
+MD5sum: 1f91ebf9aa2ec21e78054d86cb377f52
+SHA1: 74250d661c593d43da5beb449638cce9cd143612
+SHA256: 7bc96427a091be66206bba39c087476efc6d6a2d397880a8acdfc3a1aee30cf4
 Section: Utilities
 Description: A command line system information tool
 
@@ -1088,16 +1089,17 @@ Homepage: http://www.gnu.org/software/screen/
 Description: multiplexes a terminal into many
 
 Package: iphoneports-sed
-Version: 165.0.4
+Version: 4.9-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sed.deb
-Size: 17824
-MD5sum: dcc7b7c7062bbe32503bb75c7f0f4968
-SHA1: ac0c1e51a4343b1b4e9a3776f7d733e2d269b7ca
-SHA256: 10c070cc6c40eaf10aa90045ccf270e3f18664b1e9050b7c85e8012b533c658f
+Size: 93220
+MD5sum: cd1d080f4e75fbe846ca0baefdb2c94f
+SHA1: 402dee44e9dcf975ce52d6c234276e8d9e3ba564
+SHA256: cdd5d605d9bb6c3bee4c833c19f6f3bfdf3cb531d1a768b41eb5ef369548fc5f
 Section: Utilities
+Homepage: http://www.gnu.org/software/sed/
 Description: stream editor
 
 Package: iphoneports-sqlite
