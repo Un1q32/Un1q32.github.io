@@ -323,11 +323,12 @@ Version: 5.2.2-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
+Replaces: iphoneports-awk
 Filename: ./debs/gawk.deb
-Size: 363304
-MD5sum: 205391ed539b28599e7acccc15d4009b
-SHA1: 0e59b85b8ec0823cec2fabc3afce9950142e8620
-SHA256: 5d180c004aebc89dead55a8cebd5ffe4f7d223c584a87f17ed5e10e5b7ad46d1
+Size: 363322
+MD5sum: 20e82281047da746a22eeecc1d2a9b75
+SHA1: 8a0363b933e1634026ab9531a9fe40da00a234bc
+SHA256: 5c1202e28ff42547a36d6312f2924a0402bb913432374bcb364cd56fc517d2fb
 Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
