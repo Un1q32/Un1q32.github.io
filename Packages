@@ -334,20 +334,6 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
-Package: iphoneports-ggrep
-Version: 3.11
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-pcre2
-Filename: ./debs/ggrep.deb
-Size: 119636
-MD5sum: c2a56efb68dfed6505660fa3e5faffd3
-SHA1: 8cbeed02fd79dbb5220114dfae6eb0f829f68cf4
-SHA256: 046e625069041a4530bda194813772e750f4b1335768d5afa761a852472fa9c9
-Section: Utilities
-Homepage: http://www.gnu.org/software/grep/
-Description: GNU implementation of grep
-
 Package: iphoneports-git
 Version: 2.42.0-1
 Architecture: iphoneos-arm
@@ -374,20 +360,6 @@ SHA256: adaa792e85cf3c27e33a01f528b3c00173fe724dcd77064af5a0b41b9e2a4d7c
 Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
-
-Package: iphoneports-gsed
-Version: 4.9
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/gsed.deb
-Size: 93518
-MD5sum: c88a0603477c7a5ae0dd73f754dc7ad4
-SHA1: 1b1d9a38f045eb3c9f295aeaa04cdd8fccfa388e
-SHA256: 7d00a9236e73353d35f681655e4963e2f0f888381dd58aad7630a3e704459447
-Section: Utilities
-Homepage: http://www.gnu.org/software/sed/
-Description: GNU implementation of sed
 
 Package: iphoneports-gtar
 Version: 1.35
