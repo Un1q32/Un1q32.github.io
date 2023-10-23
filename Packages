@@ -109,11 +109,12 @@ Version: 1.0.8-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less, iphoneports-grep
+Replaces: iphoneports-grep
 Filename: ./debs/bzip2.deb
-Size: 55434
-MD5sum: 6046b62c9736a9ad679d692b8e3da62f
-SHA1: ea5d6c741ba0faa98987a065d662089bcfee0466
-SHA256: ab6a1fec65c5deafab8579eb953f4605b35de864e709e287d37912e0cbea0886
+Size: 55452
+MD5sum: 82517b1777afddfbad2aff260c0e3180
+SHA1: d8c5344ade581c18389ecb00d76fd4ff9d118de5
+SHA256: bf97a28f17a1048521aa7fc98447c5ef347eec7272fa7bb32ab0b3f2e5c14655
 Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
@@ -407,11 +408,12 @@ Version: 400-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-sed, iphoneports-grep, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
+Replaces: iphoneports-grep
 Filename: ./debs/gzip.deb
-Size: 29466
-MD5sum: a402407c437ec331ac5f7c81fc17d3dd
-SHA1: 950e68eb26d8045734acbe227695f687f6dac6d9
-SHA256: 27ebb6f6680a7082201f2cac630616a8eea0fb51bb6af5913595a0cc7a59dcdb
+Size: 29478
+MD5sum: da8e433e262c0d1b79bdcf2d2a4bcb77
+SHA1: 0ad41ec5457385307d039603fd1f468491bc1013
+SHA256: b297650b239ccae137c72b1b17845da4b77e002a0eb65db3846a026b7392ef3d
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
