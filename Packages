@@ -24,20 +24,6 @@ SHA256: 490f9470af3901cbdbc24473cd526016ec909899a8ca45c8a0fed7858fba0fd9
 Section: Games
 Description: 2048 in your terminal
 
-Package: iphoneports-awk
-Version: 20230911
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Replaces: gawk
-Filename: ./debs/awk.deb
-Size: 63584
-MD5sum: 750fc02ad2682315d0f85fecad7df76b
-SHA1: 67b8ea3f59514606e7cb64bd90b82b7e857e86d5
-SHA256: 9b41c8a804cdfc93d843b62e2999e49c5cf2bfb1734233b4abd619180f2d9f92
-Section: Utilities
-Description: pattern scanning and processing language
-
 Package: iphoneports-base
 Version: 13
 Architecture: iphoneos-arm
