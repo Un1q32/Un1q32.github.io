@@ -1194,6 +1194,19 @@ SHA256: c50c04e490544daaadd059607336dbdd4a8d902122ea5a9efdfb30965acf1585
 Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
+Package: iphoneports-vbindiff
+Version: 3.0b5
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/vbindiff.deb
+Size: 24326
+MD5sum: 5bf166e722853e54bb7ba6e247d0a17b
+SHA1: 476d7f4b6dc8aa526a4089467a9cccb9b869494f
+SHA256: 244a914c2b945e1758b264ed534c210460b853570407236a650020836b4ac837
+Section: Utilities
+Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
+
 Package: iphoneports-vm-stat
 Version: 498.0.10-1
 Architecture: iphoneos-arm
