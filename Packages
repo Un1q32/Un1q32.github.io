@@ -1077,16 +1077,16 @@ Section: Utilities
 Description: SQL database engine
 
 Package: iphoneports-su
-Version: 116-3
+Version: 116-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Replaces: pam
 Filename: ./debs/su.deb
-Size: 6576
-MD5sum: 64614a8f7de222f947c0b45199f2ce99
-SHA1: 02a646a61c3fcedd84e26c6953a9d52792ca8058
-SHA256: 15485a253aae2223986f5223c2e14c9ad3c23edb0803d93bff446ffaa56e92c7
+Size: 6532
+MD5sum: 4141b8fa39532ffe4ca771f1be74f493
+SHA1: 7422ed14c7299a8c9a57da0a337c7b5608b969d7
+SHA256: c236cf0db75ef437119bc14d217865dd1215f0caf7b220f4baf56ff2d318c9b0
 Section: Administration
 Description: substitute user
 
