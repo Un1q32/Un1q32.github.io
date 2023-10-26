@@ -240,15 +240,15 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-doas
-Version: 6.3p9-7
+Version: 6.3p9-8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Filename: ./debs/doas.deb
-Size: 15848
-MD5sum: 8f4d671101e07699efc7800aafcf2165
-SHA1: 9b9787d56e463fdd0d7d85c3402f7ba03c7158bc
-SHA256: 8c7670b1fa64c92f6d3b17934ca955ab2f6235c90fe3b829bc89342ca2300fa4
+Size: 15820
+MD5sum: 70ea1495fdc7d9d90746a7ffef58416d
+SHA1: 78a66bb91ab953916b95f0ed296635914323238b
+SHA256: cfbdf622885f6b9ea4479b74ddac52b660aedfa3188ab21e0536a1c65539d642
 Section: Administration
 Description: a minimal replacement for sudo
 
@@ -1083,10 +1083,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Replaces: pam
 Filename: ./debs/su.deb
-Size: 6532
-MD5sum: 4141b8fa39532ffe4ca771f1be74f493
-SHA1: 7422ed14c7299a8c9a57da0a337c7b5608b969d7
-SHA256: c236cf0db75ef437119bc14d217865dd1215f0caf7b220f4baf56ff2d318c9b0
+Size: 6520
+MD5sum: a4511d197b8aac14690dce3fbf1c60bc
+SHA1: ff44ef2037de6c5594be0125187740b5149568e8
+SHA256: 4ef15635322848f37b8dcaa495203d0a83a4c741c34974ef2a01fa0713defe04
 Section: Administration
 Description: substitute user
 
