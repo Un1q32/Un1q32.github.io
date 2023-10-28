@@ -172,15 +172,15 @@ Section: Utilities
 Description: Terminal screen saver based on the movie "The Matrix".
 
 Package: iphoneports-coreutils
-Version: 9.4
+Version: 9.4-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/coreutils.deb
-Size: 616520
-MD5sum: ea408702176d604613be7b6397296f96
-SHA1: 7a9e700ca30ef917522f07d7660081d5b3fbfd39
-SHA256: 1df8e6946538f1c51f866840992e9eb9ba59269c9ae8c5c51328d25f05fc7342
+Size: 623672
+MD5sum: 45b6105e53862c8be60fbeb3fe2bb10e
+SHA1: 70dd9f268284dbdb822ad38d4de4c43a263c0f2e
+SHA256: b5e584ac6d842819b23c875d5b4ced07560682f85fddfe6f9e1c7916e2810faf
 Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
@@ -211,19 +211,6 @@ SHA1: 8ba357889ab1053172971879fa7c52663abc0ccf
 SHA256: 3109d4d2d46ac742440460aa6b0c0bacd868f525cd5be29920144abf28d63e7a
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
-
-Package: iphoneports-df
-Version: 428
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libxo
-Filename: ./debs/df.deb
-Size: 8784
-MD5sum: 54ec32a509c6aebba2e5f8be8ca2e84f
-SHA1: a3c60addbbe5eb46a7c99fa14ddc41aa9355babc
-SHA256: 2bf6d98162817374449892fc871334b6cc199b96e456894d0299a440065700ed
-Section: Utilities
-Description: A utility for displaying free disk space
 
 Package: iphoneports-diffutils
 Version: 3.10-1
@@ -626,19 +613,6 @@ SHA1: 8cc21f84f13eb88a8e6a248fb5f39a2f333ba050
 SHA256: a2d5002d9d539793d6f61672fb94674b6dead29fdc91d60007e81d349ba5cdfc
 Section: Development
 Description: XML C parser and toolkit
-
-Package: iphoneports-libxo
-Version: 1.6.0
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/libxo.deb
-Size: 90082
-MD5sum: ed7c00b4f8cf2ed61ba39b6cc2bbbebc
-SHA1: cbb52ee4b5370751882c9ea02a8fe6456cdb9833
-SHA256: 070fe0c299602ea2269dbe1fd0e95de76af8b32b056c860b86104aa60bf7f102
-Section: Development
-Description: A Library for Generating Text, XML, JSON, and HTML Output
 
 Package: iphoneports-libzip
 Version: 1.10.1-1
