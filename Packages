@@ -838,17 +838,17 @@ Section: Utilities
 Description: A command line system information tool
 
 Package: iphoneports-nextvi
-Version: 17
+Version: 18
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/nextvi.deb
-Size: 89798
-MD5sum: 056076a65b9300d3d7e164c48f9140d0
-SHA1: a0730825148c39560a330bbbe586faed1624c1f7
-SHA256: 2ca7c89ac1f33eca84ffaa660ad713d961cc9f7796585f2a920b883446ad7daf
+Size: 89734
+MD5sum: 81252909d39a45958913b723a733c87b
+SHA1: 00535724e7be837e98e01d767232492e9a92ba0b
+SHA256: 6f9cd584e2aef32a5c97625c7d71618490e22c7875994394b066d80a6f5d938d
 Section: Text_Editors
-Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
+Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
 Package: iphoneports-nghttp2
 Version: 1.58.0
