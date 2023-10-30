@@ -646,11 +646,11 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
 Filename: ./debs/lua.deb
-Size: 355414
-MD5sum: 359647dedc850bd58d9ae6b852c1dbcd
-SHA1: 56e1f005ac523e5fe480663ae21d00c05ffa9826
-SHA256: fd3287d96ab913841cdf79cf4b466a16d68c632c25495b42bd4ad066e725a507
-Section: Development
+Size: 358860
+MD5sum: d7a5788186f5da2e30b8e16e0f54a561
+SHA1: 5261ffbeed79e76fa8e47c429e98f0caf10060b4
+SHA256: 4aac32a3ca518ccbe2d2118f82e96befde87f9fc66bcae24f5b75c754518bdac
+Section: Scripting
 Description: A powerful, efficient, lightweight, embeddable scripting language.
 
 Package: iphoneports-luajit
@@ -659,11 +659,11 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/luajit.deb
-Size: 349562
-MD5sum: f301b5bf43c1a8463082ccb01258ae43
-SHA1: 0758219934d006fa4ce2a36b736d78203b4e9eb4
-SHA256: 6188b484a57643260cf9a07725f4f7f81173afcd3799b60e6022c97ad0a0a4ea
-Section: Development
+Size: 349550
+MD5sum: c3b0c6e2549b2b5074c87939826ec2a1
+SHA1: f134511bccc501f33024241382eee9286edada44
+SHA256: 45164ded195ae4a3eedad56941ca483611f417a04a3a52de96b2f5bce21ba9ed
+Section: Scripting
 Description: Just-in-time compiler and drop-in replacement for Lua 5.1
 
 Package: iphoneports-lz4
