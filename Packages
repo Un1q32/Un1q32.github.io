@@ -25,15 +25,15 @@ Section: Games
 Description: 2048 in your terminal
 
 Package: iphoneports-base
-Version: 13
+Version: 14
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0), iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 3724
-MD5sum: 19651c6b31dafe4364171589b2004f09
-SHA1: 9b8e614be8cfdda26d55764dac5aa78baf943649
-SHA256: 9be51370e7382007ddb858320f9c5bac5da0814b1fb70738639c6f2c0fd5236b
+Size: 3768
+MD5sum: b50e78afafb6399f1ee38e2ef6204482
+SHA1: 73095da9dadb36e8432a24ef24b30f47a9cb4a07
+SHA256: 084a2c0bd5ac9e41de56370f25e6ae16b02030ab562ab3fba3883fac83fb8162
 Section: System
 Description: iPhonePorts base
 
