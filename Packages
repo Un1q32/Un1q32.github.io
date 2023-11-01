@@ -786,15 +786,15 @@ Section: Utilities
 Description: A program for calculating and printing calendars
 
 Package: iphoneports-ncdu
-Version: 1.19
+Version: 1.19-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/ncdu.deb
-Size: 36820
-MD5sum: 09f5014beb23bc328b49953e0a5d8393
-SHA1: 81750d5368b42142967d634902dc4e774b74fb21
-SHA256: ed1afcbce749b36ec1741b71a24c04a0b4941fb8718507403efd9156b0f567c6
+Size: 36732
+MD5sum: b73bb3bd01d145f80769c00c9206235f
+SHA1: b202526e934da804c337b23795531a3381b8c48a
+SHA256: d3eff8215277044c5e4881a92987502c0fe862cdd45f07f26fbefca34c9bafa8
 Section: Utilities
 Description: Disk usage analyzer with an ncurses interface
 
