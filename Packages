@@ -133,15 +133,15 @@ Section: Security
 Description: Common CA certificates
 
 Package: iphoneports-catgirl
-Version: 2.2-4
+Version: 2.2-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/catgirl.deb
-Size: 59918
-MD5sum: 3afdec82fbb1567d5c755529b67b0222
-SHA1: e2295e524ddf43cf17c673646750adee97cd033b
-SHA256: 0c14195059a1abf0f55ccc366baec8ed5f08acf9bac3d3ad0f3d534ac3200497
+Size: 59922
+MD5sum: 1b1f0945105679e3f3b7996b06e802ea
+SHA1: 371985215886610f7f9298cc70b0fe1e7a6acd67
+SHA256: d276f9f193492067e2e89ae4a634ac05817b36acf223a78c8c35572ab3f5c0fe
 Section: Utilities
 Description: a terminal IRC client.
 
@@ -172,29 +172,29 @@ Section: Utilities
 Description: Terminal screen saver based on the movie "The Matrix".
 
 Package: iphoneports-coreutils
-Version: 9.4-1
+Version: 9.4-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/coreutils.deb
 Size: 623672
-MD5sum: 45b6105e53862c8be60fbeb3fe2bb10e
-SHA1: 70dd9f268284dbdb822ad38d4de4c43a263c0f2e
-SHA256: b5e584ac6d842819b23c875d5b4ced07560682f85fddfe6f9e1c7916e2810faf
+MD5sum: 3ff60525c1c8d7c65d66999515ead865
+SHA1: 2e9b439ae7f1a524517fd0f6017e3268cea0ea09
+SHA256: e63b5f189baa4e8b73940742042ea818a934bb23a032eca31ea5a4b44c02d866
 Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
 
 Package: iphoneports-curl
-Version: 8.4.0
+Version: 8.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl.deb
-Size: 498510
-MD5sum: 371655fdcd978be998c269b5baa20320
-SHA1: 8c2910e3c517c9217452bfcfffca995da9679b17
-SHA256: ddf95fac81c7b41163be1f8588b1e61b124acd5054ca895a37092bfe65d23753
+Size: 496994
+MD5sum: d9d8cbd701ef4f3854f1c4bf1fd67d7d
+SHA1: 18abec4b5b5818623ab2a930f7fbc00b4ed43f02
+SHA256: 687a96c3a057b75d9096f60133d4d7e1be4a170c9598f4c82ce9b64de14f2a3d
 Section: Networking
 Homepage: http://curl.se/
 Description: An URL retrieval utility and library
@@ -308,15 +308,15 @@ Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
 Package: iphoneports-git
-Version: 2.42.0-1
+Version: 2.42.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
 Filename: ./debs/git.deb
-Size: 9577432
-MD5sum: 492211e200e79196ba1a44f7bf4bafcd
-SHA1: 69fc9dd3e68d0a98148cad91f5857a26d38b4b3b
-SHA256: 4029cc712779048cc2c1056b9ae3a50142e0e9db95bfc58dba2c0176aa8bee91
+Size: 9572680
+MD5sum: 98724494809963e7e225116c4335e955
+SHA1: 7c58a5599584588fee58b26a3d78694c758db60d
+SHA256: a649b2ce903279c01de58d3536e3548ef22d6ac794335f2da5f6669bd2395378
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
@@ -404,15 +404,15 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 
 Package: iphoneports-idevicerestore
-Version: 1.0.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery
 Filename: ./debs/idevicerestore.deb
-Size: 81634
-MD5sum: d6fe673b047f2b1573778c19b721e432
-SHA1: 163c49c551b0c9483ec117a8255919bafda3cc64
-SHA256: 4c94ad8c7ab321d82583ade2b3b84c2f775e00625090195d1f64674849ac083c
+Size: 81680
+MD5sum: 743fe2395a9ae5260d8811c7e4d554c9
+SHA1: abcb27692047a733a7ea4c3f1ea6d5bc0a1cb8b3
+SHA256: fc51425b79fbf45ed62ab65f7aa1ad6d45591c2d6ab3b1245638a82ae1425bd8
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
@@ -483,15 +483,15 @@ Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
 Package: iphoneports-libimobiledevice
-Version: 1.3.0-1
+Version: 1.3.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd
 Filename: ./debs/libimobiledevice.deb
-Size: 240398
-MD5sum: 0ee8b8b3236b519334940eae63b98b18
-SHA1: e0569a98411007320d7ca821170b8a116eaadfb5
-SHA256: a1ff871c7c5ca8ef22175f983dd0656989f859907f8ece83f4ebb1c5d90eb2d5
+Size: 240466
+MD5sum: 603c007f5378b56389ccec356de4380f
+SHA1: b93041ead2f83e27cdef5f98e1f41523d156f23b
+SHA256: e9cfc90f8a1898f3ceae6604f6bd93cc72a34450a9b56c9cd59f538cd5ed8f6a
 Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
@@ -535,28 +535,28 @@ Section: Development
 Description: Public Suffix List library
 
 Package: iphoneports-libressl
-Version: 3.7.3-2
+Version: 3.8.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ca-certificates
 Filename: ./debs/libressl.deb
-Size: 2461064
-MD5sum: 5c06efc3f51c0a1911821561612d2640
-SHA1: 28742d1ac2765ee5c7a5d01b9264c6379b388234
-SHA256: 89dd8ca15d67aa472ac32840387a782a47ee68bce2b2a0404c95e1cc0fb0d7ec
+Size: 2981588
+MD5sum: 6dd94dd31633d0264f95190ed4912674
+SHA1: fb37e2f8d160add0822f19696940b47d1f003880
+SHA256: 7d205365537976d3eee23ec0944e27beb272dff15d3b32c196d5dae78d0a30ad
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 
 Package: iphoneports-libssh2
-Version: 1.11.0-1
+Version: 1.11.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
 Filename: ./debs/libssh2.deb
-Size: 127148
-MD5sum: ccd9d98530ac5212b8e4d446f4707631
-SHA1: 9f3669b9dafd4a58489d51de7dcf3af085ce554a
-SHA256: 6f174dbd1feb32ffbf99f7ae6da6ef965f5e18651d529db345630314d350e63a
+Size: 126886
+MD5sum: de84883a6d5bf949a38d73963137d140
+SHA1: 125c3fc9a8e2305d6ec9655edab03c51a6ebaee5
+SHA256: 1c9171da7a7fbd79685956b9126781ea155d38d95c813dba5716f5eea74e8472
 Section: Development
 Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
@@ -615,28 +615,28 @@ Section: Development
 Description: XML C parser and toolkit
 
 Package: iphoneports-libzip
-Version: 1.10.1-1
+Version: 1.10.1-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-xz
+Depends: iphoneports-base, iphoneports-xz, iphoneports-libressl
 Filename: ./debs/libzip.deb
-Size: 94738
-MD5sum: 8aa65d9ed2983dc4cd20fc4c202b1dbf
-SHA1: 3ca23bc96a51018b5f273808dbc41a0592a3e93e
-SHA256: 78c692905b1c1680b12ea27509dc1ed0c1100c183e087e087e44ce90440a7da6
+Size: 94744
+MD5sum: f75c755980235c02d470738da11f456f
+SHA1: 03633fe94d2e6ebb44c8ca41db809e2222c2bc23
+SHA256: 099c116d80cdf619b2c93483dae2cb01c1c3fdf75982c882f9a007a50617e2d5
 Section: Development
 Description: A C library for reading, creating, and modifying zip archives.
 
 Package: iphoneports-lighttpd
-Version: 1.4.72
+Version: 1.4.72-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-zstd, iphoneports-brotli, iphoneports-bzip2, iphoneports-pcre2, iphoneports-libxml2
 Filename: ./debs/lighttpd.deb
-Size: 392582
-MD5sum: 70d038092e6aa1123218f10a6bba8ef4
-SHA1: 7046c46b5c555883bcb215dcfc03d4d1f1d72033
-SHA256: 37516be9fc760280aa4fd76a42e8609b2672ebc351a6aca8cc1ed4564097936a
+Size: 392640
+MD5sum: e1492fc96b9c55e8c85b02d4b262eaae
+SHA1: f468c20a5bbaf048f06a1a4418e17b46595ce4d2
+SHA256: fbf70d237aaaedd477589006acdc7a0e112f10667eefdba84e41775851deb85c
 Section: Networking
 Description: Lightweight high-performance web server
 
@@ -851,29 +851,29 @@ Section: Text_Editors
 Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
 Package: iphoneports-nghttp2
-Version: 1.58.0
+Version: 1.58.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libxml2, iphoneports-libressl, iphoneports-zlib
 Filename: ./debs/nghttp2.deb
-Size: 114848
-MD5sum: f8661b23c8eea5f9805f4d8b207482d2
-SHA1: e4273276fbe545e4d540d5c4397df59b32ebf1c8
-SHA256: 8fb92803f7ed6e7d153835ba54e473529477fa873cac46b3dcd3cde069cea4fa
+Size: 114844
+MD5sum: 3946bb96cbc8055e8b78d35ef0a9f612
+SHA1: d691a3a35a862dcf3353813ae104ab8538c42802
+SHA256: b7995aef407f0078741775b93dc46905f42a9cbc939a3bb30af85b5026ed8d98
 Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
 Package: iphoneports-openssh
-Version: 9.5p1
+Version: 9.5p1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2240644
-MD5sum: 2fd75f70f7ca9800e39f607dbc825769
-SHA1: c86cac33ca64c4b5f36cf3896c878cb7c9601db2
-SHA256: 808b730d37d941dc690e51d02f3cbe8ae206dd007e0dc0aba9ae67c2b8f0a23d
+Size: 2240548
+MD5sum: e6519cebc0ec1a263f1342ed2906e27c
+SHA1: 5310ec90a6d021eb025a8639da91d0ddb14d18e1
+SHA256: a6879c3cbde97ab8914f68bd6ee62a39b949da85e3a9e32a06db48c3fa676fb4
 Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
@@ -996,15 +996,15 @@ Section: Games
 Description: The original dungeon crawl game.
 
 Package: iphoneports-rsync
-Version: 3.2.7-1
+Version: 3.2.7-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-lz4, iphoneports-zstd, iphoneports-zlib
 Filename: ./debs/rsync.deb
-Size: 233874
-MD5sum: 4d53c52ec180ac8607dcedf1ad447ba9
-SHA1: ee01da01af63917b00185ddbfc51d484b7938d2d
-SHA256: 08be5e093ba321b8412476376f6b68d361872caadeef6aeba426f3bfb0f06fc8
+Size: 234064
+MD5sum: f7f8d5974d47a332b017ea77f1fa930c
+SHA1: 0565608361808e838db722604382bdd15d4963e6
+SHA256: 07ab6ec086a38b49b44ee25c199c1aaeb888cf07a0c907f65cf06146414e09b5
 Section: Networking
 Homepage: http://www.samba.org/rsync/
 Description: A fast and versatile file copying tool for remote and local files
@@ -1065,15 +1065,15 @@ Section: Administration
 Description: substitute user
 
 Package: iphoneports-sudo
-Version: 1.9.14p3-1
+Version: 1.9.14p3-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
 Filename: ./debs/sudo.deb
-Size: 875360
-MD5sum: 462b4081c9d7cd3094beb45fc4f49fd6
-SHA1: d635110a83525002d5341686ab2b855925c46cf7
-SHA256: 63430d13ce2d6224a1f0f99500782c631bdfc32f5459e74f35c91606f61cf5a8
+Size: 875394
+MD5sum: 325321949908dcbd01fdc66cd5b90fa1
+SHA1: a2aee242db9446f6585e88d1675e019b4fa8780f
+SHA256: ef988055d0ca382f92fd60b576c9959491eb20b54f6077690d989668bab99357
 Section: Administration
 Description: temporarily assume root priviledges
 
@@ -1195,15 +1195,15 @@ Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
 Package: iphoneports-wget
-Version: 1.21.4-1
+Version: 1.21.4-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
 Filename: ./debs/wget.deb
-Size: 246276
-MD5sum: 0ff21675dd705e47142fb191e058325d
-SHA1: 80e22f76df02a3f8fe89718361713db7fbd39def
-SHA256: 364fd468d7544d0a8c5b244938e5181b5650d1b7a319421e3bb303fb6f856f8d
+Size: 246344
+MD5sum: d1fa02a0aed85470be1503c9ead578ac
+SHA1: 8da72b6c699178832c3931d298733c46b92c1d7b
+SHA256: 3b6fbf823d256f939e1a6de68749bd73bf257a62f7c5503c3da111d01aa7216b
 Section: Networking
 Description: Network utility to retrieve files from the Web
 
