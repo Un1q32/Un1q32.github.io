@@ -540,10 +540,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ca-certificates
 Filename: ./debs/libressl.deb
-Size: 2116712
-MD5sum: 99d3a2d3ad916e39a11a09139f8b2fac
-SHA1: 827599c61cf4ff601f10c208af9aa06f3e1f8414
-SHA256: 87cc44cfedbceb4f14f36964e7f59567bd385b8aadcca2d275b551973705c697
+Size: 2116686
+MD5sum: 813972f2f1fff4aad29ac1d8ab47dd90
+SHA1: 6a585fc8e605f04c11c4661e9020f8f77c3c720f
+SHA256: feb2aea03a8778141b92180f5ffe7db76fa9e9c844502ea82122da161848c1eb
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 
