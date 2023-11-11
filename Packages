@@ -227,15 +227,15 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-doas
-Version: 6.3p9-8
+Version: 6.3p9-9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Filename: ./debs/doas.deb
-Size: 15820
-MD5sum: 70ea1495fdc7d9d90746a7ffef58416d
-SHA1: 78a66bb91ab953916b95f0ed296635914323238b
-SHA256: cfbdf622885f6b9ea4479b74ddac52b660aedfa3188ab21e0536a1c65539d642
+Size: 15826
+MD5sum: 74ff34dda35314db8e8001296faff982
+SHA1: 9b7066be9193ee82cb9eb2b39bef54d021a5957f
+SHA256: bff3e0a1d5560740b0672229cc71a44e4973e2c7bf9509a637863b2df3e671cb
 Section: Administration
 Description: a minimal replacement for sudo
 
