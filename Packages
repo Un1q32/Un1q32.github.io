@@ -133,15 +133,15 @@ Section: Security
 Description: Common CA certificates
 
 Package: iphoneports-catgirl
-Version: 2.2-5
+Version: 2.2-6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/catgirl.deb
-Size: 59920
-MD5sum: f51936cbc1b965df1325d58a87be8cab
-SHA1: d16cf32894b2da96fca27dc9673954d07ef3a43b
-SHA256: c3fcd52ee5b8c67deed6a91500c010e0156d58766f55e68bd6703d455827a45f
+Size: 60006
+MD5sum: f7292ae6c01daa016856ac7d5a2f123c
+SHA1: e1a893c6b232216d11513e1e79dac714bbb7d72e
+SHA256: 8eda5f9f10835cf274b4c8caf49be0b15d901349cbfc14948e33e0089c98c1e1
 Section: Utilities
 Description: a terminal IRC client.
 
@@ -293,16 +293,16 @@ Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
 
 Package: iphoneports-gawk
-Version: 5.2.2-3
+Version: 5.3.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-awk
 Filename: ./debs/gawk.deb
-Size: 363322
-MD5sum: 20e82281047da746a22eeecc1d2a9b75
-SHA1: 8a0363b933e1634026ab9531a9fe40da00a234bc
-SHA256: 5c1202e28ff42547a36d6312f2924a0402bb913432374bcb364cd56fc517d2fb
+Size: 367184
+MD5sum: b1fcbd01298011176d9ec624315be0ef
+SHA1: ed71ce16f99dc96bf4a5e60f2a91c52886ed886e
+SHA256: 95da09c49f6d2b848deb51465c0a20e0c1b2701507d716c07ddd80a0e3258475
 Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
