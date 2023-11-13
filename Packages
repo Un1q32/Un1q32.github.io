@@ -138,10 +138,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/catgirl.deb
-Size: 60006
-MD5sum: f7292ae6c01daa016856ac7d5a2f123c
-SHA1: e1a893c6b232216d11513e1e79dac714bbb7d72e
-SHA256: 8eda5f9f10835cf274b4c8caf49be0b15d901349cbfc14948e33e0089c98c1e1
+Size: 60004
+MD5sum: ba1a620615ab1562822827dbb3c82671
+SHA1: 696ebed0b1a37542de760e70002542155e6bd7e1
+SHA256: 0dd7c467e12b03c358efec90b4cb0385db4fde3f054576a56d19e0d56ed21736
 Section: Utilities
 Description: a terminal IRC client.
 
