@@ -812,15 +812,15 @@ Section: Archiving
 Description: a fast, simple LZW file compressor
 
 Package: iphoneports-ncurses
-Version: 6.4-2
+Version: 6.4-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncurses.deb
-Size: 782618
-MD5sum: 8d0c57e7f7dbe033d13d322bf699ab4e
-SHA1: 7eadc7d1a10be21474b42d805aab56ce6dea6fcc
-SHA256: a7dfe44dece72e5415d53ba9e3d63a454a23e1b7e10a976e3474a38317a297c7
+Size: 782444
+MD5sum: dfefdbe92b3ca601e26a90d0e9b20c6a
+SHA1: 994c9728e5fa92e09115f32a400b86c8312aaa15
+SHA256: ef208f0b29cfc60ea2edfa22dee2811a3b783ca95790f7ce56b72feba5b17138
 Section: System
 Description: System V Release 4.0 curses emulation library
 
