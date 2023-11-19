@@ -646,10 +646,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
 Filename: ./debs/lua.deb
-Size: 139244
-MD5sum: 45db17649c3a0c94ebda4cc8741a7513
-SHA1: 524baceaf2caa5c6367c540ed9d1fb13fc439780
-SHA256: bdbcf868ef97f35a4f502ea32d386330368eab0b053ff9ef0c9c2aa8421d73fa
+Size: 139280
+MD5sum: ce5c700fb091d558ab91b6077a81cb25
+SHA1: a2d7868b04394098e00ea4f72377e040b0c1e6e1
+SHA256: df908e1ea234d133277f6547d7c20b51d21033f6e3e20090febb92e6cde7d55f
 Section: Scripting
 Description: A powerful, efficient, lightweight, embeddable scripting language.
 
