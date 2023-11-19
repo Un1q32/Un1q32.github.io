@@ -641,15 +641,15 @@ Section: Networking
 Description: Lightweight high-performance web server
 
 Package: iphoneports-lua
-Version: 5.4.6-1
+Version: 5.4.6-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
 Filename: ./debs/lua.deb
-Size: 139280
-MD5sum: ce5c700fb091d558ab91b6077a81cb25
-SHA1: a2d7868b04394098e00ea4f72377e040b0c1e6e1
-SHA256: df908e1ea234d133277f6547d7c20b51d21033f6e3e20090febb92e6cde7d55f
+Size: 139284
+MD5sum: 66e9b50817e6e5c9a0ec527ced94d892
+SHA1: 7007969acc6fe36a69c71bb312c6fb65b444b249
+SHA256: 0b22952502657fd50166a9474c929df5fc48343ad390b049ca5a7ef6cce726f7
 Section: Scripting
 Description: A powerful, efficient, lightweight, embeddable scripting language.
 
