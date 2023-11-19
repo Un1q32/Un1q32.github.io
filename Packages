@@ -17,10 +17,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/2048.deb
-Size: 7626
-MD5sum: 6859d755d55dae689ca5d8203119c2c4
-SHA1: 459d62f3bcaae9e7c4098f48f534f27b69387ff5
-SHA256: 490f9470af3901cbdbc24473cd526016ec909899a8ca45c8a0fed7858fba0fd9
+Size: 7650
+MD5sum: cc58ae772376d096fc52810574a0c1c1
+SHA1: e12cad6d7a6d7f233095c884bc356b07a144bd75
+SHA256: 9768e1620a36955cad3e6c022253a09c87adc98830d4128c4ffb1b0aa5f4f57e
 Section: Games
 Description: 2048 in your terminal
 
