@@ -1068,12 +1068,12 @@ Package: iphoneports-sudo
 Version: 1.9.15p2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
+Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl, pam
 Filename: ./debs/sudo.deb
-Size: 952558
-MD5sum: 47b334b319e43196ed065e8e6efeb557
-SHA1: 86187e1127d7cab59881e021ba551fee9fa76b5c
-SHA256: 51e19292feba42f5592482b0dd7999dd606ccbaf139e67348a562ed4a1bb39b4
+Size: 952556
+MD5sum: 283dc574bb7edef986dc477046442e7d
+SHA1: c9860f4e3be44cc41f6a9007f50ea1193279ccc9
+SHA256: 1d52c16f963b9fcd6d614c01cf91abd71b8d818ebd8e04c07bb89d7dbcd7b32e
 Section: Administration
 Description: temporarily assume root priviledges
 
