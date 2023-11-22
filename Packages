@@ -308,15 +308,15 @@ Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
 Package: iphoneports-git
-Version: 2.42.1
+Version: 2.43.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
 Filename: ./debs/git.deb
-Size: 9582842
-MD5sum: 87266de82509bd7a35676aed4cef6d27
-SHA1: 0a0ac5606bab9e4c1449309fb742cf1de1bcfe72
-SHA256: d596992df146c915dc8989593cb62f1c2c0d3c8e8dd9f2981982a7fef7379509
+Size: 9613030
+MD5sum: ab5eaf4ee6036235cd46688d9e37bf25
+SHA1: 8fc16d940c9b0cd6f85c062e03c9be5d5c33a345
+SHA256: 77f2679714886bab0ee1e3f5a0af430bfa615db688e4d494cf5169de670da6bb
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
