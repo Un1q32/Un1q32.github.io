@@ -970,15 +970,15 @@ Section: Utilities
 Description: Show ps output as a tree
 
 Package: iphoneports-readline
-Version: 8.2.1-2
+Version: 8.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/readline.deb
-Size: 178798
-MD5sum: 75064b68616f85f8f09e8afae036123d
-SHA1: 96ddb3b48a43b946161c0d83f3200aada877567b
-SHA256: 45d8a3eaf87ca6db01e7d538744c66ea42b951a9eaff3b3df4b93c1403bd0328
+Size: 180400
+MD5sum: 29597df30a956b38f8e50f6fff7db2ef
+SHA1: faf08a2655ee5923fbf5c04de2b9d93f8334e5a4
+SHA256: 143db7346fff6bca218fdc3aec87dfa9fb90e46f03965dfc14fd349a39e2b219
 Section: Development
 Description: command-line history management
 
