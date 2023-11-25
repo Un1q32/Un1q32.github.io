@@ -602,15 +602,15 @@ Section: Development
 Description: A client library to multiplex connections from and to iOS devices
 
 Package: iphoneports-libxml2
-Version: 2.12.0
+Version: 2.12.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz
 Filename: ./debs/libxml2.deb
-Size: 694396
-MD5sum: 33ce5d7ed986d22ee7ffb200a57f85d5
-SHA1: ab8e855bad2905531cdab2c346a0246ed1109313
-SHA256: b35196d8dd7030a2de7352a2248db57b37bf909e5a5eae18d3d710ddf37f0c6b
+Size: 695118
+MD5sum: 3dc8e43448bc596b2f9dbc470c2df39a
+SHA1: 897c73e9c2d1822d4229433f550c2bfc92ad9002
+SHA256: 58fc18588d319866e6da7e9523183ba98b543f37a9844c3eb6c9a9dd86146ef1
 Section: Development
 Description: XML C parser and toolkit
 
