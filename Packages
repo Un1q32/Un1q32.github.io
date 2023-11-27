@@ -759,6 +759,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/make/
 Description: Standard tool to compile source trees
 
+Package: iphoneports-mandoc
+Version: 1.14.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-zlib
+Filename: ./debs/mandoc.deb
+Size: 290572
+MD5sum: a6babf2d0ab2c4f683f2c6f4391ab9e9
+SHA1: 90c2d38c676fc451f859a4bb46fbac82c36be353
+SHA256: eb02c384b23c589df5e1e31fd9eb70445ac0803ebd52f62c89504798bc748a96
+Section: Utilities
+Description: a suite of tools compiling mdoc
+
 Package: iphoneports-nano
 Version: 7.2-2
 Architecture: iphoneos-arm
