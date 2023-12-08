@@ -535,15 +535,15 @@ Section: Development
 Description: Public Suffix List library
 
 Package: iphoneports-libressl
-Version: 3.8.2-1
+Version: 3.8.2-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ca-certificates
 Filename: ./debs/libressl.deb
-Size: 2116686
-MD5sum: 813972f2f1fff4aad29ac1d8ab47dd90
-SHA1: 6a585fc8e605f04c11c4661e9020f8f77c3c720f
-SHA256: feb2aea03a8778141b92180f5ffe7db76fa9e9c844502ea82122da161848c1eb
+Size: 2117892
+MD5sum: 69e5a4e2146792b90baf4fb9a8e4453f
+SHA1: 32565ad19b70d05341936f26f6a8ff585df06d85
+SHA256: ed29f2ba3fb97d3603ce413814e950e6b7aa9544f225cf8f80837b203c7734b4
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 
