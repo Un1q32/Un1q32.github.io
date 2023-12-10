@@ -307,6 +307,20 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
+Package: iphoneports-gdb
+Version: 1708
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gdb.deb
+Size: 1237866
+MD5sum: 96dbbff4946cfbdd60e1c20a66730ba0
+SHA1: 485bda0fd723f0cda7c53d91f9e90b5403b74e5a
+SHA256: 8ce4590891a91b88253e8850f1e6906c3bf75057f6b560771d6ecb42dfb6aa03
+Section: Development
+Homepage: http://www.gnu.org/software/gdb/
+Description: on-device debugging
+
 Package: iphoneports-git
 Version: 2.43.0
 Architecture: iphoneos-arm
