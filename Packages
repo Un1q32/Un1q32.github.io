@@ -122,13 +122,13 @@ Package: iphoneports-ca-certificates
 Version: 2023-12-12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl
+Depends: iphoneports-base
 Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 129618
-MD5sum: b5bdbb2c52a3df6cdb7ad9001a14cb36
-SHA1: 12677288a849fb4f8371370f542122d294c3e2e8
-SHA256: 030b88e2d8a398ec7bd7f989da6d5332d43a2c5ecf4bc5f429d818363fcf40ce
+Size: 129612
+MD5sum: f5bc1a067cfc890f871ac8fcdc62638e
+SHA1: 8217f482888401b31ca2d57dfba564402051aa06
+SHA256: 430eb377aa0447dedf9990b0a78527ae97a1f098e8d2ded9e1ff07631b19d5f5
 Section: Security
 Description: Common CA certificates
 
