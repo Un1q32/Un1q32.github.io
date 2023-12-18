@@ -418,15 +418,15 @@ Homepage: http://htop.dev
 Description: interactive processes viewer
 
 Package: iphoneports-idevicerestore
-Version: 1.0.0-1
+Version: 1.0.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery
 Filename: ./debs/idevicerestore.deb
-Size: 81680
-MD5sum: 05eab34b7b99ddd7b992a444ac6db6b5
-SHA1: 953f81d0c52fc958bc03c72332fed65aaeb07b09
-SHA256: 184cb75bab5b2f5a6f07f734bd80b1a37db136ca44582b55f1d6cf3eba63c880
+Size: 81688
+MD5sum: a0c8cc6c1e36a4e59a1771cc8d6eda0a
+SHA1: 7ca645dafdb3c108a36c6f794af71a8d4d80c061
+SHA256: 1f027cf25a4acb2d8a8a84346ea0d0517cd83e7471cd7e65e8a6091e3a98acf5
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
@@ -510,15 +510,15 @@ Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
 Package: iphoneports-libirecovery
-Version: 1.0.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusb, iphoneports-readline
 Filename: ./debs/libirecovery.deb
-Size: 28098
-MD5sum: a813704a7ffabfbab629516e34206901
-SHA1: 1b5beaaf25b9f28a4e3b88c84035c1d5b9ebf8b8
-SHA256: a621feab320f17fb587e991739ae2398d7d38a56af22314e4f60b3d562f320f4
+Size: 28084
+MD5sum: 0eb41922bc8d09e8bd2065fa9063cb3d
+SHA1: 9ec026f76c57f69743214cfe808ca7dcea65a3ff
+SHA256: ce31347fa1eb07c05a2b925148ac06e6feccb5c677c68ef39fbcfd5953e81d68
 Section: Utilities
 Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 
@@ -590,15 +590,15 @@ Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
 
 Package: iphoneports-libusb
-Version: 1.0.23
+Version: 1.0.23-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libusb.deb
-Size: 61706
-MD5sum: ee21ec10b2d2a0ea3ad50d866c6846c2
-SHA1: 652a7791fc48da8ba07c97a38d7b7d38089acb52
-SHA256: e3493014050657b047494c329e80008a61329d980445e2041deeea4591b29f16
+Size: 57910
+MD5sum: a8df2d0fd86faee060ad6d0f370f4ed0
+SHA1: a32ea2ada6d81fb77dc3ed65854adab14e1b1f4c
+SHA256: e8284f3f282090acbfef37bd1195e380b3c451ef9644cd5c7a4b32a89aaffdd0
 Section: Development
 Description: A cross-platform library to access USB devices
 
@@ -1183,15 +1183,15 @@ Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-usbmuxd
-Version: 1.1.1-2
+Version: 1.1.1-3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb
 Filename: ./debs/usbmuxd.deb
-Size: 31590
-MD5sum: d370b115b4f3a11c2c28d0ba658bb377
-SHA1: 7d27b68677b83b7333ca231c5163ea1cba364005
-SHA256: c50c04e490544daaadd059607336dbdd4a8d902122ea5a9efdfb30965acf1585
+Size: 31592
+MD5sum: fa5516cd2abfecbb6efef2124db58ca6
+SHA1: 87316af60912b4e4e868b095580a4bd727a4ceed
+SHA256: 7eebd6bc872ca99f271238bf2141932399058815ec0c41b7b722cca4883bbe2d
 Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
