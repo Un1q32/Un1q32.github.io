@@ -870,10 +870,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/nextvi.deb
-Size: 91394
-MD5sum: e12348836340f5f6f04aac1278f25510
-SHA1: 6bc24a4e32034344486217c3024e591bc61cbbd6
-SHA256: 0562c2cbaffc7557671b27c9505549d2fb6048b2503f8b70f0bf68008aaa86d2
+Size: 87588
+MD5sum: a124d4f410cbb295545d0b0097a267d2
+SHA1: 38f5554358e4506cae51ecc1b3e6563063539b53
+SHA256: 04a5318109bb7a65148e3d60439a616225d2948cf65880a6459be567e806aacb
 Section: Text_Editors
 Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
