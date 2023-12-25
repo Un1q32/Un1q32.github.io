@@ -252,6 +252,19 @@ SHA256: c7abc4cb15bc94cd05e0410b5711026c4a0406b999329ea7772816d3f82d8d45
 Section: Utilities
 Description: DOS/Mac to Unix and vice versa text file format converter.
 
+Package: iphoneports-duktape
+Version: 2.7.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/duktape.deb
+Size: 202434
+MD5sum: 555964eb4fcd7907ce1493270d5def91
+SHA1: ff4c95282906ec87d1cba92914e729c8962fd97b
+SHA256: 32d21114255add87a4e94cf991f74a2ecbf82fc74e4a70183e8d3770be1b5763
+Section: Scripting
+Description: Embeddable Javascript engine
+
 Package: iphoneports-ed
 Version: 154-1
 Architecture: iphoneos-arm
