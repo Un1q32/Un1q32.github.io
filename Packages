@@ -347,6 +347,20 @@ SHA256: 77f2679714886bab0ee1e3f5a0af430bfa615db688e4d494cf5169de670da6bb
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
+Package: iphoneports-gmp
+Version: 6.3.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gmp.deb
+Size: 248764
+MD5sum: ee1cfb3fdc431db3e97bf7d7a21daaa7
+SHA1: b230e4590a397b18764baf59ce75960ff9423ddc
+SHA256: 2b19423032ddfc92cccd665d207884cabc00bd3cab16d251fcc3b7f440c5249d
+Section: Development
+Homepage: http://gmplib.org/
+Description: A free library for arbitrary precision arithmetic
+
 Package: iphoneports-grep
 Version: 3.11-2
 Architecture: iphoneos-arm
@@ -798,6 +812,20 @@ SHA1: 90c2d38c676fc451f859a4bb46fbac82c36be353
 SHA256: eb02c384b23c589df5e1e31fd9eb70445ac0803ebd52f62c89504798bc748a96
 Section: Utilities
 Description: a suite of tools compiling mdoc
+
+Package: iphoneports-mpfr
+Version: 4.2.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-gmp
+Filename: ./debs/mpfr.deb
+Size: 232810
+MD5sum: c9f1f5e4826339d241e11e714675a4a1
+SHA1: ea3e811d5bdc55ac428320997ee24aa69a181a87
+SHA256: 82b13ba8d7db7b67082db36648d2ecff7cf748a7db0171e56c2ec6a12eb34c05
+Section: Development
+Homepage: http://mpfr.org/
+Description: Multiple-precision floating-point library
 
 Package: iphoneports-nano
 Version: 7.2-2
