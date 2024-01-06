@@ -1302,15 +1302,15 @@ Section: Utilities
 Description: An internet domain name and network number directory service
 
 Package: iphoneports-xxd
-Version: 9.0.2067
+Version: 9.1.0006
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xxd.deb
-Size: 9732
-MD5sum: 29797e2fe8ae6d32d5feb775ef143f18
-SHA1: 1e86eb4dba38f1de0d976f6e4f7ed975f9f5c0c0
-SHA256: fd19e0afd991a5de21a5ef486d20ebce87305b3ca0e79ee66ea495ea6498969c
+Size: 9676
+MD5sum: 9548c9c5c350f72ec3fb3e9ae6452967
+SHA1: ca45d3d295811ba56c499b40d63a1d5e0c3d8756
+SHA256: d34f7ed17a29a29110b3e9d4f9627f06790876ab46eaf433e135c554f0204680
 Section: Utilities
 Description: Hexdump utility from vim
 
