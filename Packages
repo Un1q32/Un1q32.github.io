@@ -906,15 +906,15 @@ Section: Utilities
 Description: A command line system information tool
 
 Package: iphoneports-nextvi
-Version: 28
+Version: 29
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/nextvi.deb
-Size: 91718
-MD5sum: 8c1c5303354d404529b154c15eea6aa7
-SHA1: 6f86edd88319e72c1d1aeb60ebe1be9d0baf0807
-SHA256: 2e660a96284f56a6fc59df64dbf0ef7f17b680e1c31d6c8e4d51f605dd18b572
+Size: 91712
+MD5sum: 2c6d401b9dbc419a93a6b0b294542cae
+SHA1: fa3433547f85f2b69d51350e931c3ea21f9ad27d
+SHA256: cb8c974ea610da8c6a5da47c85c4670a35809252107576193e6dd0bc93db8ba9
 Section: Text_Editors
 Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
