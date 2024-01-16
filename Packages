@@ -146,15 +146,15 @@ Section: Utilities
 Description: a terminal IRC client.
 
 Package: iphoneports-chsh
-Version: 3
+Version: 4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/chsh.deb
-Size: 3138
-MD5sum: 98b39d896776fa29c2ca70cc8a50ebc8
-SHA1: ad3c5b45882e9d238066df8e73831209100da1d2
-SHA256: 0d9f410ba207b60d98bdd53c9528bd8077791c2add528948daa93254627ebd3e
+Size: 3152
+MD5sum: cd7e4d50c422a982812467b6c866b0a5
+SHA1: d3ae3fdf0d815139eb4d3215e50241e412fae7ec
+SHA256: 766890faf0617ca3d7486b0e401c8f3f8975620033ab29156d4809220c2d952a
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
