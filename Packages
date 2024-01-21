@@ -1037,6 +1037,19 @@ SHA256: 7247bded5d955164118ba931b7220f4e9832e457bbe2e7d1802a11d1feb4bc86
 Section: Utilities
 Description: Show ps output as a tree
 
+Package: iphoneports-quickjs
+Version: 2024-1-13
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/quickjs.deb
+Size: 503350
+MD5sum: 44ec085e4f52df0f8d4f070cc9715e8b
+SHA1: 0ecc8e8cee98f13bda5c57a0f4ce8e11de81f1f5
+SHA256: 14370a200da5bf7fcd6671683c0f1514959cb9a841d4eb9511cc84c304bc0221
+Section: Scripting
+Description: A small and embeddable Javascript engine
+
 Package: iphoneports-readline
 Version: 8.2.7
 Architecture: iphoneos-arm
