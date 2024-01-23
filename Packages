@@ -1,12 +1,12 @@
 Package: io.github.oldworldordr.iconfix
-Version: 6.0
+Version: 6.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/iconfix.deb
-Size: 35144
-MD5sum: 39e9ea62898bd6cc788908e78ff1ad41
-SHA1: fbecf600a19f5337662fd8e473f8c57b616d275d
-SHA256: 56a734dde5d3de0621e22a7862ceee039e7c2ae46cb252860d46109b842d38f1
+Size: 35142
+MD5sum: 4e82d74fbe397dda56e875c75d623982
+SHA1: 2a904d16606a3795d88fb1e4ad5701c5f507bcc1
+SHA256: 92bd4444363141afe8c2b40f3240f88f5953d39e01c45e1784d1c04201a85064
 Section: Utilities
 Description: A script that fixes the iFile and MTerminal icons on iOS 6 and below.
 Name: iFile/MTerminal icon fix
