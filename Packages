@@ -1328,15 +1328,15 @@ Section: Utilities
 Description: Hexdump utility from vim
 
 Package: iphoneports-xz
-Version: 5.4.5
+Version: 5.4.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed
 Filename: ./debs/xz.deb
-Size: 200726
-MD5sum: 78819729bfb7f3925827a2611752ee32
-SHA1: 51976ddfbc8a13a10e5008f64897d0a2114d0435
-SHA256: 17ec4ae26bea27e3cd58e668aef4ac9f76f7268bc2c9898a41a646bea52f40ea
+Size: 188686
+MD5sum: 178fd07b65556a91429a504965475a91
+SHA1: 8b6f2ad2fe51a13184a0d79988742fd4375af0bf
+SHA256: 6b9f63fa1a3f8d592fd5a6e32d8294dc6574b2042f2bd09b28aa9eca797bc51b
 Section: Archiving
 Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
