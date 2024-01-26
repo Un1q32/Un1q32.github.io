@@ -734,15 +734,15 @@ Section: Archiving
 Description: A lossless file compressor based on the LZMA algorithm
 
 Package: iphoneports-lzlib
-Version: 1.13-1
+Version: 1.14
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/lzlib.deb
-Size: 32164
-MD5sum: c420653cad82390b180da37095a3ae60
-SHA1: 4f7aa53d5ad557081a9c979ce5c86e7aeb7fd4fc
-SHA256: 638d59779f4a7937363b49616461cc2180b6a8110832e6efbef16163a6316b7a
+Size: 30640
+MD5sum: da66101c4030d3656ac77c2cd424559e
+SHA1: 13d917dbd92ec1eed84febc3798b7f366206dab4
+SHA256: 0a8fb3612838abbfb4fd9159cbc6dbff3712793fcd3a61f476ac83355d35b399
 Section: Archiving
 Description: A library providing in-memory LZMA compression and decompression functions
 
