@@ -510,15 +510,15 @@ Section: Archiving
 Description: Multi-format archive and compression library
 
 Package: iphoneports-libidn2
-Version: 2.3.4-1
+Version: 2.3.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring
 Filename: ./debs/libidn2.deb
-Size: 125290
-MD5sum: eabfb3721d7812341af1520e94d5c92a
-SHA1: d51bde60b5b07457b8f44c3247194f162ef11c5b
-SHA256: 01b3f3db44d9553212d4d4dfab197e889e7653e94c1fd7a472533e64b9c3a923
+Size: 121548
+MD5sum: b1280bef9cc822e1b39dcc91e90af213
+SHA1: d5603472e9f6c9cc3570af4891e2f8ababf69f35
+SHA256: 6cc1bdc10c7fed593210b7f44bc8e8aac872ac5df49aefdb16ab11d0d7fa9177
 Section: Development
 Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
