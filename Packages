@@ -510,15 +510,15 @@ Section: Archiving
 Description: Multi-format archive and compression library
 
 Package: iphoneports-libidn2
-Version: 2.3.5
+Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring
 Filename: ./debs/libidn2.deb
-Size: 121548
-MD5sum: b1280bef9cc822e1b39dcc91e90af213
-SHA1: d5603472e9f6c9cc3570af4891e2f8ababf69f35
-SHA256: 6cc1bdc10c7fed593210b7f44bc8e8aac872ac5df49aefdb16ab11d0d7fa9177
+Size: 121534
+MD5sum: a10d6f9b07a777d0b38d10477df40250
+SHA1: 3cf7e5ea8bd9d055e90365d8a5f5a5db108afe6e
+SHA256: cf122ec9e33033a574a851e5bd0180dd770083a6dc725f81d12c442e94f64bfa
 Section: Development
 Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
@@ -563,15 +563,15 @@ Section: Development
 Description: A library to handle Apple Property List format in binary or XML
 
 Package: iphoneports-libpsl
-Version: 0.21.2-1
+Version: 0.21.2-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring, iphoneports-libidn2
 Filename: ./debs/libpsl.deb
-Size: 65120
-MD5sum: 1920d9d6c948b0cd202ef79c8cb2dbf7
-SHA1: d2a10ef93424b15b4c80dc1028f3d7a91687ce45
-SHA256: bfdfc657d81d12582785c29d92a0dc4f9f05ce30842c9dca800c1a17121c7ab4
+Size: 63968
+MD5sum: aa031f4329a0dbcfa5103fb2c951c244
+SHA1: 3016ab3087d6e336979d2afc84c00760fdbc6512
+SHA256: d9945de3f54387465dbe456c576735cfd371334e91ff60b1e059bf968f4f4f76
 Section: Development
 Description: Public Suffix List library
 
