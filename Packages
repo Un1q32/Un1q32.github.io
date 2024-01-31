@@ -186,15 +186,15 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
 
 Package: iphoneports-curl
-Version: 8.5.0-1
+Version: 8.6.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl.deb
-Size: 483598
-MD5sum: 524e55fc818685a4beec32a9f8501f27
-SHA1: 02608159ec865d9853d28521e476371b0d6be2d6
-SHA256: 49ac92203fc95511f8bd6f7c98974f6cbec77f962d4fbc4f8df7258448e09cd5
+Size: 482136
+MD5sum: 25c032ae04ddb12ae9943b133c36cc4d
+SHA1: 2bd8efef95c1cd69a3722cbab0424608bccd01d2
+SHA256: 8c3850bf9a9a7da03c431cc657a4b8ed301dde22451c18fc7f9ac388ff56f80e
 Section: Networking
 Homepage: http://curl.se/
 Description: An URL retrieval utility and library
