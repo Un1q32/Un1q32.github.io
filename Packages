@@ -721,15 +721,15 @@ Section: Archiving
 Description: Extremely fast compression algorithm
 
 Package: iphoneports-lzip
-Version: 1.23-1
+Version: 1.24
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/lzip.deb
-Size: 50564
-MD5sum: 1cd4d99847ba0b09bfbacdbf4397b076
-SHA1: 4e143035c4cead0da27c771d8da88ec63c2dc334
-SHA256: 7666ea073226aebbf043f3354ef08d8e166b338c64166c9e3fd7199400c2aa3c
+Size: 51746
+MD5sum: e88c29562d90826e4e081007ba8353b1
+SHA1: 9089ea496536374b2ca2baa89aef7f881207e7a9
+SHA256: fb5a537d6ee927d36d72fe53aac6710e54c30ca7719023fd99ad4c33d3ac48da
 Section: Archiving
 Description: A lossless file compressor based on the LZMA algorithm
 
