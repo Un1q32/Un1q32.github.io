@@ -25,15 +25,15 @@ Section: Games
 Description: 2048 in your terminal
 
 Package: iphoneports-base
-Version: 16
+Version: 17
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0), iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 3808
-MD5sum: 144fecc2f4455b2154edeedb32bb11df
-SHA1: a2710de31d77131a443d2ec595b39e349aff25b0
-SHA256: 35bc952af5861294aa24269435da34eaab13c62bf5a3b6524f05875bd8fd3814
+Size: 4100
+MD5sum: 3124a4838151d621bb593d54e7a01231
+SHA1: 07c5e50c5a89f0c01cf80bc948148919fa6a41c6
+SHA256: 56dd675c435c583fb06c668b31c4d2cacbb786e0c0137cc7d5105f405707ed3f
 Section: System
 Description: iPhonePorts base
 
@@ -146,15 +146,15 @@ Section: Utilities
 Description: a terminal IRC client.
 
 Package: iphoneports-chsh
-Version: 6
+Version: 7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/chsh.deb
-Size: 3184
-MD5sum: b94b3e9c8f387ca41fba6e0b4edeb263
-SHA1: c85d3f767ffb86465b111a059f4b80bf0dea245d
-SHA256: 6f3f86b6cc61a62a01fa93413eed0e6816fc300d1a8e44b38f987161b88bf97e
+Size: 3234
+MD5sum: d051e62f6a3e19c5b2a383832d5f62ad
+SHA1: f93ecc786343339139fb525ae3ce51b284c6daec
+SHA256: 19fca612e2c89c20e9fa3e374fad1ca9e71d62fe8ce42513b8cc518700dd0d8f
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
