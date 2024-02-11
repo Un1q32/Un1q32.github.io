@@ -335,15 +335,15 @@ Homepage: http://www.gnu.org/software/gdb/
 Description: The GNU debugger
 
 Package: iphoneports-git
-Version: 2.43.0
+Version: 2.43.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
 Filename: ./debs/git.deb
-Size: 9613030
-MD5sum: ab5eaf4ee6036235cd46688d9e37bf25
-SHA1: 8fc16d940c9b0cd6f85c062e03c9be5d5c33a345
-SHA256: 77f2679714886bab0ee1e3f5a0af430bfa615db688e4d494cf5169de670da6bb
+Size: 9621406
+MD5sum: 837a815eeb809a8d73695162808c13f7
+SHA1: 17ed8643a8f1e31dd564c1229d1dd1ba65657329
+SHA256: 89a1888633c6a685c088656a85c576d65cc0f558e81edd8dc179adabfe9af4b6
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
