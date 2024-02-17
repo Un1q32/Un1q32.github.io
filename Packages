@@ -978,10 +978,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/pcre.deb
-Size: 154594
-MD5sum: c3051b37e0a5d5bb8364b45b6f92c218
-SHA1: 6f88dd5003f637f4f69c1b2ad9f5302cfeae57d4
-SHA256: 8160a4f1c833b1e4847d332b35ee857bb0f5621e1d06924966ae3194737d6294
+Size: 149572
+MD5sum: ae20527e34cc518ec1a753e39222707b
+SHA1: 76353a21f925e16bcc63e96fbcbd7fae47580baf
+SHA256: e02e23012fac907f35990abd447ab04c9952fb2ae24814c28ed11239f93018d1
 Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
