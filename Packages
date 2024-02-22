@@ -52,15 +52,15 @@ Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
 
 Package: iphoneports-bash-completion
-Version: 2.11
+Version: 2.12.0
 Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash
 Filename: ./debs/bash-completion.deb
-Size: 190674
-MD5sum: 3a4e0b70b5b10cb7803fb0a9e27bc879
-SHA1: 199f919503f07383db73fc7849fa56381eeb667c
-SHA256: cef3b45b50568b60fc16b0b6b3618ff8d2825512bb85f58e21fa6e3c36662b87
+Size: 223490
+MD5sum: 9886d2995a5911d8c03c763afd703d93
+SHA1: 1c0187e14728deb79f7bce6ca55f57d60df1efdd
+SHA256: 9218860bbe603911283479e777fc690038c6395ab9a8bb5d889828cafe6addb9
 Section: Terminal_Support
 Description: a collection of command line command completions for the Bash shell
 
