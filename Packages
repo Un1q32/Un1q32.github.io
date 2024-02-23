@@ -58,10 +58,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/coreutils.deb
-Size: 623748
-MD5sum: a64e7297b662f267dd762e43dce4b2c9
-SHA1: 29cf12f6f5d66f572697b4773356b8a76ed1ba3d
-SHA256: 250250d91d568556cf4a60fde42e6e3362c7c1279dd854953688a16f36394260
+Size: 622774
+MD5sum: fde1b64169b5d6af07ca68780d5909f1
+SHA1: af582d6493e48f38cc28aa4d78af953ef01a2ed7
+SHA256: 8699f494d6e5285124dc9b52b3fdba2bbc89abfb1df8cda0d4af506683bfdb19
 Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
