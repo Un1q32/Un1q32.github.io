@@ -161,6 +161,19 @@ SHA256: a8d23c5baf1179a3084eb5f586c4e444271b98e994d8ce16879e01d5b8613b49
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
+Package: iphoneports-less
+Version: 643
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre2
+Filename: ./debs/less.deb
+Size: 118406
+MD5sum: 06bc3c718e1bb98bb07821328027c08c
+SHA1: df9ed0594e7c7a3d7ae9d51c16446f058b4c0841
+SHA256: 63a5ce6c6e667e773079a03948daec010a15db3124d14e0ec51499563fb87d75
+Section: Utilities
+Description: provides less information than more does
+
 Package: iphoneports-libidn2
 Version: 2.3.7
 Architecture: iphoneos-arm
