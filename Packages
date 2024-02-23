@@ -134,6 +134,20 @@ SHA256: a4dd57b37d886839a8f3b619055ef8890e03bcd839c5773a6a0ddf8c95c19455
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
+Package: iphoneports-grep
+Version: 3.11-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-pcre2
+Filename: ./debs/grep.deb
+Size: 135586
+MD5sum: 2b3ee31d9a0dfa12bf08f3e6affaa1f6
+SHA1: fbf250307be8afe471a8cdc19328f09476901759
+SHA256: e861fd5fe984b8467019403bd2f7821dd56451e59a9cf7d0e5446d241cc6436c
+Section: Utilities
+Homepage: http://www.gnu.org/software/grep/
+Description: searches files for regular expressions
+
 Package: iphoneports-idevicerestore
 Version: 1.0.0-2
 Architecture: iphoneos-arm
