@@ -413,6 +413,19 @@ SHA256: 41f5e2ff10084e7bf4b951ef533ec27f3f0542ac8ff0efcc9de07050f3ba650c
 Section: System
 Description: System V Release 4.0 curses emulation library
 
+Package: iphoneports-nextvi
+Version: 30
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/nextvi.deb
+Size: 100244
+MD5sum: 50069db20f5e11c28d6128915aebc41d
+SHA1: 389421d8f5161919638eed71cd946c692bbd7f90
+SHA256: eb3856af5c127f34005ed8fd9c0251af3570ecf99147f4d43d94a9a27d1721d2
+Section: Text_Editors
+Description: a small vi/ex editor for editing bidirectional UTF-8 text
+
 Package: iphoneports-nghttp2
 Version: 1.59.0
 Architecture: iphoneos-arm
