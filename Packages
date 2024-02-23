@@ -135,6 +135,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
+Package: iphoneports-ed
+Version: 154-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ed.deb
+Size: 28744
+MD5sum: ffd8f0cfcb74b91c233f7c3e573bba0d
+SHA1: fd2aabf38ded7548dbb1fd787a4f47b43dce18fd
+SHA256: 65295dfdf4c43a69214e53408d551fe575bb7892759375d3371d782295ef81b4
+Section: Text_Editors
+Description: A line-oriented text editor
+
 Package: iphoneports-file
 Version: 5.45-1
 Architecture: iphoneos-arm
