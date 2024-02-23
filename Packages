@@ -25,6 +25,20 @@ Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
 
+Package: iphoneports-ca-certificates
+Version: 2023-12-12
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Replaces: iphoneports-libressl
+Filename: ./debs/ca-certificates.deb
+Size: 129592
+MD5sum: 1480562632c33f66dbaee974fa499083
+SHA1: 6c30dcb23b5a36e61bd00a5d82de544a1b3801f5
+SHA256: 9742bba2d03d2876b74a6bd9c8a0e344a46873111b628923a9f780621162b1ae
+Section: Security
+Description: Common CA certificates
+
 Package: iphoneports-chsh
 Version: 7
 Architecture: iphoneos-arm
