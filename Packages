@@ -92,6 +92,19 @@ SHA256: 8a3273704af7564dd643e4fb1508e1b5ba55ac99bcdc24f9762fc33f0507345f
 Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
+Package: iphoneports-libirecovery
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libusb, iphoneports-readline
+Filename: ./debs/libirecovery.deb
+Size: 27536
+MD5sum: 2a43e3912e11a858fe13a56f1b519db3
+SHA1: 5d9d8792962a6b1bf277106a07537ea82a038973
+SHA256: d7171c67fe2b70dec03534f721af442e3ff1b9235efe25fea8c663dabc724607
+Section: Utilities
+Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+
 Package: iphoneports-libplist
 Version: 2.3.0-1
 Architecture: iphoneos-arm
