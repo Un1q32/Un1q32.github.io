@@ -535,6 +535,19 @@ SHA256: 55eb2b45f9f440e6b0c6d6e183cc871a13697ba356babaa9e34d3cc775104c35
 Section: Administration
 Description: temporarily assume root priviledges
 
+Package: iphoneports-sysctl
+Version: 970.0.4
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/sysctl.deb
+Size: 8976
+MD5sum: 6d8a9c345318277bb693bc591bb0759c
+SHA1: ac6d610b46952ac441d788f417d9254e85225398
+SHA256: b0fbe17d84a69ab3605b4f98a8de985302448018305141c0ae50690fbc6719d1
+Section: Utilities
+Description: A utility for retrieving and setting kernel parameters
+
 Package: iphoneports-usbmuxd
 Version: 1.1.1-3
 Architecture: iphoneos-arm
