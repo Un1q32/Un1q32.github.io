@@ -135,6 +135,20 @@ Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
+Package: iphoneports-findutils
+Version: 4.9.0-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-bash, iphoneports-sed
+Filename: ./debs/findutils.deb
+Size: 303920
+MD5sum: 14391097568fa6a100095d6896b2cc2b
+SHA1: a0c1b754ff0ca40cd237999ac95d642598180805
+SHA256: ceab8403b49875744b09bd527a74ddbc99f88e3ae74fad9574c5b48a3fd8e4e6
+Section: Utilities
+Homepage: http://www.gnu.org/software/findutils/
+Description: indexes and searches filesystems
+
 Package: iphoneports-git
 Version: 2.43.2
 Architecture: iphoneos-arm
