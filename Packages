@@ -38,6 +38,20 @@ SHA256: 8f19271cd20eab1e9737ebbd87a1ef5e9a85bf65d8bf55ad6efc8f123fd515e1
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
+Package: iphoneports-coreutils
+Version: 9.4-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libressl
+Filename: ./debs/coreutils.deb
+Size: 623748
+MD5sum: a64e7297b662f267dd762e43dce4b2c9
+SHA1: 29cf12f6f5d66f572697b4773356b8a76ed1ba3d
+SHA256: 250250d91d568556cf4a60fde42e6e3362c7c1279dd854953688a16f36394260
+Section: Utilities
+Homepage: http://www.gnu.org/software/coreutils/
+Description: The basic file, shell and text manipulation utilities of the GNU operating system
+
 Package: iphoneports-dash
 Version: 0.5.12-2
 Architecture: iphoneos-arm
