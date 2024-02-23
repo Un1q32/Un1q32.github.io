@@ -118,6 +118,19 @@ SHA256: 2621eaf99167856e18227e2b5c4a95654e9d8d2bfe508a063ffa299049d85bb7
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
 
+Package: iphoneports-libusb
+Version: 1.0.23-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libusb.deb
+Size: 60644
+MD5sum: 02213616e63132a67429f95e8c4b6c46
+SHA1: 7b7dcf1bdef1432382d0323e17ce895563ac030c
+SHA256: 1d44e33c15c808e5e9a6ba46d77c318478049c8cb8ffa994b3493f3a876d0ab3
+Section: Development
+Description: A cross-platform library to access USB devices
+
 Package: iphoneports-libusbmuxd
 Version: 2.0.2-1
 Architecture: iphoneos-arm
