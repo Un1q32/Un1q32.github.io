@@ -217,6 +217,19 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
+Package: iphoneports-hostname
+Version: 240.100.15
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/hostname.deb
+Size: 3030
+MD5sum: 81f366b439b321a3ee71a95a20fdf888
+SHA1: 19bf85db7f389074eb984c36d146965bfbf224d8
+SHA256: ab4cc5fe991144820d1020898a075c3c93f46fa482dfd77e19439ae401323b7c
+Section: Utilities
+Description: A utility for setting or printing the name of the current host system
+
 Package: iphoneports-idevicerestore
 Version: 1.0.0-2
 Architecture: iphoneos-arm
