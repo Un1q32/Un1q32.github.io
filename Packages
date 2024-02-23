@@ -385,6 +385,20 @@ SHA256: 5dfea8178f1a924720aeac540671a1cfb4faccfe5126ea007859b9baf4944b7d
 Section: Development
 Description: command-line history management
 
+Package: iphoneports-sed
+Version: 4.9-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/sed.deb
+Size: 106840
+MD5sum: 1deef237ae15ee843da185662ef03c13
+SHA1: c259f589f3393b1bb47842aa8b75f3ca38622ea9
+SHA256: b43882bf2c73b6d8a2ab9d0b08152a8f25d38837d036c96036ae590ca2a93f3e
+Section: Utilities
+Homepage: http://www.gnu.org/software/sed/
+Description: stream editor
+
 Package: iphoneports-usbmuxd
 Version: 1.1.1-3
 Architecture: iphoneos-arm
