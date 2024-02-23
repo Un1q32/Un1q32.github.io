@@ -11,6 +11,20 @@ SHA256: 36dd66693ea219d8501253843f01fff18bc97d567588d23084feab92898748da
 Section: System
 Description: iPhonePorts base
 
+Package: iphoneports-bash
+Version: 5.2.26
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
+Filename: ./debs/bash.deb
+Size: 396884
+MD5sum: a98a44a44c8e45ed3ca22e224fd3cb96
+SHA1: 7808d9292e214260b36d7450218c0e5f8dc0ce59
+SHA256: 5bcff35759e31b61b6ffe3ab84bc6f386465cb1920d80efe61cd49b85580af61
+Section: Terminal_Support
+Homepage: http://www.gnu.org/software/bash/
+Description: The GNU Bourne Again shell
+
 Package: iphoneports-chsh
 Version: 7
 Architecture: iphoneos-arm
@@ -88,4 +102,30 @@ SHA1: 34f182dacee1a3ccd000fb6b43eafbff7e244425
 SHA256: 1d2e110e8dbc533eb48f60ba65b95c3edd492a05abe6c5a948ec043e5dc0cc76
 Section: Development
 Description: A client library to multiplex connections from and to iOS devices
+
+Package: iphoneports-ncurses
+Version: 6.4-3
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ncurses.deb
+Size: 763622
+MD5sum: bcc866ca2aea2a5e4029c4e027ed1ccd
+SHA1: 0e9c173ab731c47e983198342fc09b4414fb3418
+SHA256: 5949358e3f581575a78da415eb1c981314c7d11b128f1930cd904db58a1a9462
+Section: System
+Description: System V Release 4.0 curses emulation library
+
+Package: iphoneports-readline
+Version: 8.2.10
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/readline.deb
+Size: 149686
+MD5sum: f2f093c19f8269ac8ea075f161c1e0b0
+SHA1: 4e371c4a2d3e1d417c3428d417bc2d92e510cc2c
+SHA256: 3b0c7fa7dc35b545455c5b7886a07a9512f05250ec49ddab562bf83e0e0c150d
+Section: Development
+Description: command-line history management
 
