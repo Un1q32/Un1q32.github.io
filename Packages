@@ -2,12 +2,12 @@ Package: iphoneports-base
 Version: 17
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0), iphoneports-dash, iphoneports-coreutils
+Depends: firmware (>= 3.1.2), iphoneports-dash, iphoneports-coreutils
 Filename: ./debs/base.deb
-Size: 4066
-MD5sum: 33d605c401d47ef9f14d860a74f0fb43
-SHA1: 0e81fca6568ad52343786c8442e2ad3df0a1652d
-SHA256: 36dd66693ea219d8501253843f01fff18bc97d567588d23084feab92898748da
+Size: 4094
+MD5sum: e27aac3a62592a38aa2f9c02202a9cb1
+SHA1: 5a8e656eef203c9341d246d783b586d16cf1e4ee
+SHA256: 897a2a0752523a1ca0ccd7310be497ff7f9724892af5b9a468ab23e99d007b2b
 Section: System
 Description: iPhonePorts base
 
