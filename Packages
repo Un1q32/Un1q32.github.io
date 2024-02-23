@@ -243,6 +243,19 @@ SHA256: a8d23c5baf1179a3084eb5f586c4e444271b98e994d8ce16879e01d5b8613b49
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
+Package: iphoneports-ifconfig
+Version: 325-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ifconfig.deb
+Size: 15752
+MD5sum: ea78ea1a6920c66a85b5ed3683d2d5bd
+SHA1: 1d9286a3d3e4af8b3190f1960e37e26202b8822c
+SHA256: 8d3c92c2035b78faf0386440966551d6e1098678a7a992cc27cf03f5d6637a6b
+Section: Utilities
+Description: A utility for configuring network interface parameters
+
 Package: iphoneports-less
 Version: 643
 Architecture: iphoneos-arm
