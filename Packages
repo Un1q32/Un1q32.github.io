@@ -135,6 +135,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
+Package: iphoneports-file
+Version: 5.45-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd
+Filename: ./debs/file.deb
+Size: 482176
+MD5sum: d45c52c6c245675001cdc47bf58a7078
+SHA1: 8080fa9b4494b0ceb41f2bd883e34a87bb2e71ad
+SHA256: 01459ad4372e812e49951242b03370e9e069a2035efe0f5e5e663ec22aad0ab4
+Section: Utilities
+Description: guesses the type of a file from contents
+
 Package: iphoneports-findutils
 Version: 4.9.0-1
 Architecture: iphoneos-arm
