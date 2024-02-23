@@ -121,6 +121,19 @@ SHA256: 06f190a4ae122153b237283e685fba446b90aea78311a51f17cff927edb2d949
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
+Package: iphoneports-git
+Version: 2.43.2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
+Filename: ./debs/git.deb
+Size: 10857864
+MD5sum: 2db1e6700d830b979df0abb790903333
+SHA1: 13baec177ab52003531b164bf3f20192d3f138d6
+SHA256: a4dd57b37d886839a8f3b619055ef8890e03bcd839c5773a6a0ddf8c95c19455
+Section: Data_Storage
+Description: fast content-addressable filesystem
+
 Package: iphoneports-idevicerestore
 Version: 1.0.0-2
 Architecture: iphoneos-arm
@@ -331,6 +344,19 @@ SHA1: 00572f094f80167e095b764f675859b0018308ee
 SHA256: a304e5c38aec7affbe52caf88cbf6270577c186e611b202d723734a9d4ebdb73
 Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
+
+Package: iphoneports-pcre2
+Version: 10.43
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
+Filename: ./debs/pcre2.deb
+Size: 241964
+MD5sum: e638274ef75e489ea340662c9677eca9
+SHA1: 14d2d57c0c62be07787fa4c65e010e8e282bfb1a
+SHA256: ae11349c1b8c7175654eb33992253b3e26d349a95d51bc6b9fc384380c1509ba
+Section: Development
+Description: A library that implements Perl 5-style regular expressions. 2nd version
 
 Package: iphoneports-readline
 Version: 8.2.10
