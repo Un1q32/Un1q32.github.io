@@ -548,6 +548,20 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/sed/
 Description: stream editor
 
+Package: iphoneports-su
+Version: 116-4
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, pam
+Replaces: pam
+Filename: ./debs/su.deb
+Size: 6790
+MD5sum: 7f56c5ad8fbf9797a7cad0e31c1f26c8
+SHA1: 2ea21ddf27bb70993078134de727dff8cb7463b1
+SHA256: b8ff94e823ef495695e488269015ed58f0ff6b6aefffe1e415ed483dd092ff99
+Section: Administration
+Description: substitute user
+
 Package: iphoneports-sudo
 Version: 1.9.15p5
 Architecture: iphoneos-arm
