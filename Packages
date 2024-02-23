@@ -170,3 +170,16 @@ SHA256: 46afb23f2edae417de1410fe88ba5eb6a0a38d6fe0c135625fa872ef41a7214a
 Section: Development
 Description: command-line history management
 
+Package: iphoneports-usbmuxd
+Version: 1.1.1-3
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb
+Filename: ./debs/usbmuxd.deb
+Size: 34836
+MD5sum: 421d45992917a7352017cc8cdfd42edc
+SHA1: cdc795949ba0cae5dfb4506422b1d1181cd72b88
+SHA256: 82cc2158291ef59711e1cbacf5403cbb40e23f7fdb5273781caa82d6a8042223
+Section: Utilities
+Description: A socket daemon to multiplex connections from and to iOS devices
+
