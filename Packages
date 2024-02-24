@@ -456,6 +456,20 @@ SHA256: 009a6c9f79c751cd0883bd2bb22dff3fe134516945e8e8ad8abf6ee609b4f84f
 Section: Archiving
 Description: Extremely fast compression algorithm
 
+Package: iphoneports-make
+Version: 4.4.1-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/make.deb
+Size: 125444
+MD5sum: 81fa0c6570bdddf0e586033fdd3998f3
+SHA1: 9b1bc6951d253cb3501587a0db1ea059ef9048e2
+SHA256: 74e5b792adcbaed8fc6a09bb5574acfd298eac32436686beeac0e80ffc59db1e
+Section: Development
+Homepage: http://www.gnu.org/software/make/
+Description: Standard tool to compile source trees
+
 Package: iphoneports-ncurses
 Version: 6.4-3
 Architecture: iphoneos-arm
