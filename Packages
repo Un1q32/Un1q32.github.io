@@ -200,6 +200,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
+Package: iphoneports-duktape
+Version: 2.7.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/duktape.deb
+Size: 211132
+MD5sum: 907c25dfac9f252a88006bb380e8ed47
+SHA1: 16098bbe0131934c88e148f20e9252df7a529d9e
+SHA256: 7327c330d5a281793d19f0a0264f11d076cefbac666a5ccfea190998180f9708
+Section: Scripting
+Description: Embeddable Javascript engine
+
 Package: iphoneports-ed
 Version: 154-1
 Architecture: iphoneos-arm
@@ -719,6 +732,19 @@ SHA1: 53d6b4d891a263aee539c5445fac50a3dbf85da6
 SHA256: 2403a1037aedf32a6c8acfd38798542a3d599c9b093c341f61431e0beeda7c08
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
+
+Package: iphoneports-quickjs
+Version: 2024-1-13
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/quickjs.deb
+Size: 514582
+MD5sum: 0e854792f719a5d4affd09e574461ba6
+SHA1: d980a9a47f2a6de5caf3d94b3ad23c9026541046
+SHA256: 1a8b45889400f4cac215b36927cf34c7437a922aa232c3afaa5a41394a8a967a
+Section: Scripting
+Description: A small and embeddable Javascript engine
 
 Package: iphoneports-readline
 Version: 8.2.10
