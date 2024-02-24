@@ -217,6 +217,21 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
+Package: iphoneports-gzip
+Version: 400-5
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-sed, iphoneports-grep, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
+Replaces: iphoneports-grep
+Filename: ./debs/gzip.deb
+Size: 32968
+MD5sum: 5989b67df67391ab12f33ee1bffc5810
+SHA1: 3f1a416932b1b42ea53dc13179393b9f38429e12
+SHA256: 77c5bf485660412365d0e8e405918913992185458677a5d09808ccd914e483e1
+Section: Archiving
+Homepage: http://www.gzip.org/
+Description: the standard Unix compression algorithm
+
 Package: iphoneports-hostname
 Version: 240.100.15
 Architecture: iphoneos-arm
