@@ -402,6 +402,19 @@ SHA256: 63a5ce6c6e667e773079a03948daec010a15db3124d14e0ec51499563fb87d75
 Section: Utilities
 Description: provides less information than more does
 
+Package: iphoneports-libarchive
+Version: 3.7.2-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libxml2, iphoneports-xz, iphoneports-zlib, iphoneports-bzip2, iphoneports-zstd, iphoneports-lz4
+Filename: ./debs/libarchive.deb
+Size: 469130
+MD5sum: ab77c9f1ecc266289254737ca37224a3
+SHA1: 6b54d5cb5c342d42c99ecf1619a62c3afb7a7faa
+SHA256: d07f3065d71585b40fc6c2da5749d9ced8f22c10716a854474916a22e7ce1c36
+Section: Archiving
+Description: Multi-format archive and compression library
+
 Package: iphoneports-libidn2
 Version: 2.3.7
 Architecture: iphoneos-arm
