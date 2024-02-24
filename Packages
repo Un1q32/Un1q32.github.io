@@ -534,6 +534,32 @@ SHA256: 009a6c9f79c751cd0883bd2bb22dff3fe134516945e8e8ad8abf6ee609b4f84f
 Section: Archiving
 Description: Extremely fast compression algorithm
 
+Package: iphoneports-lzo
+Version: 2.10-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/lzo.deb
+Size: 77856
+MD5sum: 772bb4eaec7d0103f16a0e7821c13844
+SHA1: 925ccd3eb8870e9d459f6999b40804056c8e927a
+SHA256: 24b3256b921d8b7b0b57874fcd18dd429a45a184bbd6a9a670b9de89f18aea2f
+Section: Development
+Description: Portable lossless data compression library
+
+Package: iphoneports-lzop
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-lzo
+Filename: ./debs/lzop.deb
+Size: 36924
+MD5sum: f0b5fc7cb4e1682ce31326debfc7c769
+SHA1: ea6418b4759963da350887c5e4ea3c508e33a8e3
+SHA256: a0ac59e023b44fabf8276577a461ceb8d9639f8cc7dd13b4cf5d6094806f0a19
+Section: Archiving
+Description: File compressor using lzo lib
+
 Package: iphoneports-make
 Version: 4.4.1-1
 Architecture: iphoneos-arm
