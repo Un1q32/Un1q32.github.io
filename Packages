@@ -561,6 +561,19 @@ SHA256: 205ddc18481975cb4975fbbb430251a9ae8ebea4614b57a086a25d6c52de4eb8
 Section: Development
 Description: A C library for reading, creating, and modifying zip archives.
 
+Package: iphoneports-luajit
+Version: 2.1.1703358377
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/luajit.deb
+Size: 384128
+MD5sum: 8c5b897e4bde6007e48877aa29a76f78
+SHA1: 3251ae2d3079c7fcbb29f16fae49a8edabf6fa33
+SHA256: a833106a6074c47ef2cf476695bac3aaab1cb6026bfa7c7e480137b537fd6c08
+Section: Scripting
+Description: a Just-In-Time (JIT) compiler for the Lua programming language
+
 Package: iphoneports-lz4
 Version: 1.9.4-1
 Architecture: iphoneos-arm
