@@ -695,15 +695,15 @@ Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
 Package: iphoneports-ping
-Version: 325-2
+Version: 325-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ping.deb
-Size: 34514
-MD5sum: cef7a9d84245c5737201555adc61fce3
-SHA1: 6437f73c0fec2132f85218fe227258c775b0af58
-SHA256: 6aca754dad047c4fc034d964bfe748608ac212b587eb4ff7a74d191011406548
+Size: 34518
+MD5sum: 9120563642f828022b016e8c3f96f4d7
+SHA1: 53d6b4d891a263aee539c5445fac50a3dbf85da6
+SHA256: 2403a1037aedf32a6c8acfd38798542a3d599c9b093c341f61431e0beeda7c08
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
@@ -747,6 +747,19 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/sed/
 Description: stream editor
 
+Package: iphoneports-sqlite
+Version: 3.45.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-zlib, iphoneports-readline
+Filename: ./debs/sqlite.deb
+Size: 1167932
+MD5sum: edbced4823ab6f8d214644af1c4aea60
+SHA1: 0805444b413c184cb780d8c7f58b2e51c9bd0046
+SHA256: 6384433590ee72807a382300ed16d9399d01eb176e467ceeb6fa877a9825c897
+Section: Utilities
+Description: SQL database engine
+
 Package: iphoneports-su
 Version: 116-4
 Architecture: iphoneos-arm
@@ -786,6 +799,19 @@ SHA1: ac6d610b46952ac441d788f417d9254e85225398
 SHA256: b0fbe17d84a69ab3605b4f98a8de985302448018305141c0ae50690fbc6719d1
 Section: Utilities
 Description: A utility for retrieving and setting kernel parameters
+
+Package: iphoneports-tcsh
+Version: 6.24.10-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/tcsh.deb
+Size: 217322
+MD5sum: f27d107d22ec43f50557bc2a83190fdb
+SHA1: a535857c73ef360cc3de7bd48bcbca0af02ac9e4
+SHA256: 347c1b3b5643bb0bd09834cbbde675cb77ac8f37ac11fdc8d9e2544c20bb1121
+Section: Terminal_Support
+Description: enhanced version of the BSD C Shell
 
 Package: iphoneports-time
 Version: 279.100.3
