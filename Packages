@@ -563,6 +563,19 @@ SHA256: ae11349c1b8c7175654eb33992253b3e26d349a95d51bc6b9fc384380c1509ba
 Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
+Package: iphoneports-ping
+Version: 325-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ping.deb
+Size: 34514
+MD5sum: cef7a9d84245c5737201555adc61fce3
+SHA1: 6437f73c0fec2132f85218fe227258c775b0af58
+SHA256: 6aca754dad047c4fc034d964bfe748608ac212b587eb4ff7a74d191011406548
+Section: Utilities
+Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
+
 Package: iphoneports-readline
 Version: 8.2.10
 Architecture: iphoneos-arm
@@ -655,6 +668,19 @@ SHA1: d2bf893e15490083f4dda83560d91eb6a181c505
 SHA256: d6e9a40961aad5da93b2ab9d88568993b00065d8dfebe25ce76fcb4dc22d152c
 Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
+
+Package: iphoneports-wget
+Version: 1.21.4-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
+Filename: ./debs/wget.deb
+Size: 275176
+MD5sum: 3f57ade097784f0b6b6ab2347e6a623e
+SHA1: 06a53287f933946b907df281990b55f97ee2ac40
+SHA256: 98b37eaf92a583dcaa75ccc1ff76540973fddb79e91189106421343593f8f164
+Section: Networking
+Description: Network utility to retrieve files from the Web
 
 Package: iphoneports-xz
 Version: 5.4.6
