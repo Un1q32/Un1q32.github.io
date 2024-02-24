@@ -92,6 +92,19 @@ Section: Archiving
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 
+Package: iphoneports-bzip3
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/bzip3.deb
+Size: 44134
+MD5sum: a3fb41c88d94346e76d9f44068d8d44e
+SHA1: 900687cec9014a0ae96ff82e6579d9c214455297
+SHA256: a28b0d4af780767490438bbe322e78178d6f4555427837af95f37d1e6329cf6d
+Section: Archiving
+Description: A better and stronger spiritual successor to BZip2.
+
 Package: iphoneports-ca-certificates
 Version: 2023-12-12
 Architecture: iphoneos-arm
