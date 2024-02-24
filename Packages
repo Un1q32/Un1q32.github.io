@@ -668,6 +668,19 @@ SHA256: 91c704988e7442dd792de1b6c519d86bb44810b8384b0444d673cae86d8fb6ae
 Section: Development
 Description: merge a difference onto a file
 
+Package: iphoneports-pcre
+Version: 8.45-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
+Filename: ./debs/pcre.deb
+Size: 162606
+MD5sum: 09b9aec7a6dc55d15702db8bf23fc43e
+SHA1: 6a6f6910971142bbb243bc3589c0cc86ab5db0d5
+SHA256: 4fda93b217dbca1b1e94293bbefb3ec5d7859fe079da7778cfaf30dae63e7649
+Section: Development
+Description: A library that implements Perl 5-style regular expressions
+
 Package: iphoneports-pcre2
 Version: 10.43
 Architecture: iphoneos-arm
@@ -918,6 +931,19 @@ SHA256: 60f29bf0f8a3e1e8ccdb83fa5fa9591da0dcaaff81c66e3bd816122fd51f8466
 Section: Development
 Homepage: http://www.zlib.net/
 Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+
+Package: iphoneports-zsh
+Version: 5.9-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre
+Filename: ./debs/zsh.deb
+Size: 2073238
+MD5sum: cfba3753dbb858e757ef788b7d1c9782
+SHA1: 2cac2f611fc16796d5d4526a51c9f1d8e2fbf210
+SHA256: 65c406986320ac839278941ffc9c699eee46dae9abcbb289ad16b228ae548631
+Section: Terminal_Support
+Description: A very advanced and programmable command interpreter (shell) for UNIX
 
 Package: iphoneports-zstd
 Version: 1.5.5-1
