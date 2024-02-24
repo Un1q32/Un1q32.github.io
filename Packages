@@ -787,6 +787,19 @@ SHA256: 4191b5b52245b62b65d521f022e99a6e3f1490234268749e84d2ffcda5683c35
 Section: Utilities
 Description: A utility for timing command execution
 
+Package: iphoneports-tree
+Version: 2.1.1-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/tree.deb
+Size: 35342
+MD5sum: 6fa57bd9ae533d2db51aa44e674df037
+SHA1: f1620507112e7d28e08da9d7d1cf22b1b2b0c317
+SHA256: 22746acfa1a07d051be327723084d3b345f6210f51fce270bb266cc7fff243ae
+Section: Utilities
+Description: A colorized, indented directory listing tool
+
 Package: iphoneports-unrar
 Version: 6.2.12
 Architecture: iphoneos-arm
