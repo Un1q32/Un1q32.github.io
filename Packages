@@ -1,3 +1,16 @@
+Package: iphoneports-2048
+Version: 2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/2048.deb
+Size: 8184
+MD5sum: df9824b985a831eb4e0258604ca99a5f
+SHA1: 0428aee9a2093d5f4bf08ed7775afacf36a4f7e6
+SHA256: 0d73e7204859df30c178ff866edb8cc6382d35d7659a6f64936caa4a739161b1
+Section: Games
+Description: 2048 in your terminal
+
 Package: iphoneports-base
 Version: 17
 Architecture: iphoneos-arm
@@ -640,6 +653,19 @@ SHA1: 1b86bacad2bffb058153b8875ed54c3c32723972
 SHA256: 5dfea8178f1a924720aeac540671a1cfb4faccfe5126ea007859b9baf4944b7d
 Section: Development
 Description: command-line history management
+
+Package: iphoneports-rogue
+Version: 5.4.4-3
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/rogue.deb
+Size: 99152
+MD5sum: 3cfd301d94743c26ba9e763c4edcc4c2
+SHA1: 1cd37a8a0bf251b5ee582d1cf8aef590d9481a05
+SHA256: 309b90abc2175ecc406d1dda7f9d0f1aa5666925941e465b750f448ac03b00d9
+Section: Games
+Description: The original dungeon crawl game.
 
 Package: iphoneports-sed
 Version: 4.9-2
