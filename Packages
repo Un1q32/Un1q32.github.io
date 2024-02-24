@@ -269,6 +269,20 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
+Package: iphoneports-gtar
+Version: 1.35
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gtar.deb
+Size: 260558
+MD5sum: 8ffac69c87c1e7ec0333b230705a2dab
+SHA1: 201290d4f179dccf59577d3509e05fabb75dd9fe
+SHA256: 58b6af23a6360523db785ae5ef4a3c5902a0b7d1b3bbefbc94c63517589fb45f
+Section: Utilities
+Homepage: http://www.gnu.org/software/coreutils/
+Description: GNU implementation of the tar command
+
 Package: iphoneports-gzip
 Version: 400-5
 Architecture: iphoneos-arm
