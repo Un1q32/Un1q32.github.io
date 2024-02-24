@@ -839,6 +839,45 @@ SHA256: 98b37eaf92a583dcaa75ccc1ff76540973fddb79e91189106421343593f8f164
 Section: Networking
 Description: Network utility to retrieve files from the Web
 
+Package: iphoneports-which
+Version: 278
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/which.deb
+Size: 3454
+MD5sum: e6e5247ad1a27479d7f59b5b3c0df063
+SHA1: cae301bd6b6637f5aefdf603384a280943772835
+SHA256: 2da698e16249de330b11b0297c5e00465cc7cb610ce898fd1a41955afb189783
+Section: Utilities
+Description: A utility for locating programs in the user's PATH
+
+Package: iphoneports-whois
+Version: 199.0.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/whois.deb
+Size: 6886
+MD5sum: 8cd53be4b1b3fb2643931882be618249
+SHA1: 7c81cb770b42354d863b2823383a160a50a78e80
+SHA256: c59308f1771fcb0912956cd3044b051aecdb7fcb6f4858bb9f3eee61cfc86dfc
+Section: Utilities
+Description: An internet domain name and network number directory service
+
+Package: iphoneports-xxd
+Version: 2024-02-10
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/xxd.deb
+Size: 10410
+MD5sum: d8f85e040cea0b6d51f866f63d47015b
+SHA1: 6a5dfa4b0bf193547f338759d8e057a7d42978ed
+SHA256: 1f99df57d548720ec8f644a02ff9be4a256b57e8436c9a6ff78a9d32bb6d7c6b
+Section: Utilities
+Description: Hexdump utility from vim
+
 Package: iphoneports-xz
 Version: 5.4.6
 Architecture: iphoneos-arm
