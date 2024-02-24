@@ -734,6 +734,19 @@ SHA256: 4191b5b52245b62b65d521f022e99a6e3f1490234268749e84d2ffcda5683c35
 Section: Utilities
 Description: A utility for timing command execution
 
+Package: iphoneports-unrar
+Version: 6.2.12
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/unrar.deb
+Size: 179830
+MD5sum: 3cbc470d7c830d6ffac28e62738dda45
+SHA1: 544dc7812e92c34819a83f24aeeeb72fdc2bbd1c
+SHA256: fb44c36fe2e4082fe41252e396d2259434f83036261301cbc1f46a5b9dda1bf6
+Section: Archiving
+Description: de-compresses files in rar format
+
 Package: iphoneports-usbmuxd
 Version: 1.1.1-3
 Architecture: iphoneos-arm
