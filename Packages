@@ -25,6 +25,32 @@ Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
 
+Package: iphoneports-bash-completion
+Version: 2.12.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-bash
+Filename: ./debs/bash-completion.deb
+Size: 223488
+MD5sum: f46839d34d818a1248a4ea4e45a973eb
+SHA1: 77038f2f2bea319f455de02786b5b7d0e5a88965
+SHA256: b09bf116ac56214f37fc3e496394d0c30a820f0b7719900f06cc425137d66552
+Section: Terminal_Support
+Description: a collection of command line command completions for the Bash shell
+
+Package: iphoneports-bc
+Version: 6.7.5
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/bc.deb
+Size: 70824
+MD5sum: 7838ee00604b2912dd526fc0f617afab
+SHA1: 7ec83dfcf8be7dc804845ff9141587de14a34f4b
+SHA256: 56051f1afc32b7c8378ffc472c07cb2e385e71034ad0205f2f7132251225ed5e
+Section: Utilities
+Description: An arbitrary-precision decimal arithmetic language and calculator
+
 Package: iphoneports-brotli
 Version: 1.1.0-1
 Architecture: iphoneos-arm
@@ -79,6 +105,19 @@ SHA1: fdf646e2f19f5a7b7aaa8dd8c311cc02667019d4
 SHA256: f8381ec2629f812c02cc58073589361fd79965110da86844607bc75388e35a90
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
+
+Package: iphoneports-cmatrix
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/cmatrix.deb
+Size: 8696
+MD5sum: 32d19a405b0a59d46936ae0b57386991
+SHA1: c901dfe75eeb0f3f211ef34173340fa642faeb4e
+SHA256: ac6ecca9602218b832087bee25248c6ab4201c24bc73017ed6774975592655c4
+Section: Utilities
+Description: Terminal screen saver based on the movie "The Matrix".
 
 Package: iphoneports-coreutils
 Version: 9.4-2
@@ -231,6 +270,19 @@ SHA256: 77c5bf485660412365d0e8e405918913992185458677a5d09808ccd914e483e1
 Section: Archiving
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
+
+Package: iphoneports-hexedit
+Version: 1.6-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/hexedit.deb
+Size: 22382
+MD5sum: 1bf47eb906f6c645f35287ad9ca792d0
+SHA1: a0fd588692da99d8c63e1adea2a51eebc6f8c308
+SHA256: 4d8f26abff155ec20e6351fc3e7203112392aca081fcf9705dfd8f4b46f8aea2
+Section: Text_Editors
+Description: View and edit files in hexadecimal or in ASCII
 
 Package: iphoneports-hostname
 Version: 240.100.15
