@@ -1035,15 +1035,15 @@ Section: Utilities
 Description: Hexdump utility from vim
 
 Package: iphoneports-xz
-Version: 5.4.6
+Version: 5.6.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed
 Filename: ./debs/xz.deb
-Size: 203926
-MD5sum: 48e7b409843cb686795178497b4a1b7c
-SHA1: 44e16e444fb2702c96ba88659bceb9c90e33a6dc
-SHA256: 1320f339189cd4b947965ad4cc027870257d2440e1e54fb24e33020f7a9d87e6
+Size: 212652
+MD5sum: dd97bd7f161c45d929b39565a59646d0
+SHA1: c28b05848cd91b13524fe74646a6090d175830cf
+SHA256: e91e514dc7c4e9f728e5be44e078cf87ebfd01abf126dd66ad2c0766b58f6a9b
 Section: Archiving
 Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
