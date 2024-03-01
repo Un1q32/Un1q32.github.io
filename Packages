@@ -431,15 +431,15 @@ Section: Utilities
 Description: A utility for setting or printing the name of the current host system
 
 Package: iphoneports-htop
-Version: 3.0.2-1
+Version: 3.3.0
 Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/htop.deb
-Size: 56156
-MD5sum: 22616ad20523e4aa0a86454b0e23244f
-SHA1: 843833e9191ca313fc545667dd7797c70070a5be
-SHA256: b528b9c7bfef532cbc782cc1da4fd2a09e578ca88368bff853c2ce53c5008241
+Size: 88924
+MD5sum: 75833cdeb1abc02dd00ed98753ed3b93
+SHA1: 49c9cd583ca68a0d6554ad80b7186a80fb43fa21
+SHA256: c66a7ee6c3827d3f6b718f071a1c3de62232be5df83ae1a2709235f904524b6d
 Section: Utilities
 Homepage: http://htop.dev
 Description: interactive processes viewer
