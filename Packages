@@ -226,6 +226,19 @@ SHA256: a5ebe1c3a753dd62defcae83587e0833cff13c68971dcc77286a515d578c605a
 Section: Administration
 Description: a minimal replacement for sudo
 
+Package: iphoneports-dos2unix
+Version: 7.5.2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/dos2unix.deb
+Size: 41442
+MD5sum: 7852141e5c3d7301bad60396ca4d160e
+SHA1: 60cc7b4c912e13ebce763ec58004728e698d1c4b
+SHA256: ec0cce79fc2768a604c555f1db3db0b1566eeca532538233ee518b18f51d7209
+Section: Utilities
+Description: DOS/Mac to Unix and vice versa text file format converter.
+
 Package: iphoneports-duktape
 Version: 2.7.0
 Architecture: iphoneos-arm
