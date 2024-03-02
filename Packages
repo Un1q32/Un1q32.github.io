@@ -919,6 +919,19 @@ SHA256: 91c704988e7442dd792de1b6c519d86bb44810b8384b0444d673cae86d8fb6ae
 Section: Development
 Description: merge a difference onto a file
 
+Package: iphoneports-pax
+Version: 428
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pax.deb
+Size: 65280
+MD5sum: 5f5620f8c5dd807d12a6db27ded49408
+SHA1: 93b647992337c892c87f1c4bd887302b3af8e8ff
+SHA256: 167173209080c1b2cbf33ca55ad68c646fb455f18129a643b6dde1d92e25f5a3
+Section: Archiving
+Description: Portable Archive eXchange
+
 Package: iphoneports-pcre
 Version: 8.45-1
 Architecture: iphoneos-arm
