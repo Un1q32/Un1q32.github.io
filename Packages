@@ -878,6 +878,19 @@ SHA256: 2403a1037aedf32a6c8acfd38798542a3d599c9b093c341f61431e0beeda7c08
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
+Package: iphoneports-ps
+Version: 172-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ps.deb
+Size: 18310
+MD5sum: 26f96cb6359122d84706b5448cf9c1f9
+SHA1: ce5fcf496beaf218e2c694ed8fcc0b7ee296a7b7
+SHA256: 2e4de2cbb920ec371fa1cad5f43b5e463c13f5578c73a239588c7f843426fee9
+Section: Utilities
+Description: report a snapshot of the current processes
+
 Package: iphoneports-quickjs
 Version: 2024-1-13
 Architecture: iphoneos-arm
