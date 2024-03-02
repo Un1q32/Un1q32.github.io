@@ -772,6 +772,19 @@ SHA256: c1c7fbb8bc4ef674d95617b1720e892e9b4efd0d1a6f8bd16dd3f2b163c59488
 Section: Text_Editors
 Description: completely free, modern clone of Pico
 
+Package: iphoneports-ncal
+Version: 37-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ncal.deb
+Size: 13608
+MD5sum: fe2819fb8876dd11874c549b7377a317
+SHA1: 92e616425cd104dc83a7159510bd77a978b865ff
+SHA256: 01e10bd1ef39d2599d275cf95e8817953349d1a0fb7290697a5ea7512b2b419c
+Section: Utilities
+Description: A program for calculating and printing calendars
+
 Package: iphoneports-ncdu
 Version: 1.19-1
 Architecture: iphoneos-arm
@@ -968,6 +981,20 @@ SHA1: 1cd37a8a0bf251b5ee582d1cf8aef590d9481a05
 SHA256: 309b90abc2175ecc406d1dda7f9d0f1aa5666925941e465b750f448ac03b00d9
 Section: Games
 Description: The original dungeon crawl game.
+
+Package: iphoneports-screen
+Version: 4.9.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, pam
+Filename: ./debs/screen.deb
+Size: 489320
+MD5sum: 4d9953ed0aa1ef691afb3bd6af5a55d3
+SHA1: 5c1419dff96854ce38f6481b43bfa8037428f942
+SHA256: fa713791d527f65da16041e0355407cee94dcf9d38623302672fafa67d86fb6f
+Section: Terminal_Support
+Homepage: http://www.gnu.org/software/screen/
+Description: multiplexes a terminal into many
 
 Package: iphoneports-sed
 Version: 4.9-2
