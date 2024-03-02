@@ -720,6 +720,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/make/
 Description: Standard tool to compile source trees
 
+Package: iphoneports-ncompress
+Version: 5.0-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/ncompress.deb
+Size: 12204
+MD5sum: 63c85b4e87c517836cb3028b8055bb65
+SHA1: c2547fdbe173cff12aa0a0508eba16a657939a1f
+SHA256: 10ca06e06e2201ba703a3564fcdb709024c11391eef5645d6ee141a43cd3da7f
+Section: Archiving
+Description: a fast, simple LZW file compressor
+
 Package: iphoneports-ncurses
 Version: 6.4-3
 Architecture: iphoneos-arm
