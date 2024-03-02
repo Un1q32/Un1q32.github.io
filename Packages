@@ -320,6 +320,20 @@ SHA256: bf55b6cb01780867443c1df24ac1471bdd3a309ca07fcd70df5268d7ae9e306a
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
+Package: iphoneports-gmp
+Version: 6.3.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/gmp.deb
+Size: 252288
+MD5sum: 44eb5c28e76d725c83b3c6f8f53846e1
+SHA1: d5e4632d7fa310804cbb297462e458ab8640ee33
+SHA256: cd0516962407819f12aad1274b0f328043e46b7184ca8755d7bd2c0687f6e2da
+Section: Development
+Homepage: http://gmplib.org/
+Description: A free library for arbitrary precision arithmetic
+
 Package: iphoneports-grep
 Version: 3.11-2
 Architecture: iphoneos-arm
