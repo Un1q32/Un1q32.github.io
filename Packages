@@ -943,6 +943,19 @@ SHA256: 2e4de2cbb920ec371fa1cad5f43b5e463c13f5578c73a239588c7f843426fee9
 Section: Utilities
 Description: report a snapshot of the current processes
 
+Package: iphoneports-pstree
+Version: 2.40-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ps
+Filename: ./debs/pstree.deb
+Size: 7020
+MD5sum: dfbe5b1fb7b406c9e3e8fd6bfd148d92
+SHA1: 19db013b27687e23cab886238eaeb315a228af73
+SHA256: bb225c5085e047059ab63e2003df61a493a0d13d12ebc2b2d36f5236b3c63ceb
+Section: Utilities
+Description: Show ps output as a tree
+
 Package: iphoneports-quickjs
 Version: 2024-1-13
 Architecture: iphoneos-arm
