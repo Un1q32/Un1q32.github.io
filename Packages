@@ -720,6 +720,19 @@ Section: Development
 Homepage: http://www.gnu.org/software/make/
 Description: Standard tool to compile source trees
 
+Package: iphoneports-ncdu
+Version: 1.19-1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses
+Filename: ./debs/ncdu.deb
+Size: 41666
+MD5sum: f0e32bbce53f241cb69ede74b67553fd
+SHA1: 975e1bbeff86970f6ceb9ea7aee38f65474f9489
+SHA256: 5ccaee31a9457ac45e029812456c1a9329cd951e2b295e383efacfceccd0ae67
+Section: Utilities
+Description: Disk usage analyzer with an ncurses interface
+
 Package: iphoneports-ncompress
 Version: 5.0-1
 Architecture: iphoneos-arm
