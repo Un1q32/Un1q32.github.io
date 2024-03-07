@@ -347,6 +347,19 @@ Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
+Package: iphoneports-gptfdisk
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-popt
+Filename: ./debs/gptfdisk.deb
+Size: 169030
+MD5sum: 7d2f7b6e9d48b3eb1692ad02c4d14abf
+SHA1: 1c6996938a501c53921d12240024814f5029d06f
+SHA256: 3dabe17ce86fb9f10599587b919bf55b96af20b98221565417b5ed69e337bb0f
+Section: Utilities
+Description: A text-mode partitioning tool that works on GUID Partition Table (GPT) disks
+
 Package: iphoneports-grep
 Version: 3.11-2
 Architecture: iphoneos-arm
@@ -983,6 +996,19 @@ SHA1: 1bda479447bdf1a80625503b3e413f05def55341
 SHA256: 30512604260b5eef8232c2f6b4e663c65cbff3996ff699ffdcae718a5ae2c20f
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
+
+Package: iphoneports-popt
+Version: 1.19
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/popt.deb
+Size: 27960
+MD5sum: dd27cb690666d8c255ae07ee4aed90b6
+SHA1: 5fd145f29c9319831530c2d3fb29c615e59be583
+SHA256: 47d9f5f4f5ea101dde0204787efbe24668a3924ac464371c1bf47b301fcc9043
+Section: Development
+Description: C library for parsing command line parameters
 
 Package: iphoneports-ps
 Version: 172-1
