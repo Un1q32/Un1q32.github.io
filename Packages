@@ -871,11 +871,11 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncurses.deb
-Size: 784286
-MD5sum: fa4348f03dc4afb4135f44b7f911bdeb
-SHA1: b777b8b5a68ae4fba8525fb717ed0310b44e361b
-SHA256: 47c61e5a6106357ea365e8af47623188fabb0be4c6d6eac20fd712a4b204ef92
-Section: System
+Size: 784236
+MD5sum: 934f81f129ab3dafbcad544e87373d04
+SHA1: 5dd801205982ac822118afcacc5400c301b90a54
+SHA256: 72765dc6970f0a2d032ff9659c772edeef63931ed8bd3863e14a06ec21863fb1
+Section: Development
 Description: System V Release 4.0 curses emulation library
 
 Package: iphoneports-neofetch
