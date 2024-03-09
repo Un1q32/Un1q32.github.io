@@ -1,12 +1,12 @@
 Package: iconfix
-Version: 7
+Version: 8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Filename: ./debs/iconfix.deb
-Size: 34980
-MD5sum: 3d6e371c39a142296ce6258ab5e36706
-SHA1: f724830edd7d81c32e9f98c084aa1b012687bb95
-SHA256: a4cf2b5a4e0fe2297658cb3e9381d433b9361bc37e68d0f0a38a4eef87adec57
+Size: 35000
+MD5sum: c88d2368e285c3774469be9cdcffd541
+SHA1: a6652093e5a66bee8426060817b395e25369ea4a
+SHA256: d682cf8cdf82e2136721ce666b5ad21af65a72b3fad88ecc404955877c3328fd
 Section: Utilities
 Description: A script that fixes the iFile and MTerminal icons on iOS 6 and below.
 Name: iFile/MTerminal icon fix
