@@ -1275,15 +1275,15 @@ Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
 Package: iphoneports-wget
-Version: 1.21.4-2
+Version: 1.24.5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
 Filename: ./debs/wget.deb
-Size: 276166
-MD5sum: 6b684913b2ceb1c5860db4f18838f8f1
-SHA1: 6033c418099154814c0e131062905ce388ad8628
-SHA256: 41ee487776a093a64bec855fa0c2cc89bea029981cf6d4a0ea66083c0648bfcc
+Size: 278442
+MD5sum: c9b09486977f2ee5eb7545556044b1f2
+SHA1: 2c8d7bdfd030936d6d7e64a6bec388884f10041a
+SHA256: 510b5b59aa42376b83dc62147f02048991a0f70f52ecc53f70ff4a89499c1250
 Section: Networking
 Description: Network utility to retrieve files from the Web
 
