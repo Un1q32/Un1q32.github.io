@@ -1459,15 +1459,15 @@ Section: Terminal_Support
 Description: A very advanced and programmable command interpreter (shell) for UNIX
 
 Package: iphoneports-zstd
-Version: 1.5.5-1
+Version: 1.5.6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-lz4, iphoneports-xz, iphoneports-zlib
 Filename: ./debs/zstd.deb
-Size: 877718
-MD5sum: f067c3da4f6b691a363fed6dd32d399b
-SHA1: c4454b4dce600d4ced076bfc77be86e0a6afef53
-SHA256: 09bc7e3226b7ef20a82d6923fd9f4057d613a204578065a5c9e00ce0f44806d1
+Size: 885660
+MD5sum: 5abda16c3792a57e6bf1c7f7a41d61b2
+SHA1: 7b6be40e7580de3cfc146ad82a4e2904aeca459d
+SHA256: be5caf7654c156a835f14736a5d61ce4a49834222519a2bf34616a84d0aa9778
 Section: Archiving
 Description: Zstandard - Fast real-time compression algorithm
 
