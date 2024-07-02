@@ -1340,15 +1340,15 @@ Section: Utilities
 Description: A utility to display and update information about the top cpu processes
 
 Package: iphoneports-tree
-Version: 2.1.1-2
+Version: 2.1.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/tree.deb
-Size: 35328
-MD5sum: 0a7b4df995a1649893bedcfeec41074a
-SHA1: 65605ed2ca2765a739c61687dffb261b1d07d858
-SHA256: 65abaab0453553a0dab24e9fa0433383ee69381bf4897b2b5aac5759c2cdd4bd
+Size: 35458
+MD5sum: ce21ad334ce41cf97da553b00c2e66f7
+SHA1: 34505dff829b782e3de340f0f368f1e7232b42c7
+SHA256: e4b925dc2f17eeb3b25011b628d4930f249b13512690640e5fc074dbc3f7657e
 Section: Utilities
 Description: A colorized, indented directory listing tool
 
