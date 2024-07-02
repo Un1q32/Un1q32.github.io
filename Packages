@@ -119,16 +119,16 @@ Section: Archiving
 Description: A better and stronger spiritual successor to BZip2.
 
 Package: iphoneports-ca-certificates
-Version: 2024-03-11
+Version: 2024-07-02
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 131254
-MD5sum: ee884449f33a7aa837b57e1fa081c35c
-SHA1: 292247022a1c4db0c8ec93592438de995a97338a
-SHA256: 9df1409e1c2df73284e2b8c498e40fb8c335a7647f92fe7b5d90c5d4610b3f23
+Size: 132602
+MD5sum: cd76fea06a0483e6fea524e1686f2567
+SHA1: f81cb1086db11a8500601287d5dfa67f1c5293d7
+SHA256: 899947b7ce9ee9e392f48321c01ba4fc0676138b75e8cd0b3c384c9910452eca
 Section: Security
 Description: Common CA certificates
 
