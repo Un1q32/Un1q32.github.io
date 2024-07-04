@@ -292,15 +292,15 @@ Section: Utilities
 Description: guesses the type of a file from contents
 
 Package: iphoneports-findutils
-Version: 4.9.0-1
+Version: 4.10.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-sed
 Filename: ./debs/findutils.deb
-Size: 305050
-MD5sum: ebc41b779e1f200b4da2ed84e9cec82e
-SHA1: bd0977ee1e3db8e553a16a1e1f879678390306af
-SHA256: 8005d6c34603d0dc8def5a58b35c100bbffec7b072591137586d27bc4fefedbe
+Size: 312432
+MD5sum: 0c2512a96eab6f3458fdb7a28353393a
+SHA1: d28c35f733ae0330858b1125e21fff3e191352e7
+SHA256: 5ae3c277a5d885e26ce06ac2c463e8e3752fbc6ee1f0743395d1daaa0b770d4e
 Section: Utilities
 Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
