@@ -1405,15 +1405,15 @@ Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
 Package: iphoneports-wasm3
-Version: 0.5.0
+Version: 0.5.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/wasm3.deb
-Size: 141736
-MD5sum: 3cbd17e20626339f661516a16cfaa5de
-SHA1: 41d313eb84c2e5315982f7c0eeff0da8bf13b0cc
-SHA256: 765b4c2542057a6247a063ea70e968220470791d8a9d03f7fb118916036c566f
+Size: 141922
+MD5sum: c70630bffca1cc08a238b2f5b8454d91
+SHA1: 2bf0545fe0a37c4f0b2d93d10315fe2079e13dda
+SHA256: 61d291e02c636c5268a5b4d6f8c37d4e7975f4d86dafd82185f4c2d0aab706a2
 Section: Scripting
 Description: A fast WebAssembly interpreter and the most universal WASM runtime
 
