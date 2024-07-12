@@ -785,15 +785,15 @@ Section: Scripting
 Description: A powerful, efficient, lightweight, embeddable scripting language.
 
 Package: iphoneports-luajit
-Version: 2.1.1713773202
+Version: 2.1.1720049189
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/luajit.deb
-Size: 387026
-MD5sum: add7f560bd528eb610b54c388f94cc83
-SHA1: 456dee2dfb20e678d99f9e6935480c3065831c6a
-SHA256: 836b30d852814371c9e4241706c3e219501509ad2ff7a7c172a1caaf7d34cee8
+Size: 386478
+MD5sum: e63831933b3b90b8cbb918b75776c3ad
+SHA1: cab3f71c457a0c60f3eb348b9ded8a0a1cb13372
+SHA256: 6d44e6580b342803d2fce821e22ab90e20afe9ae8ea1a56b6e6b55dcb11b6777
 Section: Scripting
 Description: a Just-In-Time (JIT) compiler for the Lua programming language
 
