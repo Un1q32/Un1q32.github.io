@@ -65,15 +65,15 @@ Section: Terminal_Support
 Description: a collection of command line command completions for the Bash shell
 
 Package: iphoneports-bc
-Version: 6.7.5
+Version: 6.7.6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/bc.deb
-Size: 70814
-MD5sum: 3b8a5dd242fcda3e2662ea61d5df39d2
-SHA1: a1aecb41bf57a950a0b8f9b9c879e137f195f148
-SHA256: d5fc3634c11c5e91bb873ca59aca7948ee421cba125a7e2649f21c07d25d9ff5
+Size: 71026
+MD5sum: b7c0c6f216be57c677b8952b3aa2a8f7
+SHA1: 4600419f554f5dcc498d315acdb407f757a50773
+SHA256: 0c3e612ea62809986d8bdac35d2af01572b51f7c1b4d5064977b8a1e9c650786
 Section: Utilities
 Description: An arbitrary-precision decimal arithmetic language and calculator
 
