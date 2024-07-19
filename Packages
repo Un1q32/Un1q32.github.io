@@ -146,15 +146,15 @@ Section: Utilities
 Description: a terminal IRC client.
 
 Package: iphoneports-chsh
-Version: 8
+Version: 9
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/chsh.deb
-Size: 3394
-MD5sum: f3c2fab04e510e352adadb1e342a316b
-SHA1: 60ee936a79b4afdafdfd50113c7cc919263b4808
-SHA256: 29c287f6a99fa9d6fa70b275571391c36ca85b8c9257d4b12b1c9fe2ca755334
+Size: 3384
+MD5sum: a937256b0eefbbe9d3340cda51902384
+SHA1: 24d5689d34c08e672dad029247208883a929a206
+SHA256: 2c6556e5113e7f9428f78156922ed27b27d7aaf307e663335eb64067bc73f744
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
