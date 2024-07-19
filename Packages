@@ -133,15 +133,15 @@ Section: Security
 Description: Common CA certificates
 
 Package: iphoneports-catgirl
-Version: 2.2-10
+Version: 2.2a
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/catgirl.deb
-Size: 67028
-MD5sum: 4d15f7a61a691f1cbe41b117ef7799a3
-SHA1: c29809a22885a33506ec28ffb65ce4627a55d42b
-SHA256: 60d3e9051ae3c5b5245685c81fcff3eea6bdd4bc154a11126ef3c1ae103e9ced
+Size: 66964
+MD5sum: b81ba0d697282598684ba633f0fab713
+SHA1: baaa363d3a95e080f238e6f79668d21b62b1d04c
+SHA256: 7c643609e4ac10adfd32a2b7e5480752b4d2f5f7c828133b3c47a2557e550b6a
 Section: Utilities
 Description: a terminal IRC client.
 
