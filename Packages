@@ -720,15 +720,15 @@ Section: Development
 Description: X11 client-side library
 
 Package: iphoneports-libxml2
-Version: 2.13.2
+Version: 2.13.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz
 Filename: ./debs/libxml2.deb
-Size: 666314
-MD5sum: ca056297ab03ff8857ee67b123e16b15
-SHA1: 0e39eedadc5a6b3f52934a915c5a790d9ed0a123
-SHA256: 61c758a98a1274269be6496ab5e695c50fc54b187115c7430b83d3f4159d3de5
+Size: 666306
+MD5sum: 4fc2271187abb583bfd94ecfb05fab80
+SHA1: 9351c9fe36d8f79d7124740feec6d6b188d4246f
+SHA256: 7cc594f0dbb067e3e215ac9038aff2d2092c51298c57de3ed82fe7498974adcd
 Section: Development
 Description: XML C parser and toolkit
 
