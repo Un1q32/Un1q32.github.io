@@ -1167,15 +1167,15 @@ Section: Scripting
 Description: A small and embeddable Javascript engine
 
 Package: iphoneports-readline
-Version: 8.2.10
+Version: 8.2.13
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/readline.deb
-Size: 167522
-MD5sum: 778918a375fdbacbd683e7269a501567
-SHA1: 1278c8a4388e2c24bfbffcac146fd2a4d98dcaa0
-SHA256: 0cdbd378965f2a3e545421aa0c0dcdf166cb5cc7a33b5e2642e737b544e80579
+Size: 167556
+MD5sum: 99df72025a33e60015ccce89ff67ec1e
+SHA1: f78b4a8248368846b9b32f3fe5ee172c4bf66693
+SHA256: 4745ddd88afbafb67ebbdc15a07b2f2a79757bce691f72ab541362a90b86bccc
 Section: Development
 Description: command-line history management
 
