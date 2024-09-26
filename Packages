@@ -798,6 +798,19 @@ SHA256: 620d34b2412b99f07af1f9e306997f4e573419c9b455a7474d0b3dc21b50dec6
 Section: Networking
 Description: Lightweight high-performance web server
 
+Package: iphoneports-llvm
+Version: 19.1.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++
+Filename: ./debs/llvm.deb
+Size: 64304408
+MD5sum: d5f6f47484ce268d95af1167c93e9ed1
+SHA1: c40ec1c95bb413c18b4b840e4891d5a23d955ec3
+SHA256: 890908355b23241c78ea26d297c6d4e2b41d8710f33f011568d998e58ba27d93
+Section: Development
+Description: Compiler infrastructure
+
 Package: iphoneports-login
 Version: 433
 Architecture: iphoneos-arm
