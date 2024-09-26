@@ -158,6 +158,19 @@ SHA256: 2c6556e5113e7f9428f78156922ed27b27d7aaf307e663335eb64067bc73f744
 Section: Utilities
 Description: Utility to change the default iPhonePorts Shell
 
+Package: iphoneports-clang
+Version: 19.1.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm
+Filename: ./debs/clang.deb
+Size: 48719596
+MD5sum: 9f17f25bf3599454462352f361ae175a
+SHA1: 62a8862dfaaea817946eb967577e2f9db320ad67
+SHA256: 5f905019d15261549d11a4d7921fa6c67d09d7ed54bdebcc15b7a52fe6f781d1
+Section: Development
+Description: C language family frontend for LLVM
+
 Package: iphoneports-classpath
 Version: 0.99
 Architecture: iphoneos-arm
