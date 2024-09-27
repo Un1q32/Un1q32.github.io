@@ -145,6 +145,19 @@ SHA256: a2a81349fc8b39eee8f324e9d4b4c6468c58aafe313973a05c65842717f878c4
 Section: Utilities
 Description: a terminal IRC client.
 
+Package: iphoneports-cctools
+Version: 986-ld64-711
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm
+Filename: ./debs/cctools.deb
+Size: 4251436
+MD5sum: c990a21038d0bb00c8ff39eacbf6fc3e
+SHA1: a1b919543e5847119d6261ef60e8f18d23124db2
+SHA256: 62c42773b00ff2e710e05c64b6c28939d41d04c035f515f75eb4b599e8dab3eb
+Section: Development
+Description: Mach-O binary utilities
+
 Package: iphoneports-chsh
 Version: 9
 Architecture: iphoneos-arm
