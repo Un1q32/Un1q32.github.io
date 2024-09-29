@@ -146,15 +146,15 @@ Section: Utilities
 Description: a terminal IRC client.
 
 Package: iphoneports-cctools
-Version: 986-ld64-711
+Version: 986-ld64-711-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm
 Filename: ./debs/cctools.deb
-Size: 4251436
-MD5sum: c990a21038d0bb00c8ff39eacbf6fc3e
-SHA1: a1b919543e5847119d6261ef60e8f18d23124db2
-SHA256: 62c42773b00ff2e710e05c64b6c28939d41d04c035f515f75eb4b599e8dab3eb
+Size: 4254548
+MD5sum: b15796f44bc711ddb3d30801f305d8a8
+SHA1: 9adadc6798599e70b16b5cc338d3f121ad0c1fab
+SHA256: 3a4ff6cd0a76261624427ba0d43c7952bc4b9a1a01f865c349c648afae79f3f1
 Section: Development
 Description: Mach-O binary utilities
 
