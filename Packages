@@ -825,15 +825,15 @@ Section: Networking
 Description: Lightweight high-performance web server
 
 Package: iphoneports-llvm
-Version: 19.1.0-2
+Version: 19.1.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/llvm.deb
-Size: 50069936
-MD5sum: 175b49d30711f12885dbb68abeebc3e1
-SHA1: c5a8cc65822e1dbebf04d060f205c5e49f73ce43
-SHA256: 12b5031b6e951335c977e562f57585f63c1a8fc9f3f36b9d9b739eb439c510ce
+Size: 50070730
+MD5sum: 955fa0f16fe944b4cb9eb7900119d827
+SHA1: cfcd8269cb26d81a29859ef94efa2c4c0fe5eb35
+SHA256: 22067e3a56abb01d6cb7dd3eb2c230aa52fe947bc2de9e87df3b20ef3249847c
 Section: Development
 Description: Compiler infrastructure
 
