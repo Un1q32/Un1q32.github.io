@@ -1393,15 +1393,15 @@ Section: Utilities
 Description: print system version information
 
 Package: iphoneports-sysctl
-Version: 970.0.4
+Version: 979.100.8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sysctl.deb
-Size: 8984
-MD5sum: 9f9fc623953cd688a84470626cc12229
-SHA1: bed80ab8f3aed265f69642563a5619246057fb4f
-SHA256: 0fd4dd0e03d091b0c495926d86232d036f79e1eac4feb4272de1df3de51b2831
+Size: 10158
+MD5sum: 298d049c908fe5f9e05ef3e3c1633dd1
+SHA1: 7c785bd29e4f042bfd731936507cab249d9dc1a0
+SHA256: bf9ab212b3b8d9fb084c29465820a6062901478febf57f719b9bd9e227e260a0
 Section: Utilities
 Description: A utility for retrieving and setting kernel parameters
 
