@@ -997,15 +997,15 @@ Section: Text_Editors
 Description: completely free, modern clone of Pico
 
 Package: iphoneports-ncal
-Version: 37-2
+Version: 44
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncal.deb
-Size: 13568
-MD5sum: 915a13cd76e4bbc683985aca2cd2040b
-SHA1: 854dc44a9fa505aaba94a28471544736e42813b2
-SHA256: a2709e3028a0a6cf06f9627eb5fa20bc319c146a18e1ef98f84b19010a319711
+Size: 13520
+MD5sum: 464b844c5d72de1ba325433f8dc91529
+SHA1: f775bc36870becc149588978d64922bfc02e7ac0
+SHA256: 920b0adeaea8c6bc24811c3903daf2bb8e9d93f5027ccad83f584aeaf994a099
 Section: Utilities
 Description: A program for calculating and printing calendars
 
