@@ -25,15 +25,17 @@ Section: Games
 Description: 2048 in your terminal
 
 Package: iphoneports-base
-Version: 19
+Version: 20
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 3.0), iphoneports-dash, iphoneports-coreutils
+Conflicts: iphoneports-chsh
+Replaces: iphoneports-chsh
 Filename: ./debs/base.deb
-Size: 3914
-MD5sum: 34358f33420cf40ff215fe78aedc9494
-SHA1: b85199ec8d37e00f8ea3e792b6ca74c7f700bc0b
-SHA256: 0080528709b8a840c4b37406a5ccb833db9893e335583c958205e5542b6317e5
+Size: 6298
+MD5sum: 9d82d89693fe7180d0198e0aa4e7da88
+SHA1: d4d760acfad8ef197505c76e4f2b4ebd053305a3
+SHA256: 2ca09161a16d02f6499167a411bf312a7937c027ae306755ba5dd61d313aeff1
 Section: System
 Description: iPhonePorts base
 
@@ -157,19 +159,6 @@ SHA1: c2a42de25ce0079eb246ba8830f80c99325e860a
 SHA256: ab020963f07e72b5e17f0ce7d212ab52ac972c575b58f77260c35be65c07134b
 Section: Development
 Description: Mach-O binary utilities
-
-Package: iphoneports-chsh
-Version: 9
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/chsh.deb
-Size: 3144
-MD5sum: 911f036e1b63856ecd53d5f5d942a48f
-SHA1: fc8a1e88a718ac7fc10ed6ce2bfad8b18697e9ae
-SHA256: 8ee563efa15c4524afc84be5730ca1ed7b227df6468da4495cdc568b1532b73e
-Section: Utilities
-Description: Utility to change the default iPhonePorts Shell
 
 Package: iphoneports-clang
 Version: 19.1.1
