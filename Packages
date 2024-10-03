@@ -1277,10 +1277,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue.deb
-Size: 92190
-MD5sum: 849003d5f2f593d520e207129598ada2
-SHA1: 2ac0537bfb59d26ff49f69afb21d1fb7ec633dd1
-SHA256: d78bee4ae7c79a1f572174310b8b5061ee87384ad547e25ff323eaa547b56d6d
+Size: 91922
+MD5sum: ef41a7480c9da816e5aa1413c2f03498
+SHA1: 4c0d094c31fa25c538b0285392ce6c017d1b1482
+SHA256: 080e3ec46a037cc3e52276bb06401725929d642499060f3ecb98de4c2a5f4d2a
 Section: Games
 Description: The original dungeon crawl game.
 
