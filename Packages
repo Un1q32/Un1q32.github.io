@@ -214,15 +214,15 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
 
 Package: iphoneports-curl
-Version: 8.10.1
+Version: 8.10.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl.deb
-Size: 589950
-MD5sum: 1fc65aadbdbf77beb286327775ca1113
-SHA1: 153597217d8339d0d3f3afa80b6fda6c976f38e2
-SHA256: 59d62bad89c1c9f85e0f9ea6d99986459b6328b74b679ab48f8014c5778cad18
+Size: 597078
+MD5sum: 51f32d51d1a4c4ea01c10eff22a81fed
+SHA1: 8296afa3d8fa45248c996f4ef094b80f1b5a7968
+SHA256: 82a2d0b82c89ce7e1467107a4fbf6d9aededef079544f134323135d5ccf3d0a4
 Section: Networking
 Homepage: http://curl.se/
 Description: An URL retrieval utility and library
@@ -1093,12 +1093,12 @@ Package: iphoneports-ngtcp2
 Version: 1.8.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/ngtcp2.deb
-Size: 204098
-MD5sum: 5a49c9bdd041dcb741e5b0d892d66f4e
-SHA1: 9e0f05dc6b147b8c9ae1d7b047675aa22f18218b
-SHA256: d8ea56315e6642828e891c04b1f42d79d79b4821ebb9ff592b4343b8aad25add
+Size: 222676
+MD5sum: 2049c04eb01b2da144e56210fd2fb0e0
+SHA1: 5668d3ec06a820f4acc3fb365bf996b89072029f
+SHA256: 8c6014d95e540e0c92d052332fb08b9ea2a7a5eb7f56e7afcf06c10b007aeda4
 Section: Development
 Description: ngtcp2 project is an effort to implement IETF QUIC protocol
 
