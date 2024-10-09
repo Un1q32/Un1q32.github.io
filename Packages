@@ -708,6 +708,19 @@ Section: Development
 Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
 
+Package: iphoneports-libtatsu
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libplist, iphoneports-curl
+Filename: ./debs/libtatsu.deb
+Size: 18434
+MD5sum: 5d21885edc3334b00682bdb563f7760e
+SHA1: 783ed6bd5ebc3dad1f9fba2ad2b24ea55af8e2ce
+SHA256: ee83fbb743b926f069414ac72be6f889e4db2e89cae07c4ffbda36a35ec30ca6
+Section: Development
+Description: Library handling the communication with Apple's Tatsu Signing Server (TSS)
+
 Package: iphoneports-libunistring
 Version: 1.1-1
 Architecture: iphoneos-arm
