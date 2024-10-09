@@ -499,15 +499,15 @@ Section: Utilities
 Description: Manage apps of iOS devices
 
 Package: iphoneports-idevicerestore
-Version: 1.0.0-5
+Version: 1.0.0-6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery, iphoneports-libimobiledevice-glue
+Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery, iphoneports-libimobiledevice-glue, iphoneports-libtatsu
 Filename: ./debs/idevicerestore.deb
-Size: 104462
-MD5sum: 91db2a888a83d16ac89801f73f915aa6
-SHA1: 311c4255fe8111a036a7519e5108b1dc8f16094f
-SHA256: 0a3577421ccf5e3fd9459a06579fe235d526f5f6908085608da5c71941dcae10
+Size: 99914
+MD5sum: 741ff428e51f275c487b8cdd9c759729
+SHA1: 8bcf64534556c95bc4b09bad1693611ff070b927
+SHA256: 6d15a7c2cd408b94648bbd972e08ae74532183166dbbf5a49e183efa701b0abb
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
@@ -617,15 +617,15 @@ Homepage: http://www.gnu.org/software/libidn/
 Description: A free software implementation of IDNA2008, Punycode and TR46
 
 Package: iphoneports-libimobiledevice
-Version: 1.3.0-6
+Version: 1.3.0-7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd, iphoneports-libimobiledevice-glue, iphoneports-readline
+Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd, iphoneports-libimobiledevice-glue, iphoneports-readline, iphoneports-libtatsu
 Filename: ./debs/libimobiledevice.deb
-Size: 324366
-MD5sum: 00493230df1254d98a5d5ecb5dd7dc5e
-SHA1: 16e389e75cd20102e3d471fae5b8e37c03d7a20a
-SHA256: e22d03d166bc7c210a2b4e8ff044bd6fe1ddf619425c1227a0fd049d8609476a
+Size: 328816
+MD5sum: b7aaa1ff7b4d5c1e01b7cd78ad1d8373
+SHA1: fc4633ade9f8e45b28aad897c2de48a79731a197
+SHA256: cb1a838feb7e096c29de6b70af57b8af07222fbd4140aa37760f13a2a2b611db
 Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
@@ -1499,15 +1499,15 @@ Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-usbmuxd
-Version: 1.1.1-6
+Version: 1.1.1-7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb, iphoneports-libimobiledevice-glue
 Filename: ./debs/usbmuxd.deb
-Size: 33932
-MD5sum: be2e3944483968abe14710757df6706f
-SHA1: 00e576209b76d7be1bc25426da492fc9990e143e
-SHA256: 947b506f3ba49466a62d720de54d74f12a2775c9c3fa7345c985db331edd7c8d
+Size: 33964
+MD5sum: f6fea7ebf9969293ef09a6e5382793c7
+SHA1: 96f2f173cdc9a75d30cb7ddcf37bac1413280175
+SHA256: 6a0d820ffa6e8f655e180ab8e3df142952888fa3970224d6bc386680d5456851
 Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
