@@ -79,6 +79,19 @@ SHA256: 722be3f4c5f5a6ea347f6d5924bef908fba7f31710af459a4e0d8c0f542d9607
 Section: Utilities
 Description: An arbitrary-precision decimal arithmetic language and calculator
 
+Package: iphoneports-boxes
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/boxes.deb
+Size: 78602
+MD5sum: 6b680ed030bbe4d823aa1ccff06d6c1f
+SHA1: aa7cea0262fa224fed82834fef6bfdcf68b4f81b
+SHA256: f020d70394f7676b81ce314229b454477c6b36935248b092c0a80be209485826
+Section: Utilities
+Description: Command line ASCII boxes unlimited!
+
 Package: iphoneports-brotli
 Version: 1.1.0-1
 Architecture: iphoneos-arm
