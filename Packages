@@ -160,6 +160,19 @@ SHA256: 86f709e88e0b74b9ae63bb96a2da7c582a7330b9caf0459f38080fbd3b834942
 Section: Utilities
 Description: a terminal IRC client.
 
+Package: iphoneports-ccache
+Version: 4.10.2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-zstd
+Filename: ./debs/ccache.deb
+Size: 684258
+MD5sum: 0be98ed715bf2bff3d4c433ef9cf5daa
+SHA1: b130320de07838ba64430e549a69999938d1456c
+SHA256: 0fe543a0560a1c18d7fd302b3a75d2fc798ec5837053efe31e64940a9b4676b4
+Section: Development
+Description: Compiler cache that speeds up recompilation by caching previous compilations
+
 Package: iphoneports-cctools
 Version: 986-ld64-711-1
 Architecture: iphoneos-arm
@@ -1679,6 +1692,19 @@ SHA1: bc543a9f9fbc66aced637f7000b828e4c4cc597f
 SHA256: 9d2ccadbd6e304d93a6fc405393041f3030096b9436b66c292b15639896bc83d
 Section: Utilities
 Description: Hexdump utility from vim
+
+Package: iphoneports-xxhash
+Version: 0.8.2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/xxhash.deb
+Size: 166066
+MD5sum: 6eb5c0aa74dcf761e646260a007de6aa
+SHA1: 84b052b011f4a8cd65c06a3255a4b4f25f7d9f90
+SHA256: 66dd6e982fb95497f14440ddc6da1155912aba58eb37da12647fb5251cbd71cb
+Section: Development
+Description: Extremely fast non-cryptographic hash algorithm
 
 Package: iphoneports-xz
 Version: 5.6.3
