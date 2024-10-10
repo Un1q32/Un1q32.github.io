@@ -161,15 +161,15 @@ Section: Utilities
 Description: a terminal IRC client.
 
 Package: iphoneports-ccache
-Version: 4.10.2
+Version: 4.10.2-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libc++, iphoneports-zstd
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-zstd, iphoneports-xxhash
 Filename: ./debs/ccache.deb
-Size: 684258
-MD5sum: 0be98ed715bf2bff3d4c433ef9cf5daa
-SHA1: b130320de07838ba64430e549a69999938d1456c
-SHA256: 0fe543a0560a1c18d7fd302b3a75d2fc798ec5837053efe31e64940a9b4676b4
+Size: 642624
+MD5sum: 32f72fdfee02bcdf973157b06d434ceb
+SHA1: 5f8c39bcce512c72b55f5b4bb336fb96cef493f8
+SHA256: 481f7dda31744b040a1eade3066ec38a4638fd158a4aa8a016dfcbf9a252d3bd
 Section: Development
 Description: Compiler cache that speeds up recompilation by caching previous compilations
 
