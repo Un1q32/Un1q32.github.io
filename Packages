@@ -787,6 +787,19 @@ SHA256: e8d22e7f05177f0c24ee1d3fad5bf37248a23785003e59f0509b80e8b8b890ae
 Section: Development
 Description: A client library to multiplex connections from and to iOS devices
 
+Package: iphoneports-libuv
+Version: 1.49.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libuv.deb
+Size: 103134
+MD5sum: d1ccf8fe3bc7a001828d4d75d312ca17
+SHA1: 2693e0783e8ba3559c3b34579baa0ad2e9f6fe4f
+SHA256: cfcf70a6a9985b0c2420a89ecaa23647c4a0d5eb887383b368faaf96ff722083
+Section: Development
+Description: Cross-platform asynchronous I/O
+
 Package: iphoneports-libxau
 Version: 1.0.11
 Architecture: iphoneos-arm
@@ -1564,15 +1577,15 @@ Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
 Package: iphoneports-wasm3
-Version: 0.5.0-3
+Version: 0.5.0-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-libuv
 Filename: ./debs/wasm3.deb
-Size: 134076
-MD5sum: cc0b533f2e36977252896d1e117e9792
-SHA1: 11a082898fc92c2d0244f0e373420573a069c9a5
-SHA256: 111922ca6bc8d79674f7c4841a2d4712546f2b9fabe12aeffe50776a23cf0bce
+Size: 75232
+MD5sum: a6ad762302a87424df7ad073509fe9de
+SHA1: 00384790820fba84b9dda3a68dd16160679eb5c2
+SHA256: 4434e40f273fb427bc8efa76bbd6ecc24b6934d778e184f15307d65ff1700686
 Section: Scripting
 Description: A fast WebAssembly interpreter and the most universal WASM runtime
 
