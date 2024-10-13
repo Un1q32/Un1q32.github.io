@@ -1407,15 +1407,15 @@ Section: Utilities
 Description: SQL database engine
 
 Package: iphoneports-squid
-Version: 6.11
+Version: 6.12
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-libc++
 Filename: ./debs/squid.deb
-Size: 3078914
-MD5sum: 74bf46481e355ce4f840f1986f8424ec
-SHA1: b14e0068914c28b71e90490c8caddbec272de018
-SHA256: bfcbce9c4a824a164f5ac79222b64849e72086604028107c86bd301e3379e6a2
+Size: 3119680
+MD5sum: 43233e5b1eecebf160435adcddd42c4f
+SHA1: 124e1a8a706d5bb335e135594032f267094bb462
+SHA256: 0dd85549198efcc885c4484f573267bd10dc46f1dc2fa8aa9231019adc142bc0
 Section: Networking
 Description: Full-featured Web proxy cache server
 
