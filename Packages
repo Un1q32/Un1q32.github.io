@@ -199,19 +199,6 @@ SHA256: 6d050d535114a5ac2b1f961b6cf8528d470b30a7e523a028a9746bdf30416376
 Section: Development
 Description: C language family frontend for LLVM
 
-Package: iphoneports-classpath
-Version: 0.99
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/classpath.deb
-Size: 10582956
-MD5sum: 786d4406acfbb4b9eea5cd6a3d55dc67
-SHA1: 7640bfe09bd38596f4ee731d56a1eceb4d8c7e9b
-SHA256: a20f80de487c03b8f531644d2def606da2505c4ec25b7d81a2d65529fba935c1
-Section: Java
-Description: GNU implementation of java
-
 Package: iphoneports-cmatrix
 Version: 2.0-1
 Architecture: iphoneos-arm
