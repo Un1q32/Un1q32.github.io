@@ -656,15 +656,15 @@ Section: Development
 Description: A library with common code used by libraries and tools around the libimobiledevice project
 
 Package: iphoneports-libirecovery
-Version: 1.2.1
+Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusb, iphoneports-readline, iphoneports-libimobiledevice-glue, iphoneports-libplist
 Filename: ./debs/libirecovery.deb
 Size: 36850
-MD5sum: b068b0b9d5ba53d0c92b1f6ddd490be8
-SHA1: eb4d395201e23087246759eb2257dc9845b93d62
-SHA256: 99d836e13a05167737696f3a2533490009cacc3646d42113c1bb08daea4fb8c6
+MD5sum: c1998b13c38c26a6ddb0c4b275edffbf
+SHA1: 045c59c2b980015d63767701df2525f3576ad997
+SHA256: ef6df7df3dd26600e1f8b72b2c098fe275905c5ddbc96d79c8bfe4172c4d55b9
 Section: Utilities
 Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 
