@@ -187,15 +187,15 @@ Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-clang
-Version: 19.1.1
+Version: 19.1.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm
 Filename: ./debs/clang.deb
-Size: 51937806
-MD5sum: 0daee301101a45c393f765ab1f9d2fe1
-SHA1: 684aee7662f7524478520d2835b3d697b0a3459f
-SHA256: 6d050d535114a5ac2b1f961b6cf8528d470b30a7e523a028a9746bdf30416376
+Size: 51935794
+MD5sum: 427722dc38445ae1b1a88678603ececb
+SHA1: 81c1ce56ba11ad4579a6b7890e8b60b442df8387
+SHA256: 96ed0c8b4c34bb40073fc3e5d644b9042383da57511a575a93dc23fc1aaee220
 Section: Development
 Description: C language family frontend for LLVM
 
@@ -590,15 +590,15 @@ Section: Archiving
 Description: Multi-format archive and compression library
 
 Package: iphoneports-libc++
-Version: 19.1.1
+Version: 19.1.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libc++.deb
-Size: 1535832
-MD5sum: 5d35182a6887bd7fc83c374a2a4e04ee
-SHA1: 88b42308e000dfc43912e862e481c7831b4867ef
-SHA256: 56b0d9ef2f8482574469022237d46df31d881a9bca51a4927e6f02a00ae8d15c
+Size: 1535776
+MD5sum: 01417db94acaf6b6eac72c8023984ff4
+SHA1: afc500cd684c2ec280e65ff8137e7d364a4376df
+SHA256: 4cc7aae15cdf300b16ac513f135ed1c0b206380d421cc09890e26761f9df76eb
 Section: Development
 Description: LLVM C++ standard library
 
@@ -853,15 +853,15 @@ Section: Networking
 Description: Lightweight high-performance web server
 
 Package: iphoneports-llvm
-Version: 19.1.1
+Version: 19.1.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/llvm.deb
-Size: 51929784
-MD5sum: 22b3dc920205b6e0d85529aef40ceabe
-SHA1: 647a73c011c8eaad2d7415ba74a477e4e4ded8dd
-SHA256: c40cc2b4d5ed33c68242e60d91d2351f42bda745c3e2808d9b9fa6795dfd6a30
+Size: 51933454
+MD5sum: 2d7117fac63c7f93a2572e76af5aef49
+SHA1: bcef43c6e5c678d00e06ea5d1664cfde8b958f11
+SHA256: 44c9261ce90b1d9a500b79bb41b18593a122ab0a4592d7a19408117c2c8b3c0b
 Section: Development
 Description: Compiler infrastructure
 
