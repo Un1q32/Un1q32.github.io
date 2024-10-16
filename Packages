@@ -1142,16 +1142,16 @@ Section: Development
 Description: ngtcp2 project is an effort to implement IETF QUIC protocol
 
 Package: iphoneports-openssh
-Version: 9.9p1
+Version: 9.9p1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2623360
-MD5sum: 8c95ed77ac8c9aa37d57f0f84071ed29
-SHA1: 47fe435797a37c193ec8f8a717a4a3bf1dc1ad0c
-SHA256: 4a6d1bc6322be50f2016c7fed12066ec8732640dc8180f88fba484dad7d3d4d9
+Size: 2625146
+MD5sum: 8c6be54dbbdae90dbbf710b60df31127
+SHA1: 1e3c5fed724606a8655e3f9d2f57705d77e8afe6
+SHA256: 26e7873070d5200521e6db760287f99772071c8d0f6e5bb785b50cfd887a0a52
 Section: Networking
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
