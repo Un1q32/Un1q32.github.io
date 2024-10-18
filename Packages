@@ -1408,15 +1408,15 @@ Section: Administration
 Description: substitute user
 
 Package: iphoneports-sudo
-Version: 1.9.16-1
+Version: 1.9.16-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl, pam
 Filename: ./debs/sudo.deb
-Size: 1057352
-MD5sum: c4ca18cec649dc980235ff00271e0429
-SHA1: 3e0e61d27c9e6b2ec991ad74b89f18df86ff98d6
-SHA256: 36ead4f5cd5e9dcd79e22254ddf31c65939ad335119ee58f416a25825523e92c
+Size: 1057348
+MD5sum: 9f6cdad8c19bc10fdb335b826252bd62
+SHA1: 444eb3034bba224b639557e95e2dcb38d76112ba
+SHA256: 387ba75cae89bedebdd3eaa0aaf7658e8294a89848bc92e6225ebdee571a57bc
 Section: Administration
 Description: temporarily assume root priviledges
 
