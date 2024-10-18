@@ -362,16 +362,16 @@ Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
 Package: iphoneports-getusedmem
-Version: 2
+Version: 3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-neofetch
 Filename: ./debs/getusedmem.deb
-Size: 2496
-MD5sum: 87c5e7941f5fcc0a697aed5ae7813e2f
-SHA1: 7c4eec2607492a1aaeb341d414f823d598d0af38
-SHA256: 74758b118fd5aabad01b74d6ab938ceb0f10316ebd2b58e81039113c12e27fe5
+Size: 2498
+MD5sum: 66548fa933898fff26762d83b310e1be
+SHA1: cb7f0abaeca66ccf6d789182e13779ac9ad5222d
+SHA256: a66a0c1f2c162822c641fdaa87289bd19adef1dfdb8409b384198c850ae6666a
 Section: Utilities
 Description: prints used memory in kb, for use in scripts
 
