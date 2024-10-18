@@ -556,10 +556,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libressl
 Filename: ./debs/ldid.deb
-Size: 89800
-MD5sum: fd46414df8e2489a61b1a84c5522609c
-SHA1: e6f5ceb06dc98fb7639867e38219ec294e655d8a
-SHA256: 813ed1995a61d9d0cf60cb4729fbe7e81dc34b19d2d1cb9717634ceb8900c2de
+Size: 89796
+MD5sum: 84a2aa8325504d6d1f054f29c85e30e9
+SHA1: 7625ba34ad627f33d2f6798380940482358e534f
+SHA256: 51887e2bf0b39872b8b7f90184a319261facb12c7a1795174dcf911c2ec89009
 Section: Development
 Description: Link Identity Editor. Put real or fake signatures in a Mach-O.
 
@@ -1413,10 +1413,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl, pam
 Filename: ./debs/sudo.deb
-Size: 876370
-MD5sum: 162c826bd4212c61155fa5c319dab09f
-SHA1: 9a5a484be68698c2668ee1c0deeebeb7a5288b67
-SHA256: 72c1feaa3d9f5585f782c6417f0d2fdc44a2b8b2f73951faee8d626fa7a056f4
+Size: 1057352
+MD5sum: c4ca18cec649dc980235ff00271e0429
+SHA1: 3e0e61d27c9e6b2ec991ad74b89f18df86ff98d6
+SHA256: 36ead4f5cd5e9dcd79e22254ddf31c65939ad335119ee58f416a25825523e92c
 Section: Administration
 Description: temporarily assume root priviledges
 
@@ -1478,10 +1478,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/top.deb
-Size: 34500
-MD5sum: e31a6e11692c0ab4233eeca97af8f4c7
-SHA1: 1b66e008d5fd40f84a373851fb2b16899c620f4c
-SHA256: e1d01c97c4773737fdfd42a6835eb388681afc3e517da855f7a9d2bf489b3faa
+Size: 34506
+MD5sum: ad01acc7df2f35e4b61c710f5d9b31e2
+SHA1: c5102da6ad28eba1095c45629da147e59db1f2a2
+SHA256: 617b9929089c7f22ba61843acfb2e98b5b082e8b1de211727aa0dfca3e52d2fb
 Section: Utilities
 Description: A utility to display and update information about the top cpu processes
 
