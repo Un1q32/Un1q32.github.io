@@ -1248,15 +1248,15 @@ Section: Archiving
 Description: A parallel implementation of gzip for modern multi-processor, multi-core machines
 
 Package: iphoneports-ping
-Version: 325-4
+Version: 325-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ping.deb
-Size: 30776
-MD5sum: 854fd0a7969d4727e8ac204976448dc6
-SHA1: 5d869fffbfc2b621292cf6103cf8efd7ab99db81
-SHA256: 89a32907f677f2530485156bed397ed9b7811a4ab26d4c35ab13ba59f761d255
+Size: 31740
+MD5sum: 11e84141fc83fa8a404d505d3af68e8f
+SHA1: 7d126c1990510e2b770e7dcf6db2abc185390aae
+SHA256: 19443f0da7dc4f4afeea65014d02c7ffb1247c9200373eedaeb69616cb9fed39
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
@@ -1274,15 +1274,15 @@ Section: Development
 Description: C library for parsing command line parameters
 
 Package: iphoneports-ps
-Version: 172-2
+Version: 172-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ps.deb
-Size: 16896
-MD5sum: ce0999ae265010c767e657c780920b7d
-SHA1: b96f0783c08c87456cb3d58da9eff7531ce46015
-SHA256: bafb03b64c128a6ad5d6b7995026c126fd6e3c959001da7a320aab541ce11f10
+Size: 16422
+MD5sum: f92b586c4b9fc73a831f426cabdee9ea
+SHA1: a7a989a3941aaf79cfe78858f716eeb1c3df7376
+SHA256: ee76dce0e37edbb7f68a8111b539bdab915b6c8181b816c8b461c61b0c56b187
 Section: Utilities
 Description: report a snapshot of the current processes
 
@@ -1538,15 +1538,15 @@ Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
 Package: iphoneports-vm-stat
-Version: 498.0.10-2
+Version: 498.0.10-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/vm_stat.deb
-Size: 4154
-MD5sum: f262cd2f72326897d5fd4383e0ee91a5
-SHA1: 5622ee3b97ed7a1649cb1c1b7e1c9abbb62dadc6
-SHA256: a68592e0bae2324f17e058790fe62abb732639b662e8aaab5d0bb0dd8e7fb2b5
+Size: 4590
+MD5sum: c07770ff76a6f7a239c28d690618c03f
+SHA1: 73673d17bae67b99aaeb321d5fe7d9e98b675eda
+SHA256: b316d01ab9fd66a9003ef6e3bd31e6e1ac8f9f51d9208a7bd5061b2752c908be
 Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
