@@ -28,14 +28,14 @@ Package: iphoneports-base
 Version: 20
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 2.0), iphoneports-dash, iphoneports-coreutils
+Depends: firmware (>= 3.0), iphoneports-dash, iphoneports-coreutils
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
 Filename: ./debs/base.deb
-Size: 6354
-MD5sum: 11fe8c776e5eb749a718cd7c908cce86
-SHA1: f3d65ad0a2e1b7f31cac6a6c5309b20d616fe9d1
-SHA256: 5ee55f8c9f566ccb5cf05cbab12357ce49a2c529b1ce8bf14a1ab19923547623
+Size: 6336
+MD5sum: 2bf92877a939f36948bcdd340ebe1e8c
+SHA1: 1bbf3979c257763d6def7eec5e87820508f6fe47
+SHA256: c0234237da0811787a9efaec4a356f5c85dad867d49347ce0c91096e0e72769c
 Section: System
 Description: iPhonePorts base
 
