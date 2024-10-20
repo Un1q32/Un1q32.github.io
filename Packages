@@ -253,6 +253,19 @@ SHA256: 9d6e64923130ede0f011305c484d969e98c79c128108a3a302a4caf440586b10
 Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
+Package: iphoneports-dav1d
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/dav1d.deb
+Size: 325938
+MD5sum: 8dec5bc7bdcd2f56f33149bf57cd9dad
+SHA1: 18e9c836c019f43aa850eb42f22f06ce89a4b119
+SHA256: cafba2efab4d52d0208d0f0b7bd73fde31b7841b0864781a60ca08df83eb6a6f
+Section: Development
+Description: AV1 cross-platform decoder focused on speed and correctness
+
 Package: iphoneports-diffutils
 Version: 3.10-1
 Architecture: iphoneos-arm
