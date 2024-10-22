@@ -934,12 +934,12 @@ Package: iphoneports-lz4
 Version: 1.10.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-xxhash
 Filename: ./debs/lz4.deb
-Size: 162132
-MD5sum: f58bc12bcd7232e236402a738dd8a553
-SHA1: b85947e14f98d5b8419e1ccbd0857a17f9e89cf6
-SHA256: 83dd2e6cdefe84fd8769a3a66b4e682de91c44ced703314a46cf45d2d5ff122a
+Size: 156996
+MD5sum: 6f28c9f6a27e825f7f08855a3a82c1fa
+SHA1: ea4b36656a9d43a90da7901a486fda2340628e0d
+SHA256: 6b48dca4243a214952d25d4baacccb525492ca1813259aac5772bf4de0213b11
 Section: Archiving
 Description: Extremely fast compression algorithm
 
