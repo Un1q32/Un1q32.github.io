@@ -827,15 +827,15 @@ Section: Development
 Description: X11 authorisation library
 
 Package: iphoneports-libxcb
-Version: 1.16.1
+Version: 1.17.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libxau
 Filename: ./debs/libxcb.deb
-Size: 480472
-MD5sum: bcb080948c4780eda33a08d1d924d612
-SHA1: 47ac8761bed235f41ad210f0ac3d9396120d7851
-SHA256: 82eba03d876eecf4ff38c3c07c816399c15658fb1c7d1e3b1c096364b9412ed3
+Size: 480538
+MD5sum: cced2e5055594ff6cc8ca6babffd9a88
+SHA1: 49ed0d534316127435efec361bff449b98fec5b0
+SHA256: 406e36cabe137c37377de6ab5ab60dce2f506d5bbbd11c53aad4bd1d35debfa6
 Section: Development
 Description: X11 client-side library
 
