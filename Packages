@@ -1103,15 +1103,15 @@ Section: Development
 Description: System V Release 4.0 curses emulation library
 
 Package: iphoneports-neofetch
-Version: 7.3.11-1
+Version: 7.3.11-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl, iphoneports-getusedmem
 Filename: ./debs/neofetch.deb
-Size: 136294
-MD5sum: 8767d00ac283c5f0b8c8fa7d23122606
-SHA1: 6832cea3d3b03b6a7dc343c55168fb9125c3044f
-SHA256: 91034df3dce50e7c39dafa67e4be3adcfd724c11dac8c2806528897a3e179fb8
+Size: 136584
+MD5sum: 96f1de13ee835af85e24219598cf9a73
+SHA1: fb094ef2d12acc36e28d9d28eaae47b024f8a9c9
+SHA256: 1fe6c4a86f068d229144ac4f9d7a44ffb1293137aac0bcb46e0b9236ec51e393
 Section: Utilities
 Description: A command line system information tool
 
