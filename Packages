@@ -83,12 +83,12 @@ Package: iphoneports-boxes
 Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-ncurses, iphoneports-libunistring, iphoneports-pcre2
 Filename: ./debs/boxes.deb
-Size: 78614
-MD5sum: f294b081d0fa505de05915364087b2b8
-SHA1: cd3c7d96cbd6f9b5a3f01b53158d5305dbd9c8b9
-SHA256: fe3c60a0d89e4bb42a3a5cbcca254e8b66f50fe68e5c9e1c638c33cf03955909
+Size: 78480
+MD5sum: f7604a12724107f95931b66c1d99307f
+SHA1: 0bc58a2398988171195c09b88216d8d76e7512d2
+SHA256: 780318e0ea6cf0a00cbe677447f6c250eb964fa9a4961e148de3f8f2e7318150
 Section: Utilities
 Description: Command line ASCII boxes unlimited!
 
@@ -761,15 +761,15 @@ Section: Development
 Description: Library handling the communication with Apple's Tatsu Signing Server (TSS)
 
 Package: iphoneports-libunistring
-Version: 1.1-1
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libunistring.deb
-Size: 764528
-MD5sum: d99710b02be071f1bd46bcada5952432
-SHA1: 65b405536912339bca8e74ff27144a5c75417563
-SHA256: 0f3588c41140070d284cc7cf23b569808ef34b0093b22b958828cdff8bd282a6
+Size: 850774
+MD5sum: ddea083e35dfb7b0873311dd8560a881
+SHA1: 2cd613b35d12e23d4a2ac5ea64b633e0c356e254
+SHA256: 25b1585341e7a5cba21b845b0b552a58d88f1c1e0356402480ca19c96d4bca03
 Section: Development
 Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
