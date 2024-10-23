@@ -1681,15 +1681,15 @@ Section: Development
 Description: combined X.Org X11 Protocol headers
 
 Package: iphoneports-xtrans
-Version: 1.5.0
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xtrans.deb
-Size: 38934
-MD5sum: 0059f2eb961049a80d273d07d9cef4e7
-SHA1: ffaca20776ab7ae37e390b164cad12daf4a67bee
-SHA256: ed9b05eb84195b7eee804667e4a23c69898b296e9fc9c6cdb40198c5b092b46f
+Size: 39030
+MD5sum: 2432c3e08181e8033d61af098bb652a1
+SHA1: c1c7092b6d9acd8b691640b37b213b8bdbb1ba6f
+SHA256: 3e4d93e705b01214e9665a0e5fff930ae193255163e178a339d1209cd7792ab8
 Section: Development
 Description: X transport library
 
