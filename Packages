@@ -708,15 +708,15 @@ Section: Development
 Description: A library to handle Apple Property List format in binary or XML
 
 Package: iphoneports-libpsl
-Version: 0.21.5
+Version: 0.21.5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring, iphoneports-libidn2
 Filename: ./debs/libpsl.deb
-Size: 70432
-MD5sum: b17fd087f8e8e863b60e251300881f94
-SHA1: 68c627d6c345f027340fb8d10f541e24986ba059
-SHA256: 033847256dcf4d4def04ffefc925db31ff4426fadbe42f781390bea4b4382b06
+Size: 63460
+MD5sum: 58276eb13db7392f6530b4e91b7640d1
+SHA1: 6f4bace9c1230f63ca9b437d612db5f908748958
+SHA256: 2e662226d059883a36973b4d5894dcffafc38f8fefc89f0abb13d5bc6f2b1aaf
 Section: Development
 Description: Public Suffix List library
 
