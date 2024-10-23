@@ -1668,15 +1668,15 @@ Section: Development
 Description: X.Org Autotools macros
 
 Package: iphoneports-xorgproto
-Version: 2023.2
+Version: 2024.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xorgproto.deb
-Size: 206040
-MD5sum: 6bb3fb182d6450f52f48a7c931bce310
-SHA1: a9e330a5628c91916ba6fcc1eb98174881a4033a
-SHA256: cd7b8e5cb59a95ba84a57d477a134100e3d826bd19c6b6a67039039b313dc3d0
+Size: 208530
+MD5sum: afe1b304c3b044dc75123c69de5565cd
+SHA1: b17e0698459888099e4658648c93e7251c85bc3f
+SHA256: 31d351b8c836c5c5e297b136b6640423b58c8450d47866fc2a8b5a929d6d0b79
 Section: Development
 Description: combined X.Org X11 Protocol headers
 
