@@ -1642,15 +1642,15 @@ Section: Utilities
 Description: An internet domain name and network number directory service
 
 Package: iphoneports-xcb-proto
-Version: 1.16.0
+Version: 1.17.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xcb-proto.deb
-Size: 191944
-MD5sum: 8e43dab1499cfac4c45b52e61003eee5
-SHA1: ce6c54b45d4da490102eedf5656ad8d657f9726c
-SHA256: 0f6f0695d5a08aced7a48ed12051bcef54dd947e83dfe3274409e279c4430e4f
+Size: 192284
+MD5sum: 76534770147ab4be2750f5a485ad936c
+SHA1: 0ac579a3ffdfa24e382554d23cd981aa62b540d5
+SHA256: ebab6e9e428cf05c2cfe78dc41d22395efb026f72fc410f259146dd935ac9393
 Section: Development
 Description: XML-XCB protocol descriptions
 
