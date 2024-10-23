@@ -1129,15 +1129,15 @@ Section: Text_Editors
 Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
 Package: iphoneports-nghttp2
-Version: 1.63.0-1
+Version: 1.64.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libxml2, iphoneports-libressl, iphoneports-zlib
+Depends: iphoneports-base
 Filename: ./debs/nghttp2.deb
-Size: 126424
-MD5sum: 91d9b85dd3b94b9182866890ae3b6160
-SHA1: ef33e9457e65c01f1b4eddfd6d7d338637e10ff3
-SHA256: 315ed28bbe8f611a69f96aa7e80b61959d52e2e032c6910d638fcd7eacb3edae
+Size: 126740
+MD5sum: b47b1232b7d58261aa3e3d2e85f44ca1
+SHA1: a4c4776c3564d3dd58c9d1fae028e6418749e35b
+SHA256: 6192d8233ee4060298d3cee1a58e66c29c16d71d23235905f75456574fd4dfa5
 Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
