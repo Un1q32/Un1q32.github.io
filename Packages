@@ -1655,15 +1655,15 @@ Section: Development
 Description: XML-XCB protocol descriptions
 
 Package: iphoneports-xorg-util-macros
-Version: 1.20.0
+Version: 1.20.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xorg-util-macros.deb
-Size: 18090
-MD5sum: 3793dfdf46b01050f2c5fc14edb6c286
-SHA1: 3e0aa9aef5da9d5f202c1d8ebe521d43e391d3b7
-SHA256: 8525ee985053f25ea09fb636942cf7422538afca39bcc679db7b77533b9fa2f4
+Size: 18036
+MD5sum: 2cc4f2236d5d85db49ad54b137da4a0e
+SHA1: e1065bac5be04a9f054561c2510e79888f28dc53
+SHA256: 7312ccb12a55762a85b1146f97e8ba598ec3b7abeca763581c8c61e63232c15b
 Section: Development
 Description: X.Org Autotools macros
 
