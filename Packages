@@ -931,15 +931,15 @@ Section: Scripting
 Description: a Just-In-Time (JIT) compiler for the Lua programming language
 
 Package: iphoneports-lz4
-Version: 1.10.0
+Version: 1.10.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxhash
 Filename: ./debs/lz4.deb
-Size: 156996
-MD5sum: 6f28c9f6a27e825f7f08855a3a82c1fa
-SHA1: ea4b36656a9d43a90da7901a486fda2340628e0d
-SHA256: 6b48dca4243a214952d25d4baacccb525492ca1813259aac5772bf4de0213b11
+Size: 157006
+MD5sum: 95599fb1f1d73719addbf5eadb6f50e8
+SHA1: 463375d6cab18b60aae9c2d1993163c2cf825216
+SHA256: 319c982f125c5d89e16924f4da07c1912b737e9d504472c90cd55e1bc1c87194
 Section: Archiving
 Description: Extremely fast compression algorithm
 
