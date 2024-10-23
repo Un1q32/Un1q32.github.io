@@ -590,15 +590,15 @@ Section: Development
 Description: Link Identity Editor. Put real or fake signatures in a Mach-O.
 
 Package: iphoneports-less
-Version: 661
+Version: 668
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre2
 Filename: ./debs/less.deb
-Size: 120314
-MD5sum: e4c4f2df016b2e5abb16447399a96295
-SHA1: a1f9e62c9f113b4d86088a013631afa97db3cfcc
-SHA256: e5c1be6185baff8e16d64acda9f2baf0d03af45fbde5ef328c9051c93a32488f
+Size: 121968
+MD5sum: 1905a9f6c0d6bed383a56cf1efd8f4a0
+SHA1: 6077c0ce89c54f9062467b1fcad1976f2db3b3fb
+SHA256: d9627343135df1111adc4fde4fc7c91be99c440b5189f82e4baa7bd061162c76
 Section: Utilities
 Description: provides less information than more does
 
