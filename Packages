@@ -40,15 +40,15 @@ Section: System
 Description: iPhonePorts base
 
 Package: iphoneports-bash
-Version: 5.2.37
+Version: 5.2.37-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
 Filename: ./debs/bash.deb
-Size: 421898
-MD5sum: 6bf145a118151e4a787de685a0de57a0
-SHA1: c33ec29c714d020c12f89d252db9d52989117843
-SHA256: 55d12582af00ae11c8bbde6046bbd8fb7a3730aa289752abf733642438515745
+Size: 434764
+MD5sum: c628efa1d0f0250a750137a3555efa3d
+SHA1: ed12e94ac3cbef0b9cc1229bfa387769a109685b
+SHA256: b81bf6e9bf7798477f62a85e467439c325bd354dcdae49492c777899c4415995
 Section: Terminal_Support
 Homepage: http://www.gnu.org/software/bash/
 Description: The GNU Bourne Again shell
