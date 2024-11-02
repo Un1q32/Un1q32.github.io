@@ -1326,15 +1326,15 @@ Section: Utilities
 Description: Show ps output as a tree
 
 Package: iphoneports-quickjs
-Version: 2024-1-13
+Version: 2024-1-13-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/quickjs.deb
-Size: 555576
-MD5sum: a8eef81c5568bc8e18c038e19ad79bbe
-SHA1: 91a17da81adaf0813ccf4f186e358467cb033761
-SHA256: 9f3deedd25809ba103beee02d6cac81c704e1eec80c9cbb697dc6f85a40806b8
+Size: 555658
+MD5sum: 43f4009daa1d10e12a40545e1fdf7355
+SHA1: 8b8befae2df7db1fea35ef874ee39afa8193818f
+SHA256: b1536ab5d1d3efcbddfc46d05a1e2a6578b76e157f279201b917cb8a16511ffc
 Section: Scripting
 Description: A small and embeddable Javascript engine
 
