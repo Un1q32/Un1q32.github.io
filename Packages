@@ -1551,15 +1551,15 @@ Section: Utilities
 Description: A socket daemon to multiplex connections from and to iOS devices
 
 Package: iphoneports-vbindiff
-Version: 3.0b5
+Version: 3.0b5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/vbindiff.deb
-Size: 24312
-MD5sum: 0be3c19834db7b13fa0c56f53602def2
-SHA1: 0ffcdf9eb2336b4211ec1408eb7cc04c322f12fd
-SHA256: af6757bb131a4d96866a60c562b39cdb3220114d15ef388f947b129c71c8a90e
+Size: 21932
+MD5sum: cc51ef0e4cf9adf2f43e1a8848c33988
+SHA1: 4bd203139b47881d70f71852bab856df61ae10a4
+SHA256: 8b64f9154820d47ba3814a859be7e42d7c72751a61bb3a168f9ac88dbf804944
 Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
