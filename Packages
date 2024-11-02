@@ -1486,15 +1486,15 @@ Section: Terminal_Support
 Description: enhanced version of the BSD C Shell
 
 Package: iphoneports-time
-Version: 279.100.3
+Version: 279.100.3-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/time.deb
-Size: 3812
-MD5sum: 869d0bd7241059b6f5e2d52790d36999
-SHA1: 485eb346020c9a3b9bc2eb30b5fb1108ba36aedb
-SHA256: f4ed76dbf7447ffff267f150e1fe2d54bb12f2a065b0c679f64f20981241dd23
+Size: 3672
+MD5sum: 7dff5a4e441f375aefc83a1a7b852730
+SHA1: c6c3bba24ec53f8bfc13fe9b09141467cd345238
+SHA256: 4f437237c3edadd7e738277b128778f9d9297dfdf5aee4e1d2b8af1950d5debf
 Section: Utilities
 Description: A utility for timing command execution
 
