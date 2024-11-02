@@ -1630,28 +1630,28 @@ Section: Networking
 Description: Network utility to retrieve files from the Web
 
 Package: iphoneports-which
-Version: 278
+Version: 278-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/which.deb
-Size: 3168
-MD5sum: ec68b546b8262800a55eafd2166d3137
-SHA1: a9ace83a5ab301528dd013247867bed44fd8fd0e
-SHA256: dc5c08c376bf67e60595cabd8d13c2bdea852505f8a32e58468cf1f433178bef
+Size: 3084
+MD5sum: 284347b3bd889db1db1ea70d53faab86
+SHA1: 9b999b9044099e694fbc7fafb871c6ea60e2234f
+SHA256: 03abb14eece8043a0f0a73d94ba2ca9c90b4134280d1ed4a61e67576b0162960
 Section: Utilities
 Description: A utility for locating programs in the user's PATH
 
 Package: iphoneports-whois
-Version: 199.0.1
+Version: 199.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/whois.deb
-Size: 6438
-MD5sum: 35e1f496aa82fe7f5992ae9695c792b2
-SHA1: 18a08925aec88c8436fe6ac79df5a816e0965773
-SHA256: bc89cfa506778a911cc5a89a8789add964bf6b1d0c646b37afd23bae8794ee2b
+Size: 5968
+MD5sum: 1a775335ce930a1a9c555b39831e1c27
+SHA1: 83d726cf4430ff35dc936a0e07d9575f93ff1cfc
+SHA256: e41a1ddf259a8c5498c4a86e24783c710e3fc8ae89b9ce28337aaf3a0a76af7b
 Section: Utilities
 Description: An internet domain name and network number directory service
 
