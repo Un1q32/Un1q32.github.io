@@ -498,15 +498,15 @@ Section: Text_Editors
 Description: View and edit files in hexadecimal or in ASCII
 
 Package: iphoneports-hostname
-Version: 240.100.15
+Version: 240.100.15-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/hostname.deb
-Size: 2828
-MD5sum: fb1d237ae80fb7365f1f4a2f21c55296
-SHA1: 676f70a154f352e962b6c174b99d540f81a39888
-SHA256: b0da115ff7d7f8b4828cefac7479ff9b5dbdf3add727caf72a8a04785d8e71ed
+Size: 2796
+MD5sum: c68352c947b08ded12364b34042c65ae
+SHA1: 9d1bdfb994052b1952ec4577463efe538ad0c5e4
+SHA256: 2364a01a7cb9097b64ca9964fc70198a725d7c6c0aab5882ac395c112c251b3a
 Section: Utilities
 Description: A utility for setting or printing the name of the current host system
 
