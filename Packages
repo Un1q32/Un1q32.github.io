@@ -1274,15 +1274,15 @@ Section: Archiving
 Description: A parallel implementation of gzip for modern multi-processor, multi-core machines
 
 Package: iphoneports-ping
-Version: 325-5
+Version: 325-6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ping.deb
-Size: 31740
-MD5sum: efcb08811041f1b0f3ad846b93e7b61a
-SHA1: af068e21bbfaf95909cee16d5d111f0a4f674084
-SHA256: a4e5f1d8c733fad0fa26ff4ef2b93f123f7b2c90462fb628c43dbdd63a6fcb85
+Size: 28844
+MD5sum: 91cdf86174c470d0cb541d63a8dac3cd
+SHA1: b4368b37eb92f6c21ac03b2436ca082590523030
+SHA256: b4ef88622c3680737039e66d7ac022accba827fb0e31c8f47cdcf993dc6c247a
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
