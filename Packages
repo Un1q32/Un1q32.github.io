@@ -281,15 +281,15 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-doas
-Version: 6.3p12
+Version: 6.3p12-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Filename: ./debs/doas.deb
-Size: 16016
-MD5sum: fd01dc7288b7f4020dd64d09fe471d35
-SHA1: 744452d350b06eaf6b7f42780f296aec05aad907
-SHA256: ad79d62909fc51887d406879739068eb76f6eeffd3d92b4c9e2e3dbd70f67b1a
+Size: 14280
+MD5sum: 567673fbd208c91554ac88a4782f544d
+SHA1: e97ba15a0b1fb0c245ad8573c0b52508f21cab1e
+SHA256: 0a2310831fc137d55bfa37d8e00120fc3ddaccfc0928b06d84ac21a2fa0a838f
 Section: Administration
 Description: a minimal replacement for sudo
 
@@ -1077,15 +1077,15 @@ Section: Utilities
 Description: Disk usage analyzer with an ncurses interface
 
 Package: iphoneports-ncompress
-Version: 5.0-1
+Version: 5.0-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncompress.deb
-Size: 11378
-MD5sum: b49a16289d780ba561f924d021bec586
-SHA1: 60e9868b20c6089c65185e2db4836251bacd0a8d
-SHA256: eaa0325e56067238c4c36d4b8e571fa73c913bc74be329d57071a2b8f1f6ec89
+Size: 10454
+MD5sum: aaa7b5d8e5b2767c9c7fea72149059f7
+SHA1: af7cb62810593732156a506b2387e2dff07179de
+SHA256: 0ca60972d129e936f0369a6c83895f28767343c2ec7cc17aba69b0c745da8575
 Section: Archiving
 Description: a fast, simple LZW file compressor
 
