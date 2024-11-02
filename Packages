@@ -429,15 +429,15 @@ Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
 Package: iphoneports-gptfdisk
-Version: 1.0.10
+Version: 1.0.10-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-popt
 Filename: ./debs/gptfdisk.deb
-Size: 161964
-MD5sum: 77673dd3660d5656b829d570273ce520
-SHA1: 2cdcf190c05acbc44c1918bcf850d09a9d994fd3
-SHA256: 6304a1f059aaef7495256543001441c07a27aead5be5902c022447911744b7a0
+Size: 142608
+MD5sum: 19968c72e37bc72b0b5e6a9424a57f6e
+SHA1: 005d9213f2cd76b86b01d5a84b24321163ba6b60
+SHA256: 058d9631e2feec3265e8d667896d2dddac13d15fc5df39ae0db5d89843c0b2a9
 Section: Utilities
 Description: A text-mode partitioning tool that works on GUID Partition Table (GPT) disks
 
