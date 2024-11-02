@@ -1183,15 +1183,15 @@ Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
 
 Package: iphoneports-passwd
-Version: 433
+Version: 433-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/passwd.deb
-Size: 8414
-MD5sum: 479eedca24086e69a3785aec2d73f779
-SHA1: 7a89e28b649aad76a8920bb05e5ccd9e117cdba9
-SHA256: a28a6bc7e20b87c52724d9a6bfd3eac8d3d5b7b0525953f071f328d56296fd73
+Size: 6822
+MD5sum: 9c2e74f8b76c91d301323894deca1d49
+SHA1: 75740a7885e3fe8887c0463098bb628c44876022
+SHA256: c31f80c689f35bd2c112d29a984a011b464f64ca754f2687ca851226bcb3ff9e
 Section: Administration
 Description: modify a user's password
 
@@ -1420,16 +1420,16 @@ Section: Utilities
 Description: SQL database engine
 
 Package: iphoneports-su
-Version: 116-4
+Version: 116-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, pam
 Replaces: pam
 Filename: ./debs/su.deb
-Size: 5982
-MD5sum: f2c13175dc59c7b4790449a08cc9fbdb
-SHA1: 8b0d44af121fb51a005acc6b31725f882c796ab0
-SHA256: 35e939db7777d72627e7967174d579cecb4a0cf7afee8f7bff8bca76d045c1f9
+Size: 5674
+MD5sum: cfe7f791d050972942cd56d82e4fe681
+SHA1: bdc153568ae983e252570fed245947d2468f6594
+SHA256: 5ab3527ec9dd288a815aa717bde19d552502c47d7e3e6ae8f318710ecc3108fe
 Section: Administration
 Description: substitute user
 
@@ -1499,15 +1499,15 @@ Section: Utilities
 Description: A utility for timing command execution
 
 Package: iphoneports-top
-Version: 39-3
+Version: 39-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/top.deb
-Size: 34506
-MD5sum: ad01acc7df2f35e4b61c710f5d9b31e2
-SHA1: c5102da6ad28eba1095c45629da147e59db1f2a2
-SHA256: 617b9929089c7f22ba61843acfb2e98b5b082e8b1de211727aa0dfca3e52d2fb
+Size: 30022
+MD5sum: 4fa520271a69034277f60fea212c7b29
+SHA1: 1f02fe939e42e054e79d443f03ee99d766a9e491
+SHA256: 70c1489d87f7074a1e995d818a797aa2c29950c8fde80a994c84af16ad6132b1
 Section: Utilities
 Description: A utility to display and update information about the top cpu processes
 
