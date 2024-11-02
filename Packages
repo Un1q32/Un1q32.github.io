@@ -1300,15 +1300,15 @@ Section: Development
 Description: C library for parsing command line parameters
 
 Package: iphoneports-ps
-Version: 172-3
+Version: 172-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ps.deb
-Size: 16422
-MD5sum: 354193129ff499f166d2845e9ac285c1
-SHA1: 5b623a2163bc6899872f5e34b00dd0b22179f4a1
-SHA256: 4ea3d0146dc204f395e63a2059f3db887e5e073edc99ecfc2fe676ea61b6da77
+Size: 15174
+MD5sum: 90b7b78c66d4242d43346f48ec4d1d85
+SHA1: 305bb355a90fb454b7c9fd6f715a03da7298c7e0
+SHA256: 598e884d5d7a8647cc8bab3030544b0c31dfb77f7b6b4704ba36c20e06f03001
 Section: Utilities
 Description: report a snapshot of the current processes
 
@@ -1447,28 +1447,28 @@ Section: Administration
 Description: temporarily assume root priviledges
 
 Package: iphoneports-sw-vers
-Version: 1
+Version: 1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sw_vers.deb
-Size: 3210
-MD5sum: d5be7f0a56557e16bc29a0de239f60b4
-SHA1: f11518bb5ef47dfc8f15f4fa059a394c95620799
-SHA256: 9042f97473210789e0c6c7ac5d80b5dec8f84403eb3c259ed8fc6e3a917cb9ae
+Size: 3136
+MD5sum: 6a2b7c215d4f99d0a94acb810b90c993
+SHA1: ed44786badb869bdb7a157809a789f9a8e7a134e
+SHA256: d4ad303eb7429eae2e8129f2aea015d3ffa26f69049748a2e71d1a01ace7f208
 Section: Utilities
 Description: print system version information
 
 Package: iphoneports-sysctl
-Version: 979.100.8
+Version: 979.100.8-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/sysctl.deb
-Size: 9496
-MD5sum: 50c424723ed9f9fc91c5450453ea6724
-SHA1: decb852f8bedf08a1bca84d71e49d12e72c9c056
-SHA256: fbe470d810682767d6a44d8da428d6c79291e087bdffac963b8b0214b9d070a8
+Size: 9092
+MD5sum: cfd87c157355f520e6b696c332312dea
+SHA1: eeba90d9a2ab863b4ee341e2697bcb284a370f31
+SHA256: 0fdfd9d5cd73356d39033203032e89bd0cfd043915feb78472d6a5dca2df9edf
 Section: Utilities
 Description: A utility for retrieving and setting kernel parameters
 
@@ -1578,15 +1578,15 @@ Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
 Package: iphoneports-vm-stat
-Version: 498.0.10-3
+Version: 498.0.10-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/vm_stat.deb
-Size: 4590
-MD5sum: 46b0bdebe96e5f7162e6cc3fee731026
-SHA1: 33f2df1f9bca8b625eb72b70e41f511d920f30e4
-SHA256: bae7ee7363116a632b6b7edc9f12a81ce27e531ff8bad30fa0ef9cd100190900
+Size: 4106
+MD5sum: 4269b547e82181e5a9bf401c6e6d5fbd
+SHA1: 9a4a4a784840ca45176e2b4b0ab9318cd63982fd
+SHA256: 719a6a0e4f644e50fe072541ed84d862c36a49903671feda6a461cacbc7af9b1
 Section: Utilities
 Description: A utility for displaying Mach virtual memory statistics
 
