@@ -577,15 +577,15 @@ Section: Utilities
 Description: A utility for killing processes by name
 
 Package: iphoneports-ldid
-Version: 2.1.5-procursus7-3
+Version: 2.1.5-procursus7-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libressl
 Filename: ./debs/ldid.deb
-Size: 89796
-MD5sum: 84a2aa8325504d6d1f054f29c85e30e9
-SHA1: 7625ba34ad627f33d2f6798380940482358e534f
-SHA256: 51887e2bf0b39872b8b7f90184a319261facb12c7a1795174dcf911c2ec89009
+Size: 65080
+MD5sum: 66ca77b1423f80086d24087ce0082982
+SHA1: 458fe4fbc559bad2f92d0186382e1751a71e2927
+SHA256: b7d52c73bf66c7ba7e5974815c31aab6f1363a78ba8620ef48144581bad748d4
 Section: Development
 Description: Link Identity Editor. Put real or fake signatures in a Mach-O.
 
