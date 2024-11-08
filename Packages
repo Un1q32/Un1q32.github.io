@@ -1538,15 +1538,15 @@ Section: Utilities
 Description: A colorized, indented directory listing tool
 
 Package: iphoneports-unrar
-Version: 7.0.9-1
+Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/unrar.deb
-Size: 207186
-MD5sum: bff30e4ea6cc3394b031d3f4c83650e6
-SHA1: c6c06793745d19a78aa977b0cb9dabb9dd57a22c
-SHA256: 781cffad10ab7f2f815473ad49fce933bfe40e8aae6d3864e1353847e3cd83f2
+Size: 206966
+MD5sum: 0eca108aa2328ad769545e26a864e11b
+SHA1: 465ac5eaab3da222eab6fb33910218a4d568f4cb
+SHA256: e2fb30d437a218ba702f4dfea79fe2864f05833b2fe43477551179c6e43157bf
 Section: Archiving
 Description: de-compresses files in rar format
 
