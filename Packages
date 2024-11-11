@@ -577,15 +577,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-imagemagick
-Version: 7.1.1-40-2
+Version: 7.1.1-40-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng, iphoneports-libjpeg-turbo
 Filename: ./debs/imagemagick.deb
-Size: 2545562
-MD5sum: fdb867ee05282ce5951d14f6530e2bd3
-SHA1: 6f8baea70ea5a6d039cfca4a7214bd5275a4e811
-SHA256: d24e839702977f9052850e38683e8223821e32e386fdd905cfd715d8b70ff4dd
+Size: 2551236
+MD5sum: 8e8e95b10052550b8e851811ef9f1640
+SHA1: e80a76d92fce9c1840c8fe0f367310837b69f9c3
+SHA256: df0f2485f43f2381d20003d56c594813103c481cd53c8909ac51b3e483774826
 Section: Multimedia
 Description: An image manipulation program
 
@@ -864,6 +864,19 @@ SHA1: 3e295e9723abca764feeac9c120b2cf63997f918
 SHA256: 2c8cd76d848f1586e952157abe746380ce18a78313ef996234639c0abd4e8d12
 Section: Development
 Description: Cross-platform asynchronous I/O
+
+Package: iphoneports-libwebp
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libwebp.deb
+Size: 424090
+MD5sum: 98bd71a3343569b66c39d24d55c2ce36
+SHA1: 486280c734691779fe6e5eef366376f8dcdd625c
+SHA256: 6e15125f50a57debea6d8cad08212070cc56a18cb72c569a2216354a300d55ea
+Section: Development
+Description: WebP library and conversion tools
 
 Package: iphoneports-libxau
 Version: 1.0.11
