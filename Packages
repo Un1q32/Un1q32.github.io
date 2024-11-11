@@ -577,15 +577,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-imagemagick
-Version: 7.1.1-40
+Version: 7.1.1-40-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng
 Filename: ./debs/imagemagick.deb
-Size: 2449808
-MD5sum: 6f564d845c066801bd768ae6d659f879
-SHA1: dd9a8b1a42cbbd2f98057e88a3ab63bdde98c5c9
-SHA256: a8fb50fcf4ed363d5224b1981a5c79a1ae8c0b243a5338ac7002efe631f001a4
+Size: 2515888
+MD5sum: 182f9daae34dd9753da1dafe25e76324
+SHA1: 9fce23280b49eb275dbf46d779c8366b4c27da33
+SHA256: 6090177cd0be7a371a41be62846976b28fc189799263e4678792389f6a6be3c1
 Section: Multimedia
 Description: An image manipulation program
 
@@ -732,6 +732,19 @@ SHA1: dabe3ef7f99710fb9f598ed0c572fb123b1bb134
 SHA256: 8d283a70d2c8d54dca785b9294f9ab40a3ec6f1a6478c63c0220146fcb0ea30e
 Section: Development
 Description: A library to handle Apple Property List format in binary or XML
+
+Package: iphoneports-libpng
+Version: 1.6.44
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-zlib
+Filename: ./debs/libpng.deb
+Size: 183018
+MD5sum: ee236d30fe1cc0b9a6cf5e0fcaa60166
+SHA1: 76f8522200ecfd92397605d1117cc4832b392c9f
+SHA256: 3c87feb9e68e026cc68dd82f0215af7cc744dff0aa82b58c369e2b136ee5db29
+Section: Development
+Description: A collection of routines used to create PNG format graphics files
 
 Package: iphoneports-libpsl
 Version: 0.21.5-1
