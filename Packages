@@ -577,15 +577,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-imagemagick
-Version: 7.1.1-40-1
+Version: 7.1.1-40-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng, iphoneports-libjpeg-turbo
 Filename: ./debs/imagemagick.deb
-Size: 2515888
-MD5sum: 182f9daae34dd9753da1dafe25e76324
-SHA1: 9fce23280b49eb275dbf46d779c8366b4c27da33
-SHA256: 6090177cd0be7a371a41be62846976b28fc189799263e4678792389f6a6be3c1
+Size: 2545562
+MD5sum: fdb867ee05282ce5951d14f6530e2bd3
+SHA1: 6f8baea70ea5a6d039cfca4a7214bd5275a4e811
+SHA256: d24e839702977f9052850e38683e8223821e32e386fdd905cfd715d8b70ff4dd
 Section: Multimedia
 Description: An image manipulation program
 
@@ -719,6 +719,19 @@ SHA1: f69766c4eb6a7ea1ee9ed2116c81e345a2ae3ada
 SHA256: 8fca9bd0c7bc5035567449a5d41f4864fef3b3b7607688b4f3aa3da5f6433b47
 Section: Utilities
 Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+
+Package: iphoneports-libjpeg-turbo
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libjpeg-turbo.deb
+Size: 687088
+MD5sum: ee1858ba08f555022b46e0898ee18353
+SHA1: a42241757cb4e2426026396cea728a12f70e053e
+SHA256: b58a876b717808fd6696321d65140cd3785db827d394c63484df8b23aaf5968d
+Section: Development
+Description: JPEG image codec with accelerated baseline compression and decompression
 
 Package: iphoneports-libplist
 Version: 2.6.0
