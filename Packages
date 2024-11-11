@@ -1617,15 +1617,15 @@ Section: Scripting
 Description: A fast WebAssembly interpreter and the most universal WASM runtime
 
 Package: iphoneports-wget
-Version: 1.24.5-2
+Version: 1.25.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
 Filename: ./debs/wget.deb
-Size: 267938
-MD5sum: 84c24bdb65a6b77eb06bbd65aaabc95f
-SHA1: 260d0d425abe3ada55cda5f4f3da3cfe5a4b54cf
-SHA256: 0f7ee64070412c0adc3456332b0606aa88b987e1aa405004f5407605d4bea72b
+Size: 267218
+MD5sum: 7fc05cda908a5678cfee74b68a69fa0b
+SHA1: da1c9bd264df34cf717e74216561fa7c92322cf0
+SHA256: f9dd06405e1b1769d8baddd87da37109a1888775c03e485936299c618579135f
 Section: Networking
 Description: Network utility to retrieve files from the Web
 
