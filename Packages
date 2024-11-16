@@ -1773,15 +1773,15 @@ Section: Development
 Description: X transport library
 
 Package: iphoneports-xxd
-Version: 2024-10-19-1
+Version: 2024-11-11
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xxd.deb
-Size: 10306
-MD5sum: 18645c6c7428281c81a06ca32ee229ed
-SHA1: c3cc393139fadf4ee942fae556324f500af0c8d5
-SHA256: 9e715f4c49e0dbb3d653641b7b9effe7f0be50ad0f81dd4305c5eb2eb54d6769
+Size: 10350
+MD5sum: 414331b85857166367ac233f9a22acca
+SHA1: 3d216c9070243d58d2a30a118f82128ed03d6498
+SHA256: 5080e2a3fd6dd1a7e9a0d5c00b4e542d5b5950955921f67b5d57c1b0d17013bc
 Section: Utilities
 Description: Hexdump utility from vim
 
