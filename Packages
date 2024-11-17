@@ -582,10 +582,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng, iphoneports-libjpeg-turbo, iphoneports-libwebp
 Filename: ./debs/imagemagick.deb
-Size: 2556712
-MD5sum: 365c7f629d627b278beb757b0cc4a873
-SHA1: 6b698abbd0fb734714354cc0e74bc20ebcda6e47
-SHA256: a9bd1cc5d61aed286e3475c728afa53c1af74a7d9f6f978641ba2b51ad070f65
+Size: 2556730
+MD5sum: 236ba336953365e583291fe5f85fdee1
+SHA1: 541d10bf953847bd83b57b7e992fd3ab01c8dc73
+SHA256: 63a3308fd6f0626baccb58b5092326a3b5e3f04a94fc0313fad90772a37936e0
 Section: Multimedia
 Description: An image manipulation program
 
