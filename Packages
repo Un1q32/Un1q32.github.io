@@ -1444,15 +1444,15 @@ Homepage: http://www.samba.org/rsync/
 Description: A fast and versatile file copying tool for remote and local files
 
 Package: iphoneports-screen
-Version: 4.9.1
+Version: 4.9.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-ncurses, pam
+Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/screen.deb
-Size: 479016
-MD5sum: 5b44afd1d422c9e5fd0f201afe3ded24
-SHA1: cfdf0c343de95f39d4328a34349a3fa297eaef9a
-SHA256: 3d140253646d0c037b668a3c4995ec9bd3661f5d0cea7b4e9cb1dc133fcbec2a
+Size: 476604
+MD5sum: 8fed1fbc74afd36eee809706564e1169
+SHA1: 519a5169590f58cc39ed5c158628ed6350ec7b47
+SHA256: e2c94654afdb60cbb48b7a192d300117dbe250fa8df42583e5ffdd894fd62a52
 Section: Terminal_Support
 Homepage: http://www.gnu.org/software/screen/
 Description: multiplexes a terminal into many
