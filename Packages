@@ -827,15 +827,15 @@ Homepage: http://www.gnu.org/software/libunistring/
 Description: Library for manipulating Unicode strings and C strings
 
 Package: iphoneports-libusb
-Version: 1.0.24
+Version: 1.0.27
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libusb.deb
-Size: 68024
-MD5sum: 7617ee6ef4491c5e8986ee92a3c9e024
-SHA1: 97e4f9828d8d7f968eea933fea9e76fb8c412d54
-SHA256: c2a6b4306cc2839cd6830a6457f5941dd8e15e9fce6f2131c8e8d08a090524b1
+Size: 75714
+MD5sum: c88904115ec20209f2a40d1f352bab2d
+SHA1: 53cb68cecddd8c4f2eb31f709903bbe0dbc86ba0
+SHA256: 29255813905b9026f870244c1441f8916f46a1187bc62a6d5140ceaea977a4b1
 Section: Development
 Description: A cross-platform library to access USB devices
 
