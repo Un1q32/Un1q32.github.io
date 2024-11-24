@@ -853,15 +853,15 @@ Section: Development
 Description: A client library to multiplex connections from and to iOS devices
 
 Package: iphoneports-libuv
-Version: 1.49.1
+Version: 1.49.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libuv.deb
-Size: 103474
-MD5sum: 7b2c1826f88024773303d7ef80ba0b28
-SHA1: 3e295e9723abca764feeac9c120b2cf63997f918
-SHA256: 2c8cd76d848f1586e952157abe746380ce18a78313ef996234639c0abd4e8d12
+Size: 104288
+MD5sum: fe3ddbcf374afc83f9b7606d135aaa44
+SHA1: b1b994f68000493e03e1d3a6666f5991ee6fe1b1
+SHA256: 9659bbbe695f39fb294f285f128c340f1c8cd55a0b49f76d3703920a581a5182
 Section: Development
 Description: Cross-platform asynchronous I/O
 
