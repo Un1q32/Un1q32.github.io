@@ -474,11 +474,11 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gtar.deb
-Size: 247990
-MD5sum: 6dd5f0e12a543c4200c0b639b9681a82
-SHA1: 4414fc6cdc82e359ee9228b049664bc39641e316
-SHA256: dc37e44d838897695cf6129c406c086ca856872b591a12aec2541255951433fc
-Section: Utilities
+Size: 247994
+MD5sum: 6b0a02c54c506a104fad1a20c5c4951c
+SHA1: 899832ae786c2af9c35cdb2b754bdcb5bdbae43f
+SHA256: 3511a6e5073a71a7a4fd48039d7c2db1701c2ed580f9e99261362ca420a96dfa
+Section: Archiving
 Homepage: http://www.gnu.org/software/coreutils/
 Description: GNU implementation of the tar command
 
