@@ -266,6 +266,19 @@ SHA256: cafba2efab4d52d0208d0f0b7bd73fde31b7841b0864781a60ca08df83eb6a6f
 Section: Development
 Description: AV1 cross-platform decoder focused on speed and correctness
 
+Package: iphoneports-db
+Version: 6.2.32
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/db.deb
+Size: 1782418
+MD5sum: 15138e99914437a8d460647643f79d51
+SHA1: 032053e27f23f47676f0e575aa94fc3d4be80737
+SHA256: 2668b439f51c784faae4554103dda0bcc08064e65c6ba3de4d801af416f9d8b2
+Section: Data Storage
+Description: The Berkeley DB embedded database system
+
 Package: iphoneports-diffutils
 Version: 3.10-1
 Architecture: iphoneos-arm
