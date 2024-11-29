@@ -372,15 +372,15 @@ Section: Multimedia
 Description: Complete solution to record, convert and stream audio and video
 
 Package: iphoneports-file
-Version: 5.45-2
+Version: 5.46
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd
 Filename: ./debs/file.deb
-Size: 482578
-MD5sum: d84372d85340be3ae397b19f93e01adf
-SHA1: 06c578e602a918a1a329fdfc3aa56ea55e614e38
-SHA256: 04bddcc6af9d44db304639ce98b66e3adca5a6d08ead9ab768a71850c5ec13db
+Size: 536696
+MD5sum: 23c393b9e4c01199d683cae5fb5289d1
+SHA1: 899de84ff093a996c71209f2ac217d1ff9d99e9b
+SHA256: e15d260a8c6fb948a2a2c6d51b115592a430f6bb0f803063b8680be981b77129
 Section: Utilities
 Description: guesses the type of a file from contents
 
