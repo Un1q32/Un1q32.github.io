@@ -454,6 +454,19 @@ Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
+Package: iphoneports-gnutls
+Version: 3.8.8
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
+Filename: ./debs/gnutls.deb
+Size: 1444856
+MD5sum: 8b6ed85b9823a4ef7e50d22fe4218ab8
+SHA1: 7d8d8762f33947908c3f56ef93570287e68eac18
+SHA256: 77aeec309025db0194ed2619e5a1e6f48602c82ebbd300fe329a2d3d0092c7bd
+Section: Security
+Description: A library which provides a secure layer over a reliable transport layer
+
 Package: iphoneports-gptfdisk
 Version: 1.0.10-1
 Architecture: iphoneos-arm
@@ -1192,6 +1205,19 @@ SHA1: 6804391f6f5ef2c3a1d53bfebd1b8a7af3eb4091
 SHA256: c9e73608232a4c89f1c6ba1624be42eec0907e23a4ad0264ae1a53204e4586c4
 Section: Utilities
 Description: A command line system information tool
+
+Package: iphoneports-nettle
+Version: 3.10
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-gmp
+Filename: ./debs/nettle.deb
+Size: 460736
+MD5sum: eb1d559ac34ead711958f220b21305f4
+SHA1: 4dc3046f4a8e50079b03aa85a225ca18d59a213b
+SHA256: 4d31fd14a2f48cf57091f7404903440c2de3da4ea29cab9beadbaaef2395e7c3
+Section: Security
+Description: A low-level cryptographic library
 
 Package: iphoneports-nextvi
 Version: 66
