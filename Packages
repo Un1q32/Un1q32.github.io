@@ -759,6 +759,19 @@ SHA256: b58a876b717808fd6696321d65140cd3785db827d394c63484df8b23aaf5968d
 Section: Development
 Description: JPEG image codec with accelerated baseline compression and decompression
 
+Package: iphoneports-libmd
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libmd.deb
+Size: 28188
+MD5sum: 5d03b54a0cccd7295ab66ecf7758fa16
+SHA1: ad8331521baf6e52be7ee35ab88feee59d65bbae
+SHA256: f1404a7affaee37d8c27d22e3c35bf23ccec6e052c4fda53ab516c56e1a6c59d
+Section: Development
+Description: Message Digest functions from BSD systems
+
 Package: iphoneports-libplist
 Version: 2.6.0
 Architecture: iphoneos-arm
