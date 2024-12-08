@@ -1524,15 +1524,15 @@ Homepage: http://www.gnu.org/software/sed/
 Description: stream editor
 
 Package: iphoneports-sqlite
-Version: 3.47.1
+Version: 3.47.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-readline
 Filename: ./debs/sqlite.deb
-Size: 1286214
-MD5sum: 0c0aace15b8b9c067672cffddeeca518
-SHA1: bf9ff49008468cf3694cd9786378c726bca8d8f6
-SHA256: c6ecf12d5dcbaf86d927d800a17b609c79aa01af48535225c4edc48df9bcde96
+Size: 1289190
+MD5sum: 9e8aae359f5bca4fb3d802bfbfd3359a
+SHA1: 1e68c97fa786b1928cd4403b84c51940c85a59a6
+SHA256: fba0d2b7fd0d8405e62c88e11b085fe1acd8961aa572b34d862940e54a7a5a05
 Section: Utilities
 Description: SQL database engine
 
