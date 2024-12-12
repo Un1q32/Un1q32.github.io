@@ -1693,16 +1693,16 @@ Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
 Package: iphoneports-vim
-Version: 9.1.0825
+Version: 9.1.0918
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim.deb
-Size: 10573064
-MD5sum: 0f8785d73086215ab5b9299f68a155a5
-SHA1: 484e6a5b93781e38c56abd1ab4f61ed95b205ca9
-SHA256: 605a9a4d490d6ebdafec7d576104d5f947026368fd2416c6105c113f73e0b996
+Size: 10628968
+MD5sum: 4e7d187ab5f33608dcaa9f8643591228
+SHA1: e66dcd0366ae766511c7635246d4deb90f76cc95
+SHA256: fcd12899de4232f4450ee9cb56b9172f501a33b21c6e244213c16ea6c9655dee
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
