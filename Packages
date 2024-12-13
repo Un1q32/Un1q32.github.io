@@ -746,15 +746,15 @@ Section: Utilities
 Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 
 Package: iphoneports-libjpeg-turbo
-Version: 3.0.4
+Version: 3.1.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libjpeg-turbo.deb
-Size: 687088
-MD5sum: ee1858ba08f555022b46e0898ee18353
-SHA1: a42241757cb4e2426026396cea728a12f70e053e
-SHA256: b58a876b717808fd6696321d65140cd3785db827d394c63484df8b23aaf5968d
+Size: 695398
+MD5sum: 75507aea9c86e02513bea7cae7f27d69
+SHA1: 714488b1da3cfc17f38787d4bf67cd603e969464
+SHA256: 8b98c73178c3bea24c70180a8dcd4f7f37417eb1af4a3c9228eed35f85ebf356
 Section: Development
 Description: JPEG image codec with accelerated baseline compression and decompression
 
