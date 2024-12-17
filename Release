@@ -5,4 +5,4 @@ Version: 1.0
 Codename: iphoneports
 Architectures: iphoneos-arm
 Components: main
-Description: Ports of UNIX software to iPhoneOS
+Description: Ports of UNIX software to legacy iOS
