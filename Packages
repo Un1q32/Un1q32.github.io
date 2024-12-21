@@ -1258,15 +1258,15 @@ Section: Development
 Description: An implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
 Package: iphoneports-nghttp3
-Version: 1.6.0
+Version: 1.7.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/nghttp3.deb
-Size: 99304
-MD5sum: af7cace406e21d5549a4be546a6b2252
-SHA1: 0ee37fac849bbe34d9465986ac3a0d3567b29dc9
-SHA256: eb71f59973012cb49cb440fb534a4a3952b1413d541e6550967ece2cd9de5c01
+Size: 99028
+MD5sum: 76efd2909edc64656c34d3b7e3939bec
+SHA1: 70012961ae56db0fc6e0707df516c84517e2680d
+SHA256: 5cda3f173305bc6024fcde91a7fbeade698dff4c3c731d20fe7354b7da918f18
 Section: Development
 Description: HTTP/3 library written in C
 
