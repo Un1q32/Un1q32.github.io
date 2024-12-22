@@ -1132,10 +1132,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/mpdecimal.deb
-Size: 87378
-MD5sum: 2c52c69c29709c9d909d2238c0e56c68
-SHA1: a9390743e8d74b4742716673d03690daa1318a35
-SHA256: 2def0d4caab0f6a13ddca77ba3386e815574d037d87e697d4fcb265d88e764b3
+Size: 87392
+MD5sum: c7574a4344db08ce648c90a7c2a8f851
+SHA1: 5c541930e6d42b0ba54e61ac5c3e60d19df06790
+SHA256: 9b7ff97ed010d14f7a01923ff520c16f8b9b26487a152a06d272f6d8f3e3c5de
 Section: Development
 Description: Package for correctly-rounded arbitrary precision decimal floating point arithmetic
 
