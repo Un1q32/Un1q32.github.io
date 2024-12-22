@@ -904,15 +904,15 @@ Section: Development
 Description: Cross-platform asynchronous I/O
 
 Package: iphoneports-libwebp
-Version: 1.4.0
+Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libwebp.deb
-Size: 424090
-MD5sum: 98bd71a3343569b66c39d24d55c2ce36
-SHA1: 486280c734691779fe6e5eef366376f8dcdd625c
-SHA256: 6e15125f50a57debea6d8cad08212070cc56a18cb72c569a2216354a300d55ea
+Size: 427672
+MD5sum: 4d6c362f42e01f9e989be6ddfc167171
+SHA1: f872d3ada6c2055713eeb69cf537f450c0fc84ef
+SHA256: b890bc0a1f08bae66c8bb22f61f604016a527194e0062b76988bff1557c9bcc4
 Section: Development
 Description: WebP library and conversion tools
 
