@@ -153,11 +153,11 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/catgirl.deb
-Size: 59256
-MD5sum: 2469a4898a8e6f7ab6ba7cae3b16dd6a
-SHA1: bb0829bfd77263b0d83e18685edecd9bd8c6ed5f
-SHA256: 01928d781356819c98d894b4e7737e21ad4e18451064fbfd6f6dbfaa48c8cdae
-Section: Utilities
+Size: 59266
+MD5sum: f8918288c37e1643a73b60de4dafbeaa
+SHA1: 4e233a26ad1c0f99d6f9f10fc8bdfc5695288958
+SHA256: c3635bd5f2260dc9a34899acd0f73112da4cc5b0971d12cb2177e6507bee60ad
+Section: Networking
 Description: a terminal IRC client.
 
 Package: iphoneports-ccache
