@@ -615,15 +615,15 @@ Section: Utilities
 Description: A utility for configuring network interface parameters
 
 Package: iphoneports-imagemagick
-Version: 7.1.1.42
+Version: 7.1.1.43
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng, iphoneports-libjpeg-turbo, iphoneports-libwebp
 Filename: ./debs/imagemagick.deb
-Size: 2552722
-MD5sum: f842aa59b7a4e10de80ee0e46f4d561b
-SHA1: 7fca966ca3c832ada28ce582b1a8442da709db5f
-SHA256: b6efcbfc2f10f18ec9398484fd31a405e7820e8a08c381a6dba96f1df5a470c3
+Size: 2552438
+MD5sum: 3a14db4e1b03d3d4f737e9794b983444
+SHA1: 3b1049e1a06b2f5a949fb8e953e84999784a9bb4
+SHA256: e137710a707d7f8db5e724f7a08f91ab7cb761856da5fe46b8ac61ee86834ca3
 Section: Multimedia
 Description: An image manipulation program
 
