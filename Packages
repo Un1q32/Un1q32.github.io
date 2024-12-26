@@ -1313,12 +1313,12 @@ Package: iphoneports-ninja
 Version: 1.12.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/ninja.deb
-Size: 141352
-MD5sum: 595a5a9874e3c47679c36d11a847d170
-SHA1: 10305411c675261715224e3519a7dc2f800a414e
-SHA256: 33aa30e6af22ccac6de1027979cf69e856c59b99795d98798206478ae4c276a6
+Size: 141360
+MD5sum: bb1206789bfa8b958b81033c031f2080
+SHA1: aad913fe3cbcff227f33ebf50f6d9558839ee2b2
+SHA256: 4ca690e44ced28b328fad2753d5520fd6ccd1f2f5d526570db11931660d081c3
 Section: Development
 Description: Small build system with a focus on speed
 
