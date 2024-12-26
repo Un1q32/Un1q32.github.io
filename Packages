@@ -306,15 +306,15 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-distcc
-Version: 3.4
+Version: 3.4-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-clang
+Depends: iphoneports-base, iphoneports-popt, iphoneports-clang
 Filename: ./debs/distcc.deb
-Size: 148880
-MD5sum: 205b1ee84122c43eeea8dc473fd0b49f
-SHA1: 1ba17130e5e1b64162c943f2d594a5505a8cf643
-SHA256: 9362fd5440664b700cb35312368127f81db5e103288cfb4ad3606f78498d9b89
+Size: 139860
+MD5sum: 807b0ade2f132a1adf43bcd695514cdf
+SHA1: fe7007bd853544d9fbef5c1f07ca537b64a80789
+SHA256: 02d4d581047a9af95752a3a257ad2f4c1481bc831b2fac54b61cb6bfaba19226
 Section: Development
 Description: Distributed compilation service for C, C++ and Objective-C
 
