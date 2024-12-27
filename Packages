@@ -589,15 +589,15 @@ Section: Utilities
 Description: Manage apps of iOS devices
 
 Package: iphoneports-idevicerestore
-Version: 1.0.0-7
+Version: 1.0.0-8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery, iphoneports-libimobiledevice-glue, iphoneports-libtatsu
 Filename: ./debs/idevicerestore.deb
-Size: 99916
-MD5sum: 6cca5c086e00ac547a743146c5445e16
-SHA1: 7da966ec682f5b1f94a2bb8f8e8b70dc5269be02
-SHA256: 75e34206e9b2c4a4b46b129f28ccfa65812e5044af8dd1157647c09b6c162b91
+Size: 103096
+MD5sum: 855ef3434ade08cbe16bd398b24faae8
+SHA1: d56a71bd4f872da04730d859af3d99a3724bbb87
+SHA256: cdf6a12cd56e450560de8c8ceff6b33f0641c11a0792d227a45383af28742db1
 Section: Utilities
 Description: Restore/upgrade firmware of iOS devices
 
