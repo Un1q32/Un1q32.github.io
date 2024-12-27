@@ -864,15 +864,15 @@ Section: Development
 Description: Text-based Application Programming Interface frontend
 
 Package: iphoneports-libtatsu
-Version: 1.0.3-1
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-curl
 Filename: ./debs/libtatsu.deb
-Size: 18434
-MD5sum: b58b2d9eb26f49998ac2df00cc2ddc70
-SHA1: 18b90c1fa4ab892794d6ba74ee72cd4f7aef349c
-SHA256: 010bfe4a1f6988c12bd89ae127e4f16c6f3a2a2370b22112db09620f233188b9
+Size: 18632
+MD5sum: 2d5ea3c4e408003a8529e35373f937ca
+SHA1: 8e8ac79dee7dae1fa3ef83778acf5f376ef61e83
+SHA256: f22449e365df5bbe33081fdab3774b9922380c33349db8d7f58adf2888a46a28
 Section: Development
 Description: Library handling the communication with Apple's Tatsu Signing Server (TSS)
 
