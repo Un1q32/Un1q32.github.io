@@ -174,15 +174,15 @@ Section: Development
 Description: Compiler cache that speeds up recompilation by caching previous compilations
 
 Package: iphoneports-cctools
-Version: 986-ld64-711-1
+Version: 986-ld64-711-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi
 Filename: ./debs/cctools.deb
-Size: 4143776
-MD5sum: d0cf0f561cebccf6d7d1c8d30b16a8e7
-SHA1: 541911472779958324978cdece4b7d604106df2d
-SHA256: 701c585be15e42052d0e81eb05800fecc3e1dff2325d05b41beffe0f90c916f4
+Size: 4165294
+MD5sum: a5f8aad2c40c40bd98b77ba340114502
+SHA1: 3e3448ca35a26c2835dbbdc1dd9f1849eba0d109
+SHA256: c4b91c2e06edbd04b64241bd322a66e36a8d4df1b1a3b4ea219589c6f7894774
 Section: Development
 Description: Mach-O binary utilities
 
@@ -849,6 +849,19 @@ SHA256: 8d6a6ad8f8c9cdd147b5f2a944ebfb8b1f21d6a0766fea4af13d7487eefb5b28
 Section: Development
 Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
+
+Package: iphoneports-libtapi
+Version: 1300.6.5
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-ncurses
+Filename: ./debs/libtapi.deb
+Size: 256262
+MD5sum: b3ca146fa914fffe3dc5ead2bb8b22c9
+SHA1: 08db16b59cfc68db25e8491026fa829ce15ad4ea
+SHA256: cf1fa0e6f283064d97783b2120dcf42505bc64507593c160000050a6b36a25bc
+Section: Development
+Description: Text-based Application Programming Interface frontend
 
 Package: iphoneports-libtatsu
 Version: 1.0.3-1
