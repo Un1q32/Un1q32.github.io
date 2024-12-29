@@ -133,6 +133,19 @@ SHA256: 34c80cdcdfc4d38c1eef6c7440f6cc72fccef2a758b7a3df1f32cdf58bdde37c
 Section: Archiving
 Description: A better and stronger spiritual successor to BZip2.
 
+Package: iphoneports-c-ares
+Version: 1.34.4
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/c-ares.deb
+Size: 132712
+MD5sum: ebebea0d072b193fa368080ef5424da2
+SHA1: bc227a4fa24b0bf74b0b7bceda61a2ce17715e1c
+SHA256: 25c1ac1927dba36aeec098ce6d806495aab428c72f73db34d4c51b361da2fce9
+Section: Development
+Description: A C library for asynchronous DNS requests
+
 Package: iphoneports-ca-certificates
 Version: 2024-09-24
 Architecture: iphoneos-arm
