@@ -200,15 +200,15 @@ Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-clang
-Version: 19.1.6
+Version: 19.1.6-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libxml2, iphoneports-zlib
 Filename: ./debs/clang.deb
-Size: 51938328
-MD5sum: a7ed96a3568ae9211a906f2943e0cf92
-SHA1: 6ab441ef918d0a4fcdcd2137a7c0ef411624f57a
-SHA256: 42ef0b906d1ac2212b0dee0cf9697f880032f082fe58aea3d7d1228fdbc99ca4
+Size: 51939272
+MD5sum: 725125ce010ac5420088ef4972c1cbdc
+SHA1: a91382eda6aa0886d1adaea13ecb1e1aa687d78f
+SHA256: 0c9a7ee5d96a0b495dd39c325b6a2b909c377b9050348f6f46ede7d181e480ec
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
@@ -1021,15 +1021,15 @@ Section: Networking
 Description: Lightweight high-performance web server
 
 Package: iphoneports-llvm
-Version: 19.1.6
+Version: 19.1.6-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-zlib
 Filename: ./debs/llvm.deb
-Size: 51935816
-MD5sum: feb412a36f9fd392bc287a951b3b4807
-SHA1: 703be27d25ea1220ed5a0053422e8996d2df9544
-SHA256: c7828c46d2a75ebfc33d7e2ded7e30fdc9edadc9a96f5a4a698f5be9f47695e4
+Size: 51937488
+MD5sum: 3fc2498a1dddb9616b44e7f903e18dd2
+SHA1: be7a486f6218bca6cd5d8fb25035f900f200632f
+SHA256: e6c798c7fe1c45646fbdc0a6c5d5351856209300467021fa6bce86ffdb219c15
 Section: Development
 Description: Compiler infrastructure
 
