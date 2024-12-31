@@ -252,6 +252,19 @@ Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
 
+Package: iphoneports-cppcheck
+Version: 2.16.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-pcre, iphoneports-python
+Filename: ./debs/cppcheck.deb
+Size: 2637404
+MD5sum: ac0b83ea8d334bac8d63283c65fc242b
+SHA1: ee2980b9837586415bf50762fa1ceb76cdf9cd2d
+SHA256: 97dbc7457d201b90e979a580890bfd49796ea858b2940bae1047020ce0b8f827
+Section: Development
+Description: A tool for static C/C++ code analysis
+
 Package: iphoneports-curl
 Version: 8.11.1
 Architecture: iphoneos-arm
@@ -693,15 +706,15 @@ Section: Archiving
 Description: Multi-format archive and compression library
 
 Package: iphoneports-libc++
-Version: 19.1.6-2
+Version: 19.1.6-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libc++.deb
-Size: 1511434
-MD5sum: 01b12042dc5e668ac98bfc45fdfa2666
-SHA1: 17f8eabfb103dc90d24c71da02a32f6205689782
-SHA256: 2c2de2abe042dc34850a4624c2e2483b67f81e8316eded613d23dee8b391cfa3
+Size: 1511934
+MD5sum: cc40dcf48e8dbf5bc539ced46ad03453
+SHA1: 93f9ab9c428b9a4b31637f43a0dd68b65709eaec
+SHA256: b43ec935d8d57bb0c68afb88f33be35367319b21b9925157e016f5596aef8cdf
 Section: Development
 Description: LLVM C++ standard library
 
