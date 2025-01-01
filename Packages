@@ -1955,15 +1955,15 @@ Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
 
 Package: iphoneports-zlib
-Version: 2.2.2
+Version: 2.2.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/zlib.deb
-Size: 96384
-MD5sum: 279c841084a3b7d09ea718719cf853bb
-SHA1: 4db8281916c50acd3184de93fa9825a37994ae98
-SHA256: 5e43f98f3d8c4d65458ca84d1f1eb4a0bef5c07feb346d473b0b7083d0a08b65
+Size: 96018
+MD5sum: d60b7261f3e651832b6cbb71266286e2
+SHA1: 3df756b0b56435a9538b2f07f465237e3a275afa
+SHA256: 2f6a6a829d9f6bb211906aeb89370e94c40995bbe2d89e9c05d56cecf81613fe
 Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
