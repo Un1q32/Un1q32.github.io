@@ -203,12 +203,12 @@ Package: iphoneports-clang
 Version: 19.1.6-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libxml2, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib
 Filename: ./debs/clang.deb
-Size: 51936330
-MD5sum: 0ea5a4e106f9eebcc6b8b23477c1a23f
-SHA1: 2d965c424ab457c5c8398a70df387e6516fc0e82
-SHA256: 7e8ea0428c474cd09f744d5c908cf5a63c8ffb0da5d162e80f8f73ce0b221e75
+Size: 51936516
+MD5sum: f809c1f8037d617f3567398ecacf72f8
+SHA1: d33a4edefd677148594683e14974b2d8d9e619f1
+SHA256: ac8d92cbb2d77b9fe665ddd8319253e9c2ece81fa103f530d3a3fd2382b79820
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
@@ -237,6 +237,19 @@ SHA1: 7eff1926607602f9af512dcb60b70784597f6e08
 SHA256: 28e0afaebd96806f76655f44fd9024a9dda334b8f5bc564e481502691f8f7f4b
 Section: Utilities
 Description: Terminal screen saver based on the movie "The Matrix".
+
+Package: iphoneports-compiler-rt
+Version: 19.1.6
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/compiler-rt.deb
+Size: 19032
+MD5sum: 636d7c1e35fe621ceab08966ff3ce8ba
+SHA1: 3e376648aa159a3eb92b032918136dc0c00ff034
+SHA256: 39b2143392d530096b320ce18181e94b3f23124ffe06e51396e4e54891e23084
+Section: Development
+Description: Compiler runtime libraries for clang
 
 Package: iphoneports-coreutils
 Version: 9.5-1
