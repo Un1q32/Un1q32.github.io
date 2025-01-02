@@ -200,15 +200,15 @@ Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-clang
-Version: 19.1.6-2
+Version: 19.1.6-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libxml2, iphoneports-zlib
 Filename: ./debs/clang.deb
-Size: 51936760
-MD5sum: bbcb272ad33a6bfe8c54c0b7ae37ca02
-SHA1: 75adf7829fff12c24acd6984e3b8498554bcc21c
-SHA256: c5d7ead8d865854ad3c66d7e5b00497e24718c30386329b4103cc932d3d68899
+Size: 51936330
+MD5sum: 0ea5a4e106f9eebcc6b8b23477c1a23f
+SHA1: 2d965c424ab457c5c8398a70df387e6516fc0e82
+SHA256: 7e8ea0428c474cd09f744d5c908cf5a63c8ffb0da5d162e80f8f73ce0b221e75
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
