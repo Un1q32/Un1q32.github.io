@@ -1362,19 +1362,18 @@ Section: Development
 Description: Small build system with a focus on speed
 
 Package: iphoneports-openssh
-Version: 9.9p1-2
+Version: 9.9p1-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
 Filename: ./debs/openssh.deb
-Size: 2573044
-MD5sum: 951a0c82adefaf7af519bebd90bdf001
-SHA1: 4b8bbeec57b40d9527e1c0d707347d8bab17097d
-SHA256: 639c59b31c2057e3fa87e19fc0dc09fa476f0a79c80e7304e0d8ade8f0bd16c4
+Size: 2572950
+MD5sum: 6ae8cc1ec01bba65f4714b7028d18c59
+SHA1: 77fe1ce242149aa21c0396198267e59a7476b74a
+SHA256: 26d02d4b8a1989166bb5db1f37557431a6c5c0becf5346f3671a5d679a0691f3
 Section: Networking
 Description: secure remote access between machines
-Depiction: http://cydia.saurik.com/info/openssh/
 
 Package: iphoneports-passwd
 Version: 433-1
