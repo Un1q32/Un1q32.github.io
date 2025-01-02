@@ -147,16 +147,16 @@ Section: Development
 Description: A C library for asynchronous DNS requests
 
 Package: iphoneports-ca-certificates
-Version: 2024-09-24
+Version: 2024-12-31
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 136226
-MD5sum: aec297d9c0ce73d4faceeb1a5a14d1f0
-SHA1: 4f769e4f936ad616228783ee59c78b926aefd807
-SHA256: d90b2fcf7fce576b8caae536d297181bdf578bfaaf40dcf18da6e04491f7dcd2
+Size: 134036
+MD5sum: b1b4e17b8eff462708390eb139124a3f
+SHA1: 0ec76281ff212a9c57694a63852838cf34826db0
+SHA256: 76d7b38fccd1ab02e2ed622133a227f14f4bbc198afaf745a741e62c76669c47
 Section: Security
 Description: Common CA certificates
 
