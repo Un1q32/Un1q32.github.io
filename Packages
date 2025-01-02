@@ -890,15 +890,15 @@ Homepage: http://www.libssh2.org/
 Description: A library implementing the SSH2 protocol
 
 Package: iphoneports-libtapi
-Version: 1300.6.5
+Version: 1300.6.5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-ncurses
 Filename: ./debs/libtapi.deb
-Size: 256262
-MD5sum: b3ca146fa914fffe3dc5ead2bb8b22c9
-SHA1: 08db16b59cfc68db25e8491026fa829ce15ad4ea
-SHA256: cf1fa0e6f283064d97783b2120dcf42505bc64507593c160000050a6b36a25bc
+Size: 249340
+MD5sum: 29d9d74cb6504c5de857fe81fa66f868
+SHA1: 6106872608cb7801d28b900b00cd3e6e111646ea
+SHA256: 642bc46d8c2a9a5257be3d10de438d93d4b2080da774b24a0809d8d47cbd695a
 Section: Development
 Description: Text-based Application Programming Interface frontend
 
