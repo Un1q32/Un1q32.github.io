@@ -1219,15 +1219,15 @@ Homepage: http://mpfr.org/
 Description: Multiple-precision floating-point library
 
 Package: iphoneports-nano
-Version: 8.1
+Version: 8.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/nano.deb
-Size: 242680
-MD5sum: a356b7a50e066c304536305c5cde531c
-SHA1: e16cdebff3e648840a1aa2dd66ada7b1bef75ee5
-SHA256: a4ced415c42a56e53c7c8236e0b3e454e78e107a6a913c58253b828b5678c544
+Size: 243028
+MD5sum: e59406459542518dbabbb5a684276f46
+SHA1: 817de2ebf8631f63f28224506dcd7dfd1f1b8bda
+SHA256: c3b8a5e19b85902e7630a5f8f60c93b8e1a0e97595bcb528c55aeafd997e07ca
 Section: Text_Editors
 Description: completely free, modern clone of Pico
 
