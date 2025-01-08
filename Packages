@@ -837,15 +837,15 @@ Section: Development
 Description: A library to handle Apple Property List format in binary or XML
 
 Package: iphoneports-libpng
-Version: 1.6.44
+Version: 1.6.45
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
 Filename: ./debs/libpng.deb
-Size: 183018
-MD5sum: ee236d30fe1cc0b9a6cf5e0fcaa60166
-SHA1: 76f8522200ecfd92397605d1117cc4832b392c9f
-SHA256: 3c87feb9e68e026cc68dd82f0215af7cc744dff0aa82b58c369e2b136ee5db29
+Size: 184226
+MD5sum: 857fe4b03eba205894065db5f362a6d2
+SHA1: a201043384798c10472ad40d058188de528431c5
+SHA256: aaa4e1f87179616f29753569418f016622e2a794bc3f3e250147231c83f53d48
 Section: Development
 Description: A collection of routines used to create PNG format graphics files
 
