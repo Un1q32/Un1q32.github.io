@@ -479,15 +479,15 @@ Section: Utilities
 Description: prints used memory in kb, for use in scripts
 
 Package: iphoneports-git
-Version: 2.48.0
+Version: 2.48.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
 Filename: ./debs/git.deb
-Size: 10967554
-MD5sum: f156d82c003d9a088c4cd8764aa7d6b7
-SHA1: 85d3fe7bcbb5f62bb7bb79371d3fbb56930dd9e8
-SHA256: bcc7370c794a6e1982276eb2f5a1b0bea8ba5e8035fcb75b152111dae6494a25
+Size: 10969760
+MD5sum: 3b42a8454ae094a66e4deca01ef6b2a0
+SHA1: 9d2cb4797a8625914ed8757328b3648c075dc2de
+SHA256: e88ae95c6be5b3fbfd8a97ffefd9b035a58a6896dd626fbb6fc19d9a101da960
 Section: Data_Storage
 Description: fast content-addressable filesystem
 
