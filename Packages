@@ -1940,15 +1940,15 @@ Section: Utilities
 Description: Hexdump utility from vim
 
 Package: iphoneports-xxhash
-Version: 0.8.3
+Version: 0.8.3-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/xxhash.deb
-Size: 166690
-MD5sum: fa354240238e1e034b03d618793e0dd1
-SHA1: fcffcda207a6166cc3b226a61c0b7373b3e82d8c
-SHA256: e17d04ccc6e5aeb508ad05616a0ed1cb9eb49358cba3e537aba14c6052dfc838
+Size: 168606
+MD5sum: 87b3eff5b3148f651eb0f2300cbee253
+SHA1: 527eccb82c5103cc91d267af049185bcf473453c
+SHA256: 59d8570c120cd186d8a367fc8cbe33755c0410701ddfdd2174d722b6d2b8f4f5
 Section: Development
 Description: Extremely fast non-cryptographic hash algorithm
 
