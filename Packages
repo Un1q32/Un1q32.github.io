@@ -203,12 +203,12 @@ Package: iphoneports-clang
 Version: 19.1.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
 Filename: ./debs/clang.deb
-Size: 51913716
-MD5sum: 4bee607d18c7a5ad09d4bc41e9f746ea
-SHA1: 3fc549db25cef87d320971ad28a727a0d425012e
-SHA256: cc4d91c61c4524654c9dd22255af7a58fd60ac5aecf491c6347e1ddc1b057d08
+Size: 51972358
+MD5sum: 14f5877b27930ec4f06de38974b8dcee
+SHA1: 63fc483b674fb5a8dea471d13f98ecc7ee69afd2
+SHA256: d02b67b08d27e269274d451c9029adcee5c504570d2ee50fed10caa8733bddc3
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
