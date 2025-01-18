@@ -357,19 +357,6 @@ SHA256: 80837527f5d8d37088c52c68c6333198a2c06bd8332a71fce2e73fe484350c98
 Section: Development
 Description: Distributed compilation service for C, C++ and Objective-C
 
-Package: iphoneports-doas
-Version: 6.3p12-1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, pam
-Filename: ./debs/doas.deb
-Size: 14280
-MD5sum: 567673fbd208c91554ac88a4782f544d
-SHA1: e97ba15a0b1fb0c245ad8573c0b52508f21cab1e
-SHA256: 0a2310831fc137d55bfa37d8e00120fc3ddaccfc0928b06d84ac21a2fa0a838f
-Section: Administration
-Description: a minimal replacement for sudo
-
 Package: iphoneports-dos2unix
 Version: 7.5.2
 Architecture: iphoneos-arm
@@ -1058,19 +1045,6 @@ SHA1: 8ba42845b013891b1f96059712a5823a3136965f
 SHA256: d186cfd1af682743a5e48fccf9b2a2fb310438356be209f0ed7a113f39beae75
 Section: Development
 Description: Compiler infrastructure
-
-Package: iphoneports-login
-Version: 433-1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, pam
-Filename: ./debs/login.deb
-Size: 7068
-MD5sum: 862de0bfdd41c2cb29225d407934534d
-SHA1: b989144647162755ca5cbe9f2160606025056e33
-SHA256: 968b4693a469dc85fc3c118a4d942e9d1ca17f82d09229a6b1787a23e8c20552
-Section: Utilities
-Description: log into the computer
 
 Package: iphoneports-lua
 Version: 5.4.7
