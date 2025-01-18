@@ -1612,20 +1612,6 @@ SHA256: cb090cbee2f5c91cd91464ca3bf0d6ed94bdc2e76edb30de191fbf38a3e2d2e8
 Section: Utilities
 Description: SQL database engine
 
-Package: iphoneports-su
-Version: 116-5
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, pam
-Replaces: pam
-Filename: ./debs/su.deb
-Size: 5674
-MD5sum: cfe7f791d050972942cd56d82e4fe681
-SHA1: bdc153568ae983e252570fed245947d2468f6594
-SHA256: 5ab3527ec9dd288a815aa717bde19d552502c47d7e3e6ae8f318710ecc3108fe
-Section: Administration
-Description: substitute user
-
 Package: iphoneports-sudo
 Version: 1.9.16p2
 Architecture: iphoneos-arm
