@@ -968,32 +968,6 @@ SHA256: b890bc0a1f08bae66c8bb22f61f604016a527194e0062b76988bff1557c9bcc4
 Section: Development
 Description: WebP library and conversion tools
 
-Package: iphoneports-libxau
-Version: 1.0.11
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/libxau.deb
-Size: 7754
-MD5sum: cd8cd2c523a867490f1e4ae7c6af84d7
-SHA1: 560ee6c13cdfb93b4160855c81458980ad3fb07d
-SHA256: 25ebaa82d60e8b260072194ec22f2ea44f7cf7f67045ed3352141c821efb3ee4
-Section: Development
-Description: X11 authorisation library
-
-Package: iphoneports-libxcb
-Version: 1.17.0
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libxau
-Filename: ./debs/libxcb.deb
-Size: 480538
-MD5sum: cced2e5055594ff6cc8ca6babffd9a88
-SHA1: 49ed0d534316127435efec361bff449b98fec5b0
-SHA256: 406e36cabe137c37377de6ab5ab60dce2f506d5bbbd11c53aad4bd1d35debfa6
-Section: Development
-Description: X11 client-side library
-
 Package: iphoneports-libxml2
 Version: 2.13.5
 Architecture: iphoneos-arm
@@ -1833,58 +1807,6 @@ SHA1: 83d726cf4430ff35dc936a0e07d9575f93ff1cfc
 SHA256: e41a1ddf259a8c5498c4a86e24783c710e3fc8ae89b9ce28337aaf3a0a76af7b
 Section: Utilities
 Description: An internet domain name and network number directory service
-
-Package: iphoneports-xcb-proto
-Version: 1.17.0
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/xcb-proto.deb
-Size: 192284
-MD5sum: 76534770147ab4be2750f5a485ad936c
-SHA1: 0ac579a3ffdfa24e382554d23cd981aa62b540d5
-SHA256: ebab6e9e428cf05c2cfe78dc41d22395efb026f72fc410f259146dd935ac9393
-Section: Development
-Description: XML-XCB protocol descriptions
-
-Package: iphoneports-xorg-util-macros
-Version: 1.20.1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/xorg-util-macros.deb
-Size: 18036
-MD5sum: 2cc4f2236d5d85db49ad54b137da4a0e
-SHA1: e1065bac5be04a9f054561c2510e79888f28dc53
-SHA256: 7312ccb12a55762a85b1146f97e8ba598ec3b7abeca763581c8c61e63232c15b
-Section: Development
-Description: X.Org Autotools macros
-
-Package: iphoneports-xorgproto
-Version: 2024.1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/xorgproto.deb
-Size: 208530
-MD5sum: afe1b304c3b044dc75123c69de5565cd
-SHA1: b17e0698459888099e4658648c93e7251c85bc3f
-SHA256: 31d351b8c836c5c5e297b136b6640423b58c8450d47866fc2a8b5a929d6d0b79
-Section: Development
-Description: combined X.Org X11 Protocol headers
-
-Package: iphoneports-xtrans
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/xtrans.deb
-Size: 39030
-MD5sum: 2432c3e08181e8033d61af098bb652a1
-SHA1: c1c7092b6d9acd8b691640b37b213b8bdbb1ba6f
-SHA256: 3e4d93e705b01214e9665a0e5fff930ae193255163e178a339d1209cd7792ab8
-Section: Development
-Description: X transport library
 
 Package: iphoneports-xxd
 Version: 2024-12-07
