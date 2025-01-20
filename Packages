@@ -305,15 +305,15 @@ Section: Terminal_Support
 Description: POSIX compliant shell that aims to be as small as possible
 
 Package: iphoneports-dav1d
-Version: 1.5.0
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/dav1d.deb
-Size: 325938
-MD5sum: 8dec5bc7bdcd2f56f33149bf57cd9dad
-SHA1: 18e9c836c019f43aa850eb42f22f06ce89a4b119
-SHA256: cafba2efab4d52d0208d0f0b7bd73fde31b7841b0864781a60ca08df83eb6a6f
+Size: 350792
+MD5sum: cbdf5c5cd4fd7f8be79e1b07e373930e
+SHA1: 9cb781806a86fe3f5f97dab49aa15de6f4aa0870
+SHA256: 52173a028cb218e2308382e9ddebb9231e731b90e66e2704379e2e28101cc31f
 Section: Development
 Description: AV1 cross-platform decoder focused on speed and correctness
 
