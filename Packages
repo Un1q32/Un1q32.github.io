@@ -252,15 +252,15 @@ Section: Development
 Description: Compiler runtime libraries for clang
 
 Package: iphoneports-coreutils
-Version: 9.5-1
+Version: 9.6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-gmp
 Filename: ./debs/coreutils.deb
-Size: 676694
-MD5sum: 47615fc039fec91f1cb110da689c95c3
-SHA1: 358bf4ef2813d40bba276653bb53dc866a08a642
-SHA256: 50905e83f6bfa337eeef4daf907abbdd1c88ce1fb9ce9bfdec6dc0d2a3e84485
+Size: 664172
+MD5sum: d4dca3d86bf9191e74756a1178ae8bdc
+SHA1: 15c19a9c67e4694154c0830a8286a766ac669e9f
+SHA256: 152d5c605408c032aa4e556575a85a1a79347bcc3a12f457d5b352999acf98d2
 Section: Utilities
 Homepage: http://www.gnu.org/software/coreutils/
 Description: The basic file, shell and text manipulation utilities of the GNU operating system
