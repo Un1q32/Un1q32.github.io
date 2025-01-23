@@ -1033,6 +1033,19 @@ SHA256: d186cfd1af682743a5e48fccf9b2a2fb310438356be209f0ed7a113f39beae75
 Section: Development
 Description: Compiler infrastructure
 
+Package: iphoneports-login
+Version: 433-2
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-pam
+Filename: ./debs/login.deb
+Size: 7286
+MD5sum: ed4cdc6d98a2b06c33b400e2f247feff
+SHA1: 346fc068439f0f59d415ca52796d19208d07247d
+SHA256: b56dbde955423e43ef2803bc2bfa6de21e53d80e188e811938854bf52dffefcb
+Section: Utilities
+Description: log into the computer
+
 Package: iphoneports-lua
 Version: 5.4.7
 Architecture: iphoneos-arm
