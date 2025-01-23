@@ -1375,19 +1375,6 @@ SHA256: c4d4816426c01006bfe1c308afe324895e7ccaa26dec8f761af31c40e9cb31a8
 Section: Administration
 Description: Pluggable authentication modules
 
-Package: iphoneports-passwd
-Version: 433-1
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/passwd.deb
-Size: 6822
-MD5sum: 9c2e74f8b76c91d301323894deca1d49
-SHA1: 75740a7885e3fe8887c0463098bb628c44876022
-SHA256: c31f80c689f35bd2c112d29a984a011b464f64ca754f2687ca851226bcb3ff9e
-Section: Administration
-Description: modify a user's password
-
 Package: iphoneports-patch
 Version: 2.7.6-1
 Architecture: iphoneos-arm
