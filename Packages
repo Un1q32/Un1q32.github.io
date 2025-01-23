@@ -1770,15 +1770,15 @@ Section: Networking
 Description: Network utility to retrieve files from the Web
 
 Package: iphoneports-wget2
-Version: 2.2.0
+Version: 2.2.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
+Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2, iphoneports-xz, iphoneports-bzip2
 Filename: ./debs/wget2.deb
-Size: 393380
-MD5sum: cfa42c7598782fd4c15496fd4e439927
-SHA1: 2d42c1820b5088f4bbe02cd5e1aac34754885ad4
-SHA256: ec6961dc8f193e5321164c06a80df93ed40cce594da6cbe0b20e7db762bf09f2
+Size: 394068
+MD5sum: 37a7efd556fe6af820033e3415bdff6d
+SHA1: 6d77dbb1304ba6777b77e991b29df2f1f47728db
+SHA256: 1f41bdd8a246371793af96ae05f96657ee11a43cf60f7e5610d0e428f510c816
 Section: Networking
 Description: Network utility to retrieve files from the Web
 
