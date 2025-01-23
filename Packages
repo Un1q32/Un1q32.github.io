@@ -1336,6 +1336,19 @@ SHA256: 26d02d4b8a1989166bb5db1f37557431a6c5c0becf5346f3671a5d679a0691f3
 Section: Networking
 Description: secure remote access between machines
 
+Package: iphoneports-pam
+Version: 32.1
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pam.deb
+Size: 59076
+MD5sum: 28d6277bcf9ff23e5dadf9738cfbfadd
+SHA1: 0fac20200c6675ecf084dbc0efd5ed23916d859a
+SHA256: 43ed86ecacb50ad12ca6fee5db359f5b241b468a5b32102178cdea09edf3cb73
+Section: Administration
+Description: Pluggable authentication modules
+
 Package: iphoneports-passwd
 Version: 433-1
 Architecture: iphoneos-arm
@@ -1585,6 +1598,19 @@ SHA1: b96f9c87330fff6eb8dbe5dea442866429419ce3
 SHA256: cb090cbee2f5c91cd91464ca3bf0d6ed94bdc2e76edb30de191fbf38a3e2d2e8
 Section: Utilities
 Description: SQL database engine
+
+Package: iphoneports-su
+Version: 116-6
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-pam
+Filename: ./debs/su.deb
+Size: 5696
+MD5sum: 6e648e769336f36bdb75a502557033bb
+SHA1: a83bc2b4fa7667a9b1d1d225170bc230f23d92c8
+SHA256: c583403215c6d851a1d4469583242d33eb78ba8aa867c8ec225c0691fc8a4e88
+Section: Administration
+Description: substitute user
 
 Package: iphoneports-sudo
 Version: 1.9.16p2
