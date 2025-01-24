@@ -213,15 +213,15 @@ Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
 Package: iphoneports-cmake
-Version: 3.31.4
+Version: 3.31.5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-libuv, iphoneports-zlib, iphoneports-libarchive
 Filename: ./debs/cmake.deb
-Size: 16298804
-MD5sum: 0c5a55f93ac1e5e273edeac4feb4ec6c
-SHA1: f8037cbda093d827f467e2be37713ad1de59208b
-SHA256: d0af0e97fc564b0014849bef653788172a9e4e2b2d2152777a5f4a8544417deb
+Size: 16298888
+MD5sum: de96c2b4cd325fa019698ee4b071b564
+SHA1: b64cd85c15bb00ee51b230d406878d3ec6583510
+SHA256: 9adb801e5622d0888be79b1c0d3936b56d56c5d0a5e635dbf9d717470cd23495
 Section: Development
 Description: A cross-platform open-source make system
 
