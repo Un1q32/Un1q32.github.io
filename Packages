@@ -1874,15 +1874,15 @@ Section: Development
 Description: Extremely fast non-cryptographic hash algorithm
 
 Package: iphoneports-xz
-Version: 5.6.3
+Version: 5.6.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed
 Filename: ./debs/xz.deb
-Size: 218920
-MD5sum: b9a1931dd952ca97963b04186023a06b
-SHA1: c2cae0326f0ddcecec821e09c3f36c1d9e8359b9
-SHA256: 7673e5175f4437aaa76b6acd5db007e74cbb3a6422940f546ec29a8038b8239f
+Size: 218982
+MD5sum: 840316cd75ca5b7e302c6c1e4a8970d5
+SHA1: 3717b25f66375afce62c6fd556c6a3da3f2e55b5
+SHA256: a6c917e49b50cf2c0272bac83043b986e574aa2c60fdec4aa29e67e66e45235b
 Section: Archiving
 Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
