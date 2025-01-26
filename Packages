@@ -1271,15 +1271,15 @@ Section: Utilities
 Description: A command line system information tool
 
 Package: iphoneports-nettle
-Version: 3.10
+Version: 3.10.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-gmp
 Filename: ./debs/nettle.deb
-Size: 460736
-MD5sum: eb1d559ac34ead711958f220b21305f4
-SHA1: 4dc3046f4a8e50079b03aa85a225ca18d59a213b
-SHA256: 4d31fd14a2f48cf57091f7404903440c2de3da4ea29cab9beadbaaef2395e7c3
+Size: 460922
+MD5sum: 56af71f1a33429119c5345aa26dfc5a9
+SHA1: a5f78ef9ca891a0646c76b0d95b13eb438ea6097
+SHA256: 4b32a02171835684de7fb03f9fbe7f987464c7617e0c2578e47f1f71703736c2
 Section: Security
 Description: A low-level cryptographic library
 
