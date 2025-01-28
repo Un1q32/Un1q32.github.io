@@ -450,16 +450,16 @@ Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
 
 Package: iphoneports-gawk
-Version: 5.3.1
+Version: 5.3.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
+Depends: iphoneports-base, iphoneports-readline
 Replaces: iphoneports-awk
 Filename: ./debs/gawk.deb
-Size: 409130
-MD5sum: b71dfd6d90855b4525f154a4c2505e82
-SHA1: bd1c2de1ee37edc06ba8aa4c12e47d2b6af3821b
-SHA256: 4d4664849e3998959bdb758409cc777124ed5476288066aaece08ea5831a1ef9
+Size: 411900
+MD5sum: 546caeb69e4031c1725431b02f285b06
+SHA1: 72eca683c079ff00391e8b9982e4a114b8a301db
+SHA256: ae383018cc6bc37abfef356c3aeff7d2638fc41824e80a40aa7553a5543b6486
 Section: Utilities
 Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
