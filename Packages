@@ -187,15 +187,15 @@ Section: Development
 Description: Compiler cache that speeds up recompilation by caching previous compilations
 
 Package: iphoneports-cctools
-Version: 986-ld64-711-2
+Version: 986-ld64-711-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi
+Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools.deb
-Size: 4165294
-MD5sum: a5f8aad2c40c40bd98b77ba340114502
-SHA1: 3e3448ca35a26c2835dbbdc1dd9f1849eba0d109
-SHA256: c4b91c2e06edbd04b64241bd322a66e36a8d4df1b1a3b4ea219589c6f7894774
+Size: 4185976
+MD5sum: 1f19a04439af761e2ec87c36d155f1e8
+SHA1: debcd99279c68f62752fc74aa1dc248614ed57fe
+SHA256: 93031a455828cf825f4f4fca2e86325a1040542dce0bd3e8e00792b540a8c133
 Section: Development
 Description: Mach-O binary utilities
 
@@ -1846,6 +1846,19 @@ SHA1: 83d726cf4430ff35dc936a0e07d9575f93ff1cfc
 SHA256: e41a1ddf259a8c5498c4a86e24783c710e3fc8ae89b9ce28337aaf3a0a76af7b
 Section: Utilities
 Description: An internet domain name and network number directory service
+
+Package: iphoneports-xar
+Version: 501
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libxml2, iphoneports-libressl
+Filename: ./debs/xar.deb
+Size: 71252
+MD5sum: 0b36da178c28f0668f376eabc949b087
+SHA1: be231abe251498c4b78467af2183f5378ed6a4fe
+SHA256: 83c81bec836bb87cbbefbb0728028d5f18a621e691bcc9361853056f33b66436
+Section: Archiving
+Description: eXtensible ARchive format
 
 Package: iphoneports-xxd
 Version: 2024-12-07
