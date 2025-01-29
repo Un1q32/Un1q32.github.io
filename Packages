@@ -410,15 +410,15 @@ Section: Text_Editors
 Description: A line-oriented text editor
 
 Package: iphoneports-ffmpeg
-Version: 7.1-2
+Version: 7.1-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libxml2, iphoneports-libressl, iphoneports-dav1d, iphoneports-libwebp
 Filename: ./debs/ffmpeg.deb
-Size: 10416914
-MD5sum: 411ce3004eb3060d3c6335eb328c87d2
-SHA1: bd825f3a35a41a0cdad36d321e07a1997a7e00c3
-SHA256: d2e7cab304246a511d88ff54e16ae308c510196a8a12fbc56893e19723a9fd85
+Size: 10414956
+MD5sum: 5732edc586d3336820a23e1549ee4b30
+SHA1: 5d43078173a8fa4498cd732fb2b07df4d1c330c3
+SHA256: 4887c01832cd1d6bb975c3b55a847aa7771553f0ca728b8c60ddf0eae9cfb297
 Section: Multimedia
 Description: Complete solution to record, convert and stream audio and video
 
