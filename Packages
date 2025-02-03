@@ -1250,10 +1250,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl, iphoneports-getusedmem
 Filename: ./debs/neofetch.deb
-Size: 136712
-MD5sum: d3f30faf0ea7c35bb00fac274af20b06
-SHA1: 6804391f6f5ef2c3a1d53bfebd1b8a7af3eb4091
-SHA256: c9e73608232a4c89f1c6ba1624be42eec0907e23a4ad0264ae1a53204e4586c4
+Size: 137104
+MD5sum: 1affa1dc124abdab71ad5d2f47b9aca2
+SHA1: c5e685260a80a3a656043c6b28ad6524dc277a99
+SHA256: d0fc93be7c87887efda1f7427146eaed87210a1751a7ea375a43aa22414372f3
 Section: Utilities
 Description: A command line system information tool
 
@@ -1420,10 +1420,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-dash, iphoneports-coreutils, iphoneports-sysctl, iphoneports-hostname, iphoneports-getusedmem
 Filename: ./debs/pfetch.deb
-Size: 22940
-MD5sum: 41f53a82147d48bfdeba7481d05f6ea7
-SHA1: 1333a854769a8fd68003ddcdddb0cf1e34303699
-SHA256: b51c45d6b307093bed97575aaf49e1f76504291edb462ad2d721adf06c4028ce
+Size: 22942
+MD5sum: 80254c6e0203d5191709bb2aed2dc2d8
+SHA1: 1f2953ab0e196d00c5c7672065cd2f075ea33d0f
+SHA256: 66c2e3d084251710b5048dbd43016c0d46a96f0095f60a7203c16da7b6f66abc
 Section: Utilities
 Description: A pretty system information tool written in POSIX sh
 
