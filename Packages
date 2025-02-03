@@ -148,15 +148,15 @@ Description: A C library for asynchronous DNS requests
 
 Package: iphoneports-ca-certificates
 Version: 2024-12-31
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 134036
-MD5sum: b1b4e17b8eff462708390eb139124a3f
-SHA1: 0ec76281ff212a9c57694a63852838cf34826db0
-SHA256: 76d7b38fccd1ab02e2ed622133a227f14f4bbc198afaf745a741e62c76669c47
+Size: 134030
+MD5sum: 94de00327657ba89b9bca572a6ab211c
+SHA1: 9c871463e824d793a6bf5048743bad4626cc9878
+SHA256: 6034ed93a112a5433fed633324f629b1c6e72dfab1f255f49ff1a296ef96be30
 Section: Security
 Description: Common CA certificates
 
@@ -227,14 +227,14 @@ Description: Terminal screen saver based on the movie "The Matrix".
 
 Package: iphoneports-compiler-rt
 Version: 19.1.7-3
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/compiler-rt.deb
-Size: 24226
-MD5sum: cd977f83e98b46d4bc857551cbaeec07
-SHA1: 51fda66208aa3a2651dfa5d7dfc986eff4622df4
-SHA256: 0e2f7e53b8bf1a695a8ed341cd6191848c6c1a90474e40528610025f656b0541
+Size: 24242
+MD5sum: 486da52edf9173073cfded0566744008
+SHA1: 530958f13b250fc28281abf5f73f967c50ef070b
+SHA256: 5af23d8d5a61be18480be079b297522cc99984f956c3c323574bece1a17b6aba
 Section: Development
 Description: Compiler runtime libraries for clang
 
