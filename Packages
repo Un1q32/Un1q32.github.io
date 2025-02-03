@@ -55,14 +55,14 @@ Description: The GNU Bourne Again shell
 
 Package: iphoneports-bash-completion
 Version: 2.14.0
-Architecture: any
+Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash
 Filename: ./debs/bash-completion.deb
-Size: 226470
-MD5sum: dde4e131d1cd03f0e9d56394198b2efd
-SHA1: d67f4916b7b393ac876e188d9fee00598f1a03c6
-SHA256: 6e75241c925831fad8d263cc9b5728834c9fc1845e27ddd9ebef98307bb80e5e
+Size: 226482
+MD5sum: d2fcb114bded5d323a7a9d3013920e61
+SHA1: 8133cbce1d3a9d1a4b685b6de551b59bc72c6af4
+SHA256: bb56d5168b1991f052e8d34af0734639cd35f21ebf2667ffdb4076e4e6bdda0f
 Section: Terminal_Support
 Description: a collection of command line command completions for the Bash shell
 
