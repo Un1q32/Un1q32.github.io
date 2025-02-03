@@ -1139,15 +1139,15 @@ Homepage: http://www.gnu.org/software/m4/
 Description: The GNU macro processor
 
 Package: iphoneports-make
-Version: 4.4.1-1
+Version: 4.4.1-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/make.deb
 Size: 117818
-MD5sum: db5594b29fe6bfa7f17920670adccff5
-SHA1: 89d53531571788a3247ab28cc35c75e09578cfe3
-SHA256: 3c4183f7d05bc886fd99cacf2cba4538b720a38d527e704bd60fcea86fe90e66
+MD5sum: 505a71497ecaab2c9c784a3018435d0d
+SHA1: a22f6526f50a3ef78ec8058680bd7ab3252e0685
+SHA256: cb6fe7bcb7a30fefc3c205e55415689febddd40a8b1b0eb32b0b2d9163611262
 Section: Development
 Homepage: http://www.gnu.org/software/make/
 Description: Standard tool to compile source trees
