@@ -1493,15 +1493,15 @@ Section: Utilities
 Description: Show ps output as a tree
 
 Package: iphoneports-python
-Version: 3.13.1-8
+Version: 3.13.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib, iphoneports-libressl, iphoneports-mpdecimal
 Filename: ./debs/python.deb
-Size: 39419148
-MD5sum: 89503fbbd5431cd6a262beed73e4b2e6
-SHA1: 251993f003ddd8163fa49f76af55dd22fde92857
-SHA256: 981f2a22cecd84821c91ad9dff93635c911e1757b6af44d9541c3e437f7fc05b
+Size: 39539332
+MD5sum: e0411e0711322badb242c3733b05456c
+SHA1: 69b8891fb6bbf146a3533f89a8a92bc0ac352be5
+SHA256: 5185616181587064e06aaaad8846f8f7ce3420c3dd0c87d825b47a09e2787403
 Section: Scripting
 Description: The Python programming language
 
