@@ -266,15 +266,15 @@ Section: Development
 Description: A tool for static C/C++ code analysis
 
 Package: iphoneports-curl
-Version: 8.11.1
+Version: 8.12.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl.deb
-Size: 614964
-MD5sum: e04e024c820193c29ee2ea710d0358d4
-SHA1: e5786a0d780c49eb2b0a299f17c3dda6b7249634
-SHA256: 2787e8e08ac6261799feedaa29f59d7a9a7ff242f272ec2ae89454de683b804a
+Size: 613660
+MD5sum: 39eb5cd8128edc9b0ea4394369012348
+SHA1: 11a90f233fce97fddb142d8384b712f3f1badbbc
+SHA256: 0aaac0010923164adf5fb5cc78e9ff9f9b07c630e98fa83a3eb75cda64ecc642
 Section: Networking
 Description: An URL retrieval utility and library
 
