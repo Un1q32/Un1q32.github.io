@@ -374,13 +374,13 @@ Package: iphoneports-dpkg
 Version: 1.22.15-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libmd, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-gtar
+Depends: iphoneports-base, iphoneports-libmd, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-gtar, iphoneports-gzip
 Replaces: iphoneports-base, dpkg
 Filename: ./debs/dpkg-iphoneos-arm.deb
-Size: 883734
-MD5sum: 1be8504e04ea510530f3eacdd6262769
-SHA1: 799f955163ec20341ac6d9a7f956938d6c643740
-SHA256: b815f7ce03393188b005b88f4b15e56e3d2635f664855b98ec7f7774ab6682d9
+Size: 883764
+MD5sum: d52d2bbf31dabbe9a630102cbaace3cd
+SHA1: fde1fa176f535be7350c9f4c6926384cdb9edda1
+SHA256: b617f50c020b36fbb04bdeee80dca22f7ae7be272959b86e953d11137cb98e69
 Section: Packaging
 Description: The Debian Package Manager tools
 
