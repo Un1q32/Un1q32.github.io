@@ -2,7 +2,7 @@ Package: iconfix
 Version: 10
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Filename: ./debs/iconfix.deb
+Filename: ./debs/iconfix-iphoneos-arm.deb
 Size: 34950
 MD5sum: ac870ac3f09d3524d1a8dd2de9b3d6a2
 SHA1: bd49e1f991a71fd2375763e9077c7682a5499f90
@@ -16,7 +16,7 @@ Version: 3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/2048.deb
+Filename: ./debs/2048-iphoneos-arm.deb
 Size: 5264
 MD5sum: f620057ee764ed4faacb16af5970dc12
 SHA1: c32a6a158b8e8a601f5d632eebd32040cd780f15
@@ -31,7 +31,7 @@ Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 3.0), iphoneports-dash, iphoneports-coreutils
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
-Filename: ./debs/base.deb
+Filename: ./debs/base-iphoneos-arm.deb
 Size: 6208
 MD5sum: 180cd6d1cf96b1ef0bdf03635149d038
 SHA1: b8f48a0ddecbeb3bd61b158d9e70cc380a878108
@@ -44,7 +44,7 @@ Version: 5.2.37-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline
-Filename: ./debs/bash.deb
+Filename: ./debs/bash-iphoneos-arm.deb
 Size: 434764
 MD5sum: c628efa1d0f0250a750137a3555efa3d
 SHA1: ed12e94ac3cbef0b9cc1229bfa387769a109685b
@@ -58,7 +58,7 @@ Version: 2.14.0
 Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash
-Filename: ./debs/bash-completion.deb
+Filename: ./debs/bash-completion-iphoneos-arm.deb
 Size: 226482
 MD5sum: d2fcb114bded5d323a7a9d3013920e61
 SHA1: 8133cbce1d3a9d1a4b685b6de551b59bc72c6af4
@@ -71,7 +71,7 @@ Version: 7.0.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/bc.deb
+Filename: ./debs/bc-iphoneos-arm.deb
 Size: 67752
 MD5sum: 3c3061e90b7ef2e0dd7b6a6619260ad2
 SHA1: d33b3e06ca5e52df9aff405f5423b66e38cf4674
@@ -84,7 +84,7 @@ Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-libunistring, iphoneports-pcre2
-Filename: ./debs/boxes.deb
+Filename: ./debs/boxes-iphoneos-arm.deb
 Size: 78480
 MD5sum: f7604a12724107f95931b66c1d99307f
 SHA1: 0bc58a2398988171195c09b88216d8d76e7512d2
@@ -97,7 +97,7 @@ Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/brotli.deb
+Filename: ./debs/brotli-iphoneos-arm.deb
 Size: 429724
 MD5sum: 35213bbf5999f1d33cfb9ded50ac018f
 SHA1: bbd1a78ad47c3539cd6eea6f685f008c7f86b9ad
@@ -111,7 +111,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-diffutils, iphoneports-less, iphoneports-grep
 Replaces: iphoneports-grep
-Filename: ./debs/bzip2.deb
+Filename: ./debs/bzip2-iphoneos-arm.deb
 Size: 57918
 MD5sum: 4fcee26d0282fe1e4c76430c49127f7a
 SHA1: ff0b4daf3df8bdb550d19c3d166f15fe25bc936f
@@ -125,7 +125,7 @@ Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/bzip3.deb
+Filename: ./debs/bzip3-iphoneos-arm.deb
 Size: 45528
 MD5sum: 30b6e759e51c94be3720a3586612fb8f
 SHA1: bfab1689c8e36d2ab1f4723ed943a4e0cd345727
@@ -138,7 +138,7 @@ Version: 1.34.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/c-ares.deb
+Filename: ./debs/c-ares-iphoneos-arm.deb
 Size: 132712
 MD5sum: ebebea0d072b193fa368080ef5424da2
 SHA1: bc227a4fa24b0bf74b0b7bceda61a2ce17715e1c
@@ -152,7 +152,7 @@ Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
-Filename: ./debs/ca-certificates.deb
+Filename: ./debs/ca-certificates-iphoneos-arm.deb
 Size: 134030
 MD5sum: 94de00327657ba89b9bca572a6ab211c
 SHA1: 9c871463e824d793a6bf5048743bad4626cc9878
@@ -165,7 +165,7 @@ Version: 4.10.2-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-zstd, iphoneports-xxhash
-Filename: ./debs/ccache.deb
+Filename: ./debs/ccache-iphoneos-arm.deb
 Size: 642024
 MD5sum: 4324ae20c947bed74d97841662a97b54
 SHA1: 1f6625e7fe671d4aaa2506dd7eaa9c566b6e1900
@@ -178,7 +178,7 @@ Version: 986-ld64-711-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
-Filename: ./debs/cctools.deb
+Filename: ./debs/cctools-iphoneos-arm.deb
 Size: 3883178
 MD5sum: a75340c7b206663ebcda78d8b894e94c
 SHA1: 9f10e78090fdc0ee70894c72bdfc4b84ba8446f7
@@ -191,7 +191,7 @@ Version: 19.1.7-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
-Filename: ./debs/clang.deb
+Filename: ./debs/clang-iphoneos-arm.deb
 Size: 51913014
 MD5sum: 32b82f1f2e696f74174f1da4962318b0
 SHA1: 2afae821254f88d38f33715ee5455e5044ac44ab
@@ -204,7 +204,7 @@ Version: 3.31.5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-libuv, iphoneports-zlib, iphoneports-libarchive
-Filename: ./debs/cmake.deb
+Filename: ./debs/cmake-iphoneos-arm.deb
 Size: 16298888
 MD5sum: de96c2b4cd325fa019698ee4b071b564
 SHA1: b64cd85c15bb00ee51b230d406878d3ec6583510
@@ -217,7 +217,7 @@ Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/cmatrix.deb
+Filename: ./debs/cmatrix-iphoneos-arm.deb
 Size: 7784
 MD5sum: 9c9a3344a4c5ba584a4900faac86221e
 SHA1: 7eff1926607602f9af512dcb60b70784597f6e08
@@ -230,7 +230,7 @@ Version: 19.1.7-3
 Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/compiler-rt.deb
+Filename: ./debs/compiler-rt-iphoneos-arm.deb
 Size: 24242
 MD5sum: 486da52edf9173073cfded0566744008
 SHA1: 530958f13b250fc28281abf5f73f967c50ef070b
@@ -243,7 +243,7 @@ Version: 9.6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-gmp
-Filename: ./debs/coreutils.deb
+Filename: ./debs/coreutils-iphoneos-arm.deb
 Size: 664172
 MD5sum: d4dca3d86bf9191e74756a1178ae8bdc
 SHA1: 15c19a9c67e4694154c0830a8286a766ac669e9f
@@ -257,7 +257,7 @@ Version: 2.16.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-pcre, iphoneports-python
-Filename: ./debs/cppcheck.deb
+Filename: ./debs/cppcheck-iphoneos-arm.deb
 Size: 2637404
 MD5sum: ac0b83ea8d334bac8d63283c65fc242b
 SHA1: ee2980b9837586415bf50762fa1ceb76cdf9cd2d
@@ -270,7 +270,7 @@ Version: 8.12.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
-Filename: ./debs/curl.deb
+Filename: ./debs/curl-iphoneos-arm.deb
 Size: 613660
 MD5sum: 39eb5cd8128edc9b0ea4394369012348
 SHA1: 11a90f233fce97fddb142d8384b712f3f1badbbc
@@ -283,7 +283,7 @@ Version: 0.5.12-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/dash.deb
+Filename: ./debs/dash-iphoneos-arm.deb
 Size: 60202
 MD5sum: decdd10d0491f272f714008e00751fb9
 SHA1: ef4735fc7df8686905a9b006cb9e99db84662271
@@ -296,7 +296,7 @@ Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/dav1d.deb
+Filename: ./debs/dav1d-iphoneos-arm.deb
 Size: 350792
 MD5sum: cbdf5c5cd4fd7f8be79e1b07e373930e
 SHA1: 9cb781806a86fe3f5f97dab49aa15de6f4aa0870
@@ -309,7 +309,7 @@ Version: 6.2.32
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/db.deb
+Filename: ./debs/db-iphoneos-arm.deb
 Size: 1782418
 MD5sum: 15138e99914437a8d460647643f79d51
 SHA1: 032053e27f23f47676f0e575aa94fc3d4be80737
@@ -322,7 +322,7 @@ Version: 3.10-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/diffutils.deb
+Filename: ./debs/diffutils-iphoneos-arm.deb
 Size: 183952
 MD5sum: 936ebeb8e7bd0bd93d402eef9ceb104d
 SHA1: e455e749c86d75dc6947d87f5d4a71988e20fe94
@@ -336,7 +336,7 @@ Version: 3.4-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-popt, iphoneports-clang
-Filename: ./debs/distcc.deb
+Filename: ./debs/distcc-iphoneos-arm.deb
 Size: 139906
 MD5sum: 8ad8c2e547e5c3da2a5139afb992f4e3
 SHA1: 57e110d0ff805f3685913848788b64151b5b2d51
@@ -349,7 +349,7 @@ Version: 6.3p12-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
-Filename: ./debs/doas.deb
+Filename: ./debs/doas-iphoneos-arm.deb
 Size: 14336
 MD5sum: 42f9d64fe339c7493391876207bb2016
 SHA1: 9a951a57bf14e06a101f2668656429519334c30d
@@ -362,7 +362,7 @@ Version: 7.5.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/dos2unix.deb
+Filename: ./debs/dos2unix-iphoneos-arm.deb
 Size: 39068
 MD5sum: 6123e41461914c3b1b9c402abd3468ce
 SHA1: 8fe36804da338abf13703933cd6e5c3e2fd47c72
@@ -376,7 +376,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libmd, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-ncurses, iphoneports-libc++, iphoneports-gtar
 Replaces: iphoneports-base, dpkg
-Filename: ./debs/dpkg.deb
+Filename: ./debs/dpkg-iphoneos-arm.deb
 Size: 971574
 MD5sum: 551474b29eceb8532eb20e079807c8b6
 SHA1: 1f35c5380e96176ad3b5ad7859acdfdecce10327
@@ -389,7 +389,7 @@ Version: 2.7.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/duktape.deb
+Filename: ./debs/duktape-iphoneos-arm.deb
 Size: 218038
 MD5sum: d95ecbc2b71a6aab21789f75dac5f89b
 SHA1: 1db19f3dc0c646c49f9fb023b2ba811683c8985d
@@ -402,7 +402,7 @@ Version: 154-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ed.deb
+Filename: ./debs/ed-iphoneos-arm.deb
 Size: 22316
 MD5sum: 42b480b66a21d12270f898308a2673d1
 SHA1: 427d20e42023bb452f98767a70125844139134bb
@@ -415,7 +415,7 @@ Version: 7.1-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libxml2, iphoneports-libressl, iphoneports-dav1d, iphoneports-libwebp
-Filename: ./debs/ffmpeg.deb
+Filename: ./debs/ffmpeg-iphoneos-arm.deb
 Size: 10414956
 MD5sum: 5732edc586d3336820a23e1549ee4b30
 SHA1: 5d43078173a8fa4498cd732fb2b07df4d1c330c3
@@ -428,7 +428,7 @@ Version: 5.46
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xz, iphoneports-bzip2, iphoneports-zlib, iphoneports-zstd
-Filename: ./debs/file.deb
+Filename: ./debs/file-iphoneos-arm.deb
 Size: 536696
 MD5sum: 23c393b9e4c01199d683cae5fb5289d1
 SHA1: 899de84ff093a996c71209f2ac217d1ff9d99e9b
@@ -441,7 +441,7 @@ Version: 4.10.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-sed
-Filename: ./debs/findutils.deb
+Filename: ./debs/findutils-iphoneos-arm.deb
 Size: 295798
 MD5sum: 29d2b4ed21826a30ce642f7ad91541e5
 SHA1: 10bcbe184bfa472ec20e0a3cf944da5afae1a928
@@ -456,7 +456,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
 Replaces: iphoneports-awk
-Filename: ./debs/gawk.deb
+Filename: ./debs/gawk-iphoneos-arm.deb
 Size: 411900
 MD5sum: 546caeb69e4031c1725431b02f285b06
 SHA1: 72eca683c079ff00391e8b9982e4a114b8a301db
@@ -471,7 +471,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-neofetch
-Filename: ./debs/getusedmem.deb
+Filename: ./debs/getusedmem-iphoneos-arm.deb
 Size: 2482
 MD5sum: 89de791da00539458324a4d64aa0b525
 SHA1: db3eea2bb0c13d12d9f7b18e5e34dc26b7a0b891
@@ -484,7 +484,7 @@ Version: 2.48.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-curl, iphoneports-libressl, iphoneports-grep, iphoneports-pcre2, iphoneports-zlib
-Filename: ./debs/git.deb
+Filename: ./debs/git-iphoneos-arm.deb
 Size: 10969760
 MD5sum: 3b42a8454ae094a66e4deca01ef6b2a0
 SHA1: 9d2cb4797a8625914ed8757328b3648c075dc2de
@@ -497,7 +497,7 @@ Version: 6.3.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/gmp.deb
+Filename: ./debs/gmp-iphoneos-arm.deb
 Size: 255360
 MD5sum: bfcd2680516b6e7ca3d66fdd21c21396
 SHA1: 848d2be8fde34589535f9137c83b159e9b65c297
@@ -511,7 +511,7 @@ Version: 3.8.8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
-Filename: ./debs/gnutls.deb
+Filename: ./debs/gnutls-iphoneos-arm.deb
 Size: 1444856
 MD5sum: 8b6ed85b9823a4ef7e50d22fe4218ab8
 SHA1: 7d8d8762f33947908c3f56ef93570287e68eac18
@@ -524,7 +524,7 @@ Version: 1.0.10-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-popt
-Filename: ./debs/gptfdisk.deb
+Filename: ./debs/gptfdisk-iphoneos-arm.deb
 Size: 142608
 MD5sum: 19968c72e37bc72b0b5e6a9424a57f6e
 SHA1: 005d9213f2cd76b86b01d5a84b24321163ba6b60
@@ -537,7 +537,7 @@ Version: 3.11-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pcre2
-Filename: ./debs/grep.deb
+Filename: ./debs/grep-iphoneos-arm.deb
 Size: 133362
 MD5sum: 304eba47a31fa32e4054aef8a1937edd
 SHA1: 51a7bcbd859646974ec61311368cab2ad9414e3e
@@ -551,7 +551,7 @@ Version: 1.35
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/gtar.deb
+Filename: ./debs/gtar-iphoneos-arm.deb
 Size: 247994
 MD5sum: 6b0a02c54c506a104fad1a20c5c4951c
 SHA1: 899832ae786c2af9c35cdb2b754bdcb5bdbae43f
@@ -566,7 +566,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-sed, iphoneports-grep, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib
 Replaces: iphoneports-grep
-Filename: ./debs/gzip.deb
+Filename: ./debs/gzip-iphoneos-arm.deb
 Size: 26664
 MD5sum: c79ddd98334a5fd0199c17001f51aa22
 SHA1: 4dd85949b0e92bcb05288cc075a30df64f0aaae6
@@ -580,7 +580,7 @@ Version: 1.6-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/hexedit.deb
+Filename: ./debs/hexedit-iphoneos-arm.deb
 Size: 20016
 MD5sum: 80f9a7f33822971acf166024e3e7abd8
 SHA1: 3e93e1b1b79b2a7219e11f930e2801ec535d4da5
@@ -593,7 +593,7 @@ Version: 240.100.15-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/hostname.deb
+Filename: ./debs/hostname-iphoneos-arm.deb
 Size: 2796
 MD5sum: c68352c947b08ded12364b34042c65ae
 SHA1: 9d1bdfb994052b1952ec4577463efe538ad0c5e4
@@ -606,7 +606,7 @@ Version: 3.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/htop.deb
+Filename: ./debs/htop-iphoneos-arm.deb
 Size: 89678
 MD5sum: f1dee255c743fb2e4275067ee9f7e5c6
 SHA1: f8e5de618f775d922d95b60dd7d09910036bf678
@@ -620,7 +620,7 @@ Version: 1.1.1-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libplist, iphoneports-libzip
-Filename: ./debs/ideviceinstaller.deb
+Filename: ./debs/ideviceinstaller-iphoneos-arm.deb
 Size: 15790
 MD5sum: 97039846fc9527037c6de98765eda4ea
 SHA1: ce4ee138d6c2ff5dcab962f0df6bafc9f8a51623
@@ -633,7 +633,7 @@ Version: 1.0.0-8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libzip, iphoneports-curl, iphoneports-libressl, iphoneports-libplist, iphoneports-zlib, iphoneports-libirecovery, iphoneports-libimobiledevice-glue, iphoneports-libtatsu
-Filename: ./debs/idevicerestore.deb
+Filename: ./debs/idevicerestore-iphoneos-arm.deb
 Size: 103096
 MD5sum: 855ef3434ade08cbe16bd398b24faae8
 SHA1: d56a71bd4f872da04730d859af3d99a3724bbb87
@@ -646,7 +646,7 @@ Version: 325-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ifconfig.deb
+Filename: ./debs/ifconfig-iphoneos-arm.deb
 Size: 12074
 MD5sum: 4bb16c6b02fa62bc69401e8c87b0b570
 SHA1: 82740b92f872d7dddfd3d778b82050d4d1a04989
@@ -659,7 +659,7 @@ Version: 7.1.1.43
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libzip, iphoneports-libxml2, iphoneports-libpng, iphoneports-libjpeg-turbo, iphoneports-libwebp
-Filename: ./debs/imagemagick.deb
+Filename: ./debs/imagemagick-iphoneos-arm.deb
 Size: 2552438
 MD5sum: 3a14db4e1b03d3d4f737e9794b983444
 SHA1: 3b1049e1a06b2f5a949fb8e953e84999784a9bb4
@@ -672,7 +672,7 @@ Version: 302.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/killall.deb
+Filename: ./debs/killall-iphoneos-arm.deb
 Size: 5738
 MD5sum: 0e13e8a0302ff5693b23a97fa3899bf3
 SHA1: 71bd776a141e1065f3921387e3c6062a5ca95adb
@@ -685,7 +685,7 @@ Version: 2.1.5-procursus7-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libressl, iphoneports-libc++
-Filename: ./debs/ldid.deb
+Filename: ./debs/ldid-iphoneos-arm.deb
 Size: 68414
 MD5sum: 9801d122138f005f4b2de33453f0ed8f
 SHA1: 45de216b1ae680d5f6d1a0f87399a80c13639b23
@@ -698,7 +698,7 @@ Version: 668
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre2
-Filename: ./debs/less.deb
+Filename: ./debs/less-iphoneos-arm.deb
 Size: 121968
 MD5sum: 1905a9f6c0d6bed383a56cf1efd8f4a0
 SHA1: 6077c0ce89c54f9062467b1fcad1976f2db3b3fb
@@ -711,7 +711,7 @@ Version: 3.7.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libxml2, iphoneports-xz, iphoneports-zlib, iphoneports-bzip2, iphoneports-zstd, iphoneports-lz4
-Filename: ./debs/libarchive.deb
+Filename: ./debs/libarchive-iphoneos-arm.deb
 Size: 510542
 MD5sum: 7736e621e5ab74e1d967a47c56cfde2f
 SHA1: 294c7bce32ed4d455c306ec04946a28d152a0267
@@ -724,7 +724,7 @@ Version: 19.1.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libc++.deb
+Filename: ./debs/libc++-iphoneos-arm.deb
 Size: 1535718
 MD5sum: 0ac0a91e0954d5adec2e82d271f1350d
 SHA1: 1881938e7206be2178d1663c6d8e3a8aeeb0e8f9
@@ -737,7 +737,7 @@ Version: 1.1.1-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libimobiledevice, iphoneports-libplist, iphoneports-curl, iphoneports-libxml2
-Filename: ./debs/libideviceactivation.deb
+Filename: ./debs/libideviceactivation-iphoneos-arm.deb
 Size: 19386
 MD5sum: 601bfffd52778c451d4fdb9a46d6d3f4
 SHA1: 07239bf9e3380e599472f0a909fff15e4c85b24c
@@ -750,7 +750,7 @@ Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring
-Filename: ./debs/libidn2.deb
+Filename: ./debs/libidn2-iphoneos-arm.deb
 Size: 127724
 MD5sum: 63a07872e8171be7a5282d8001766d4a
 SHA1: cd4c5e959a23f9af2a4d8f4a1dfaa2d90a1d2c29
@@ -764,7 +764,7 @@ Version: 1.3.0-9
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd, iphoneports-libimobiledevice-glue, iphoneports-readline, iphoneports-libtatsu
-Filename: ./debs/libimobiledevice.deb
+Filename: ./debs/libimobiledevice-iphoneos-arm.deb
 Size: 328512
 MD5sum: de21d85064fa226f8b6b258a839d345b
 SHA1: 7d8082530d95a0f73d9d34fbb7aea93946f096c9
@@ -777,7 +777,7 @@ Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist
-Filename: ./debs/libimobiledevice-glue.deb
+Filename: ./debs/libimobiledevice-glue-iphoneos-arm.deb
 Size: 37084
 MD5sum: 8897fa08816877e35ab958b5781767a6
 SHA1: e52e90b2d32d3b5696bcfbdcb301b3ef96c71807
@@ -790,7 +790,7 @@ Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libusb, iphoneports-readline, iphoneports-libimobiledevice-glue, iphoneports-libplist
-Filename: ./debs/libirecovery.deb
+Filename: ./debs/libirecovery-iphoneos-arm.deb
 Size: 37164
 MD5sum: 838f1b1087b3ed70e53c2f45a2c60792
 SHA1: f69766c4eb6a7ea1ee9ed2116c81e345a2ae3ada
@@ -803,7 +803,7 @@ Version: 3.1.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libjpeg-turbo.deb
+Filename: ./debs/libjpeg-turbo-iphoneos-arm.deb
 Size: 695398
 MD5sum: 75507aea9c86e02513bea7cae7f27d69
 SHA1: 714488b1da3cfc17f38787d4bf67cd603e969464
@@ -816,7 +816,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libmd.deb
+Filename: ./debs/libmd-iphoneos-arm.deb
 Size: 28188
 MD5sum: 5d03b54a0cccd7295ab66ecf7758fa16
 SHA1: ad8331521baf6e52be7ee35ab88feee59d65bbae
@@ -829,7 +829,7 @@ Version: 2.6.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libplist.deb
+Filename: ./debs/libplist-iphoneos-arm.deb
 Size: 92484
 MD5sum: afe6cd5cfda17f06781e7b99132dce08
 SHA1: dabe3ef7f99710fb9f598ed0c572fb123b1bb134
@@ -842,7 +842,7 @@ Version: 1.6.46
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
-Filename: ./debs/libpng.deb
+Filename: ./debs/libpng-iphoneos-arm.deb
 Size: 187116
 MD5sum: 43e100b1f6d866172c0ae8a443e7f93d
 SHA1: 0b86884f917f66087a29babf3b3053d5be7fdb07
@@ -855,7 +855,7 @@ Version: 0.21.5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libunistring, iphoneports-libidn2
-Filename: ./debs/libpsl.deb
+Filename: ./debs/libpsl-iphoneos-arm.deb
 Size: 63460
 MD5sum: 58276eb13db7392f6530b4e91b7640d1
 SHA1: 6f4bace9c1230f63ca9b437d612db5f908748958
@@ -868,7 +868,7 @@ Version: 4.0.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ca-certificates
-Filename: ./debs/libressl.deb
+Filename: ./debs/libressl-iphoneos-arm.deb
 Size: 1345086
 MD5sum: 7c21dac95a0a99225fd2e679423ae28e
 SHA1: 6ccac13f83919ffd47ad5c4074576745435eb0e2
@@ -881,7 +881,7 @@ Version: 1.11.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
-Filename: ./debs/libssh2.deb
+Filename: ./debs/libssh2-iphoneos-arm.deb
 Size: 141762
 MD5sum: 7c5fdce3a473143be697a229e3265da6
 SHA1: 0c009b95b7c5d1d66e45bda8016bd3a3f9072877
@@ -895,7 +895,7 @@ Version: 1300.6.5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-ncurses
-Filename: ./debs/libtapi.deb
+Filename: ./debs/libtapi-iphoneos-arm.deb
 Size: 249340
 MD5sum: 29d9d74cb6504c5de857fe81fa66f868
 SHA1: 6106872608cb7801d28b900b00cd3e6e111646ea
@@ -908,7 +908,7 @@ Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-curl
-Filename: ./debs/libtatsu.deb
+Filename: ./debs/libtatsu-iphoneos-arm.deb
 Size: 18632
 MD5sum: 2d5ea3c4e408003a8529e35373f937ca
 SHA1: 8e8ac79dee7dae1fa3ef83778acf5f376ef61e83
@@ -921,7 +921,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libunistring.deb
+Filename: ./debs/libunistring-iphoneos-arm.deb
 Size: 850774
 MD5sum: ddea083e35dfb7b0873311dd8560a881
 SHA1: 2cd613b35d12e23d4a2ac5ea64b633e0c356e254
@@ -935,7 +935,7 @@ Version: 1.0.27
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libusb.deb
+Filename: ./debs/libusb-iphoneos-arm.deb
 Size: 75714
 MD5sum: c88904115ec20209f2a40d1f352bab2d
 SHA1: 53cb68cecddd8c4f2eb31f709903bbe0dbc86ba0
@@ -948,7 +948,7 @@ Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice-glue
-Filename: ./debs/libusbmuxd.deb
+Filename: ./debs/libusbmuxd-iphoneos-arm.deb
 Size: 29614
 MD5sum: 5d5bad724c1a100d0bcb9a205e18f7ce
 SHA1: 644c0bd6c492b87b971aea1d01997d4822c29cde
@@ -961,7 +961,7 @@ Version: 1.49.1-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libuv.deb
+Filename: ./debs/libuv-iphoneos-arm.deb
 Size: 106556
 MD5sum: 8c3e6beb427c9f58805693ff143a9d57
 SHA1: 16fda9cbfb60d2adfe547b5971cd74d17b28cbcb
@@ -974,7 +974,7 @@ Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/libwebp.deb
+Filename: ./debs/libwebp-iphoneos-arm.deb
 Size: 427672
 MD5sum: 4d6c362f42e01f9e989be6ddfc167171
 SHA1: f872d3ada6c2055713eeb69cf537f450c0fc84ef
@@ -987,7 +987,7 @@ Version: 2.13.5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz
-Filename: ./debs/libxml2.deb
+Filename: ./debs/libxml2-iphoneos-arm.deb
 Size: 729294
 MD5sum: 152dbf6461d50f26780cfb6cd2b1d572
 SHA1: 62b0ccd74eac363c4880c430476a6384953ad17c
@@ -1000,7 +1000,7 @@ Version: 1.11.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xz, iphoneports-libressl
-Filename: ./debs/libzip.deb
+Filename: ./debs/libzip-iphoneos-arm.deb
 Size: 101638
 MD5sum: daa3e8c4b3c278bff4071be84edd5e58
 SHA1: e9ef6d4955c4f5e72e103c236973a180eba9099b
@@ -1013,7 +1013,7 @@ Version: 1.4.76-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib, iphoneports-bzip2, iphoneports-zstd, iphoneports-brotli, iphoneports-lua, iphoneports-pcre2, iphoneports-libxml2, iphoneports-sqlite, iphoneports-xxhash
-Filename: ./debs/lighttpd.deb
+Filename: ./debs/lighttpd-iphoneos-arm.deb
 Size: 447586
 MD5sum: d0d234585a9bbccd214d7db7cef21c25
 SHA1: 13e7ea64cf27d1f758abde434bd89fbe3c28f79a
@@ -1026,7 +1026,7 @@ Version: 19.1.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-zlib
-Filename: ./debs/llvm.deb
+Filename: ./debs/llvm-iphoneos-arm.deb
 Size: 39897234
 MD5sum: d4026ae962da59d750191df5f1d8dcf1
 SHA1: 8ba42845b013891b1f96059712a5823a3136965f
@@ -1039,7 +1039,7 @@ Version: 433-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
-Filename: ./debs/login.deb
+Filename: ./debs/login-iphoneos-arm.deb
 Size: 7286
 MD5sum: ed4cdc6d98a2b06c33b400e2f247feff
 SHA1: 346fc068439f0f59d415ca52796d19208d07247d
@@ -1052,7 +1052,7 @@ Version: 5.4.7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
-Filename: ./debs/lua.deb
+Filename: ./debs/lua-iphoneos-arm.deb
 Size: 149730
 MD5sum: 62ce9ba890c1e41992cab6e06b788a02
 SHA1: 13e10d4c82e0437ec9bd878abf1364142aebe767
@@ -1065,7 +1065,7 @@ Version: 2.1.1736781742
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/luajit.deb
+Filename: ./debs/luajit-iphoneos-arm.deb
 Size: 408052
 MD5sum: 14832682b132fa78eb66cfc312b098cc
 SHA1: d283d3ee618ef529c46a60e9c36db88c63850fd8
@@ -1078,7 +1078,7 @@ Version: 1.10.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxhash
-Filename: ./debs/lz4.deb
+Filename: ./debs/lz4-iphoneos-arm.deb
 Size: 157006
 MD5sum: 95599fb1f1d73719addbf5eadb6f50e8
 SHA1: 463375d6cab18b60aae9c2d1993163c2cf825216
@@ -1091,7 +1091,7 @@ Version: 1.25
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/lzip.deb
+Filename: ./debs/lzip-iphoneos-arm.deb
 Size: 55678
 MD5sum: 8e5d3c977bcc1e4b8ecc147addc0bb64
 SHA1: 250213abefcbd1f14af0c0f9c85c382dad3b5aad
@@ -1104,7 +1104,7 @@ Version: 1.14
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/lzlib.deb
+Filename: ./debs/lzlib-iphoneos-arm.deb
 Size: 35906
 MD5sum: 833f761ef5861937c475596544c2e2db
 SHA1: c92905a6eb0ba213c96f35c6e69f4452251a0164
@@ -1117,7 +1117,7 @@ Version: 2.10-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/lzo.deb
+Filename: ./debs/lzo-iphoneos-arm.deb
 Size: 82218
 MD5sum: b7464c4f4e1b7f723d5b1000e4528924
 SHA1: 38151c520f7ce75ffba633fa37c0011bfe8be597
@@ -1130,7 +1130,7 @@ Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-lzo
-Filename: ./debs/lzop.deb
+Filename: ./debs/lzop-iphoneos-arm.deb
 Size: 34108
 MD5sum: f3284085f453e1b57624f4163ce7f6ea
 SHA1: a5a9236696b2707606308854df42faa221d8ff12
@@ -1143,7 +1143,7 @@ Version: 1.4.19-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/m4.deb
+Filename: ./debs/m4-iphoneos-arm.deb
 Size: 134900
 MD5sum: 0fcc2ae0b9130f49d818e374158912c1
 SHA1: 36fb30503ef3a4bd09f8af8faa6975cffb74ecb0
@@ -1157,7 +1157,7 @@ Version: 4.4.1-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/make.deb
+Filename: ./debs/make-iphoneos-arm.deb
 Size: 117818
 MD5sum: 505a71497ecaab2c9c784a3018435d0d
 SHA1: a22f6526f50a3ef78ec8058680bd7ab3252e0685
@@ -1171,7 +1171,7 @@ Version: 4.0.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/mpdecimal.deb
+Filename: ./debs/mpdecimal-iphoneos-arm.deb
 Size: 87392
 MD5sum: c7574a4344db08ce648c90a7c2a8f851
 SHA1: 5c541930e6d42b0ba54e61ac5c3e60d19df06790
@@ -1184,7 +1184,7 @@ Version: 4.2.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-gmp
-Filename: ./debs/mpfr.deb
+Filename: ./debs/mpfr-iphoneos-arm.deb
 Size: 238740
 MD5sum: 8aad1a9c54695c02679ad901d2328f6e
 SHA1: 0e7428892f93876da6cf0165eca5b015233d4fd8
@@ -1198,7 +1198,7 @@ Version: 8.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/nano.deb
+Filename: ./debs/nano-iphoneos-arm.deb
 Size: 243028
 MD5sum: e59406459542518dbabbb5a684276f46
 SHA1: 817de2ebf8631f63f28224506dcd7dfd1f1b8bda
@@ -1211,7 +1211,7 @@ Version: 44-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ncal.deb
+Filename: ./debs/ncal-iphoneos-arm.deb
 Size: 11322
 MD5sum: 80eb81ae0b02f0b0c15ef0c3dda25fb9
 SHA1: cd701fbe65afd67ffc1a7a5a2d3f3b7f90ec7294
@@ -1224,7 +1224,7 @@ Version: 1.21
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/ncdu.deb
+Filename: ./debs/ncdu-iphoneos-arm.deb
 Size: 40240
 MD5sum: a0bac295cc82d8e595a9fc1c9d04232b
 SHA1: 515d93f57cd9a47e8fd38ebe0547331f2c5ff29b
@@ -1237,7 +1237,7 @@ Version: 5.0-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ncompress.deb
+Filename: ./debs/ncompress-iphoneos-arm.deb
 Size: 10454
 MD5sum: aaa7b5d8e5b2767c9c7fea72149059f7
 SHA1: af7cb62810593732156a506b2387e2dff07179de
@@ -1250,7 +1250,7 @@ Version: 6.5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ncurses.deb
+Filename: ./debs/ncurses-iphoneos-arm.deb
 Size: 808624
 MD5sum: 6dc7506b312f8fdf5bc264a67f85f395
 SHA1: cdd90386c49d607a6e643ae3a941130af11b5f4b
@@ -1263,7 +1263,7 @@ Version: 7.98.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl, iphoneports-getusedmem
-Filename: ./debs/neofetch.deb
+Filename: ./debs/neofetch-iphoneos-arm.deb
 Size: 137104
 MD5sum: 1affa1dc124abdab71ad5d2f47b9aca2
 SHA1: c5e685260a80a3a656043c6b28ad6524dc277a99
@@ -1276,7 +1276,7 @@ Version: 3.10.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-gmp
-Filename: ./debs/nettle.deb
+Filename: ./debs/nettle-iphoneos-arm.deb
 Size: 460922
 MD5sum: 56af71f1a33429119c5345aa26dfc5a9
 SHA1: a5f78ef9ca891a0646c76b0d95b13eb438ea6097
@@ -1289,7 +1289,7 @@ Version: 70
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/nextvi.deb
+Filename: ./debs/nextvi-iphoneos-arm.deb
 Size: 73738
 MD5sum: a3b9d515bb8b3bdfddf1aae95002ac1d
 SHA1: a080afe913f243a57fdcc1fea6e03fed231b2d9c
@@ -1302,7 +1302,7 @@ Version: 1.64.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/nghttp2.deb
+Filename: ./debs/nghttp2-iphoneos-arm.deb
 Size: 126740
 MD5sum: b47b1232b7d58261aa3e3d2e85f44ca1
 SHA1: a4c4776c3564d3dd58c9d1fae028e6418749e35b
@@ -1315,7 +1315,7 @@ Version: 1.7.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/nghttp3.deb
+Filename: ./debs/nghttp3-iphoneos-arm.deb
 Size: 99028
 MD5sum: 76efd2909edc64656c34d3b7e3939bec
 SHA1: 70012961ae56db0fc6e0707df516c84517e2680d
@@ -1328,7 +1328,7 @@ Version: 1.10.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
-Filename: ./debs/ngtcp2.deb
+Filename: ./debs/ngtcp2-iphoneos-arm.deb
 Size: 226262
 MD5sum: f9880777a914d73f8bbd2d09e38cc8af
 SHA1: ae9554d564e50d0f7f86f79d37d23d3833fa3fe5
@@ -1341,7 +1341,7 @@ Version: 1.12.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
-Filename: ./debs/ninja.deb
+Filename: ./debs/ninja-iphoneos-arm.deb
 Size: 141360
 MD5sum: bb1206789bfa8b958b81033c031f2080
 SHA1: aad913fe3cbcff227f33ebf50f6d9558839ee2b2
@@ -1355,7 +1355,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-zlib
 Replaces: openssh
-Filename: ./debs/openssh.deb
+Filename: ./debs/openssh-iphoneos-arm.deb
 Size: 2574926
 MD5sum: 2818589e266bf43c41dfb9d109eca176
 SHA1: aa31e3d08ca9412d3bc08fc0f0b2dfba2e0ccba4
@@ -1368,7 +1368,7 @@ Version: 32.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/pam.deb
+Filename: ./debs/pam-iphoneos-arm.deb
 Size: 59102
 MD5sum: 20d4f9d90094bbe13a082ca8c58e18c6
 SHA1: 141a11d3278cb2953d499a6dacbd6ecfaed4d507
@@ -1381,7 +1381,7 @@ Version: 2.7.6-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/patch.deb
+Filename: ./debs/patch-iphoneos-arm.deb
 Size: 112620
 MD5sum: a04469b581bffc1456cf29407d5dd4e7
 SHA1: 1ba5d2a3005e1c62657889b02b9f5eb9a3802e4f
@@ -1394,7 +1394,7 @@ Version: 428-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/pax.deb
+Filename: ./debs/pax-iphoneos-arm.deb
 Size: 50468
 MD5sum: ebf72fd9928d66970f883579509f891c
 SHA1: 22c755db73dafb55d86a1706e08bf24ac98fc1e5
@@ -1407,7 +1407,7 @@ Version: 8.45-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
-Filename: ./debs/pcre.deb
+Filename: ./debs/pcre-iphoneos-arm.deb
 Size: 165240
 MD5sum: 86db8d36c834f25c255ee737768405a5
 SHA1: 4cd78e9433615b47d25699ab1973e14bfb03d63c
@@ -1420,7 +1420,7 @@ Version: 10.44-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
-Filename: ./debs/pcre2.deb
+Filename: ./debs/pcre2-iphoneos-arm.deb
 Size: 508948
 MD5sum: 177a514823810ed0706019d41c6164eb
 SHA1: 135d8784443c545d634ccc63a354dc235c2bc481
@@ -1433,7 +1433,7 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-dash, iphoneports-coreutils, iphoneports-sysctl, iphoneports-hostname, iphoneports-getusedmem
-Filename: ./debs/pfetch.deb
+Filename: ./debs/pfetch-iphoneos-arm.deb
 Size: 22942
 MD5sum: 80254c6e0203d5191709bb2aed2dc2d8
 SHA1: 1f2953ab0e196d00c5c7672065cd2f075ea33d0f
@@ -1446,7 +1446,7 @@ Version: 2.8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib
-Filename: ./debs/pigz.deb
+Filename: ./debs/pigz-iphoneos-arm.deb
 Size: 63376
 MD5sum: 0c83916e2a11ad7ff2b5a26d493966f5
 SHA1: 280e79db46ffc42ac5ebd54f338a476ef9f850e3
@@ -1459,7 +1459,7 @@ Version: 325-7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ping.deb
+Filename: ./debs/ping-iphoneos-arm.deb
 Size: 27088
 MD5sum: 26faf7046a5a4e076f7b542e46cce8bb
 SHA1: 63f3a3828f4db60d40cb2f323e8e5f261ef286fc
@@ -1472,7 +1472,7 @@ Version: 1.19
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/popt.deb
+Filename: ./debs/popt-iphoneos-arm.deb
 Size: 29214
 MD5sum: fc666b17c6e01f70f7d517d715907b22
 SHA1: b99de1b2db10d3bca07b05d90b3534644da27c44
@@ -1485,7 +1485,7 @@ Version: 172-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/ps.deb
+Filename: ./debs/ps-iphoneos-arm.deb
 Size: 15174
 MD5sum: 90b7b78c66d4242d43346f48ec4d1d85
 SHA1: 305bb355a90fb454b7c9fd6f715a03da7298c7e0
@@ -1498,7 +1498,7 @@ Version: 2.40-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ps
-Filename: ./debs/pstree.deb
+Filename: ./debs/pstree-iphoneos-arm.deb
 Size: 6096
 MD5sum: 29c574a34e257aea497e207602a0b8e2
 SHA1: bc5a8565a432942ad6bb21aa9bb23d49efb9fbd1
@@ -1511,7 +1511,7 @@ Version: 3.13.2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-readline, iphoneports-bzip2, iphoneports-xz, iphoneports-zlib, iphoneports-libressl, iphoneports-mpdecimal
-Filename: ./debs/python.deb
+Filename: ./debs/python-iphoneos-arm.deb
 Size: 39539332
 MD5sum: e0411e0711322badb242c3733b05456c
 SHA1: 69b8891fb6bbf146a3533f89a8a92bc0ac352be5
@@ -1524,7 +1524,7 @@ Version: 2024-1-13-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/quickjs.deb
+Filename: ./debs/quickjs-iphoneos-arm.deb
 Size: 555658
 MD5sum: 43f4009daa1d10e12a40545e1fdf7355
 SHA1: 8b8befae2df7db1fea35ef874ee39afa8193818f
@@ -1537,7 +1537,7 @@ Version: 8.2.13
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/readline.deb
+Filename: ./debs/readline-iphoneos-arm.deb
 Size: 187758
 MD5sum: 169dcf3f58f90e6f37d6d86a6eff5446
 SHA1: 08f0856141d5f9f8c3a31d6f8e1280525fb8455b
@@ -1550,7 +1550,7 @@ Version: 5.4.4-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/rogue.deb
+Filename: ./debs/rogue-iphoneos-arm.deb
 Size: 91922
 MD5sum: d699214661bea833ff7399b0ba29642e
 SHA1: 89de76ebc5bc3edd4235b1c7c109feb9456a05b5
@@ -1563,7 +1563,7 @@ Version: 3.4.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-lz4, iphoneports-zstd, iphoneports-zlib, iphoneports-xxhash, iphoneports-popt, iphoneports-bash
-Filename: ./debs/rsync.deb
+Filename: ./debs/rsync-iphoneos-arm.deb
 Size: 245338
 MD5sum: 451521995ff90f19c1653253f4568036
 SHA1: e41ed79f84fec41621241be906442809bd61eeb6
@@ -1577,7 +1577,7 @@ Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pam
-Filename: ./debs/screen.deb
+Filename: ./debs/screen-iphoneos-arm.deb
 Size: 482582
 MD5sum: 5caaf558d05ff8ebafca05caa1996e32
 SHA1: 5e2d133bc5ad503d285d8bee522e04690b4e955f
@@ -1591,7 +1591,7 @@ Version: 4.9-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/sed.deb
+Filename: ./debs/sed-iphoneos-arm.deb
 Size: 104018
 MD5sum: fc1d80d6ca25b243cf8a560a427754c6
 SHA1: 9a5e77c38a19b82c0d6bf678dc87c1e82b6ab3d6
@@ -1605,7 +1605,7 @@ Version: 3.48.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-readline
-Filename: ./debs/sqlite.deb
+Filename: ./debs/sqlite-iphoneos-arm.deb
 Size: 1295904
 MD5sum: ec752a1ba466e0e6b57916384ee9adc5
 SHA1: b96f9c87330fff6eb8dbe5dea442866429419ce3
@@ -1618,7 +1618,7 @@ Version: 116-6
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
-Filename: ./debs/su.deb
+Filename: ./debs/su-iphoneos-arm.deb
 Size: 5696
 MD5sum: 6e648e769336f36bdb75a502557033bb
 SHA1: a83bc2b4fa7667a9b1d1d225170bc230f23d92c8
@@ -1631,7 +1631,7 @@ Version: 1.9.16p2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
-Filename: ./debs/sudo.deb
+Filename: ./debs/sudo-iphoneos-arm.deb
 Size: 1049022
 MD5sum: 5adf18a15d2125924ea5587ff8a9ff0c
 SHA1: 6f3519b10da854b05de3bb72c761534a300e9e82
@@ -1644,7 +1644,7 @@ Version: 1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/sw_vers.deb
+Filename: ./debs/sw_vers-iphoneos-arm.deb
 Size: 3136
 MD5sum: 6a2b7c215d4f99d0a94acb810b90c993
 SHA1: ed44786badb869bdb7a157809a789f9a8e7a134e
@@ -1657,7 +1657,7 @@ Version: 979.100.8-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/sysctl.deb
+Filename: ./debs/sysctl-iphoneos-arm.deb
 Size: 9092
 MD5sum: cfd87c157355f520e6b696c332312dea
 SHA1: eeba90d9a2ab863b4ee341e2697bcb284a370f31
@@ -1670,7 +1670,7 @@ Version: 6.24.13
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/tcsh.deb
+Filename: ./debs/tcsh-iphoneos-arm.deb
 Size: 202824
 MD5sum: 64d2230bd08a679c7dea6887e521f775
 SHA1: aea89d579f4e0dec27c70436474e11fe76a6bbcb
@@ -1683,7 +1683,7 @@ Version: 279.100.3-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/time.deb
+Filename: ./debs/time-iphoneos-arm.deb
 Size: 3672
 MD5sum: 7dff5a4e441f375aefc83a1a7b852730
 SHA1: c6c3bba24ec53f8bfc13fe9b09141467cd345238
@@ -1696,7 +1696,7 @@ Version: 39-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/top.deb
+Filename: ./debs/top-iphoneos-arm.deb
 Size: 30022
 MD5sum: 4fa520271a69034277f60fea212c7b29
 SHA1: 1f02fe939e42e054e79d443f03ee99d766a9e491
@@ -1709,7 +1709,7 @@ Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/tree.deb
+Filename: ./debs/tree-iphoneos-arm.deb
 Size: 29340
 MD5sum: 06e0f139f88a34693483fb6612a0df80
 SHA1: ba9c1a7272e51262bfd1722f4dbf319b5da93f5c
@@ -1722,7 +1722,7 @@ Version: 7.1.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
-Filename: ./debs/unrar.deb
+Filename: ./debs/unrar-iphoneos-arm.deb
 Size: 206914
 MD5sum: d1a1cacddd23b9c0e6d2494a2f8ef81e
 SHA1: 6d8d1cd716da4542bf03ccf0dd8b73fd5ff456b8
@@ -1735,7 +1735,7 @@ Version: 1.1.1-8
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libplist, iphoneports-libimobiledevice, iphoneports-libusb, iphoneports-libimobiledevice-glue
-Filename: ./debs/usbmuxd.deb
+Filename: ./debs/usbmuxd-iphoneos-arm.deb
 Size: 33962
 MD5sum: d38f8be8a58d287dd5adc5f40c0b409b
 SHA1: a05974833a107d9c3782616cb9f0f9d696384f6f
@@ -1748,7 +1748,7 @@ Version: 3.0b5-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
-Filename: ./debs/vbindiff.deb
+Filename: ./debs/vbindiff-iphoneos-arm.deb
 Size: 21932
 MD5sum: cc51ef0e4cf9adf2f43e1a8848c33988
 SHA1: 4bd203139b47881d70f71852bab856df61ae10a4
@@ -1762,7 +1762,7 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
-Filename: ./debs/vim.deb
+Filename: ./debs/vim-iphoneos-arm.deb
 Size: 10777236
 MD5sum: d02b94ad741816c467b916b6bea09d7e
 SHA1: 1de2bb1feda74cdca5f07527b7a928ffb18ff6b4
@@ -1775,7 +1775,7 @@ Version: 498.0.10-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/vm_stat.deb
+Filename: ./debs/vm_stat-iphoneos-arm.deb
 Size: 3762
 MD5sum: f25df82e6c66e4533023ce430a1b79f6
 SHA1: fc9a8d13c257ae638438fb2898368292fe35b2c4
@@ -1788,7 +1788,7 @@ Version: 0.5.0-4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libuv
-Filename: ./debs/wasm3.deb
+Filename: ./debs/wasm3-iphoneos-arm.deb
 Size: 75384
 MD5sum: 2c529b123e6f82ae661075a47433743b
 SHA1: 46813289742c53d8c8c2b510a2a07e5cfbdb3381
@@ -1801,7 +1801,7 @@ Version: 1.25.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-libunistring, iphoneports-libpsl
-Filename: ./debs/wget.deb
+Filename: ./debs/wget-iphoneos-arm.deb
 Size: 267218
 MD5sum: 7fc05cda908a5678cfee74b68a69fa0b
 SHA1: da1c9bd264df34cf717e74216561fa7c92322cf0
@@ -1814,7 +1814,7 @@ Version: 2.2.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-pcre2, iphoneports-zlib, iphoneports-nghttp2, iphoneports-libpsl, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2, iphoneports-xz, iphoneports-bzip2
-Filename: ./debs/wget2.deb
+Filename: ./debs/wget2-iphoneos-arm.deb
 Size: 394068
 MD5sum: 37a7efd556fe6af820033e3415bdff6d
 SHA1: 6d77dbb1304ba6777b77e991b29df2f1f47728db
@@ -1827,7 +1827,7 @@ Version: 278-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/which.deb
+Filename: ./debs/which-iphoneos-arm.deb
 Size: 3084
 MD5sum: 284347b3bd889db1db1ea70d53faab86
 SHA1: 9b999b9044099e694fbc7fafb871c6ea60e2234f
@@ -1840,7 +1840,7 @@ Version: 199.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/whois.deb
+Filename: ./debs/whois-iphoneos-arm.deb
 Size: 5968
 MD5sum: 1a775335ce930a1a9c555b39831e1c27
 SHA1: 83d726cf4430ff35dc936a0e07d9575f93ff1cfc
@@ -1853,7 +1853,7 @@ Version: 501
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-libxml2, iphoneports-libressl
-Filename: ./debs/xar.deb
+Filename: ./debs/xar-iphoneos-arm.deb
 Size: 71252
 MD5sum: 0b36da178c28f0668f376eabc949b087
 SHA1: be231abe251498c4b78467af2183f5378ed6a4fe
@@ -1866,7 +1866,7 @@ Version: 2024-12-07
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/xxd.deb
+Filename: ./debs/xxd-iphoneos-arm.deb
 Size: 10366
 MD5sum: 7b1e5ade813ed25f6a232543cb8fec53
 SHA1: 143764b49bf1ebeba11f9c37ae1ac7f3b3e35fae
@@ -1879,7 +1879,7 @@ Version: 0.8.3-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/xxhash.deb
+Filename: ./debs/xxhash-iphoneos-arm.deb
 Size: 168606
 MD5sum: 87b3eff5b3148f651eb0f2300cbee253
 SHA1: 527eccb82c5103cc91d267af049185bcf473453c
@@ -1892,7 +1892,7 @@ Version: 5.6.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-grep, iphoneports-sed
-Filename: ./debs/xz.deb
+Filename: ./debs/xz-iphoneos-arm.deb
 Size: 218982
 MD5sum: 840316cd75ca5b7e302c6c1e4a8970d5
 SHA1: 3717b25f66375afce62c6fd556c6a3da3f2e55b5
@@ -1906,7 +1906,7 @@ Version: 2.2.3-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/zlib.deb
+Filename: ./debs/zlib-iphoneos-arm.deb
 Size: 87888
 MD5sum: 6f11c5edc1487ab4e8fb87c560240c2e
 SHA1: 0ef7b147b13dbe4081b825e807bb6f581bd4d230
@@ -1919,7 +1919,7 @@ Version: 5.9-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses, iphoneports-pcre
-Filename: ./debs/zsh.deb
+Filename: ./debs/zsh-iphoneos-arm.deb
 Size: 2050078
 MD5sum: 513715a3d43f84dad887c792944d89b4
 SHA1: 2604701d233fe61e10b88b907812ff6b341a2ace
@@ -1932,7 +1932,7 @@ Version: 1.5.6-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-lz4, iphoneports-xz, iphoneports-zlib
-Filename: ./debs/zstd.deb
+Filename: ./debs/zstd-iphoneos-arm.deb
 Size: 888292
 MD5sum: caba47d5bc282e7cea319d8567320aa9
 SHA1: ead4d0968d220167736abe1060fcced4dd263d81
