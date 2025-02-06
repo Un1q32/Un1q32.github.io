@@ -58,7 +58,7 @@ Version: 2.14.0
 Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash
-Filename: ./debs/bash-completion-iphoneos-arm.deb
+Filename: ./debs/bash-completion.deb
 Size: 226482
 MD5sum: d2fcb114bded5d323a7a9d3013920e61
 SHA1: 8133cbce1d3a9d1a4b685b6de551b59bc72c6af4
@@ -152,7 +152,7 @@ Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
-Filename: ./debs/ca-certificates-iphoneos-arm.deb
+Filename: ./debs/ca-certificates.deb
 Size: 134030
 MD5sum: 94de00327657ba89b9bca572a6ab211c
 SHA1: 9c871463e824d793a6bf5048743bad4626cc9878
@@ -230,7 +230,7 @@ Version: 19.1.7-3
 Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
-Filename: ./debs/compiler-rt-iphoneos-arm.deb
+Filename: ./debs/compiler-rt.deb
 Size: 24242
 MD5sum: 486da52edf9173073cfded0566744008
 SHA1: 530958f13b250fc28281abf5f73f967c50ef070b
@@ -1263,7 +1263,7 @@ Version: 7.98.0
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl, iphoneports-getusedmem
-Filename: ./debs/neofetch-iphoneos-arm.deb
+Filename: ./debs/neofetch.deb
 Size: 137104
 MD5sum: 1affa1dc124abdab71ad5d2f47b9aca2
 SHA1: c5e685260a80a3a656043c6b28ad6524dc277a99
@@ -1433,7 +1433,7 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-dash, iphoneports-coreutils, iphoneports-sysctl, iphoneports-hostname, iphoneports-getusedmem
-Filename: ./debs/pfetch-iphoneos-arm.deb
+Filename: ./debs/pfetch.deb
 Size: 22942
 MD5sum: 80254c6e0203d5191709bb2aed2dc2d8
 SHA1: 1f2953ab0e196d00c5c7672065cd2f075ea33d0f
