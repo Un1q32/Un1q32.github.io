@@ -370,6 +370,20 @@ SHA256: 94f97fe6cfdab332d39092d83deb7af8dd009a126fc88042877b71f207581e13
 Section: Utilities
 Description: DOS/Mac to Unix and vice versa text file format converter.
 
+Package: iphoneports-dpkg
+Version: 1.22.15
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libmd, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-ncurses, iphoneports-libc++, iphoneports-gtar
+Replaces: iphoneports-base, dpkg
+Filename: ./debs/dpkg.deb
+Size: 971574
+MD5sum: 551474b29eceb8532eb20e079807c8b6
+SHA1: 1f35c5380e96176ad3b5ad7859acdfdecce10327
+SHA256: 28e3d2b98cf107e3f993a0cda92c98c4013410c1498831e2a36b1f988c112093
+Section: Packaging
+Description: The Debian Package Manager tools
+
 Package: iphoneports-duktape
 Version: 2.7.0
 Architecture: iphoneos-arm
