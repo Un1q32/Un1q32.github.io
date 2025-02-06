@@ -377,10 +377,10 @@ Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libmd, iphoneports-zlib, iphoneports-xz, iphoneports-bzip2, iphoneports-gtar
 Replaces: iphoneports-base, dpkg
 Filename: ./debs/dpkg-iphoneos-arm.deb
-Size: 883752
-MD5sum: e8974405f7b170ef03e2241d74b6dfc9
-SHA1: fdbb12056caf1ab30db7da12ad87788f73e20b82
-SHA256: 6e441819f7f5884d3ce4cdd698c53f14c5194a42287fe541e899bd395139891a
+Size: 883734
+MD5sum: 1be8504e04ea510530f3eacdd6262769
+SHA1: 799f955163ec20341ac6d9a7f956938d6c643740
+SHA256: b815f7ce03393188b005b88f4b15e56e3d2635f664855b98ec7f7774ab6682d9
 Section: Packaging
 Description: The Debian Package Manager tools
 
