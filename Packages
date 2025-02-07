@@ -1251,10 +1251,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncurses-iphoneos-arm.deb
-Size: 505166
-MD5sum: 145d242af155371283271b2399819c10
-SHA1: c67d867e2b587c30015f5ce4aedbca904cb9e7f1
-SHA256: 95a224e09dc8ffd45e93cb066a18e533d5bf334517092ff804b99b9e35762c0f
+Size: 504916
+MD5sum: 5dcd97ddcd094f1a18e6564ec2e9bba1
+SHA1: 0fbd1d5c0fc436bcb71a724cf4967f35c84bf09b
+SHA256: e2f114a4eea5ef9161b1d32a8cfbdd0f937495c6fd10a18e3192d047601c90c5
 Section: Development
 Description: System V Release 4.0 curses emulation library
 
