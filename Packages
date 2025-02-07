@@ -2923,30 +2923,30 @@ Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
 Package: iphoneports-vim
-Version: 9.1.1065
+Version: 9.1.1081
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim-darwin-i386.deb
-Size: 10757652
-MD5sum: f44ed0d2fafe6623dde3f0dbb120af0c
-SHA1: 4cc5b3cda8962ac4ccdcf351059f92809719e285
-SHA256: 3da0d0afdd37799eb7aa2e5ab2c021e548e1e1b8234b91a07a897b5beb711479
+Size: 10757630
+MD5sum: 4de8b54f884a52afa24ab61fc33c6118
+SHA1: 6a7ddfc39d896756b11ff279d851c58d4d558506
+SHA256: 81e9deb09f4e09e4cc83c7368911f5d6b0937c73ad00a07f01b6cef3b7b46290
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
 Package: iphoneports-vim
-Version: 9.1.1065
+Version: 9.1.1081
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim-iphoneos-arm.deb
-Size: 10777236
-MD5sum: d02b94ad741816c467b916b6bea09d7e
-SHA1: 1de2bb1feda74cdca5f07527b7a928ffb18ff6b4
-SHA256: f9916f7e17d61a0a67283e480e30357b9817c7a970c5f7290621b4c8f197f2d6
+Size: 10777842
+MD5sum: e0e65be2be65d8b2fee6653d6fd6575c
+SHA1: 019f6bd878f0f3640733031f41bdec781dbaeb50
+SHA256: ceb8cb9af910d961b3ff4a9e6ae74199f77083974b680478b47946dfe90d3fbb
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
