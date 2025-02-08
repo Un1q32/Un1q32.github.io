@@ -294,28 +294,28 @@ Section: Development
 Description: Compiler cache that speeds up recompilation by caching previous compilations
 
 Package: iphoneports-cctools
-Version: 994.1-ld64-762
+Version: 994.1-ld64-762-1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools-darwin-i386.deb
-Size: 3900378
-MD5sum: 686ad4b9612fc6a084c571e55c6185ee
-SHA1: 13931fbe9e85bce612114b42bac536eb8a02703d
-SHA256: 80f756349defa3d40b4e1b4a916de9ade00f4f042d4d5b6669470780212a6863
+Size: 3326550
+MD5sum: 213ecb91f4753ba43e8748e481a2b1d5
+SHA1: 2ae85b14c92c0b3d89cfd67ff7bdda05f8564825
+SHA256: 699403550325e0b2a11fd27a21c538e8fa323d9daa951c7e7e0f7f1f9c33b465
 Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-cctools
-Version: 994.1-ld64-762
+Version: 994.1-ld64-762-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools-iphoneos-arm.deb
-Size: 3911114
-MD5sum: c42303b3ff2426c078b39b2345fb2527
-SHA1: 0596272c24617c87818dd91f429b871eefa33ca9
-SHA256: 47dd1bbdf07c1150f5fc95dab767cd46f5fa52e6e469dbeb1ce0dd65a23ef302
+Size: 3325744
+MD5sum: 768e75c2c35e20c656b42b79cf9282e9
+SHA1: 6e488f8a45b9291b0161c075768900fb4eb17f1e
+SHA256: 23efe019dc63b05f93516184b808737bc32e0830b28750e5faca953c9aadcff2
 Section: Development
 Description: Mach-O binary utilities
 
