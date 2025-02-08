@@ -1471,12 +1471,12 @@ Package: iphoneports-libimobiledevice
 Version: 1.3.0-9
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-usbmuxd, iphoneports-libimobiledevice-glue, iphoneports-readline, iphoneports-libtatsu
+Depends: iphoneports-base, iphoneports-libusbmuxd, iphoneports-libplist, iphoneports-libressl, iphoneports-libimobiledevice-glue, iphoneports-readline, iphoneports-libtatsu
 Filename: ./debs/libimobiledevice-darwin-i386.deb
-Size: 314084
-MD5sum: 77f06494f84a3b5cf780edbabbe6f5db
-SHA1: 8669da1063fd03ad2f5dc1894f27d2ea1f30e846
-SHA256: 2fdbdd27ff48ee5e8a1965d7783cf1ce1b05e40e891a9a84151f83444eb8657c
+Size: 314088
+MD5sum: 5013a6b7e4833911d53a626479dc12da
+SHA1: 304425cb97951831d3e5dfdf45491002c8023b5e
+SHA256: 7fc62ce4b0c3f62a94c34c06229b92f3bf0a695f0bad419b415fbb6ceffc6806
 Section: Utilities
 Description: A cross-platform protocol library to communicate with iOS devices
 
