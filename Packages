@@ -1608,6 +1608,19 @@ SHA256: b890bc0a1f08bae66c8bb22f61f604016a527194e0062b76988bff1557c9bcc4
 Section: Development
 Description: WebP library and conversion tools
 
+Package: iphoneports-libwebp
+Version: 1.5.0
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libwebp-darwin-i386.deb
+Size: 624492
+MD5sum: 145c79a1489e71b3c284e131bcd045f1
+SHA1: c07c086d3f5be005cc21017eac6aa47933a459fd
+SHA256: c53e72853c91d326c2e2ca4b2282143a1d684005189bfc4af566df7e990d7054
+Section: Development
+Description: WebP library and conversion tools
+
 Package: iphoneports-libxml2
 Version: 2.13.5
 Architecture: iphoneos-arm
