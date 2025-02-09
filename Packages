@@ -2967,10 +2967,10 @@ Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-zlib
 Filename: ./debs/llvm-darwin-amd64.deb
-Size: 41053996
-MD5sum: c2a87c94d4a858d4fcb2a88264f9c930
-SHA1: a402a02823c6a342d81c9860ff068f67d90c27ab
-SHA256: bfa5701f795198f6e9df36d28a0eaa2edb28f017be7c9a6f98e93050d0104f2a
+Size: 45919878
+MD5sum: ec8710c4dd0d3bacef4d52ffa4f19e72
+SHA1: b737fdb2775cdf350338cebad6d171e554eb68a2
+SHA256: 75904fd3be1391d254d1d9b6fe42a454d33146da68954e2a3ce2bbc28715515c
 Section: Development
 Description: Compiler infrastructure
 
