@@ -501,10 +501,10 @@ Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
 Filename: ./debs/clang-darwin-amd64.deb
-Size: 52223656
-MD5sum: a674d65f35f66c77cc3375b09fbf8c19
-SHA1: 926f3584654d11ec4c5e9c6be833cc3f30b44644
-SHA256: 4b7a121f59c0f070023dae9eab53c3efb190fb56f1887993f9064d51a777e221
+Size: 55632554
+MD5sum: 1616efc0e913a1934f481b7b14cc4d23
+SHA1: cd9fafd05d0a6e0916fc9d40a2372c2f34f6c574
+SHA256: 88a49bf5ee55769227e74b6abbcf14ed5da9fb94f2cb8bfeefc3760654f839cf
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
