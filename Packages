@@ -1294,44 +1294,44 @@ Homepage: http://www.gnu.org/software/gawk/
 Description: pattern scanning and processing language
 
 Package: iphoneports-getusedmem
-Version: 4
+Version: 5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-neofetch
 Filename: ./debs/getusedmem-iphoneos-arm.deb
-Size: 2482
-MD5sum: 89de791da00539458324a4d64aa0b525
-SHA1: db3eea2bb0c13d12d9f7b18e5e34dc26b7a0b891
-SHA256: 45bceade3edd2399fee3753860afa42d2869973ccd0c862adb40077dafba8b02
+Size: 2488
+MD5sum: 1534a13fdc3ec000119fa956c2dd60ad
+SHA1: 5f5b468022e02f0240c0298ff3a1290b01e13eb8
+SHA256: d9aea9d206ba2ff34948d0ff31363a7e5459b0724dd200f70f7288cafaa38587
 Section: Utilities
 Description: prints used memory in kb, for use in scripts
 
 Package: iphoneports-getusedmem
-Version: 4
+Version: 5
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-neofetch
 Filename: ./debs/getusedmem-darwin-amd64.deb
-Size: 2554
-MD5sum: 18ab0d31f6f1ede3ccd7b1769b6b08fd
-SHA1: a2adcbca5ba1e565ead249cecc2c23a2c2564794
-SHA256: c8f2731dac1d6123d8820827892914ab62c5dfd5386425f7e691c97a6e26668a
+Size: 2562
+MD5sum: 70f2999be8d125432783e2440d49a934
+SHA1: f4f60f18ceab344e66bd3d47120a5363d362d8cb
+SHA256: 9ec73b617cc5a95227cda6a78bd6300a8f995bc6a701b491f71bde2384304f09
 Section: Utilities
 Description: prints used memory in kb, for use in scripts
 
 Package: iphoneports-getusedmem
-Version: 4
+Version: 5
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-neofetch
 Filename: ./debs/getusedmem-darwin-i386.deb
 Size: 2378
-MD5sum: 1611d5069359c3e8970088e373954d4f
-SHA1: a14797cb953da2ad13e386a83c5ae9aae2de1ab8
-SHA256: e5166717638fe1d1d8ce129c7899be4aaf5d394b380666374f2a4eb2360ea90a
+MD5sum: e3051d4ccb3f9e24aa7fa3f6b90377a8
+SHA1: e7e92057dc262f6cc9515e63097eafb0793af2aa
+SHA256: 4c6320f542cb0cd9fb11c669d59f2f21a813221576cd0a7956f7019dd097fa48
 Section: Utilities
 Description: prints used memory in kb, for use in scripts
 
