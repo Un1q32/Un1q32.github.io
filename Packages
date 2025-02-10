@@ -483,41 +483,41 @@ Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-clang
-Version: 19.1.7-2
+Version: 19.1.7-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
 Filename: ./debs/clang-iphoneos-arm.deb
-Size: 51901170
-MD5sum: 65acce6e75bbf5fbf2a2f285bc7e4c8b
-SHA1: 9a4a1d97662a23b8ae98ae727debc1452b70efd2
-SHA256: 1cb14ce097ca9037ee3b0f123786f591339015583b1a26eb125aee93d35f43b8
+Size: 51901052
+MD5sum: 4d061d430f00a3086414d42edb386d28
+SHA1: 2b4508f39da733709727d9f817144750b8612e04
+SHA256: 4eb7c1a1d362c68ef181b704d1a47df48188f2737cee49b18b11917894de375a
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
 Package: iphoneports-clang
-Version: 19.1.7-2
+Version: 19.1.7-3
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
 Filename: ./debs/clang-darwin-amd64.deb
-Size: 55632554
-MD5sum: 1616efc0e913a1934f481b7b14cc4d23
-SHA1: cd9fafd05d0a6e0916fc9d40a2372c2f34f6c574
-SHA256: 88a49bf5ee55769227e74b6abbcf14ed5da9fb94f2cb8bfeefc3760654f839cf
+Size: 55632334
+MD5sum: c122317689fbb2933a96c929b3c8dcff
+SHA1: 6118078272975761308810c28ad01719a8c49169
+SHA256: baedce5ff0a2274abef815573937c7da8f1c69e1e47548ab94c8d61fad1a8f14
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
 Package: iphoneports-clang
-Version: 19.1.7-2
+Version: 19.1.7-3
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-compiler-rt, iphoneports-libxml2, iphoneports-zlib, iphoneports-cctools
 Filename: ./debs/clang-darwin-i386.deb
-Size: 53365966
-MD5sum: 255e7c8148670a1875f05b947c4633eb
-SHA1: 15fe57c70be61425825827803a77ff584dbc4bdd
-SHA256: 7c0e537fbd32ffda0dbcc4e151b484ea8cc19d7378989e61f483b7282508621b
+Size: 53365944
+MD5sum: d0308c890e609ecde8d41c2f5d79321d
+SHA1: a58c27d8b1268c97640ae19176e46545da321da1
+SHA256: 29f3d995bfa2f60a4f5dc95ac39b98687db3be119ef8ef3ce50f13d37e22f2de
 Section: Development
 Description: LLVM C/C++/ObjC/ObjC++ compiler
 
