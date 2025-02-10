@@ -444,41 +444,41 @@ Section: Development
 Description: Compiler cache that speeds up recompilation by caching previous compilations
 
 Package: iphoneports-cctools
-Version: 1009.2-ld64-762
+Version: 1021.4-ld64-762
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools-darwin-amd64.deb
-Size: 3249654
-MD5sum: 96bf171ab53d7d96ff626fd14cf83c72
-SHA1: 219b303b2941fa02919648c8b01a6a20f1622bf9
-SHA256: 97d898b1e54000314bbc09f7f114dc37f2a4cb64a72f62cfeca592ba0008bea0
+Size: 3538604
+MD5sum: 7783846621d900ea8eec622ec5e8c335
+SHA1: 6dfb83f4cd97926c51cae7f316b2473f142b001c
+SHA256: 696674cf1521d0ece1818cbf704a91a9e7432cbfda9068be2b6f7fceaa7f70e4
 Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-cctools
-Version: 1009.2-ld64-762
+Version: 1021.4-ld64-762
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools-darwin-i386.deb
-Size: 3332886
-MD5sum: eab1e4d343a452659b4d04ccd862f230
-SHA1: a0c31adac9182b26f1952a18b52aac0a66cc3521
-SHA256: f89b07de51ddb865553ccd5504ae6a4a689c6b80405a9cbbb8c71cdb1554df87
+Size: 3617524
+MD5sum: 417c2604305e082f073c2a84c5a006b0
+SHA1: 92f6fdca581336dcdf48ff8174a40bed7697aa30
+SHA256: a4fb025e1a984027ba6e872d80f2a304950343184ed38ad7ee3fc87f9b09217b
 Section: Development
 Description: Mach-O binary utilities
 
 Package: iphoneports-cctools
-Version: 1009.2-ld64-762
+Version: 1021.4-ld64-762
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++, iphoneports-llvm, iphoneports-libtapi, iphoneports-xar
 Filename: ./debs/cctools-iphoneos-arm.deb
-Size: 3331928
-MD5sum: 722a0013fff55c84bb70a01df08bd27d
-SHA1: 201eab6e8d4b6df189806c243ca02326c0336b0b
-SHA256: 137d82041e172948fcfd0a83020d99b16938e872b63336f703d84dc8ee1028b8
+Size: 3637602
+MD5sum: b1c81d9ab1b229f768bd98aa4f2ab730
+SHA1: 74755ec5b2e48c3987588cd2a8c5a98ff83a1244
+SHA256: 95dea36994128ffd2be8884d30d18865636520885a06cce70be2585e94d042f9
 Section: Development
 Description: Mach-O binary utilities
 
