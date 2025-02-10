@@ -5115,44 +5115,44 @@ Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
 Package: iphoneports-vim
-Version: 9.1.1081
+Version: 9.1.1094
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim-darwin-amd64.deb
-Size: 10904686
-MD5sum: 04e9a4d71382627893b4b394823afa66
-SHA1: 963924d262466a2b5648ede7db824fe45d96a4db
-SHA256: fbbfdee9e33dc4329c98e633e4f42594c1633d3ab8befa5dca65f752e4e468bc
+Size: 10906534
+MD5sum: e72d2ad740ca9aae917131d40d4f9619
+SHA1: c92d71119a01cc55aafa28c89ae4cb91cbbca2e2
+SHA256: 382baa4aaa4b075839b15462cceab48bfd377e666e0b54e995208f9db1f7ba9c
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
 Package: iphoneports-vim
-Version: 9.1.1081
+Version: 9.1.1094
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim-darwin-i386.deb
-Size: 10757796
-MD5sum: 6a747ec76881cfe482913ae158b6ea22
-SHA1: 7074a5d60fc856a11fe835fb831832a2ce5b77df
-SHA256: 188838e2682ac005b88cc8cfdb1de7a3b60a554d0f8c47c603075505399f68d3
+Size: 10759064
+MD5sum: eaf4d02ea8dcdfcd7f69de0a599334a4
+SHA1: 47461362cc8f16c9eda1fc258e1112602458e6ee
+SHA256: 466f5592943d735e5ac6e8cb3c9a44ce7a959386c66066fefce32897bf97d5df
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
 Package: iphoneports-vim
-Version: 9.1.1081
+Version: 9.1.1094
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-xxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim-iphoneos-arm.deb
-Size: 10777842
-MD5sum: e0e65be2be65d8b2fee6653d6fd6575c
-SHA1: 019f6bd878f0f3640733031f41bdec781dbaeb50
-SHA256: ceb8cb9af910d961b3ff4a9e6ae74199f77083974b680478b47946dfe90d3fbb
+Size: 10780066
+MD5sum: 8d20e410c5105c8afd8bceadf3aca38b
+SHA1: 68f160a1522d30ebd6cae7f8b31a0961e32bd82b
+SHA256: d54793801c9c946b399f153de000e341861e817b386ebdf5d434970d57270939
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
