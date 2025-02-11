@@ -5550,41 +5550,41 @@ Homepage: http://tukaani.org/xz/
 Description: XZ-format compression utilities
 
 Package: iphoneports-zlib
-Version: 2.2.3-1
+Version: 2.2.4
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/zlib-darwin-i386.deb
-Size: 118936
-MD5sum: 24ebac00a936802aa92ed62c077dd845
-SHA1: 18104cf70e5f4073e0b636e63f660809a450a279
-SHA256: c0ed4c458d5b993563503a2eaf64e076f43e1f4f8ad348206c62d42dce7acb77
+Size: 120982
+MD5sum: dd025d05dc1efaa9945a4354141a8447
+SHA1: 210686a6ded631bcea9dc91e8b2ddc8b1d62c460
+SHA256: 14c64c49be855362cdfdd90736881e01ba0616be63ac80f58c4a7909becafb8d
 Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
 Package: iphoneports-zlib
-Version: 2.2.3-1
+Version: 2.2.4
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/zlib-darwin-amd64.deb
-Size: 116788
-MD5sum: 2fa89616892f00e471fcabb947648c9b
-SHA1: 3db5a75bbff3c3d9f95681641b19a66eb781dd00
-SHA256: b5a671ddb8b5a87853fdbded22ebfdc8af132aa109ad3ef831e139ffb810d609
+Size: 117138
+MD5sum: 0c7483773a10b3507381a386e7d06aef
+SHA1: 5143e6a6feaabdc05c69f0a62b2b25c9c203b717
+SHA256: 0cc48c81dcb3a931e18dd35b2a31ba8e10726b8d652f2ff34eeac63761a516eb
 Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
 Package: iphoneports-zlib
-Version: 2.2.3-1
+Version: 2.2.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/zlib-iphoneos-arm.deb
-Size: 87888
-MD5sum: 6f11c5edc1487ab4e8fb87c560240c2e
-SHA1: 0ef7b147b13dbe4081b825e807bb6f581bd4d230
-SHA256: e2ef5277501749cc14981ac117ad9a1d58f2ca8ad69a135182945b3b43b45dcb
+Size: 91494
+MD5sum: efcf0d80c1912c340b5844182443eaff
+SHA1: bdc3551f3092b7644dd9c2fa3ea2c1d3fc8c5ca4
+SHA256: 47f8125fdfa296ce80b2e273d4ff98b727f57e1fe109e90d592db495b3338d88
 Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
