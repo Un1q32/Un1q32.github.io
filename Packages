@@ -5654,15 +5654,15 @@ Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
 Package: iphoneports-zlib
-Version: 2.2.4
+Version: 2.2.4-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/zlib-iphoneos-arm.deb
-Size: 91494
-MD5sum: efcf0d80c1912c340b5844182443eaff
-SHA1: bdc3551f3092b7644dd9c2fa3ea2c1d3fc8c5ca4
-SHA256: 47f8125fdfa296ce80b2e273d4ff98b727f57e1fe109e90d592db495b3338d88
+Size: 99516
+MD5sum: d0636de1ceb564c2a2db7cb62f8b7991
+SHA1: 0aa7066939733de04752e4101ff56eb4a5eec2ec
+SHA256: 9d51d6c8eb1a01be2f5708a47ade81cc7eb89280da2e1e62033d89ecc36435c1
 Section: Development
 Description: zlib replacement with optimizations for "next generation" systems
 
