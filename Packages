@@ -1417,41 +1417,41 @@ Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
 Package: iphoneports-gnutls
-Version: 3.8.8
+Version: 3.8.9
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
 Filename: ./debs/gnutls-iphoneos-arm.deb
-Size: 1444856
-MD5sum: 8b6ed85b9823a4ef7e50d22fe4218ab8
-SHA1: 7d8d8762f33947908c3f56ef93570287e68eac18
-SHA256: 77aeec309025db0194ed2619e5a1e6f48602c82ebbd300fe329a2d3d0092c7bd
+Size: 1451846
+MD5sum: 510a5e8afab1c1eabb78f9a0fc8aa5dc
+SHA1: 62424835a7dfaf84f80e72a022c7d34d44cb2ea2
+SHA256: a25fdf1c3fd95196f06505961358664a8c0b0fa73018c8354d2ccf6edf6734ca
 Section: Security
 Description: A library which provides a secure layer over a reliable transport layer
 
 Package: iphoneports-gnutls
-Version: 3.8.8
+Version: 3.8.9
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
 Filename: ./debs/gnutls-darwin-i386.deb
-Size: 1447400
-MD5sum: eb9000d7a39553bca65b15ca38574cf9
-SHA1: 45c719c5e0a78b3703375887eff727df1980894f
-SHA256: ba89f55fb030c7e108b8a95926ea0cfabb718d7eacd124651a154271f579a4f0
+Size: 1452490
+MD5sum: 04035a18b2e5ee0f7f410dace317d11f
+SHA1: 7b055b70e3bc230e068c4eca552e10583cb7982e
+SHA256: 97d195b742dcb12ee25a92774d49fcfe5b268f62a339ea5fdf72d8467d5d4e71
 Section: Security
 Description: A library which provides a secure layer over a reliable transport layer
 
 Package: iphoneports-gnutls
-Version: 3.8.8
+Version: 3.8.9
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
 Filename: ./debs/gnutls-darwin-amd64.deb
-Size: 1543680
-MD5sum: 1777dd6d69a897dce639a99ddaed371f
-SHA1: 4cc419da46bef4e5b33c99dec99a6b7c4802a493
-SHA256: fe03f5f9e888f78aad1609a926272879f0d73ded4dc89d50e6b4911898e97b2b
+Size: 1550082
+MD5sum: a9cf9ffbd6161681cc49eebf7aab5521
+SHA1: 1190419fb7f0b8abcb071e4d98eaeead406114f6
+SHA256: 4e0787d01eb16a8a223c3a8ace6cd51fdebb3556dd303f412059699e209730f2
 Section: Security
 Description: A library which provides a secure layer over a reliable transport layer
 
