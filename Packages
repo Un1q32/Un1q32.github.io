@@ -2370,6 +2370,45 @@ SHA256: f1404a7affaee37d8c27d22e3c35bf23ccec6e052c4fda53ab516c56e1a6c59d
 Section: Development
 Description: Message Digest functions from BSD systems
 
+Package: iphoneports-libpcap
+Version: 1.10.5
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libpcap-darwin-i386.deb
+Size: 183650
+MD5sum: 79f810b0103dbb6db5e6df43bfc40355
+SHA1: 99a4c6e7e67f7ec4ed48abd221a454625c2b3b70
+SHA256: 5e0acf602809609e23723d1f5d014d79b10d0fcf40ad88fccfbc9baba059710d
+Section: Development
+Description: A system-independent interface for user-level packet capture
+
+Package: iphoneports-libpcap
+Version: 1.10.5
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libpcap-iphoneos-arm.deb
+Size: 174402
+MD5sum: 988d8b54cf37a6e214bdfbc00c380625
+SHA1: 0a103f4d22f67043449222d7fa65d68718bd4021
+SHA256: 30f766db951d9fcebb5aa797cabaa1232a15fe3ee4b928e59847fcb6854094fc
+Section: Development
+Description: A system-independent interface for user-level packet capture
+
+Package: iphoneports-libpcap
+Version: 1.10.5
+Architecture: darwin-amd64
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libpcap-darwin-amd64.deb
+Size: 186422
+MD5sum: 27b46bf53026a936632cae05975a95ef
+SHA1: 9226b96aa24fbaf7066e9d8727291d3ec090811f
+SHA256: 692aac2f8131a19a46fcd0b163b874159466b868b5720b199bded9f805c6da04
+Section: Development
+Description: A system-independent interface for user-level packet capture
+
 Package: iphoneports-libplist
 Version: 2.6.0
 Architecture: darwin-i386
@@ -2525,6 +2564,45 @@ SHA1: aa8f771063fdb24cf530943a19c44eed6027b15e
 SHA256: 67f92118258b4bf01e78cc85a31848288541934b8fec8e4b2293728aeb35d386
 Section: Security
 Description: Free version of the TLS/crypto stack forked from OpenSSL
+
+Package: iphoneports-libsodium
+Version: 1.0.20
+Architecture: darwin-amd64
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libsodium-darwin-amd64.deb
+Size: 242472
+MD5sum: c5d54a98a74048220a8c38ccf414c197
+SHA1: d35402be4a0bc610702589d619a1d01164fdd20b
+SHA256: 0db9c0846d05a6157be0c7a1f3347bbb209114181c78bf6958969a342eb5a517
+Section: Development
+Description: A modern, portable, easy to use crypto library
+
+Package: iphoneports-libsodium
+Version: 1.0.20
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libsodium-iphoneos-arm.deb
+Size: 189474
+MD5sum: bb147e43effe6f68963de69f2a62f86f
+SHA1: dfaf659742278dd55ce79045f327c743988d06f4
+SHA256: 7a497871e1f02c13b1bcd40bcf6ce7d395cdc6ab6fadaef6f9bdab3b2cfa98b0
+Section: Development
+Description: A modern, portable, easy to use crypto library
+
+Package: iphoneports-libsodium
+Version: 1.0.20
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/libsodium-darwin-i386.deb
+Size: 236074
+MD5sum: a023259b3c9bf124017fe71e48e48cec
+SHA1: c9607ed8bcdfea1fc2bd50693e9c4e5d343ecb45
+SHA256: e000d1a60437a74278f625ddba2e2a00f0186bfb71de3688fc8a797c5c7c03b3
+Section: Development
+Description: A modern, portable, easy to use crypto library
 
 Package: iphoneports-libssh2
 Version: 1.11.1-1
