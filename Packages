@@ -404,6 +404,45 @@ SHA256: 165de3eff3f3cbdb018953fc708a851eaaa79dc442a5b60fa295fe9568da9151
 Section: Security
 Description: Common CA certificates
 
+Package: iphoneports-catgirl
+Version: 2.2a-6
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libtls
+Filename: ./debs/catgirl-darwin-i386.deb
+Size: 57178
+MD5sum: 305b5ef89cb76d6fb7183572c0d7dc29
+SHA1: d52c5f38136297d28f2a0e00a07393591e9f8a84
+SHA256: 2513116778148b4aa98d81994954ab80133d1ac9fa7c671132cc59542273f83b
+Section: Networking
+Description: a terminal IRC client.
+
+Package: iphoneports-catgirl
+Version: 2.2a-6
+Architecture: darwin-amd64
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libtls
+Filename: ./debs/catgirl-darwin-amd64.deb
+Size: 68716
+MD5sum: f2667bc1cc7be526b15cc5d95866669f
+SHA1: 8c5d5d224f4e330bcdbc67149dcc2c4d18af0629
+SHA256: 08e2469838ace276be44bc77224949ae22392991df95b4cee888c30e16b2a5c1
+Section: Networking
+Description: a terminal IRC client.
+
+Package: iphoneports-catgirl
+Version: 2.2a-6
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base, iphoneports-libtls
+Filename: ./debs/catgirl-iphoneos-arm.deb
+Size: 59272
+MD5sum: 5cd3eaf69eb472872657474848040d2f
+SHA1: 1eba772ad7c4bd23ced34356d96f532ca8888cda
+SHA256: a0f377860aae2b297306a523e7fec0ba9ccf0f75e5f53a774a272c59e7ee2d50
+Section: Networking
+Description: a terminal IRC client.
+
 Package: iphoneports-ccache
 Version: 4.10.2-2
 Architecture: darwin-amd64
