@@ -4306,15 +4306,15 @@ Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
 Package: iphoneports-pcre
-Version: 8.45-1
+Version: 8.45-2
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/pcre-darwin-i386.deb
-Size: 161626
-MD5sum: ea1948b6a850ec3621b31dcecb333edc
-SHA1: 4baa243c5bc34eb5bd3a0d06b00ca6f34845cf14
-SHA256: d0b7f6ef8dafd7dfd07e859bbb3e7635e7e78648753b49829c494b2b47abcc4e
+Size: 134096
+MD5sum: d13ce1765b13016f2d70184a8691ea74
+SHA1: e5e788461fd0760d46bbf2cc06e2a5c43cdbcb65
+SHA256: c0bfff44c1e3a7e17feaa5dcc44f4f5fca26764c35d4ac7e0bb316a7363ff08e
 Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
