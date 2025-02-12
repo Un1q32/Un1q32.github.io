@@ -849,45 +849,6 @@ SHA256: 926c5900bcd4e9807f9a43c6701f22f7a3a17b48d34680cc80e2bda7e489fad9
 Section: Development
 Description: AV1 cross-platform decoder focused on speed and correctness
 
-Package: iphoneports-db
-Version: 6.2.32
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/db-iphoneos-arm.deb
-Size: 1782418
-MD5sum: 15138e99914437a8d460647643f79d51
-SHA1: 032053e27f23f47676f0e575aa94fc3d4be80737
-SHA256: 2668b439f51c784faae4554103dda0bcc08064e65c6ba3de4d801af416f9d8b2
-Section: Data Storage
-Description: The Berkeley DB embedded database system
-
-Package: iphoneports-db
-Version: 6.2.32
-Architecture: darwin-amd64
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/db-darwin-amd64.deb
-Size: 1814046
-MD5sum: 6639e753f425dc0faa860748fcf463e3
-SHA1: 54f6f39ea7d05b46b2246a41af5565bffde17988
-SHA256: 254ba7707ff9be7f233f1746938e02fa38a5f4b801b407fed27524733ecb1213
-Section: Data Storage
-Description: The Berkeley DB embedded database system
-
-Package: iphoneports-db
-Version: 6.2.32
-Architecture: darwin-i386
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/db-darwin-i386.deb
-Size: 1725164
-MD5sum: e49c80f9b660f0700e87de50a128d391
-SHA1: c2bcc279b86b4b4ef9c001df0fcb17e21abb07d6
-SHA256: f194653580d97528e983248d8c6298dfb1eb0afafa15cd5a6b39b754e191bf6b
-Section: Data Storage
-Description: The Berkeley DB embedded database system
-
 Package: iphoneports-diffutils
 Version: 3.10-1
 Architecture: iphoneos-arm
