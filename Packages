@@ -313,41 +313,41 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 
 Package: iphoneports-bzip3
-Version: 1.3.2
+Version: 1.5.1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/bzip3-darwin-i386.deb
-Size: 55962
-MD5sum: 717c7680620ab66c505f3662a3fe67dc
-SHA1: a3565f03850cd5eb90ed9f07c99890c72a192929
-SHA256: 644e818952347dbf9a4215589a2ed9155cf56b8990ae257d16081286c58f16a1
+Size: 51538
+MD5sum: 2b5929f7a17daa8916a23a73b966716f
+SHA1: bc038bd5cbf226d4183d9866a59bc8b240269008
+SHA256: e57e679d85d36f2537696422b85f8dbb2ef01c0e3387313b72a2c836e9d37b84
 Section: Archiving
 Description: A better and stronger spiritual successor to BZip2.
 
 Package: iphoneports-bzip3
-Version: 1.3.2
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/bzip3-iphoneos-arm.deb
-Size: 45528
-MD5sum: 30b6e759e51c94be3720a3586612fb8f
-SHA1: bfab1689c8e36d2ab1f4723ed943a4e0cd345727
-SHA256: 34c80cdcdfc4d38c1eef6c7440f6cc72fccef2a758b7a3df1f32cdf58bdde37c
+Size: 49748
+MD5sum: 21737b66c65cc4a665f5b5119cb3cc2d
+SHA1: fd07d9e969344eda037e233ee708836ee50253aa
+SHA256: 605b5477205405e500e873ff93aaff4cee03d51d0013577489ed3840869afecf
 Section: Archiving
 Description: A better and stronger spiritual successor to BZip2.
 
 Package: iphoneports-bzip3
-Version: 1.3.2
+Version: 1.5.1
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/bzip3-darwin-amd64.deb
-Size: 56758
-MD5sum: 04cf960c2932fbf0ab746a46caaec636
-SHA1: 050cf2f322a5064f391833ddba4f4a4fb375a8b9
-SHA256: 4c92d074b3d59bd751ff9c9ca557b4305d9f10c6c3ec99a6b987ac0bb9fb1789
+Size: 52108
+MD5sum: f6e5a8f63603f6e98279a6240929e074
+SHA1: 013737e7b13170ce65a0a8b92d92d033ecaf6241
+SHA256: df5a802278a4e773bd2df5cb92de5a958bbae95b6d874b6c911e7febe4db4480
 Section: Archiving
 Description: A better and stronger spiritual successor to BZip2.
 
