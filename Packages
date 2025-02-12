@@ -2095,41 +2095,41 @@ Section: Archiving
 Description: Multi-format archive and compression library
 
 Package: iphoneports-libc++
-Version: 19.1.7
+Version: 19.1.7-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libc++-iphoneos-arm.deb
-Size: 1535718
-MD5sum: 0ac0a91e0954d5adec2e82d271f1350d
-SHA1: 1881938e7206be2178d1663c6d8e3a8aeeb0e8f9
-SHA256: 38621ad3f2656e3797c6210f53792eda907212d23179032a2a5a774a57df110b
+Size: 1535854
+MD5sum: 5d3465c60bbc396a1c77f6c50e7ed705
+SHA1: 75194d9f6776a9483f966c9d9bba8b4b45a812ee
+SHA256: 8a6e30b00b4a195df714ec97e79c031fce398a8d28565b75cd9a618a65912f54
 Section: Development
 Description: LLVM C++ standard library
 
 Package: iphoneports-libc++
-Version: 19.1.7
+Version: 19.1.7-1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libc++-darwin-i386.deb
-Size: 1513258
-MD5sum: 3a432b54470614c1824d962652ecfacc
-SHA1: 6519dedb5920647d66bf41d60acc391d1d8c75ab
-SHA256: 3bd9a023af2486d371aad689ac02b2b68f2c2e53c712a0304d9efd91672a838a
+Size: 1513234
+MD5sum: 17843284307eb440c5ffb94789705201
+SHA1: 8bcbb42bb0eeccd9c6eb8bd800ad3df160547131
+SHA256: 7837d2b9c68b4c43bb5ffae138fe31c1274e8f9748f6e60175aa91b916f41a7c
 Section: Development
 Description: LLVM C++ standard library
 
 Package: iphoneports-libc++
-Version: 19.1.7
+Version: 19.1.7-1
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/libc++-darwin-amd64.deb
-Size: 1541154
-MD5sum: 9e1103bd0e3d15b430f2e98d2c0c3165
-SHA1: b1d3d3eb9445830a95f09a906f4b11e4382335c6
-SHA256: 01dfc1f639a2c98766ca96082d8b16b3b316a90cdebab782aab315a2bddff020
+Size: 1541104
+MD5sum: 6d71d34b4b0fd2a65cf2fb1cb0a6b322
+SHA1: 86bcdd0789ee05ae67e6c0166065052cdf4638a2
+SHA256: fd12d41920a69ae98ae7709764d02ce671774adb55eb6a2268b4bfb55ff6d61c
 Section: Development
 Description: LLVM C++ standard library
 
