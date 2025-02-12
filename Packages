@@ -4280,28 +4280,28 @@ Section: Archiving
 Description: Portable Archive eXchange
 
 Package: iphoneports-pcre
-Version: 8.45-1
+Version: 8.45-2
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/pcre-iphoneos-arm.deb
-Size: 165240
-MD5sum: 86db8d36c834f25c255ee737768405a5
-SHA1: 4cd78e9433615b47d25699ab1973e14bfb03d63c
-SHA256: b5d81e855547fc3f4f5104ce01408f76a95129b5df27dcc613e56a024188c030
+Size: 138100
+MD5sum: 0b22ef389c1354c402f2e40c787b01d0
+SHA1: eef6dd09737223c63925fb56b5f33ce81933c4b8
+SHA256: 7920abe104dccb3f2d6073c54d901413372211aec07e6dd2d2f8f650a64f2939
 Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
 Package: iphoneports-pcre
-Version: 8.45-1
+Version: 8.45-2
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/pcre-darwin-amd64.deb
-Size: 168894
-MD5sum: 2850d91584f8af5c640b9188c7fa23a5
-SHA1: e379f9c7a287aeef55cdaba058c6ebe8bb3b8ce6
-SHA256: dae1999b3ba64e6abfe03d47b975b60e127797fc9748dec71bac5e6594d6c51a
+Size: 141800
+MD5sum: aa40a1a290cbb8d8b7eccbcff5e70a09
+SHA1: a641424dc72feb7f46175841cff634bf8fe5cef1
+SHA256: e0a8eafd7f04dbc3eaeb0da27d54235c399ab7898a4f6bfc820c5eff6c0af485
 Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
