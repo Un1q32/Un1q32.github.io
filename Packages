@@ -1416,45 +1416,6 @@ Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
-Package: iphoneports-gnutls
-Version: 3.8.9
-Architecture: iphoneos-arm
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
-Filename: ./debs/gnutls-iphoneos-arm.deb
-Size: 1451846
-MD5sum: 510a5e8afab1c1eabb78f9a0fc8aa5dc
-SHA1: 62424835a7dfaf84f80e72a022c7d34d44cb2ea2
-SHA256: a25fdf1c3fd95196f06505961358664a8c0b0fa73018c8354d2ccf6edf6734ca
-Section: Security
-Description: A library which provides a secure layer over a reliable transport layer
-
-Package: iphoneports-gnutls
-Version: 3.8.9
-Architecture: darwin-i386
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
-Filename: ./debs/gnutls-darwin-i386.deb
-Size: 1452490
-MD5sum: 04035a18b2e5ee0f7f410dace317d11f
-SHA1: 7b055b70e3bc230e068c4eca552e10583cb7982e
-SHA256: 97d195b742dcb12ee25a92774d49fcfe5b268f62a339ea5fdf72d8467d5d4e71
-Section: Security
-Description: A library which provides a secure layer over a reliable transport layer
-
-Package: iphoneports-gnutls
-Version: 3.8.9
-Architecture: darwin-amd64
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-nettle, iphoneports-gmp, iphoneports-libunistring, iphoneports-zlib, iphoneports-brotli, iphoneports-zstd, iphoneports-libidn2
-Filename: ./debs/gnutls-darwin-amd64.deb
-Size: 1550082
-MD5sum: a9cf9ffbd6161681cc49eebf7aab5521
-SHA1: 1190419fb7f0b8abcb071e4d98eaeead406114f6
-SHA256: 4e0787d01eb16a8a223c3a8ace6cd51fdebb3556dd303f412059699e209730f2
-Section: Security
-Description: A library which provides a secure layer over a reliable transport layer
-
 Package: iphoneports-gptfdisk
 Version: 1.0.10-1
 Architecture: darwin-amd64
