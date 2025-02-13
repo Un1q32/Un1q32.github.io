@@ -733,41 +733,41 @@ Section: Development
 Description: A tool for static C/C++ code analysis
 
 Package: iphoneports-curl
-Version: 8.12.0
+Version: 8.12.1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl-darwin-i386.deb
-Size: 636266
-MD5sum: ad57ada343d4382fcd15f09241b66197
-SHA1: bf53953182bf8b4b094fabe9dfa1c5b31a893ad4
-SHA256: 655d52ea00a5bb1ef165e56dada6c8c7cfb521eda2fc3570c38e269bba0269dc
+Size: 633958
+MD5sum: 05afc536752439fbdc0dd17d908d8acb
+SHA1: 1522a940f8ec917c52e6de045b4dc2f859714f64
+SHA256: 2d607f5cf84d8a78743808ccfd20b74a886103783f4af1a81504cb785c3d5641
 Section: Networking
 Description: An URL retrieval utility and library
 
 Package: iphoneports-curl
-Version: 8.12.0
+Version: 8.12.1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl-iphoneos-arm.deb
-Size: 613660
-MD5sum: 39eb5cd8128edc9b0ea4394369012348
-SHA1: 11a90f233fce97fddb142d8384b712f3f1badbbc
-SHA256: 0aaac0010923164adf5fb5cc78e9ff9f9b07c630e98fa83a3eb75cda64ecc642
+Size: 612020
+MD5sum: 37e5861e7dae92eb272aad95f089687b
+SHA1: 5f2f9088d3db3e153e34e6c57f4894654dd49daf
+SHA256: 0fe0479c45ff71c76946d0a324f26a9c66a4fa0bc192dad7fd88c3c4c93f8aef
 Section: Networking
 Description: An URL retrieval utility and library
 
 Package: iphoneports-curl
-Version: 8.12.0
+Version: 8.12.1
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl, iphoneports-ca-certificates, iphoneports-zstd, iphoneports-zlib, iphoneports-libssh2, iphoneports-nghttp2, iphoneports-nghttp3, iphoneports-ngtcp2, iphoneports-libpsl, iphoneports-libidn2, iphoneports-brotli
 Filename: ./debs/curl-darwin-amd64.deb
-Size: 635992
-MD5sum: 39ef708dc4b8bae0a057830565b9416e
-SHA1: 074e6213765c469b5cead1055c3e153957dd559e
-SHA256: 348b1701175d83a0179bd17a56eb4a9826613d9f595d0363eddad25d42602f89
+Size: 634028
+MD5sum: 5269164dd5831d30b4b456af9030d5a1
+SHA1: 68a9067c43d9f1d8ff24e9ba83b16929972261a0
+SHA256: f5b2591b0c69355ffb5c45b662b5250254fbd2bf33598485de6ee20bc394db91
 Section: Networking
 Description: An URL retrieval utility and library
 
