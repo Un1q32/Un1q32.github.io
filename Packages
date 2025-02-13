@@ -850,43 +850,43 @@ Section: Development
 Description: AV1 cross-platform decoder focused on speed and correctness
 
 Package: iphoneports-diffutils
-Version: 3.10-1
+Version: 3.11
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/diffutils-iphoneos-arm.deb
-Size: 183952
-MD5sum: 936ebeb8e7bd0bd93d402eef9ceb104d
-SHA1: e455e749c86d75dc6947d87f5d4a71988e20fe94
-SHA256: 57190965d95386e8e27599cb2c6a74758a6f1b7385cf968835c3f762417c5ad6
+Size: 192924
+MD5sum: 7cfc8a978fcaa7719edb2e2dcc7426ed
+SHA1: 6be5ff2055010c36c4ca6e055459cbd1ce8d5e06
+SHA256: 23f8245b63e3bd4cf2967c31f2075965c34ddeec9ef790d0c588ee4031584d35
 Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-diffutils
-Version: 3.10-1
+Version: 3.11
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/diffutils-darwin-i386.deb
-Size: 186756
-MD5sum: caa6a5babaaa2440d5eea7d6bac386ac
-SHA1: 3b154e9b6dab13a386cfc6ad13f10aec659466de
-SHA256: cd75d247d208c9fbf5d1bedd46e7e76a6d6151cebc38dc4382e3fc9fdeee6232
+Size: 201278
+MD5sum: d16cc5089cca851f5c52e9a6dd3df13a
+SHA1: d6c2ff4f17f03a8538635791e276f609f11f64ad
+SHA256: 140d4aab237de1e13cd4bd7d4eab49420d53304ee590e83aa47bc351fa3bf4a4
 Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 
 Package: iphoneports-diffutils
-Version: 3.10-1
+Version: 3.11
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/diffutils-darwin-amd64.deb
-Size: 201438
-MD5sum: ca77727a62eacda3b77841e6d323aaf5
-SHA1: 5874ce3b20fd108bec246f74c601d1fa840d1502
-SHA256: 9a93ad4a3074453af88578ccec5b0e7f950d0e0ee883c782b03262eab33247a3
+Size: 215068
+MD5sum: 3851c56e75146f0ef26e06e109149d67
+SHA1: 3198a0e668cf45714065440dcb64532ebff30493
+SHA256: cb46fba017a95354bc7c9cd9c7cd06b8739a96ca9df0db5bfd852e6f2f1ee0f1
 Section: Development
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
