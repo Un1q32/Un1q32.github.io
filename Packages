@@ -51,47 +51,47 @@ Section: Games
 Description: 2048 in your terminal
 
 Package: iphoneports-base
-Version: 21
+Version: 22
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 3.0), iphoneports-dash, iphoneports-coreutils
+Depends: iphoneports-dash, iphoneports-coreutils, firmware (>= 3.0)
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
 Filename: ./debs/base-iphoneos-arm.deb
-Size: 6208
-MD5sum: 180cd6d1cf96b1ef0bdf03635149d038
-SHA1: b8f48a0ddecbeb3bd61b158d9e70cc380a878108
-SHA256: 734bf6c1d80495e1810f13d00794050d5d3edced5a33cf4a294e60248ba98bce
+Size: 6114
+MD5sum: 450b34f74de695652a8d097b8e72eb18
+SHA1: c9f891bacdf883622eac80156f1a922bd2299cc7
+SHA256: 64070fdbd98668650c647615f1da537834cd135fa23aecaefec2102ac7d79a33
 Section: System
 Description: iPhonePorts base
 
 Package: iphoneports-base
-Version: 21
+Version: 22
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
 Filename: ./debs/base-darwin-amd64.deb
-Size: 5174
-MD5sum: 5afad8aba896a49f33210dcf19e64b17
-SHA1: c5dd83f0a3124eac2d8223fcc016ccb790fef432
-SHA256: 8281ea0a76239a27b803feaf7bf18f03fb88235ee2a38f842ca3c2ac494814f3
+Size: 5186
+MD5sum: 4d93123a08884e580b3881e13e75db71
+SHA1: 1ac56b232fece022220e60814733e180b30b0298
+SHA256: 13982b4ca0b2f3286e36f081fb36699cadabc4e67f8307ed5b892dc9ac79bea1
 Section: System
 Description: iPhonePorts base
 
 Package: iphoneports-base
-Version: 21
+Version: 22
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
 Filename: ./debs/base-darwin-i386.deb
-Size: 4766
-MD5sum: 5ed8065ef8aab64174227eb31e188fd5
-SHA1: 8d248dfe4ddf5cab266a782212b71aacbf924a41
-SHA256: aa2e4b8ee353eebd69001783aa35f9ee1f8363b922bebf39b54ae214564ac8d7
+Size: 4780
+MD5sum: 636a048964f189e47d2b5f5e33668557
+SHA1: d205a80c09da4eca0d02d14a5fadc6a006940b1a
+SHA256: 480e3b4776444da3b35d8bc59e68bc70095f1f3c63d06ec4f288210434888bb9
 Section: System
 Description: iPhonePorts base
 
@@ -931,41 +931,41 @@ Section: Development
 Description: Distributed compilation service for C, C++ and Objective-C
 
 Package: iphoneports-doas
-Version: 6.3p12-2
+Version: 6.3p12-3
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/doas-darwin-amd64.deb
-Size: 15534
-MD5sum: 0591fd266f179081b5908f77123a5bba
-SHA1: 825c1d3b7057d5b289763e9eb65097d438c19b07
-SHA256: 685059a6e0df7bb67bee0bdc21c8f4bc171e8a563a804aa466da2f2c18585c61
+Size: 15546
+MD5sum: af468c4ff2081a7a04428b8becfc9090
+SHA1: 180609ae7902e8fa660c86d53f766d48428803a2
+SHA256: 1475b7bc556585eec5b41d36b03a333a52c49da2f5b4711f1353c4cef5b0a734
 Section: Administration
 Description: a minimal replacement for sudo
 
 Package: iphoneports-doas
-Version: 6.3p12-2
+Version: 6.3p12-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/doas-iphoneos-arm.deb
-Size: 14336
-MD5sum: 42f9d64fe339c7493391876207bb2016
-SHA1: 9a951a57bf14e06a101f2668656429519334c30d
-SHA256: ebeddeef9c1aa559770fbb0b5993e3ce7747e2eb0c0955928e54200f329dfc91
+Size: 14348
+MD5sum: bd543a784d16accf2d6eab46906f9293
+SHA1: 6e6a7cad01610b630634845b2f1b62358b97b277
+SHA256: acee511b9c5407a3c26714106635b7b906bee179d90b9683724bffce5f79daa9
 Section: Administration
 Description: a minimal replacement for sudo
 
 Package: iphoneports-doas
-Version: 6.3p12-2
+Version: 6.3p12-3
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/doas-darwin-i386.deb
-Size: 14252
-MD5sum: 429cbafa713fe1fcb152cc1b2f6d1e64
-SHA1: cf38ca8a0fae772642e78516f10b3760af098225
-SHA256: 6556f664cef633985837e179a0de13a0d818c78e103d41c189f6bb4609b96cde
+Size: 14266
+MD5sum: d7cb4f037b1185e0f227fe735e6181ee
+SHA1: 060415485f9e34bcad9bcc049ce3c9ab917da182
+SHA256: 4bd020e08bedeb15c42209cbeaac6d56a52da92305b4e6ab1818803f4e764978
 Section: Administration
 Description: a minimal replacement for sudo
 
@@ -3082,41 +3082,41 @@ Section: Development
 Description: Compiler infrastructure
 
 Package: iphoneports-login
-Version: 433-2
+Version: 433-3
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/login-darwin-amd64.deb
-Size: 8438
-MD5sum: 866a5e2b7c4a00917b3fb6d774bea977
-SHA1: 3258576d68d994e40a7e0f60566e84fd0a6963e4
-SHA256: 6b7adaa593d0410d046bc7624d7f9fcc2764256fad572a7538786270f5264b42
+Size: 8452
+MD5sum: 4413ff11449babed1a105835869c44e9
+SHA1: ae833e9c708b53e959caa678d03cf65d3c4413cf
+SHA256: 1bdf9548f0bcb81f50582b59d53cc2e107d0ebbe408a9f9db35c308dd9edae3d
 Section: Administration
 Description: log into the computer
 
 Package: iphoneports-login
-Version: 433-2
+Version: 433-3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/login-iphoneos-arm.deb
-Size: 7286
-MD5sum: ed4cdc6d98a2b06c33b400e2f247feff
-SHA1: 346fc068439f0f59d415ca52796d19208d07247d
-SHA256: b56dbde955423e43ef2803bc2bfa6de21e53d80e188e811938854bf52dffefcb
-Section: Utilities
+Size: 7342
+MD5sum: de71f04e5fa668a5a1b26077d7ff5b40
+SHA1: 78191bab7a9ec04ed33d277c9eb526e1fe85f12f
+SHA256: dc5f778f6085ba9efc99b1f4914e2d6fc0585a90e644fc9b1acdea6ab9e6bbc6
+Section: Administration
 Description: log into the computer
 
 Package: iphoneports-login
-Version: 433-2
+Version: 433-3
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/login-darwin-i386.deb
-Size: 7456
-MD5sum: c03e35b97bba90952517a1701df3504b
-SHA1: 654cf734e1db8d4ae9b480590a108ab37dd3b3d4
-SHA256: 4c3ea14e463570d51eab5f43a65d5679ff4fa0a5c9803f8d4cde12b05c043757
+Size: 7462
+MD5sum: 099d6e95e4b51715630d18e214f17382
+SHA1: 1a0b9f357371813058d0a64e17e48cefd77bfd11
+SHA256: 52a4cfea2db0a8c30ae23e61e5e43d721f265b33f2355b727b5e5820f8c9fdc4
 Section: Administration
 Description: log into the computer
 
@@ -4605,41 +4605,41 @@ Section: Development
 Description: command-line history management
 
 Package: iphoneports-rogue
-Version: 5.4.4-4
+Version: 5.4.4-5
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue-iphoneos-arm.deb
-Size: 91922
-MD5sum: d699214661bea833ff7399b0ba29642e
-SHA1: 89de76ebc5bc3edd4235b1c7c109feb9456a05b5
-SHA256: d4d26a9b3774c1bb84ea44383ec4811dbbfe4f93314ce4078f372f821c908d26
+Size: 91940
+MD5sum: 6165d64bb9486f64365b3c123f303a5b
+SHA1: b8e50d3186d5c469287fca1436fd5185a96eb116
+SHA256: 3c583b82131eab28c937021c1cfa9ce75e52cb8bc4f0226049e9e5bdf17d62df
 Section: Games
 Description: The original dungeon crawl game.
 
 Package: iphoneports-rogue
-Version: 5.4.4-4
+Version: 5.4.4-5
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue-darwin-amd64.deb
-Size: 100096
-MD5sum: 6e4c81e8bc80d01e932fe79a0ffba523
-SHA1: a5b2ef436c874688ef066f8a431560170436d696
-SHA256: 324e3a482a048450ef3104d032c53f585fa916f0ca666df502e43189045b1f30
+Size: 100118
+MD5sum: 2ad674abcc7e23c2761ea4e4719ac584
+SHA1: cd843c14f889ee08a9c9ae171c32afa51cf6e57c
+SHA256: 01399ab1c556166110be1b4a0741531eab027406c7d66d918310ebd1a1422dd3
 Section: Games
 Description: The original dungeon crawl game.
 
 Package: iphoneports-rogue
-Version: 5.4.4-4
+Version: 5.4.4-5
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-ncurses
 Filename: ./debs/rogue-darwin-i386.deb
-Size: 90230
-MD5sum: 4eb5164e72a9fe33954542467b3ed2b7
-SHA1: 5f39af5a9a7f242b1b35bc0901c17a45d5e0f3a3
-SHA256: 8777306044177070b4643d03de7abb62e06515470c9d9fe378d60deed6a79e59
+Size: 90252
+MD5sum: 83e638b8a4d95f2ae6c9b92070eb5662
+SHA1: 83fd8a50f2e80aab3ea5802ef84293b20e2f75cc
+SHA256: a99f9ce098b85e7ce3bf8ad82faa9d6cc982c4f78cd66dc336330e0a146eed7d
 Section: Games
 Description: The original dungeon crawl game.
 
@@ -4809,80 +4809,80 @@ Section: Utilities
 Description: SQL database engine
 
 Package: iphoneports-su
-Version: 116-6
+Version: 116-7
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/su-darwin-amd64.deb
-Size: 6422
-MD5sum: 5a546b946226ffe09241bd76014599db
-SHA1: 29c5e38ca12bb99fed513095a43ccca6e9aa5d66
-SHA256: aa8a764cb7704b2cb86be08f633b6cad84e5f0ae718d3b9056d25c3d59b47f9e
+Size: 6436
+MD5sum: d094acf92c2904d767ff12ea40bb9a9b
+SHA1: 0aa5e8017e70d2950bdd779bd4890c1d484a162b
+SHA256: 80bb1ae117edbacc18def4e6af6965ba8d156c307b8ae42549c1a0fa0e1f675e
 Section: Administration
 Description: substitute user
 
 Package: iphoneports-su
-Version: 116-6
+Version: 116-7
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/su-darwin-i386.deb
-Size: 5874
-MD5sum: 31d4121b081485cfb9890cf98d6350e3
-SHA1: 71110f84cbc2d73ee253cc237a5889bfdaa6eb4d
-SHA256: db1602c191010a123c11132d9a81c20ccc3d071d953faf267330465cc98d8557
+Size: 5886
+MD5sum: 386f92e49b074ff5b00a6b57c2bc2e14
+SHA1: fb4ed3b15243bd113fe5238406a9a704b80a3105
+SHA256: 4ca767f3e0f4fd6ded9d23eea125826f8a5436a2089df36dd16a5c6e494709bd
 Section: Administration
 Description: substitute user
 
 Package: iphoneports-su
-Version: 116-6
+Version: 116-7
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-pam
 Filename: ./debs/su-iphoneos-arm.deb
-Size: 5696
-MD5sum: 6e648e769336f36bdb75a502557033bb
-SHA1: a83bc2b4fa7667a9b1d1d225170bc230f23d92c8
-SHA256: c583403215c6d851a1d4469583242d33eb78ba8aa867c8ec225c0691fc8a4e88
+Size: 5714
+MD5sum: 089a1dd5b26f83eef62b8ff079c8afe1
+SHA1: c645c8080282ee70a953b51b5c56afc11e0a2d10
+SHA256: 084e9c723419c95b3110c9ddb96384c4054cf55aef7b2dc8ffe13ca1d64dbb7b
 Section: Administration
 Description: substitute user
 
 Package: iphoneports-sudo
-Version: 1.9.16p2
+Version: 1.9.16p2-1
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
 Filename: ./debs/sudo-darwin-amd64.deb
-Size: 1019278
-MD5sum: 8b4ad496fb9883e3ae88f2bb52b14328
-SHA1: 4e3dd07bfea3cf2e925c45fbca7638f5c26bd500
-SHA256: 5bf2161e8fee2b0edb02c8445873e799c6282b8f495776f6bb1eb0d7d60f56db
+Size: 1019326
+MD5sum: 5e8d50dd64f64e700764e6633789b21a
+SHA1: 6746ffae64a075ee2c8699a5ae5a65088d90a2fc
+SHA256: 6d31d7f6588f8ad2f3d1446e97ae1095a57d2ae84a77dd2528fe304a63870fa9
 Section: Administration
 Description: temporarily assume root priviledges
 
 Package: iphoneports-sudo
-Version: 1.9.16p2
+Version: 1.9.16p2-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
 Filename: ./debs/sudo-iphoneos-arm.deb
-Size: 1049022
-MD5sum: 5adf18a15d2125924ea5587ff8a9ff0c
-SHA1: 6f3519b10da854b05de3bb72c761534a300e9e82
-SHA256: d305f2268d96bc94111c6a81dc4b1a3214adb73b0f5a8e3cf86e148467711866
+Size: 1048372
+MD5sum: e6ed3a261c9cc2e10584f506f901dac5
+SHA1: 13cd745eb3fd9ed0a588ab07e018e7bb1588d054
+SHA256: a87cd2d3f519d27cd7453af8d2e15476b9a4d27a94f649512c75984545123c1d
 Section: Administration
 Description: temporarily assume root priviledges
 
 Package: iphoneports-sudo
-Version: 1.9.16p2
+Version: 1.9.16p2-1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-libressl
 Filename: ./debs/sudo-darwin-i386.deb
-Size: 980458
-MD5sum: 5405b2767087b326919b83f20d018a04
-SHA1: 4df2aad280958df88355129ac90bef5125be5595
-SHA256: d6c92b6457ff8ea10323590de8bf9812b8355e037b3eedc4316541a4f8614eea
+Size: 980488
+MD5sum: 496fc9de60e02535322ce2ce21a58210
+SHA1: 524e6dd70a8334108ef0ebec11393e349d1a8ef7
+SHA256: 4bbe72a0ed16975183a81fae83ad0c3d7b60aabc65b39c1a4f3e7e36c94041c1
 Section: Administration
 Description: temporarily assume root priviledges
 
