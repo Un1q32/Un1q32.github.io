@@ -4370,6 +4370,45 @@ SHA256: 6baee4daaa5cd3d1378c725bb1bbf7555806b80d7ed9de8183cbd86f3d70b681
 Section: Utilities
 Description: A utility for sending ICMP ECHO_REQUEST packets to network hosts
 
+Package: iphoneports-pkgconf
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pkgconf-iphoneos-arm.deb
+Size: 59990
+MD5sum: 2d3fdc719242e4389140d9e699e775fa
+SHA1: 96ebf96a09c1e8c578b32126521ddd74f4e74a42
+SHA256: bfcdfbac293f077e41ef98f3caef3b17647d1bc958b08bcdc041cc14071679da
+Section: Development
+Description: Package compiler and linker metadata toolkit
+
+Package: iphoneports-pkgconf
+Version: 2.3.0
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pkgconf-darwin-i386.deb
+Size: 57546
+MD5sum: 0f1e3f8591db37b6145dfb5853562f80
+SHA1: df31d833dd22d76500b706c77014412ab380f7d2
+SHA256: 827c9e8e75d0fa91118bfa4c118f5c3f7530fd64e17f92110f864548250d5d82
+Section: Development
+Description: Package compiler and linker metadata toolkit
+
+Package: iphoneports-pkgconf
+Version: 2.3.0
+Architecture: darwin-amd64
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Filename: ./debs/pkgconf-darwin-amd64.deb
+Size: 58996
+MD5sum: b747d2eff52f5de04760b7ea6c86694c
+SHA1: 31d742239f9d20ce7e933fb88f5b9dc622b6acc5
+SHA256: 722de21bf21ce35347f4bcb2dd08dd51da523b9adfccff44d5e70d52aa6cfd27
+Section: Development
+Description: Package compiler and linker metadata toolkit
+
 Package: iphoneports-popt
 Version: 1.19
 Architecture: iphoneos-arm
