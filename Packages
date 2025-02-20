@@ -5121,41 +5121,41 @@ Section: Utilities
 Description: A colorized, indented directory listing tool
 
 Package: iphoneports-unrar
-Version: 7.1.3
+Version: 7.1.4
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/unrar-darwin-i386.deb
-Size: 198686
-MD5sum: cf8efdc5aaf76df60c3420b78c70ac30
-SHA1: 4d134dc37477e1ee3f915fb94ba19bf764485b6d
-SHA256: 40586ed622fbf50875c9ea0e2f57bd8d901b72cbd88e490e765dc2adb3798ce6
+Size: 198640
+MD5sum: 0cdf2516ddb02b3c695d5016a7b7bfc1
+SHA1: 60ea435174655365320fa545a89737398278af11
+SHA256: 39452022507a48718df6ef0849ce1938ed4f689ddfb4748c2a6cecfe7b9ecb76
 Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-unrar
-Version: 7.1.3
+Version: 7.1.4
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/unrar-darwin-amd64.deb
-Size: 203842
-MD5sum: 6e1fca826fd56d5b34768a9b2bf85ace
-SHA1: cbb91b2ddb35c8e7b4e1b6f84a13c61fd54695fa
-SHA256: 57ffbd6b3373dbf4f9842f1e3259d1546e6fe1f99096b340eab2a312670af4d7
+Size: 203744
+MD5sum: f133227560405a90f044d319431c2f30
+SHA1: 1bd21289f7d3fcfb0d6472916e555fe2c4f4e98f
+SHA256: a2c65cab0f0451c99048d1287602a4bf05362138e5f419fb09dff6e307649b07
 Section: Archiving
 Description: de-compresses files in rar format
 
 Package: iphoneports-unrar
-Version: 7.1.3
+Version: 7.1.4
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libc++
 Filename: ./debs/unrar-iphoneos-arm.deb
-Size: 206914
-MD5sum: d1a1cacddd23b9c0e6d2494a2f8ef81e
-SHA1: 6d8d1cd716da4542bf03ccf0dd8b73fd5ff456b8
-SHA256: 343f52381eda16cc96068906abb5b3272e60108032635d1c85e2bc652e236c6b
+Size: 206320
+MD5sum: 0640eef8bb92e43946909584dc6eda9f
+SHA1: 9434e60fd1cb2ef876e4afd7bb450bbc41272a08
+SHA256: e8f9e4f6ba86421c7c5758c8f53a582d9ad2cb91e1352257e8c4703d2625e115
 Section: Archiving
 Description: de-compresses files in rar format
 
