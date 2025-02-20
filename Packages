@@ -1336,43 +1336,43 @@ Section: Data_Storage
 Description: fast content-addressable filesystem
 
 Package: iphoneports-gmp
-Version: 6.3.0
+Version: 6.3.0-1
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gmp-darwin-i386.deb
-Size: 252486
-MD5sum: 4d699939a640b0deb70a80311d31a5b2
-SHA1: ef9032c659f956c76b543014ca70e6d47e1e14b0
-SHA256: 2be9c6e94c4ff1cabd0c8a9cf536cdbe670ad357f40c371020f4d26e080b261c
+Size: 228628
+MD5sum: 5270e255386aba3835d9b99a597d5b55
+SHA1: d89d375774dee3d6d0c6200079974f0296cc351e
+SHA256: e46fb619945400580dbfe56c548d94afee5b5701588028ea573b9089fce52386
 Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
 Package: iphoneports-gmp
-Version: 6.3.0
+Version: 6.3.0-1
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gmp-darwin-amd64.deb
-Size: 301372
-MD5sum: 781bcdac4ba14b1aa04831f727c5587f
-SHA1: af4e5b7e7ad33e94cc405f9614b7a83d1a387dea
-SHA256: a6dc082a1789f9edb88c5e27e60b41ba110d8fd656c9f635f136afaa094316eb
+Size: 274722
+MD5sum: c776871fa868cb71e2b4171e2eb7704c
+SHA1: 3a5b3c1cd81663af43d32ad9b25591c16016f72f
+SHA256: 78c93476bdf5994b795e050906cf58d416f23034bc38b4704462122c64ab627a
 Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
 
 Package: iphoneports-gmp
-Version: 6.3.0
+Version: 6.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/gmp-iphoneos-arm.deb
-Size: 255360
-MD5sum: bfcd2680516b6e7ca3d66fdd21c21396
-SHA1: 848d2be8fde34589535f9137c83b159e9b65c297
-SHA256: 7dac5e517073d7d96123d5ded5c98d8f79746eb56c297dfcc0c9b2428b06e931
+Size: 255356
+MD5sum: b3b6f9a6d9bef61a089cc524197b65d5
+SHA1: 4a0d8b6a557f42dde733931dbf6ec158fd7ff4fa
+SHA256: 2d5ce025bcc7c0750320aa7f36774c17180054b959549501a1c9bd84015ab755
 Section: Development
 Homepage: http://gmplib.org/
 Description: A free library for arbitrary precision arithmetic
