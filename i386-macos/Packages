@@ -931,15 +931,15 @@ Section: Development
 Description: WebP library and conversion tools
 
 Package: iphoneports-libxml2
-Version: 2.13.5
+Version: 2.13.6
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-zlib, iphoneports-xz
 Filename: ./debs/libxml2-i386-macos.deb
-Size: 732396
-MD5sum: ccb093f8c10ad6a8e26ce9da46744198
-SHA1: 81d4ca2f91a0b85170c48c0211062934fb971b5f
-SHA256: 580a1292f332aa5b42de8201889a9920b237d1655eddaa275b4b286b7242827b
+Size: 732860
+MD5sum: 20d9f3d6dee4b581aa2bae37a7ff460a
+SHA1: dbceff6fb10a147c02c29eb08a4d69174db48111
+SHA256: b87c44b0d96d63d9dc41e979546fdbbd5ceb8e5bb16e506bf30bbc2aac2dc71f
 Section: Development
 Description: XML C parser and toolkit
 
