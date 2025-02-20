@@ -1,8 +1,1 @@
-Origin: iPhonePorts
-Label: iPhonePorts
-Suite: stable
-Version: 1.0
-Codename: iphoneports
-Architectures: iphoneos-arm
-Components: main
-Description: Ports of UNIX software to legacy iOS
+armv6-ios/Release
