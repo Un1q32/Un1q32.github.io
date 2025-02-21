@@ -1378,15 +1378,15 @@ Section: Development
 Description: A library that implements Perl 5-style regular expressions
 
 Package: iphoneports-pcre2
-Version: 10.44-1
+Version: 10.45
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline, iphoneports-bzip2, iphoneports-zlib
 Filename: ./debs/pcre2-armv6-ios.deb
-Size: 508948
-MD5sum: 177a514823810ed0706019d41c6164eb
-SHA1: 135d8784443c545d634ccc63a354dc235c2bc481
-SHA256: 28ea89655f297ec959919e0815e5a7afefa7a28dd1520c705762708cf9f8913d
+Size: 553822
+MD5sum: c0d61e6eb3358efb4e774a93efba1984
+SHA1: b06d09b8a5cedbb534f47a7d1f5e6723698fe743
+SHA256: 95c982f3b737e38f856119c4e2aff0b47cb1f2b41cd45df8ea2dc57f98b00634
 Section: Development
 Description: A library that implements Perl 5-style regular expressions. 2nd version
 
