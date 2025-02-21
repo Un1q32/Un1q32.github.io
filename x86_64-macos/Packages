@@ -1208,15 +1208,15 @@ Section: Archiving
 Description: a fast, simple LZW file compressor
 
 Package: iphoneports-ncurses
-Version: 6.5-2
+Version: 6.5-3
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/ncurses-x86_64-macos.deb
-Size: 532862
-MD5sum: 193874203af03a66b479ed16b740ba91
-SHA1: 53087293d9bec440e6157561537a25e10e3b2a1c
-SHA256: c10d6de1e8297d393ecf15c635dbc1b2616b53c0db409135fd2a4292ccdafc5e
+Size: 532668
+MD5sum: 46db3116e4a51297447616aa2549a299
+SHA1: b42aa3f35f22dd06f924d7ec1481075726692e58
+SHA256: 68476f0624027bb4fab04669576bbe3e5f7e60743d608b2757584297b910068f
 Section: Development
 Description: System V Release 4.0 curses emulation library
 
