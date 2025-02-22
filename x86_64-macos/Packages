@@ -1273,15 +1273,15 @@ Section: Development
 Description: HTTP/3 library written in C
 
 Package: iphoneports-ngtcp2
-Version: 1.10.0
+Version: 1.11.0
 Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-libressl
 Filename: ./debs/ngtcp2-x86_64-macos.deb
-Size: 204570
-MD5sum: 19c4d98f9459593d87777d4c94bae547
-SHA1: c6a8d3d3d6e90979ba569fa6b81543778b54481c
-SHA256: 145634bb2b8fbd234c832d2b105d87ba6cdef45d4c377d290a88e4078492e5e9
+Size: 205898
+MD5sum: 85ae31f2990f3e27a05708e4767ca60a
+SHA1: 6abaa6051aa8f323018c1e4e05d6df6923fd5473
+SHA256: a177e3e73de2e028c85a53680926277e661f5b3787441f6c53807c4bd287502b
 Section: Development
 Description: ngtcp2 project is an effort to implement IETF QUIC protocol
 
