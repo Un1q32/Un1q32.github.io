@@ -1062,15 +1062,15 @@ Section: Administration
 Description: log into the computer
 
 Package: iphoneports-lua
-Version: 5.4.7-1
+Version: 5.4.7-2
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-readline
 Filename: ./debs/lua.deb
-Size: 158102
-MD5sum: e4b9a8a7c0e96b0970fdf7bb4b0e08ea
-SHA1: 7537f0d16165248ee2f5a6275cd396c81ed52e8a
-SHA256: 039b10be590ede68c6b6a5cffbb4f552ddbdf5c0d361264ed4e892ac4f33176a
+Size: 158108
+MD5sum: fdf06c334c458cc14d3014cf854a2417
+SHA1: e18a9a847beb81ddc81d485a81b92be544c166b4
+SHA256: e8e2035c91b714d19b93c613c28ac03cb43d2fe275950e32e66dd04a77591b6d
 Section: Scripting
 Description: A powerful, efficient, lightweight, embeddable scripting language.
 
