@@ -1732,6 +1732,21 @@ SHA256: 968ada03f55e441497895c640bd7cf499bf1decfa0dea05765d9b8d2663ff8a6
 Section: Utilities
 Description: A utility for timing command execution
 
+Package: iphoneports-tinyxxd
+Version: 1.3.7
+Architecture: darwin-i386
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Depends: iphoneports-base
+Replaces: iphoneports-xxd
+Provides: iphoneports-xxd
+Filename: ./debs/tinyxxd.deb
+Size: 19016
+MD5sum: b89dfa2262944e0125ee058cd3fae5e0
+SHA1: 08c4e8686b76169c88834aa4379ff13bf7e71ebe
+SHA256: 639460cf59d2fb3b28b1e5defc0b81c27bec91d8d5d35e7e9a68fd31842520df
+Section: Utilities
+Description: Standalone version of the hex dump utility that comes with ViM
+
 Package: iphoneports-top
 Version: 39-4
 Architecture: darwin-i386
@@ -1798,16 +1813,16 @@ Section: Utilities
 Description: displays files in hexadecimal and ASCII (or EBCDIC) and highlight the differences between them
 
 Package: iphoneports-vim
-Version: 9.1.1117
+Version: 9.1.1147
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base, iphoneports-xxd
+Depends: iphoneports-base, iphoneports-tinyxxd
 Replaces: iphoneports-nextvi
 Filename: ./debs/vim.deb
-Size: 10760444
-MD5sum: 7542f5846fa4a6d533a376d4fc78ccbc
-SHA1: f4a56daf75dc6f7ffba77dc291c65f3b85953d6e
-SHA256: 91e7a5b9b1eb7e1feb269dfe0ba093e1af398ef2cd219972d92f50723c47cc53
+Size: 10763962
+MD5sum: e05e4aa04dacdc2cf058eaed775f398f
+SHA1: 97c41320142f56173d5e7d58d22b4b97c3e1fe95
+SHA256: b7cd53ff0354535d1dada42815276b7016d68588140181612862768b3d196349
 Section: Text_Editors
 Description: Vi Improved, a highly configurable, improved version of the vi text editor
 
@@ -1901,19 +1916,6 @@ SHA1: e61a18405a9f93ed4c9b29dc08013b65b4d5d32e
 SHA256: 72822055cd13728cd5fcda7af8aa4bde43dad6e052b63d33e985e8f0aa7203de
 Section: Archiving
 Description: eXtensible ARchive format
-
-Package: iphoneports-xxd
-Version: 2024-12-07
-Architecture: darwin-i386
-Maintainer: Uniq <joey.t.reinhart@gmail.com>
-Depends: iphoneports-base
-Filename: ./debs/xxd.deb
-Size: 9842
-MD5sum: ea9d278c09000b57f9fe9dad634b2c54
-SHA1: 241b0034a3d7f97682df06369f74a390419a8375
-SHA256: f4f482728b5b901876c7297c20db6fc425d840e72edbbdffffca7aeb16a41f55
-Section: Utilities
-Description: Hexdump utility from vim
 
 Package: iphoneports-xxhash
 Version: 0.8.3-1
