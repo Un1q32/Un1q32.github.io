@@ -12,15 +12,15 @@ Description: A script that fixes the iFile and MTerminal icons on iOS 6 and belo
 Name: iFile/MTerminal icon fix
 
 Package: iphoneports-2048
-Version: 3
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/2048.deb
-Size: 4896
-MD5sum: 7c58823fc090ca16db7cf070947db8ce
-SHA1: 6174cb90bb4ca73fc576023ea13659ebfd73ff05
-SHA256: 2b5f2d81ded708d283e626ecd644d4466a78192ce89c7e0e7b1cc51397568c15
+Size: 6112
+MD5sum: e2374d07679e5c02e099d6354167e423
+SHA1: ba565ed2d4a6872477805a9921adb88e31ff41c7
+SHA256: c9c952de11b76c8a82df26afa25349add297caf3ff932c85fdfa8e339758076f
 Section: Games
 Description: 2048 in your terminal
 
