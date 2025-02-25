@@ -1313,15 +1313,15 @@ Section: Security
 Description: A low-level cryptographic library
 
 Package: iphoneports-nextvi
-Version: 70
+Version: 71
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/nextvi.deb
-Size: 69952
-MD5sum: b04759b72464d00243e10f909be0b31d
-SHA1: bf8c914355ad6ff090a8757a7b4fe53caa2cbca9
-SHA256: d50a9739322f81c3866e80739d4f0bd044cf559f56d600109a3023958e5186fb
+Size: 70718
+MD5sum: f74b7a2f34d5b3ac2546aa429d1969c1
+SHA1: 7bf892c8a584263cb5cf28dcf6bfb72418ebe5bb
+SHA256: f427749ae88d820d9a38c33db7128cdb349574b8ea89e3bcfa4fcd324ac3193e
 Section: Text_Editors
 Description: a small vi/ex editor for editing bidirectional UTF-8 text
 
