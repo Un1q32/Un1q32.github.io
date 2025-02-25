@@ -1737,13 +1737,14 @@ Version: 1.3.7
 Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
+Conflicts: iphoneports-xxd
 Replaces: iphoneports-xxd
 Provides: iphoneports-xxd
 Filename: ./debs/tinyxxd.deb
-Size: 19016
-MD5sum: b89dfa2262944e0125ee058cd3fae5e0
-SHA1: 08c4e8686b76169c88834aa4379ff13bf7e71ebe
-SHA256: 639460cf59d2fb3b28b1e5defc0b81c27bec91d8d5d35e7e9a68fd31842520df
+Size: 19026
+MD5sum: 3bdc92e8cca7e093204af57eade47676
+SHA1: e2ca4017b9fd9105034c8f58a1808c6c4081fdb3
+SHA256: 90d37ca99ea4733e00772d6ffa7dbe771c330c0906836fd8ecb1f4adfef1c1e0
 Section: Utilities
 Description: Standalone version of the hex dump utility that comes with ViM
 
