@@ -25,17 +25,17 @@ Section: Games
 Description: 2048 in your terminal
 
 Package: iphoneports-base
-Version: 22
+Version: 23
 Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-dash, iphoneports-coreutils, firmware (>= 3.0)
 Conflicts: iphoneports-chsh
 Replaces: iphoneports-chsh
 Filename: ./debs/base.deb
-Size: 5342
-MD5sum: 97be3238be3953cd10aa572146d8de56
-SHA1: bdd2a29b0afa6d6775bc0db02f1e6b7a26bf69c0
-SHA256: edf392a435fdac0aa73dddd51d785ab00a5daf39660aaa13aeff5439f79e630b
+Size: 5358
+MD5sum: bd8d1884bb08a88d5302f38de68fb072
+SHA1: edcd09046c5eba07234ccdcb78ff11e61e666749
+SHA256: b68786176ebe126aa3912e33e2d991b041e1b4d2cd5c44575f7565e364adbf6b
 Section: System
 Description: iPhonePorts base
 
@@ -1397,10 +1397,10 @@ Architecture: iphoneos-arm
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/pam.deb
-Size: 56430
-MD5sum: 7d6987793cfb9b79d1b411cdbdbb873c
-SHA1: acd09e95ca1a7606fd6a791fcf610c6e95af860c
-SHA256: e2bb3f30da06ddfb3ccccade7d66b7161019117ab6275aeda6efd94cd10e8694
+Size: 57516
+MD5sum: 8750f9cdb39d2056e5f7e98e699c2326
+SHA1: e8829600df45fe9c88b657a7df364efe76baf0cd
+SHA256: 1789b2a11b3658fa574ec32a51b06d02566b3f09c8c8a86d82195cead1482468
 Section: Administration
 Description: Pluggable authentication modules
 
