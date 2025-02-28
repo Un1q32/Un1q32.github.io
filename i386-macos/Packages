@@ -1,13 +1,13 @@
 Package: iphoneports-2048
 Version: 1.0.3
-Architecture: iphoneos-arm
+Architecture: darwin-i386
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/2048.deb
-Size: 6114
-MD5sum: cda2a2b8718bb83e08f6e3029723fadb
-SHA1: ca2b993e73754722be4b5ff0d20cb3b46c60de7f
-SHA256: 7f6d5882b9bcee83d02e351fa2a749729795f55496d72ba8ad5b8cd4bc3d0abf
+Size: 5800
+MD5sum: 4d92d95907006b6360b75107a8f6b4ef
+SHA1: 41b3ca5abb7a0086afa63545815dbcc1a4cafcf5
+SHA256: fd25b6940fed9734cc141b9bee181707472a7245b42b7df52b0c30dfdb4ff13d
 Section: Games
 Description: 2048 in your terminal
 
