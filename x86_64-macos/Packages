@@ -59,10 +59,10 @@ Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash
 Filename: ./debs/bash-completion.deb
-Size: 226456
-MD5sum: e461505269cc1b4914790de9ae19f86f
-SHA1: be34360b11582c01e4d51d8a66eb811df29d82f0
-SHA256: f28dbf5c730436a53d1f7817fc3e2b704366fa57e11ce6c594732271c13fca8b
+Size: 226444
+MD5sum: 40b149c5a271142244db93ec00a5fbff
+SHA1: 4dc715f8fbbeaad8ecc9ee8080b65fb60590c611
+SHA256: 069c6b88b622e4679a6e0723578c64225272ed44627e11cfea6312b1f41d1061
 Section: Terminal_Support
 Description: a collection of command line command completions for the Bash shell
 
@@ -147,16 +147,16 @@ Section: Development
 Description: A C library for asynchronous DNS requests
 
 Package: iphoneports-ca-certificates
-Version: 2024-12-31
+Version: 2025-02-25
 Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Replaces: iphoneports-libressl
 Filename: ./debs/ca-certificates.deb
-Size: 134032
-MD5sum: 6e88d012abf28c0e2944183a0f415767
-SHA1: ce1f6e172f29cc4283bd047def1eb7c9494bdf25
-SHA256: 6dd7ee36ceffb46e19d6dc628bae58c2bae8caf751a3333bc20cef3cb1978341
+Size: 135340
+MD5sum: bd0ce1fb04fcc389f5d4ebea5c158933
+SHA1: 8233022a4320dd30a2a161e87e41cf4ed49c575c
+SHA256: 2b183bc22724fd94eb197a3b7dee0f102a13d579fec5ca3e3199669a4274f488
 Section: Security
 Description: Common CA certificates
 
@@ -231,10 +231,10 @@ Architecture: all
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/compiler-rt.deb
-Size: 24224
-MD5sum: 9664cba99eb32c4ed6cf39e6df0e8c75
-SHA1: 3e5de8f12120031bd53a0164647a3a44478bda92
-SHA256: 14ba9ff9b426da619b5bab2f500ec1e213a07526127bf1d64b60c250fd7cb131
+Size: 24240
+MD5sum: 4f6f62c9580e86f6a3d2b497b095b5bf
+SHA1: d60a30e494bc22f27c22fdbb3d06734f9080dbec
+SHA256: 17e974e58fd029ca9b188b374fde2ab6e415a2d7880c2c0cb23ea4205721f1ea
 Section: Development
 Description: Compiler runtime libraries for clang
 
@@ -1293,9 +1293,9 @@ Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-bash, iphoneports-gawk, iphoneports-sed, iphoneports-grep, iphoneports-coreutils, iphoneports-sysctl, iphoneports-getusedmem
 Filename: ./debs/neofetch.deb
 Size: 137294
-MD5sum: 6af75458d535e083b14982662c53abc1
-SHA1: 7f8509ba038b6488072dcb1aafb6e474b07f1562
-SHA256: 38ea0e60538af95b89de48fa0893177d2fb35c87c351ede7653b9b9167a3cd57
+MD5sum: 2d0c15d6f21d8ee89548c1751a7e2c12
+SHA1: d37423da779ea23893fb97204059104166204613
+SHA256: db48f91d3b80fd16c31375771570ea8eff7e4d16eb7744f19729f0b4d6256361
 Section: Utilities
 Description: A command line system information tool
 
@@ -1463,9 +1463,9 @@ Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base, iphoneports-dash, iphoneports-coreutils, iphoneports-sysctl, iphoneports-hostname, iphoneports-getusedmem
 Filename: ./debs/pfetch.deb
 Size: 22938
-MD5sum: 42bf844895095268172594e2100bffdf
-SHA1: e74f693b0de81a770a8f7c8f14591ba84d4844a5
-SHA256: 25d6a788773d1b2d8c5d8b8fb94bbbe5b40c6fac787cd109e55d41ab8b0f80bb
+MD5sum: 3aaf35941dc20de7c410ca2b3f100d94
+SHA1: 4d62b0c3e67bea66e8c498e1fecc166487a51a36
+SHA256: 7cf9af8b37821a55384d85da946c7202b81c3a4cb7681474588ed5e5206f00ef
 Section: Utilities
 Description: A pretty system information tool written in POSIX sh
 
