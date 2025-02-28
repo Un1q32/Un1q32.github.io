@@ -13,14 +13,14 @@ Name: iFile/MTerminal icon fix
 
 Package: iphoneports-2048
 Version: 1.0.3
-Architecture: iphoneos-arm
+Architecture: darwin-amd64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Depends: iphoneports-base
 Filename: ./debs/2048.deb
-Size: 6112
-MD5sum: 74d4b21f29e6cfec9d4561cee5be5a48
-SHA1: d2ade06ccc4e7c03b5229126579440720b304be3
-SHA256: afbee750c67d229d2def2b96f40f96c379960d7bc7280e43fdba5772790f354d
+Size: 6252
+MD5sum: eeb392445f595fa1f57237482ea7313d
+SHA1: f74c198f114012b667f146ee3e091542b8cd25d8
+SHA256: 1030a36d23167485d5c3cfce5ed50d047fe5072921106d9112f84898498be4d9
 Section: Games
 Description: 2048 in your terminal
 
